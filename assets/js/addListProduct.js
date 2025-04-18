@@ -9,7 +9,7 @@ general.onload = () => {
     if($(this).prev("div.product--label-container").find("div.product--label").length>0) return null;
     
     return {
-      url: baseURL + $(this).attr("href"),
+      url: baseURLTR + $(this).attr("href"),
       name: $(this).attr("aria-label") || $(this).find(".product_name").text().trim() || "未命名"
     };
   }).get();
@@ -37,7 +37,7 @@ general.onload = () => {
 
 // 加入購物車
 async function addToCart(product) {
-  const url = baseURL+"/cart/add.js";
+  const url = baseURLTR+"/cart/add.js";
   const headers = {
     "accept": "application/javascript",
     "content-type": "application/json"

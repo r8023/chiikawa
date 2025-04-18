@@ -22,5 +22,5 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt  # 安裝所有依賴（如果有 requirements.txt）
 
-      - name: Run test.py
-        run: python test.py  # 執行你的 test.py 腳本
+      - name: Run chiikawa.py
+        run: python chiikawa.py  # 執行你的 chiikawa.py 腳本

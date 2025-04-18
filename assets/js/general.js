@@ -1,4 +1,4 @@
-const baseURL = location.origin;
+const baseURLTR = location.origin;
 
 // 現在官網沒有jQuery，自己import
 if (typeof jQuery === 'undefined') {

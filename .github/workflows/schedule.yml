@@ -23,4 +23,4 @@ jobs:
           pip install -r requirements.txt  # 安裝所有依賴（如果有 requirements.txt）
 
       - name: Run chiikawa.py
-        run: python chiikawa.py  # 執行你的 chiikawa.py 腳本
+        run: python python/chiikawa.py  # 執行你的 chiikawa.py 腳本

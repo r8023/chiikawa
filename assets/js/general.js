@@ -1,13 +1,5 @@
 const baseURLTR = location.origin;
 
-// 現在官網沒有jQuery，自己import
-if (typeof jQuery === 'undefined') {
-  const script = document.createElement('script');
-  script.src = "https://code.jquery.com/jquery-3.6.0.min.js";
-  script.onload = start;
-  document.head.appendChild(script);
-}
-
 // Toast 訊息處理
 function showToast(message, type) {
   const toast = document.createElement("small");

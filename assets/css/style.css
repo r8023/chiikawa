@@ -5,7 +5,7 @@
   height: 100vh;            /* 設置容器高度為視窗高度 */
 }
 
-img {
+.img-container img {
   max-width: 100%;  /* 避免圖片超出容器 */
   height: auto;     /* 保持圖片的原始比例 */
 }

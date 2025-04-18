@@ -1,4 +1,4 @@
-name: Run test.py every minute
+name: Run chiikawa.py every minute
 
 on:
   schedule:

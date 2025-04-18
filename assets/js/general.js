@@ -6,8 +6,6 @@ if (typeof jQuery === 'undefined') {
   script.src = "https://code.jquery.com/jquery-3.6.0.min.js";
   script.onload = start;
   document.head.appendChild(script);
-} else {
-  start();
 }
 
 // Toast 訊息處理

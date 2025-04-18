@@ -1,5 +1,5 @@
 // 1. 現在官網沒有jQuery，自己import
-const baseURL = "https://chiikawamarket.jp";
+const baseURL = location.origin;
 
 if (typeof jQuery === 'undefined') {
   const script = document.createElement('script');

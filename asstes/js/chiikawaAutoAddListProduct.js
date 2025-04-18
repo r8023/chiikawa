@@ -12,6 +12,9 @@ async function start() {
   const baseUrl = "https://chiikawamarket.jp";
 
   const links = $(".product--root a").map(function () {
+    //売り切れ
+    if($(this).find("div.product--label-container").length>0) return;
+    
     return {
       url: baseUrl + $(this).attr("href"),
       name: $(this).attr("aria-label") || $(this).find(".product_name").text().trim() || "未命名"

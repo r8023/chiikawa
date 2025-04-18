@@ -1,4 +1,6 @@
 // 1. 現在官網沒有jQuery，自己import
+const baseURL = "https://chiikawamarket.jp";
+
 if (typeof jQuery === 'undefined') {
   const script = document.createElement('script');
   script.src = "https://code.jquery.com/jquery-3.6.0.min.js";
@@ -9,14 +11,12 @@ if (typeof jQuery === 'undefined') {
 }
 
 async function start() {
-  const baseUrl = "https://chiikawamarket.jp";
-
   const links = $(".product--root a").map(function () {
     //売り切れ
     if($(this).prev("div.product--label-container").find("div.product--label").length>0) return null;
     
     return {
-      url: baseUrl + $(this).attr("href"),
+      url: baseURL + $(this).attr("href"),
       name: $(this).attr("aria-label") || $(this).find(".product_name").text().trim() || "未命名"
     };
   }).get();
@@ -44,7 +44,7 @@ async function start() {
 
 // 2. 加入購物車
 async function addToCart(product) {
-  const url = "https://chiikawamarket.jp/cart/add.js";
+  const url = baseURL+"/cart/add.js";
   const headers = {
     "accept": "application/javascript",
     "content-type": "application/json"

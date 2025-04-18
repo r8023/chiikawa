@@ -1,16 +1,9 @@
-// 1. 現在官網沒有jQuery，自己import
-const baseURL = location.origin;
-
-if (typeof jQuery === 'undefined') {
-  const script = document.createElement('script');
-  script.src = "https://code.jquery.com/jquery-3.6.0.min.js";
-  script.onload = start;
-  document.head.appendChild(script);
-} else {
+const general = document.createElement("script");
+general.src = "https://r8023.github.io/chiikawa/assets/js/general.js";
+general.onload = () => {
   start();
-}
-
-async function start() {
+  
+  async function start() {
   const links = $(".product--root a").map(function () {
     //売り切れ
     if($(this).prev("div.product--label-container").find("div.product--label").length>0) return null;
@@ -42,7 +35,7 @@ async function start() {
   }
 }
 
-// 2. 加入購物車
+// 加入購物車
 async function addToCart(product) {
   const url = baseURL+"/cart/add.js";
   const headers = {
@@ -68,26 +61,5 @@ async function addToCart(product) {
     showToast(`${product.name} <br>請求錯誤: ${error.message}`, "error");
   }
 }
-
-// 3. Toast 訊息處理
-function showToast(message, type) {
-  const toast = document.createElement("small");
-  toast.style.cssText = `width:300px;background:#000;color:#fff;padding:5px;border-radius:8px;opacity:0.9;`;
-  let icon = "";
-  if (type == "success") icon += "✅";
-  else if (type == "warning") icon += "⚠️";
-  else if (type == "error") icon += "❌";
-  toast.innerHTML = icon + " " + message;
-
-  const container = document.getElementById("toast-container") || createToastContainer();
-  container.appendChild(toast);
-  setTimeout(() => { toast.style.display = "none"; toast.remove(); }, 3000);
-}
-
-function createToastContainer() {
-  const container = document.createElement("div");
-  container.id = "toast-container";
-  container.style.cssText = "position:fixed;top:20px;right:20px;z-index:9999;display:flex;flex-direction:column;gap:10px;";
-  document.body.appendChild(container);
-  return container;
-}
+};
+document.head.appendChild(general);

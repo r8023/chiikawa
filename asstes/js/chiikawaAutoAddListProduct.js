@@ -13,7 +13,8 @@ async function start() {
 
   const links = $(".product--root a").map(function () {
     //売り切れ
-    if($(this).find("div.product--label-container").length>0) return;
+    console.log($(this).prev("div.product--label-container").find("div.product--label").length)
+    if($(this).prev("div.product--label-container").find("div.product--label").length>0) return null;
     
     return {
       url: baseUrl + $(this).attr("href"),

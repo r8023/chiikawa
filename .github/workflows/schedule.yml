@@ -3,7 +3,7 @@ name: Run chiikawa.py every minute
 on:
   schedule:
     - cron: '* * * * *'  # 每分鐘一次
-  workflow_dispatch:      # 手動觸發用來 debug
+  workflow_dispatch:     # 手動觸發用來 debug
 
 jobs:
   run-python-script:

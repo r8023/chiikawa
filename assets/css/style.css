@@ -2,7 +2,6 @@
   display: flex;
   justify-content: center;  /* 水平居中 */
   align-items: center;      /* 垂直居中 */
-  height: 100vh;            /* 設置容器高度為視窗高度 */
 }
 
 .img-container img {

@@ -1,0 +1,26 @@
+name: Run test.py every minute
+
+on:
+  schedule:
+    - cron: '* * * * *'  # 每分鐘執行一次
+
+jobs:
+  run-python-script:
+    runs-on: ubuntu-latest  # 選擇運行環境，這裡選擇 Ubuntu
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2  # 檢出代碼
+
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.9'  # 設定 Python 版本
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt  # 安裝所有依賴（如果有 requirements.txt）
+
+      - name: Run test.py
+        run: python test.py  # 執行你的 test.py 腳本

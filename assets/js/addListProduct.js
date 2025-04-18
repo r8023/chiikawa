@@ -1,7 +1,13 @@
 const general = document.createElement("script");
 general.src = "https://r8023.github.io/chiikawa/assets/js/general.js";
 general.onload = () => {
-  start();
+  // 現在官網沒有jQuery，自己import
+  if (typeof jQuery === 'undefined') {
+    const script = document.createElement('script');
+    script.src = "https://code.jquery.com/jquery-3.6.0.min.js";
+    script.onload = start;
+    document.head.appendChild(script);
+  }else start();
   
   async function start() {
   const links = $(".product--root a").map(function () {

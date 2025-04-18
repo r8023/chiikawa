@@ -14,7 +14,7 @@ async function start() {
   const links = $(".product--root a").map(function () {
     return {
       url: baseUrl + $(this).attr("href"),
-      name: $(this).attr("aria-label") || $(this).find(".product_name").text().trim() || "無名商品"
+      name: $(this).attr("aria-label") || $(this).find(".product_name").text().trim() || "未命名"
     };
   }).get();
 

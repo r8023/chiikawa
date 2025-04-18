@@ -3,8 +3,16 @@
   justify-content: center;  /* 水平居中 */
   align-items: center;      /* 垂直居中 */
 }
-
 .img-container img {
   max-width: 100%;  /* 避免圖片超出容器 */
   height: auto;     /* 保持圖片的原始比例 */
+}
+.text-left{
+  text-align: left;
+}
+.text-center{
+  text-align: center;
+}
+.text-right{
+  text-align: right;
 }

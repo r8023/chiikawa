@@ -11,7 +11,7 @@ jobs:
 
     steps:
       - name: schedule time
-        uses: date
+        run: date
         
       - name: Checkout code
         uses: actions/checkout@v2

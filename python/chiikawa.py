@@ -1,7 +1,7 @@
 import requests
 
 # 你的 Discord Webhook URL
-DISCORD_WEBHOOK_URL = "https://discordapp.com/api/webhooks/1362859013921837188/8fh5OF3N9XdfXrY3rlQruL83htEUa1Z3fDPMRVdH2STASP-XisUZD59pvLAp5IfKlmuN"
+DISCORD_WEBHOOK_URL = "https://discordapp.com/api/webhooks/1363070762843504720/Ade-xxTpUZshFRD9bqqJDOkKerb7kd1lu5FhwgKJ0caD-6xfhYWZvoWiPbmsdeRoWhBt"
 
 # 發送訊息的函數
 def send_message_to_discord(message):

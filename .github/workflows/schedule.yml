@@ -2,7 +2,7 @@ name: 吉伊卡哇排程
 
 on:
   schedule:
-     - cron: '0 * * * *'  # 每小時的第 0 分鐘執行一次
+     - cron: '*/5 * * * *'  # 每小時的第 0 分鐘執行一次
   workflow_dispatch:   # 手動觸發用來 debug
 
 jobs:

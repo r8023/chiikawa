@@ -1,4 +1,5 @@
 name: 吉伊卡哇偵測排程
+run: date
 
 on:
   schedule:

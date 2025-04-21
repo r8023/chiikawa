@@ -113,7 +113,7 @@ def send_discord_embeds(items, action_title):
     embeds = []
 
     for index, item in enumerate(items):
-        title = f"{index+1}. {item["title"][:256]}"  # Discord embed title 最長 256 字
+        title = f"{index+1}. {item['title'][:256]}"  # Discord embed title 最長 256 字
         description = f"💰 價格：¥{item['price']}\n\n🤍 ID：{', '.join(map(str, item['variant_ids']))}"
         if len(description) > 2048:  # embed description 最長 2048 字
             description = description[:2045] + "..."

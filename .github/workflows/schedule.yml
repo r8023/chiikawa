@@ -46,3 +46,4 @@ jobs:
             fi
           else
             echo "⚠️ 找不到 chiikawa/data/products.json，跳過 commit"
+          fi

@@ -11,6 +11,20 @@ OUTPUT_FILE = os.path.join(DATA_DIR, "products.json")
 
 DISCORD_WEBHOOK_URL = "https://discordapp.com/api/webhooks/1363070762843504720/Ade-xxTpUZshFRD9bqqJDOkKerb7kd1lu5FhwgKJ0caD-6xfhYWZvoWiPbmsdeRoWhBt"
 
+
+def load_previous_products():
+    if os.path.exists(OUTPUT_FILE):
+        try:
+            with open(OUTPUT_FILE, "r", encoding="utf-8") as f:
+                content = f.read().strip()
+                if not content:
+                    return []
+                return json.loads(content)
+        except Exception as e:
+            print(f"⚠️ 載入歷史檔案失敗：{e}")
+            return []
+    return []
+
 def get_all_products():
     all_products = []
     page = 1

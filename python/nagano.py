@@ -22,10 +22,12 @@ def load_previous_products():
             with open(OUTPUT_FILE, "r", encoding="utf-8") as f:
                 content = f.read().strip()
                 if not content:
+                    print("⚠️ 歷史檔案為空")
                     return []
                 return json.loads(content)
         except Exception as e:
             print(f"⚠️ 載入歷史檔案失敗：{e}")
+            print(f"⚠️ 檔案內容：{content[:100]}...")  # 最多印 100 字元防止太長
             return []
     return []
 

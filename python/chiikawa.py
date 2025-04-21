@@ -144,14 +144,24 @@ def send_discord_embeds(items, action_title):
             "embeds": embeds[i:i + 10]
         }
 
-        try:
-            res = requests.post(DISCORD_WEBHOOK_URL, json=payload)
-            if res.status_code not in [200, 204]:
-                print(f"❗️ 發送 Discord Embed 失敗：{res.status_code} {res.text}")
-            time.sleep(0.5)  # 延遲 0.5 秒
-        except Exception as e:
-            pprint.pprint(payload)
-            print(f"❗️ Discord 發送錯誤：{e}")
+        while True:
+            try:
+                res = requests.post(DISCORD_WEBHOOK_URL, json=payload)
+                if res.status_code in [200, 204]:
+                    break  # 發送成功，跳出 retry 迴圈
+                elif res.status_code == 429:
+                    retry_after = res.json().get("retry_after", 1)
+                    print(f"⏳ 被限流，等待 {retry_after:.2f} 秒後重試")
+                    time.sleep(retry_after)
+                else:
+                    print(f"❗️ 發送 Discord Embed 失敗：{res.status_code} {res.text}")
+                    break
+            except Exception as e:
+                pprint.pprint(payload)
+                print(f"❗️ Discord 發送錯誤：{e}")
+                break
+
+        time.sleep(0.5)
 
 if __name__ == "__main__":
     main()

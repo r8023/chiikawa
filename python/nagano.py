@@ -14,7 +14,7 @@ headers = {
     "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"
 }
 
-DISCORD_WEBHOOK_URL = "https://discord.com/api/webhooks/1363910496348143666/Gzy32rFsnGew9M_LHhhdUmyHgr9zBU4u_TA0c_5UQDvYEUCWCj6MXSsHYTZlNMXBwDAM"
+DISCORD_WEBHOOK_URL = ""  # 暫時停用發送
 
 def load_previous_products():
     if os.path.exists(OUTPUT_FILE):
@@ -27,7 +27,7 @@ def load_previous_products():
                 return json.loads(content)
         except Exception as e:
             print(f"⚠️ 載入歷史檔案失敗：{e}")
-            print(f"⚠️ 檔案內容：{content[:100]}...")  # 最多印 100 字元防止太長
+            print(f"⚠️ 檔案內容：{content[:100]}...")
             return []
     return []
 
@@ -67,6 +67,7 @@ def get_all_products():
 
 def save_products(products):
     os.makedirs(DATA_DIR, exist_ok=True)
+    print(f"✅ 即將寫入 {len(products)} 筆資料到 {OUTPUT_FILE}")
     with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
         json.dump(products, f, ensure_ascii=False, indent=2)
 
@@ -90,14 +91,14 @@ def main():
     print(f"✨ 新增商品：{len(new_items)}")
     print(f"🔻 下架商品：{len(removed_items)}")
 
-    if new_items or removed_items:
-        if new_items:
-            send_discord_embeds(new_items, f"\n✨ 新增商品（{len(new_items)} 件）")
-
-        if removed_items:
-            send_discord_embeds(removed_items, f"\n🔻 下架商品（{len(removed_items)} 件）")
-    else:
-        requests.post(DISCORD_WEBHOOK_URL, json={"content": "📦 ナガノ 商品更新通知\n✨ 新增商品：0\n🔻 下架商品：0"})
+    # 暫時不發送 Discord 訊息
+    # if new_items or removed_items:
+    #     if new_items:
+    #         send_discord_embeds(new_items, f"\n✨ 新增商品（{len(new_items)} 件）")
+    #     if removed_items:
+    #         send_discord_embeds(removed_items, f"\n🔻 下架商品（{len(removed_items)} 件）")
+    # else:
+    #     requests.post(DISCORD_WEBHOOK_URL, json={"content": "📦 ナガノ 商品更新通知\n✨ 新增商品：0\n🔻 下架商品：0"})
 
     save_products(new_products)
 
@@ -109,16 +110,16 @@ def send_discord_embeds(items, action_title):
     embeds = []
 
     for index, item in enumerate(items):
-        title = f"{index+1}. {item['title'][:256]}"  # Discord embed title 最長 256 字
+        title = f"{index+1}. {item['title'][:256]}"
         description = f"💰 價格：¥{item['price']}\n\n🤍 ID：{', '.join(map(str, item['variant_ids']))}"
-        if len(description) > 2048:  # embed description 最長 2048 字
+        if len(description) > 2048:
             description = description[:2045] + "..."
 
         embed = {
             "title": title,
             "url": item["url"],
             "description": description,
-            "color": 16777168  # 米白色
+            "color": 16777168
         }
 
         if item.get("image") and isinstance(item["image"], dict) and "src" in item["image"]:
@@ -126,7 +127,6 @@ def send_discord_embeds(items, action_title):
 
         embeds.append(embed)
 
-    # 每次最多 10 個 embeds，分批處理
     for i in range(0, len(embeds), 10):
         payload = {
             "content": f"📦 ナガノ 商品更新通知 {action_title}",
@@ -134,10 +134,10 @@ def send_discord_embeds(items, action_title):
         }
 
         try:
-            res = requests.post(DISCORD_WEBHOOK_URL, json=payload)
-            if res.status_code not in [200, 204]:
-                print(f"❗️ 發送 Discord Embed 失敗：{res.status_code} {res.text}")
-            time.sleep(0.5)  # 延遲 0.5 秒
+            # res = requests.post(DISCORD_WEBHOOK_URL, json=payload)
+            # if res.status_code not in [200, 204]:
+            #     print(f"❗️ 發送 Discord Embed 失敗：{res.status_code} {res.text}")
+            time.sleep(0.5)
         except Exception as e:
             pprint.pprint(payload)
             print(f"❗️ Discord 發送錯誤：{e}")

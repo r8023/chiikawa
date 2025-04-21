@@ -97,7 +97,7 @@ def main():
         if removed_items:
             send_discord_embeds(removed_items, f"\n🔻 下架商品（{len(removed_items)} 件）")
     else:
-        requests.post(DISCORD_WEBHOOK_URL, json={"content": "📦 ナガノ 商品更新通知\n✨ 新增商品：0\n🔻 下架商品：0"})
+        requests.post(DISCORD_WEBHOOK_URL, json={"content": "✨ 新增商品：0\n🔻 下架商品：0"})
 
     save_products(new_products)
 
@@ -129,7 +129,7 @@ def send_discord_embeds(items, action_title):
     # 每次最多 10 個 embeds，分批處理
     for i in range(0, len(embeds), 10):
         payload = {
-            "content": f"📦 ナガノ 商品更新通知 {action_title}",
+            "content": f"{action_title}",
             "embeds": embeds[i:i + 10]
         }
 

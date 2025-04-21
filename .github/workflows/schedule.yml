@@ -31,24 +31,25 @@ jobs:
       - name: Run chiikawa.py
         run: python python/chiikawa.py
 
-      - name: Commit changes if products.json exists or needs to be created
+      - name: Push changes
+        env:
+          GH_PAT: ${{ secrets.GH_PAT }}
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-      
+
           if [ ! -d "chiikawa/data" ]; then
             echo "資料夾 chiikawa/data 不存在，正在建立..."
             mkdir -p chiikawa/data
           fi
-      
-          # 確保 products.json 存在
+
           touch chiikawa/data/products.json
-      
+
           git add chiikawa/data/products.json
-      
           if git diff --cached --quiet; then
             echo "〰️ 沒變化，不需要 commit"
           else
             git commit -m "✅ 新增或更新 products.json"
-            git push
+            git remote set-url origin https://x-access-token:${GH_PAT}@github.com/${{ github.repository }}
+            git push origin HEAD:${{ github.ref_name }}
           fi

@@ -38,4 +38,5 @@ jobs:
           else
             git add chiikawa/data/products.json
             git commit -m "🤖 更新 products.json"
-            git push
+            git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }} HEAD:main
+          fi

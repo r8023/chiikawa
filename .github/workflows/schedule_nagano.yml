@@ -1,0 +1,59 @@
+name: 排程｜ナガノ
+
+on:
+  schedule:
+    - cron: '0 0,4,8,12,16 * * *'  # UTC 0/4/8/12/16 = 台灣時間 8/12/16/20/00
+  workflow_dispatch:  # 手動觸發（debug 用）
+  
+permissions:
+  contents: write
+
+jobs:
+  run-python-script:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Show schedule time
+        run: date
+
+      - name: Checkout code
+        uses: actions/checkout@v2
+
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.9'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests
+
+      - name: Run nagano.py
+        run: python python/nagano.py
+
+      - name: Commit changes if products_nagano.json changed or missing
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+      
+          if [ ! -d data ]; then
+            echo "📁 資料夾 data 不存在，正在建立..."
+            mkdir -p data
+          fi
+      
+          if [ ! -f data/products_nagano.json ]; then
+            echo "🆕 檔案 data/products_nagano.json 不存在，建立空檔案..."
+            touch data/products_nagano.json
+            git add data/products_nagano.json
+            git commit -m "✅ 新增空的 products_nagano.json"
+          elif ! git diff --quiet -- data/products_nagano.json; then
+            echo "📁 檔案有變更，準備 commit"
+            git add data/products_nagano.json
+            git commit -m "✅ 更新 products_nagano.json"
+          else
+            echo "〰️ 沒變化，不需要 commit"
+          fi
+      
+          git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}
+          git push

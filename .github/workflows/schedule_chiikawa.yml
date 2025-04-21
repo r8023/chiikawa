@@ -32,7 +32,7 @@ jobs:
       - name: Run chiikawa.py
         run: python python/chiikawa.py
 
-      - name: Commit changes if products.json changed or missing
+      - name: Commit changes if products_chiikawa.json changed or missing
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"

@@ -54,6 +54,7 @@ jobs:
           else
             echo "〰️ 沒變化，不需要 commit"
           fi
-      
+          
+          git pull --rebas
           git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}
           git push

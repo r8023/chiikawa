@@ -65,12 +65,6 @@ def get_all_products():
 
     return all_products
 
-def load_previous_products():
-    if os.path.exists(OUTPUT_FILE):
-        with open(OUTPUT_FILE, "r", encoding="utf-8") as f:
-            return json.load(f)
-    return []
-
 def save_products(products):
     os.makedirs(DATA_DIR, exist_ok=True)
     with open(OUTPUT_FILE, "w", encoding="utf-8") as f:

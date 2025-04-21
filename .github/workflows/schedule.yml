@@ -42,15 +42,15 @@ jobs:
             mkdir -p data
           fi
       
-          if [ ! -f data/products.json ]; then
-            echo "🆕 檔案 data/products.json 不存在，建立空檔案..."
-            touch data/products.json
-            git add data/products.json
-            git commit -m "✅ 新增空的 products.json"
-          elif ! git diff --quiet -- data/products.json; then
+          if [ ! -f data/products_chiikawa.json ]; then
+            echo "🆕 檔案 data/products_chiikawa.json 不存在，建立空檔案..."
+            touch data/products_chiikawa.json
+            git add data/products_chiikawa.json
+            git commit -m "✅ 新增空的 products_chiikawa.json"
+          elif ! git diff --quiet -- data/products_chiikawa.json; then
             echo "📁 檔案有變更，準備 commit"
-            git add data/products.json
-            git commit -m "✅ 更新 products.json"
+            git add data/products_chiikawa.json
+            git commit -m "✅ 更新 products_chiikawa.json"
           else
             echo "〰️ 沒變化，不需要 commit"
           fi

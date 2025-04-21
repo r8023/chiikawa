@@ -38,6 +38,7 @@ def get_all_products():
     while True:
         url = f"{PRODUCTS_URL}?page={page}"
         print(f"抓取第 {page} 頁：{url}")
+        
         try:
             res = requests.get(url, headers=headers)
         except Exception as e:

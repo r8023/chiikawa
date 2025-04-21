@@ -2,19 +2,21 @@ name: 吉伊卡哇排程
 
 on:
   schedule:
-     - cron: '0 0-16 * * *'  # UTC 時間：0~15點 => 台灣時間：8:00~00:00
-  workflow_dispatch:   # 手動觸發用來 debug
+    - cron: '0 0-16 * * *'  # UTC 時間：0~16點 => 台灣時間：8:00~00:00
+  workflow_dispatch:  # 手動觸發用來 debug
 
 jobs:
   run-python-script:
     runs-on: ubuntu-latest
 
     steps:
-      - name: schedule time
+      - name: Check schedule time
         run: date
-        
+
       - name: Checkout code
         uses: actions/checkout@v2
+        with:
+          fetch-depth: 0  # 🛠️ 這個讓 Git 知道完整歷史，才能 diff
 
       - name: Set up Python
         uses: actions/setup-python@v2
@@ -33,10 +35,14 @@ jobs:
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          if git diff --quiet chiikawa/data/products.json; then
-            echo "✅ 沒變化，不需要 commit"
+
+          if [ -f chiikawa/data/products.json ]; then
+            if git diff --quiet -- chiikawa/data/products.json; then
+              echo "〰️ 沒變化，不需要 commit"
+            else
+              git add chiikawa/data/products.json
+              git commit -m "✅ 更新 products.json"
+              git push
+            fi
           else
-            git add chiikawa/data/products.json
-            git commit -m "🤖 更新 products.json"
-            git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }} HEAD:main
-          fi
+            echo "⚠️ 找不到 chiikawa/data/products.json，跳過 commit"

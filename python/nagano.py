@@ -38,10 +38,16 @@ def get_all_products():
     while True:
         url = f"{PRODUCTS_URL}?page={page}"
         print(f"抓取第 {page} 頁：{url}")
-        res = requests.get(url, headers=headers)
+        
+        try:
+            res = requests.get(url, headers=headers)
+        except Exception as e:
+            print(f"⚠️ 發送請求失敗：{e}")
+            return None
+
         if res.status_code != 200:
             print(f"⚠️ 第 {page} 頁請求失敗，狀態碼 {res.status_code}")
-            break
+            return None
 
         data = res.json()
         products = data.get("products", [])

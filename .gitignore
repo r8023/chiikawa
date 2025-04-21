@@ -1,1 +1,4 @@
-data/products.json
+# 忽略 data 目錄下所有檔案
+data/*
+# 但保留 products.json
+!data/products.json

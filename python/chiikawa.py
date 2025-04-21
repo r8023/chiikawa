@@ -2,6 +2,7 @@ import requests
 import json
 import time
 import os
+import pprint
 
 BASE_URL = "https://chiikawamarket.jp"
 PRODUCTS_URL = f"{BASE_URL}/collections/all/products.json"
@@ -9,8 +10,11 @@ SLEEP_SEC = 0.5
 DATA_DIR = "data"
 OUTPUT_FILE = os.path.join(DATA_DIR, "products.json")
 
-DISCORD_WEBHOOK_URL = "https://discordapp.com/api/webhooks/1363070762843504720/Ade-xxTpUZshFRD9bqqJDOkKerb7kd1lu5FhwgKJ0caD-6xfhYWZvoWiPbmsdeRoWhBt"
+headers = {
+    "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"
+}
 
+DISCORD_WEBHOOK_URL = "https://discordapp.com/api/webhooks/1363070762843504720/Ade-xxTpUZshFRD9bqqJDOkKerb7kd1lu5FhwgKJ0caD-6xfhYWZvoWiPbmsdeRoWhBt"
 
 def load_previous_products():
     if os.path.exists(OUTPUT_FILE):
@@ -32,7 +36,7 @@ def get_all_products():
     while True:
         url = f"{PRODUCTS_URL}?page={page}"
         print(f"抓取第 {page} 頁：{url}")
-        res = requests.get(url)
+        res = requests.get(url, headers=headers)
         if res.status_code != 200:
             print(f"⚠️ 第 {page} 頁請求失敗，狀態碼 {res.status_code}")
             break
@@ -40,7 +44,7 @@ def get_all_products():
         data = res.json()
         products = data.get("products", [])
         if not products:
-            print("🛑 沒有更多商品，提早結束")
+            print("🛑 沒有更多商品，結束")
             break
 
         for p in products:
@@ -79,17 +83,6 @@ def find_diff_products(old, new):
 
     return new_items, removed_items
 
-def send_discord_message(content):
-    if not DISCORD_WEBHOOK_URL:
-        print("❗️ 沒有設定 Webhook URL，跳過發送")
-        return
-    try:
-        res = requests.post(DISCORD_WEBHOOK_URL, json={"content": content})
-        if res.status_code != 204:
-            print(f"❗️ 發送 Discord 失敗：{res.status_code} {res.text}")
-    except Exception as e:
-        print(f"❗️ Discord 發送錯誤：{e}")
-
 def main():
     print("🚀 開始抓取所有商品...")
     new_products = get_all_products()
@@ -102,27 +95,56 @@ def main():
     print(f"🔻 下架商品：{len(removed_items)}")
 
     if new_items or removed_items:
-        message_lines = ["📦 Chiikawa 商品更新通知"]
-
         if new_items:
-            message_lines.append(f"\n✨ 新增商品（{len(new_items)} 件）：")
-            for item in new_items:
-                message_lines.append(f"- {item['title']} | ¥{item['price']}")
-                message_lines.append(f"  🔗 {item['url']}")
-                message_lines.append(f"  🤍 Variants: {item['variant_ids']}")
+            send_discord_embeds(new_items, f"\n✨ 新增商品（{len(new_items)} 件）")
 
         if removed_items:
-            message_lines.append(f"\n🔻 下架商品（{len(removed_items)} 件）：")
-            for item in removed_items:
-                message_lines.append(f"- {item['title']} | ¥{item['price']}")
-                message_lines.append(f"  🔗 {item['url']}")
-                message_lines.append(f"  🤍 Variants: {item['variant_ids']}")
-
-        send_discord_message("\n".join(message_lines))
+            send_discord_embeds(removed_items, f"\n🔻 下架商品（{len(removed_items)} 件）")
     else:
-        send_discord_message("📦 Chiikawa 商品更新通知\n✨ 新增商品：0\n🔻 下架商品：0")
+        requests.post(DISCORD_WEBHOOK_URL, json={"content": "📦 Chiikawa 商品更新通知：\n✨ 新增商品：0\n🔻 下架商品：0"})
 
     save_products(new_products)
+
+def send_discord_embeds(items, action_title):
+    if not DISCORD_WEBHOOK_URL:
+        print("❗️ 沒有設定 Webhook URL，跳過發送")
+        return
+
+    embeds = []
+
+    for index, item in enumerate(items):
+        title = f"{index+1}. {item["title"][:256]}"  # Discord embed title 最長 256 字
+        description = f"💰 價格：¥{item['price']}\n\n🤍 ID：{', '.join(map(str, item['variant_ids']))}"
+        if len(description) > 2048:  # embed description 最長 2048 字
+            description = description[:2045] + "..."
+
+        embed = {
+            "title": title,
+            "url": item["url"],
+            "description": description,
+            "color": 16777168  # 米白色
+        }
+
+        if item.get("image") and isinstance(item["image"], dict) and "src" in item["image"]:
+            embed["thumbnail"] = {"url": item["image"]["src"]}
+
+        embeds.append(embed)
+
+    # 每次最多 10 個 embeds，分批處理
+    for i in range(0, len(embeds), 10):
+        payload = {
+            "content": f"📦 Chiikawa 商品更新通知 {action_title}",
+            "embeds": embeds[i:i + 10]
+        }
+
+        try:
+            res = requests.post(DISCORD_WEBHOOK_URL, json=payload)
+            if res.status_code not in [200, 204]:
+                print(f"❗️ 發送 Discord Embed 失敗：{res.status_code} {res.text}")
+            time.sleep(0.5)  # 延遲 0.5 秒
+        except Exception as e:
+            pprint.pprint(payload)
+            print(f"❗️ Discord 發送錯誤：{e}")
 
 if __name__ == "__main__":
     main()

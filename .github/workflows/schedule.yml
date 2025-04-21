@@ -28,3 +28,14 @@ jobs:
 
       - name: Run chiikawa.py
         run: python python/chiikawa.py
+
+      - name: Commit changes if products.json changed
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          if git diff --quiet chiikawa/data/products.json; then
+            echo "✅ 沒變化，不需要 commit"
+          else
+            git add chiikawa/data/products.json
+            git commit -m "🤖 更新 products.json"
+            git push

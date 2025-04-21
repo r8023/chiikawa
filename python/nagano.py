@@ -8,7 +8,7 @@ BASE_URL = "https://nagano-market.jp"
 PRODUCTS_URL = f"{BASE_URL}/collections/all/products.json"
 SLEEP_SEC = 0.5
 DATA_DIR = "data"
-OUTPUT_FILE = os.path.join(DATA_DIR, "products_chiikawa.json")
+OUTPUT_FILE = os.path.join(DATA_DIR, "products_nagano.json")
 
 headers = {
     "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"

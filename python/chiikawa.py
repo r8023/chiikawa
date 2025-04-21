@@ -88,6 +88,11 @@ def find_diff_products(old, new):
 def main():
     print("🚀 開始抓取所有商品...")
     new_products = get_all_products()
+    
+    if new_products is None:
+        print("❌ 商品資料抓取失敗，中止比對")
+        return
+    
     print(f"📦 共抓到 {len(new_products)} 件商品")
 
     old_products = load_previous_products()

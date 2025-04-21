@@ -4,6 +4,9 @@ on:
   schedule:
     - cron: '0 0-16 * * *'  # UTC 0~16點 = 台灣時間 8:00~00:00，每小時一次
   workflow_dispatch:  # 手動觸發（debug 用）
+  
+permissions:
+  contents: write
 
 jobs:
   run-python-script:

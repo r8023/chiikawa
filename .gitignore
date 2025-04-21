@@ -1,4 +1,7 @@
-# 忽略 data 目錄下所有檔案
+# 忽略 data 資料夾下所有檔案
 data/*
-# 但保留 products.json
-!data/products.json
+
+# 但保留特定檔案
+!data/
+!data/products_chiikawa.json
+!data/products_nagano.json

@@ -2,7 +2,7 @@ name: 吉伊卡哇排程
 
 on:
   schedule:
-     - cron: '0 0-15 * * *'  # UTC 時間：0~15點 => 台灣時間：8:00~23:00
+     - cron: '0 0-16 * * *'  # UTC 時間：0~15點 => 台灣時間：8:00~00:00
   workflow_dispatch:   # 手動觸發用來 debug
 
 jobs:

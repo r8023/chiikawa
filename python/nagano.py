@@ -103,10 +103,10 @@ def main():
 
     if new_items or removed_items:
         if new_items:
-            send_discord_embeds(new_items, f"\n✨ 新增商品（{len(new_items)} 件）")
+            send_discord_embeds(new_items, f"\n✨ 新增商品：{len(new_items)}")
 
         if removed_items:
-            send_discord_embeds(removed_items, f"\n🔻 下架商品（{len(removed_items)} 件）")
+            send_discord_embeds(removed_items, f"\n🔻 下架商品：{len(removed_items)}")
     else:
         requests.post(DISCORD_WEBHOOK_URL, json={"content": "✨ 新增商品：0\n🔻 下架商品：0"})
 

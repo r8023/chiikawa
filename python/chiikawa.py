@@ -62,7 +62,8 @@ def get_all_products():
                 "price": p["variants"][0]["price"],
                 "url": f"{BASE_URL}/products/{p['handle']}",
                 "image": p["images"][0] if p["images"] else None,
-                "variant_ids": [v["id"] for v in p["variants"]]
+                "variant_ids": [v["id"] for v in p["variants"]],
+                "available": p["variants"][0]["available"]
             }
             all_products.append(product)
 
@@ -83,7 +84,14 @@ def find_diff_products(old, new):
     new_items = [p for id_, p in new_map.items() if id_ not in old_map]
     removed_items = [p for id_, p in old_map.items() if id_ not in new_map]
 
-    return new_items, removed_items
+    # ✅ 補貨商品 = 原本有，現在還在，但 available 從 false -> true
+    restocked_items = []
+    for id_, new_p in new_map.items():
+        old_p = old_map.get(id_)
+        if old_p and old_p.get("available") == False and new_p.get("available") == True:
+            restocked_items.append(new_p)
+
+    return new_items, removed_items, restocked_items
 
 def main():
     print("🚀 開始抓取所有商品...")
@@ -96,10 +104,11 @@ def main():
     print(f"📦 共抓到 {len(new_products)} 件商品")
 
     old_products = load_previous_products()
-    new_items, removed_items = find_diff_products(old_products, new_products)
+    new_items, removed_items, restocked_items = find_diff_products(old_products, new_products)
 
     print(f"✨ 新增商品：{len(new_items)}")
     print(f"🔻 下架商品：{len(removed_items)}")
+    print(f"🧃 補貨商品：{len(restocked_items)}")
 
     if new_items or removed_items:
         if new_items:
@@ -107,8 +116,11 @@ def main():
 
         if removed_items:
             send_discord_embeds(removed_items, f"\n🔻 下架商品：{len(removed_items)}")
+        
+        if restocked_items:
+            send_discord_embeds(restocked_items, f"\n🧃 補貨商品：{len(restocked_items)}")
     else:
-        requests.post(DISCORD_WEBHOOK_URL, json={"content": "✨ 新增商品：0\n🔻 下架商品：0"})
+        requests.post(DISCORD_WEBHOOK_URL, json={"content": "✨ 新增商品：0\n🔻 下架商品：0\n🧃 補貨商品：0"})
 
     save_products(new_products)
 

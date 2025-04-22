@@ -101,14 +101,14 @@ def main():
         print("❌ 商品資料抓取失敗，中止比對")
         return
     
-    print(f"📦 共抓到 {len(new_products)} 件商品")
+    print(f"🪄 共抓到 {len(new_products)} 件商品")
 
     old_products = load_previous_products()
     new_items, removed_items, restocked_items = find_diff_products(old_products, new_products)
 
     print(f"✨ 新增商品：{len(new_items)}")
     print(f"🔻 下架商品：{len(removed_items)}")
-    print(f"🧃 補貨商品：{len(restocked_items)}")
+    print(f"📦 補貨商品：{len(restocked_items)}")
 
     if new_items or removed_items:
         if new_items:
@@ -118,9 +118,9 @@ def main():
             send_discord_embeds(removed_items, f"\n🔻 下架商品：{len(removed_items)}")
         
         if restocked_items:
-            send_discord_embeds(restocked_items, f"\n🧃 補貨商品：{len(restocked_items)}")
+            send_discord_embeds(restocked_items, f"\n📦 補貨商品：{len(restocked_items)}")
     else:
-        requests.post(DISCORD_WEBHOOK_URL, json={"content": "✨ 新增商品：0\n🔻 下架商品：0\n🧃 補貨商品：0"})
+        requests.post(DISCORD_WEBHOOK_URL, json={"content": "✨ 新增商品：0\n🔻 下架商品：0\n📦 補貨商品：0"})
 
     save_products(new_products)
 

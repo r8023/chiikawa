@@ -4,11 +4,11 @@ sys.path.append(os.path.dirname(os.path.abspath(__file__)))
 from general import *
 
 #變動參數
-type = "nagano"
-BASE_URL = "https://nagano-market.jp"
-DISCORD_WEBHOOK_URL = "https://discord.com/api/webhooks/1363910496348143666/Gzy32rFsnGew9M_LHhhdUmyHgr9zBU4u_TA0c_5UQDvYEUCWCj6MXSsHYTZlNMXBwDAM"
+type = "chiikawa"
+BASE_URL = "https://chiikawamarket.jp"
+DISCORD_WEBHOOK_URL = "https://discordapp.com/api/webhooks/1363070762843504720/Ade-xxTpUZshFRD9bqqJDOkKerb7kd1lu5FhwgKJ0caD-6xfhYWZvoWiPbmsdeRoWhBt"
 
-#固定參數 
+#固定參數
 DATA_DIR = "data"
 DATA_FILE = f"data/products_{type}.json"
 NOTIFIED_FILE = f"data/notified_{type}.json"

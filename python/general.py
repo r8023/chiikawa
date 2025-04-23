@@ -106,7 +106,7 @@ def send_discord_embeds(webhook_url, items, action_title, color=COLOR_DEFAULT):
         title = f"{index+1}. {item['title'][:256]}"
         description = f"💰 價格：¥{item['price']}\n\n🤍 ID：{', '.join(map(str, item['variant_ids']))}"
         if item.get("restock_date"):
-            description = f"🔖 預計補貨日：{item['restock_date']}\n\n" + description
+            description = f"🔖 補貨日期：{item['restock_date']}\n\n" + description
         if len(description) > 2048:
             description = description[:2045] + "..."
         embed = {

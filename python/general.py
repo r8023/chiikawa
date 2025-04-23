@@ -6,8 +6,12 @@ import re
 from datetime import datetime
 import pprint
 
+SLEEP_SEC = 0.5
+headers = {
+    "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"
+}
+
 COLOR_DEFAULT = 16777168
-COLOR_UPCOMING = 16761035
 
 def load_previous_products(file_path):
     if os.path.exists(file_path):

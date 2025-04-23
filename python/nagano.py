@@ -8,7 +8,7 @@ type = "nagano"
 BASE_URL = "https://nagano-market.jp"
 DISCORD_WEBHOOK_URL = "https://discord.com/api/webhooks/1363910496348143666/Gzy32rFsnGew9M_LHhhdUmyHgr9zBU4u_TA0c_5UQDvYEUCWCj6MXSsHYTZlNMXBwDAM"
 
-#固定參數
+#固定參數 
 DATA_DIR = "data"
 DATA_FILE = f"data/products_{type}.json"
 PRODUCTS_URL = f"{BASE_URL}/collections/all/products.json"

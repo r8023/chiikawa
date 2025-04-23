@@ -108,7 +108,7 @@ def load_notified_list(file_path):
     return {}
 
 def save_notified_list(file_path, items):
-    snapshot = {
+    item = {
         str(p["id"]): {
             "id": p["id"],
             "available": p.get("available"),
@@ -116,7 +116,7 @@ def save_notified_list(file_path, items):
         } for p in items
     }
     with open(file_path, "w", encoding="utf-8") as f:
-        json.dump(snapshot, f, ensure_ascii=False, indent=2)
+        json.dump(item, f, ensure_ascii=False, indent=2)
 
 def has_item_change(old, new):
     keys = ["available", "restock_date"]
@@ -125,7 +125,7 @@ def has_item_change(old, new):
 def filter_changed(items):
     result = []
     for p in items:
-        old = notified_snapshot.get(str(p["id"]))
+        old = notified_list.get(str(p["id"]))
         if not old or has_significant_change(old, p):
             result.append(p)
     return result

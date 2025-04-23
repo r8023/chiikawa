@@ -3,21 +3,22 @@ import os
 sys.path.append(os.path.dirname(os.path.abspath(__file__)))
 from general import *
 
+#變動參數
+type = "nagano"
+BASE_URL = "https://nagano-market.jp"
+DISCORD_WEBHOOK_URL = "https://discord.com/api/webhooks/1363910496348143666/Gzy32rFsnGew9M_LHhhdUmyHgr9zBU4u_TA0c_5UQDvYEUCWCj6MXSsHYTZlNMXBwDAM"
+
 #固定參數
+DATA_DIR = "data"
+DATA_FILE = f"data/products_{type}.json"
+PRODUCTS_URL = f"{BASE_URL}/collections/all/products.json"
 headers = {
     "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"
 }
 COLOR_UPCOMING = 16761035
 
-#變動參數
-BASE_URL = "https://nagano-market.jp"
-PRODUCTS_URL = f"{BASE_URL}/collections/all/products.json"
-DATA_DIR = "data"
-DATA_FILE = "data/products_nagano.json"
-DISCORD_WEBHOOK_URL = "https://discord.com/api/webhooks/1363910496348143666/Gzy32rFsnGew9M_LHhhdUmyHgr9zBU4u_TA0c_5UQDvYEUCWCj6MXSsHYTZlNMXBwDAM"
-
 def main():
-    print("🚀 Nagano 抓取開始...")
+    print(f"🚀 {type} 抓取開始...")
     new_products = get_all_products(f"{BASE_URL}/collections/all", headers)
     if new_products is None:
         return

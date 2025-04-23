@@ -48,11 +48,11 @@ jobs:
             git add data/products_nagano.json
             git commit -m "✅ 新增空的 products_nagano.json"
           elif ! git diff --quiet -- data/products_nagano.json; then
-            echo "📁 檔案有變更，準備 commit"
+            echo "📁 檔案 data/products_nagano.json 有變更，準備 commit"
             git add data/products_nagano.json
             git commit -m "✅ 更新 products_nagano.json"
           else
-            echo "〰️ 沒變化，不需要 commit"
+            echo "〰️ data/products_nagano.json 無異動，不需要 commit"
           fi
 
           if [ ! -f data/notified_nagano.json ]; then
@@ -61,11 +61,11 @@ jobs:
             git add data/notified_nagano.json
             git commit -m "✅ 新增空的 notified_nagano.json"
           elif ! git diff --quiet -- data/notified_nagano.json; then
-            echo "📁 檔案有變更，準備 commit"
+            echo "📁 檔案 data/notified_nagano.json 有變更，準備 commit"
             git add data/notified_nagano.json
             git commit -m "✅ 更新 notified_nagano.json"
           else
-            echo "〰️ 沒變化，不需要 commit"
+            echo "〰️ data/notified_nagano.json 無異動，不需要 commit"
           fi
       
           git pull --rebase

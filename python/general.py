@@ -97,6 +97,16 @@ def find_diff_products(old, new):
     upcoming_restocks = [p for p in new_map.values() if not p["available"] and p.get("restock_date")]
     return new_items, removed_items, restocked_items, upcoming_restocks
 
+def load_last_notified_ids(file_path):
+    if os.path.exists(file_path):
+        with open(file_path, "r", encoding="utf-8") as f:
+            return set(json.load(f))
+    return set()
+
+def save_last_notified_ids(file_path, ids):
+    with open(file_path, "w", encoding="utf-8") as f:
+        json.dump(list(ids), f, ensure_ascii=False, indent=2)
+
 def send_discord_embeds(webhook_url, items, action_title, color=COLOR_DEFAULT):
     if not webhook_url:
         print("❗️ 沒有設定 Webhook URL，跳過發送")

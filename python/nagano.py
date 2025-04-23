@@ -55,10 +55,7 @@ def main():
     
     save_products(DATA_FILE, new_products)
 
-    notified_this_round = set(
-        p["id"] for p in new_items + removed_items + restocked_items + upcoming
-    )
-    save_last_notified_ids(NOTIFIED_FILE, notified_this_round)
+    save_notified_snapshot(NOTIFIED_FILE, new_items + removed_items + restocked_items + upcoming)
 
 if __name__ == "__main__":
     main()

@@ -6,7 +6,7 @@ from general import *
 #變動參數
 type = "chiikawa"
 BASE_URL = "https://chiikawamarket.jp"
-DISCORD_WEBHOOK_URL = "https://discordapp.com/api/webhooks/1363070762843504720/Ade-xxTpUZshFRD9bqqJDOkKerb7kd1lu5FhwgKJ0caD-6xfhYWZvoWiPbmsdeRoWhBt"
+DISCORD_WEBHOOK_URL = os.getenv("DISCORD_WEBHOOK_URL_CHIIKAWA")
 
 #固定參數
 DATA_DIR = "data"

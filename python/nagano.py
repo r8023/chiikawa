@@ -55,7 +55,7 @@ def main():
     
     save_products(DATA_FILE, new_products)
 
-    save_notified_snapshot(NOTIFIED_FILE, new_items + removed_items + restocked_items + upcoming)
+    save_notified_list(NOTIFIED_FILE, new_items + removed_items + restocked_items + upcoming)
 
 if __name__ == "__main__":
     main()

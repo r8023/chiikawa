@@ -2,7 +2,7 @@ name: 排程｜ナガノ
 
 on:
   schedule:
-    - cron: '0 0,4,8,12,16 * * *'  # UTC 0/4/8/12/16 = 台灣時間 8/12/16/20/00
+    - cron: '0 * * * *'  # 每小時
   workflow_dispatch:  # 手動觸發（debug 用）
   
 permissions:

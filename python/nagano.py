@@ -32,11 +32,11 @@ def main():
     print(f"🔖 即將補貨商品：{len(upcoming)}")
 
     #上一次已通知過的
-    last_notified_ids = load_last_notified_ids(NOTIFIED_FILE)
-    new_items = [p for p in new_items if p["id"] not in last_notified_ids]
-    removed_items = [p for p in removed_items if p["id"] not in last_notified_ids]
-    restocked_items = [p for p in restocked_items if p["id"] not in last_notified_ids]
-    upcoming = [p for p in upcoming if p["id"] not in last_notified_ids]
+    notified_list = load_notified_list(NOTIFIED_FILE)
+    new_items = filter_changed(new_items)
+    removed_items = filter_changed(removed_items)
+    restocked_items = filter_changed(restocked_items)
+    upcoming = filter_changed(upcoming)
 
     print(f"=== 未發送過通知 ===")
     print(f"✨ 新增商品：{len(new_items)}")

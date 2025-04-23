@@ -108,15 +108,26 @@ def load_notified_map(file_path):
     return {}
 
 def save_notified_map(file_path, items):
-    item = {
-        str(p["id"]): {
+    # 讀取現有的快照資料（如果有）
+    existing_items = {}
+    if os.path.exists(file_path):
+        with open(file_path, "r", encoding="utf-8") as f:
+            try:
+                existing_items = json.load(f)
+            except json.JSONDecodeError:
+                print(f"⚠️ 無法解析現有快照檔案，將重新建立")
+
+    # 合併新通知的商品到現有資料
+    for p in items:
+        existing_items[str(p["id"])] = {
             "id": p["id"],
             "available": p.get("available"),
             "restock_date": p.get("restock_date")
-        } for p in items
-    }
+        }
+
+    # 儲存合併後的資料
     with open(file_path, "w", encoding="utf-8") as f:
-        json.dump(item, f, ensure_ascii=False, indent=2)
+        json.dump(existing_items, f, ensure_ascii=False, indent=2)
 
 def has_item_change(old, new):
     keys = ["available", "restock_date"]

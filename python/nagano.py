@@ -28,7 +28,7 @@ def main():
     print(f"✨ 新增商品：{len(new_items)}")
     print(f"🔻 下架商品：{len(removed_items)}")
     print(f"🧃 補貨商品：{len(restocked_items)}")
-    print(f"🔖 預計補貨商品：{len(upcoming)}")
+    print(f"🔖 即將補貨商品：{len(upcoming)}")
 
     if new_items:
         send_discord_embeds(DISCORD_WEBHOOK_URL, new_items, f"\n✨ 新增商品：{len(new_items)}")
@@ -37,9 +37,9 @@ def main():
     if restocked_items:
         send_discord_embeds(DISCORD_WEBHOOK_URL, restocked_items, f"\n🧃 補貨商品：{len(restocked_items)}")
     if upcoming:
-        send_discord_embeds(DISCORD_WEBHOOK_URL, upcoming, f"\n🔖 預計補貨商品：{len(upcoming)}", color=COLOR_UPCOMING)
+        send_discord_embeds(DISCORD_WEBHOOK_URL, upcoming, f"\n🔖 即將補貨商品：{len(upcoming)}", color=COLOR_UPCOMING)
     if not (new_items or removed_items or restocked_items or upcoming):
-        requests.post(DISCORD_WEBHOOK_URL, json={"content": "✨ 新增商品：0\n🔻 下架商品：0\n🧃 補貨商品：0\n🔖 預計補貨商品：0"})
+        requests.post(DISCORD_WEBHOOK_URL, json={"content": "✨ 新增商品：0\n🔻 下架商品：0\n🧃 補貨商品：0\n🔖 即將補貨商品：0"})
 
     save_products(DATA_FILE, new_products)
 

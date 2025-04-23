@@ -122,7 +122,7 @@ def has_item_change(old, new):
     keys = ["available", "restock_date"]
     return any(old.get(k) != new.get(k) for k in keys)
 
-def filter_changed(items):
+def filter_changed(items, notified_list):
     result = []
     for p in items:
         old = notified_list.get(str(p["id"]))

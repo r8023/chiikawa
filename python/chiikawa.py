@@ -16,7 +16,6 @@ PRODUCTS_URL = f"{BASE_URL}/collections/all/products.json"
 headers = {
     "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"
 }
-COLOR_UPCOMING = 16761035
 
 def main():
     print(f"🚀 {type} 抓取開始...")
@@ -45,11 +44,11 @@ def main():
     if new_items:
         send_discord_embeds(DISCORD_WEBHOOK_URL, new_items, f"\n✨ 新增商品：{len(new_items)}")
     if removed_items:
-        send_discord_embeds(DISCORD_WEBHOOK_URL, removed_items, f"\n🔻 下架商品：{len(removed_items)}")
+        send_discord_embeds(DISCORD_WEBHOOK_URL, removed_items, f"\n🔻 下架商品：{len(removed_items)}", color=10824191)
     if restocked_items:
-        send_discord_embeds(DISCORD_WEBHOOK_URL, restocked_items, f"\n🧃 補貨商品：{len(restocked_items)}")
+        send_discord_embeds(DISCORD_WEBHOOK_URL, restocked_items, f"\n🧃 補貨商品：{len(restocked_items)}",color=16761035)
     if upcoming:
-        send_discord_embeds(DISCORD_WEBHOOK_URL, upcoming, f"\n🔖 即將補貨商品：{len(upcoming)}", color=COLOR_UPCOMING)
+        send_discord_embeds(DISCORD_WEBHOOK_URL, upcoming, f"\n🔖 即將補貨商品：{len(upcoming)}", color=16761035)
     
     save_products(DATA_FILE, new_products)
 

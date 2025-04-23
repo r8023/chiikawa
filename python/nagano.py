@@ -3,6 +3,8 @@ import json
 import time
 import os
 import pprint
+import re
+from datetime import datetime
 
 BASE_URL = "https://nagano-market.jp"
 PRODUCTS_URL = f"{BASE_URL}/collections/all/products.json"
@@ -16,6 +18,9 @@ headers = {
 
 DISCORD_WEBHOOK_URL = "https://discord.com/api/webhooks/1363910496348143666/Gzy32rFsnGew9M_LHhhdUmyHgr9zBU4u_TA0c_5UQDvYEUCWCj6MXSsHYTZlNMXBwDAM"
 
+COLOR_DEFAULT = 16777168
+COLOR_UPCOMING = 16761035
+
 def load_previous_products():
     if os.path.exists(OUTPUT_FILE):
         try:
@@ -27,7 +32,7 @@ def load_previous_products():
                 return json.loads(content)
         except Exception as e:
             print(f"⚠️ 載入歷史檔案失敗：{e}")
-            print(f"⚠️ 檔案內容：{content[:100]}...")  # 最多印 100 字元防止太長
+            print(f"⚠️ 檔案內容：{content[:100]}...")
             return []
     return []
 
@@ -38,7 +43,7 @@ def get_all_products():
     while True:
         url = f"{PRODUCTS_URL}?page={page}"
         print(f"抓取第 {page} 頁：{url}")
-        
+
         try:
             res = requests.get(url, headers=headers)
         except Exception as e:
@@ -56,6 +61,20 @@ def get_all_products():
             break
 
         for p in products:
+            tags = p.get("tags", [])
+            restock_date = None
+            for tag in tags:
+                match = re.search(r"RE(\d{8})", tag)
+                if match:
+                    date_str = match.group(1)
+                    try:
+                        restock_dt = datetime.strptime(date_str, "%Y%m%d")
+                        if restock_dt.date() > datetime.now().date():  # 只保留未來的日期
+                            restock_date = restock_dt.strftime("%Y-%m-%d")
+                            break
+                    except ValueError:
+                        continue  # 萬一日期不合法，就跳過
+
             product = {
                 "id": p["id"],
                 "title": p["title"],
@@ -63,7 +82,8 @@ def get_all_products():
                 "url": f"{BASE_URL}/products/{p['handle']}",
                 "image": p["images"][0] if p["images"] else None,
                 "variant_ids": [v["id"] for v in p["variants"]],
-                "available": p["variants"][0]["available"]
+                "available": p["variants"][0]["available"],
+                "restock_date": restock_date
             }
             all_products.append(product)
 
@@ -84,47 +104,53 @@ def find_diff_products(old, new):
     new_items = [p for id_, p in new_map.items() if id_ not in old_map]
     removed_items = [p for id_, p in old_map.items() if id_ not in new_map]
 
-    # ✅ 補貨商品 = 原本有，現在還在，但 available 從 false -> true
     restocked_items = []
     for id_, new_p in new_map.items():
         old_p = old_map.get(id_)
         if old_p and old_p.get("available") == False and new_p.get("available") == True:
             restocked_items.append(new_p)
 
-    return new_items, removed_items, restocked_items
+    # ✅ 預測補貨清單：available=False 且包含 restock_date
+    upcoming_restocks = [p for p in new_map.values() if not p["available"] and p.get("restock_date")]
+
+    return new_items, removed_items, restocked_items, upcoming_restocks
 
 def main():
     print("🚀 開始抓取所有商品...")
     new_products = get_all_products()
-    
+
     if new_products is None:
         print("❌ 商品資料抓取失敗，中止比對")
         return
-    
+
     print(f"🪄 共抓到 {len(new_products)} 件商品")
 
     old_products = load_previous_products()
-    new_items, removed_items, restocked_items = find_diff_products(old_products, new_products)
+    new_items, removed_items, restocked_items, upcoming_restocks = find_diff_products(old_products, new_products)
 
     print(f"✨ 新增商品：{len(new_items)}")
     print(f"🔻 下架商品：{len(removed_items)}")
     print(f"🧃 補貨商品：{len(restocked_items)}")
+    print(f"🔖 預計補貨商品：{len(upcoming_restocks)}")
 
-    if new_items or removed_items or restocked_items:
+    if new_items or removed_items or restocked_items or upcoming_restocks:
         if new_items:
             send_discord_embeds(new_items, f"\n✨ 新增商品：{len(new_items)}")
 
         if removed_items:
             send_discord_embeds(removed_items, f"\n🔻 下架商品：{len(removed_items)}")
-            
+
         if restocked_items:
             send_discord_embeds(restocked_items, f"\n🧃 補貨商品：{len(restocked_items)}")
+
+        if upcoming_restocks:
+            send_discord_embeds(upcoming_restocks, f"\n🔖 預計補貨商品：{len(upcoming_restocks)}", color=COLOR_UPCOMING)
     else:
-        requests.post(DISCORD_WEBHOOK_URL, json={"content": "✨ 新增商品：0\n🔻 下架商品：0\n🧃 補貨商品：0"})
+        requests.post(DISCORD_WEBHOOK_URL, json={"content": "✨ 新增商品：0\n🔻 下架商品：0\n🧃 補貨商品：0\n🔖 預計補貨商品：0"})
 
     save_products(new_products)
 
-def send_discord_embeds(items, action_title):
+def send_discord_embeds(items, action_title, color=COLOR_DEFAULT):
     if not DISCORD_WEBHOOK_URL:
         print("❗️ 沒有設定 Webhook URL，跳過發送")
         return
@@ -132,16 +158,20 @@ def send_discord_embeds(items, action_title):
     embeds = []
 
     for index, item in enumerate(items):
-        title = f"{index+1}. {item['title'][:256]}"  # Discord embed title 最長 256 字
+        title = f"{index+1}. {item['title'][:256]}"
         description = f"💰 價格：¥{item['price']}\n\n🤍 ID：{', '.join(map(str, item['variant_ids']))}"
-        if len(description) > 2048:  # embed description 最長 2048 字
+
+        if item.get("restock_date"):
+            description = f"🔖 預計補貨日：{item['restock_date']}\n\n" + description
+
+        if len(description) > 2048:
             description = description[:2045] + "..."
 
         embed = {
             "title": title,
             "url": item["url"],
             "description": description,
-            "color": 16777168  # 米白色
+            "color": color
         }
 
         if item.get("image") and isinstance(item["image"], dict) and "src" in item["image"]:
@@ -149,7 +179,6 @@ def send_discord_embeds(items, action_title):
 
         embeds.append(embed)
 
-    # 每次最多 10 個 embeds，分批處理
     for i in range(0, len(embeds), 10):
         payload = {
             "content": f"{action_title}",
@@ -160,7 +189,7 @@ def send_discord_embeds(items, action_title):
             try:
                 res = requests.post(DISCORD_WEBHOOK_URL, json=payload)
                 if res.status_code in [200, 204]:
-                    break  # 發送成功，跳出 retry 迴圈
+                    break
                 elif res.status_code == 429:
                     retry_after = res.json().get("retry_after", 1)
                     print(f"⏳ 被限流，等待 {retry_after:.2f} 秒後重試")

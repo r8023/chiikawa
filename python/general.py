@@ -97,17 +97,17 @@ def find_diff_products(old, new):
     upcoming_restocks = [p for p in new_map.values() if not p["available"] and p.get("restock_date")]
     return new_items, removed_items, restocked_items, upcoming_restocks
 
-def load_notified_list(file_path):
+def load_notified_map(file_path):
     if os.path.exists(file_path):
         try:
             with open(file_path, "r", encoding="utf-8") as f:
-                return {str(p["id"]): p for p in json.load(f)}
+                return json.load(f)
         except Exception as e:
             print(f"⚠️ 載入快照檔失敗：{e}")
             return {}
     return {}
 
-def save_notified_list(file_path, items):
+def save_notified_map(file_path, items):
     item = {
         str(p["id"]): {
             "id": p["id"],

@@ -126,7 +126,7 @@ def filter_changed(items):
     result = []
     for p in items:
         old = notified_list.get(str(p["id"]))
-        if not old or has_significant_change(old, p):
+        if not old or has_item_change(old, p):
             result.append(p)
     return result
 

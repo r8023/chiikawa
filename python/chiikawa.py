@@ -31,7 +31,7 @@ def main():
     print(f"🔖 即將補貨商品：{len(upcoming)}")
 
     #上一次已通知過的
-    notified_list = load_notified_list(NOTIFIED_FILE)
+    notified_list = load_notified_map(NOTIFIED_FILE)
     #new_items = filter_changed(new_items,notified_list)
     #removed_items = filter_changed(removed_items,notified_list)
     restocked_items = filter_changed(restocked_items,notified_list)
@@ -52,7 +52,7 @@ def main():
     
     save_products(DATA_FILE, new_products)
 
-    save_notified_list(NOTIFIED_FILE, new_items + removed_items + restocked_items + upcoming)
+    save_notified_map(NOTIFIED_FILE, new_items + removed_items + restocked_items + upcoming)
 
 if __name__ == "__main__":
     main()

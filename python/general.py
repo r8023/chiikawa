@@ -97,15 +97,26 @@ def find_diff_products(old, new):
     upcoming_restocks = [p for p in new_map.values() if not p["available"] and p.get("restock_date")]
     return new_items, removed_items, restocked_items, upcoming_restocks
 
-def load_last_notified_ids(file_path):
+def load_notified_list(file_path):
     if os.path.exists(file_path):
-        with open(file_path, "r", encoding="utf-8") as f:
-            return set(json.load(f))
-    return set()
+        try:
+            with open(file_path, "r", encoding="utf-8") as f:
+                return {str(p["id"]): p for p in json.load(f)}
+        except Exception as e:
+            print(f"⚠️ 載入快照檔失敗：{e}")
+            return {}
+    return {}
 
-def save_last_notified_ids(file_path, ids):
+def save_notified_list(file_path, items):
+    snapshot = {
+        str(p["id"]): {
+            "id": p["id"],
+            "available": p.get("available"),
+            "restock_date": p.get("restock_date")
+        } for p in items
+    }
     with open(file_path, "w", encoding="utf-8") as f:
-        json.dump(list(ids), f, ensure_ascii=False, indent=2)
+        json.dump(snapshot, f, ensure_ascii=False, indent=2)
 
 def send_discord_embeds(webhook_url, items, action_title, color=COLOR_DEFAULT):
     if not webhook_url:

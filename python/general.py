@@ -118,6 +118,18 @@ def save_notified_list(file_path, items):
     with open(file_path, "w", encoding="utf-8") as f:
         json.dump(snapshot, f, ensure_ascii=False, indent=2)
 
+def has_item_change(old, new):
+    keys = ["available", "restock_date"]
+    return any(old.get(k) != new.get(k) for k in keys)
+
+def filter_changed(items):
+    result = []
+    for p in items:
+        old = notified_snapshot.get(str(p["id"]))
+        if not old or has_significant_change(old, p):
+            result.append(p)
+    return result
+
 def send_discord_embeds(webhook_url, items, action_title, color=COLOR_DEFAULT):
     if not webhook_url:
         print("❗️ 沒有設定 Webhook URL，跳過發送")

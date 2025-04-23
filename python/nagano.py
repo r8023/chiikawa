@@ -6,7 +6,7 @@ from general import *
 #變動參數
 type = "nagano"
 BASE_URL = "https://nagano-market.jp"
-DISCORD_WEBHOOK_URL = "https://discord.com/api/webhooks/1363910496348143666/Gzy32rFsnGew9M_LHhhdUmyHgr9zBU4u_TA0c_5UQDvYEUCWCj6MXSsHYTZlNMXBwDAM"
+DISCORD_WEBHOOK_URL = os.getenv("DISCORD_WEBHOOK_URL_NAGANO")
 
 #固定參數 
 DATA_DIR = "data"

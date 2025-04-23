@@ -33,10 +33,10 @@ def main():
 
     #上一次已通知過的
     notified_list = load_notified_list(NOTIFIED_FILE)
-    new_items = filter_changed(new_items)
-    removed_items = filter_changed(removed_items)
-    restocked_items = filter_changed(restocked_items)
-    upcoming = filter_changed(upcoming)
+    new_items = filter_changed(new_items,notified_list)
+    removed_items = filter_changed(removed_items,notified_list)
+    restocked_items = filter_changed(restocked_items,notified_list)
+    upcoming = filter_changed(upcoming,notified_list)
 
     print(f"=== 未發送過通知 ===")
     print(f"✨ 新增商品：{len(new_items)}")

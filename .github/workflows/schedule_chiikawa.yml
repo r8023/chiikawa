@@ -54,6 +54,19 @@ jobs:
           else
             echo "〰️ 沒變化，不需要 commit"
           fi
+
+          if [ ! -f data/notified_chiikawa.json ]; then
+            echo "🆕 檔案 data/notified_chiikawa.json 不存在，建立空檔案..."
+            touch data/notified_chiikawa.json
+            git add data/notified_chiikawa.json
+            git commit -m "✅ 新增空的 notified_chiikawa.json"
+          elif ! git diff --quiet -- data/notified_chiikawa.json; then
+            echo "📁 檔案有變更，準備 commit"
+            git add data/notified_chiikawa.json
+            git commit -m "✅ 更新 notified_chiikawa.json"
+          else
+            echo "〰️ 沒變化，不需要 commit"
+          fi
           
           git pull --rebase
           git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}

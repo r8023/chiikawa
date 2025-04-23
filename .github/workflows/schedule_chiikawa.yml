@@ -48,11 +48,11 @@ jobs:
             git add data/products_chiikawa.json
             git commit -m "✅ 新增空的 products_chiikawa.json"
           elif ! git diff --quiet -- data/products_chiikawa.json; then
-            echo "📁 檔案有變更，準備 commit"
+            echo "📁 檔案 data/products_chiikawa.json 有變更，準備 commit"
             git add data/products_chiikawa.json
             git commit -m "✅ 更新 products_chiikawa.json"
           else
-            echo "〰️ 沒變化，不需要 commit"
+            echo "〰️ data/products_chiikawa.json 無異動，不需要 commit"
           fi
 
           if [ ! -f data/notified_chiikawa.json ]; then
@@ -61,11 +61,11 @@ jobs:
             git add data/notified_chiikawa.json
             git commit -m "✅ 新增空的 notified_chiikawa.json"
           elif ! git diff --quiet -- data/notified_chiikawa.json; then
-            echo "📁 檔案有變更，準備 commit"
+            echo "📁 檔案 data/notified_chiikawa.json 有變更，準備 commit"
             git add data/notified_chiikawa.json
             git commit -m "✅ 更新 notified_chiikawa.json"
           else
-            echo "〰️ 沒變化，不需要 commit"
+            echo "〰️ data/notified_chiikawa.json 無異動，不需要 commit"
           fi
           
           git pull --rebase

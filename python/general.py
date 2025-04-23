@@ -73,9 +73,11 @@ def get_all_products(base_url, headers, sleep_sec=0.5):
                 "url": f"{base_url}/products/{p['handle']}",
                 "image": p["images"][0] if p["images"] else None,
                 "variant_ids": [v["id"] for v in p["variants"]],
-                "available": p["variants"][0]["available"],
-                "restock_date": restock_date
+                "available": p["variants"][0]["available"]
             }
+            if restock_date:
+                product["restock_date"] = restock_date
+                
             all_products.append(product)
         page += 1
         time.sleep(sleep_sec)

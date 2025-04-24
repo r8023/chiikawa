@@ -81,14 +81,14 @@ def get_all_products(base_url, headers, sleep_sec=0.5):
                 is_future = True
             else:
                 try:
-                    published_dt = datetime.strptime(published_at, "%Y/%m/%dT%H:%M:%S%z")
+                    published_dt = datetime.strptime(published_at, "%Y-%m-%dT%H:%M:%S%z")
                     if published_dt > datetime.now(published_dt.tzinfo):
                         is_future = True
                         publish_at = dt.strftime("%Y/%m/%d %H:%M")
                 except Exception:
                     pass
 
-            created_dt = datetime.strptime(created_at, "%Y/%m/%dT%H:%M:%S%z")
+            created_dt = datetime.strptime(created_at, "%Y-%m-%dT%H:%M:%S%z")
             if created_dt > datetime.now(created_dt.tzinfo):
                 is_future = True
                 created_at = dt.strftime("%Y/%m/%d %H:%M")

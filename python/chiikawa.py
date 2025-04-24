@@ -1,14 +1,12 @@
-import sys
 import os
-from dotenv import load_dotenv
-load_dotenv()
+import sys
 sys.path.append(os.path.dirname(os.path.abspath(__file__)))
 from general import *
 
 #變動參數
 type = "chiikawa"
 BASE_URL = "https://chiikawamarket.jp"
-DISCORD_WEBHOOK_URL = os.getenv("DISCORD_WEBHOOK_URL_CHIIKAWA")
+DISCORD_WEBHOOK_URL = os.environ["DISCORD_WEBHOOK_URL_CHIIKAWA"]
 
 #固定參數
 DATA_DIR = "data"

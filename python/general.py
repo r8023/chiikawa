@@ -87,11 +87,13 @@ def get_all_products(base_url, headers, sleep_sec=0.5):
                         publish_at = published_dt.strftime("%Y/%m/%d %H:%M")
                 except Exception:
                     pass
-
-            created_dt = datetime.strptime(created_at, "%Y-%m-%dT%H:%M:%S%z")
-            if created_dt > datetime.now(created_dt.tzinfo):
-                is_future = True
-                created_at = created_at.strftime("%Y/%m/%d %H:%M")
+            try:
+                created_dt = datetime.strptime(created_at, "%Y-%m-%dT%H:%M:%S%z")
+                if created_dt > datetime.now(created_dt.tzinfo):
+                    is_future = True
+                    created_at = created_dt.strftime("%Y/%m/%d %H:%M")
+            except Exception:
+                    pass
 
             product = {
                 "id": p["id"],

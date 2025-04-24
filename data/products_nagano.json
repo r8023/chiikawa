@@ -1506,7 +1506,7 @@
     "variant_ids": [
       43018785816768
     ],
-    "available": true
+    "available": false
   },
   {
     "id": 7319768334528,
@@ -4237,7 +4237,7 @@
     "variant_ids": [
       41573953175744
     ],
-    "available": true
+    "available": false
   },
   {
     "id": 7124106477760,
@@ -5616,7 +5616,7 @@
     "variant_ids": [
       42293742076096
     ],
-    "available": true
+    "available": false
   },
   {
     "id": 7212968968384,
@@ -6099,7 +6099,7 @@
     "variant_ids": [
       41179736277184
     ],
-    "available": true
+    "available": false
   },
   {
     "id": 7119138914496,
@@ -6373,7 +6373,7 @@
       41074149687488,
       41074149720256
     ],
-    "available": true
+    "available": false
   },
   {
     "id": 6967607460032,
@@ -6417,7 +6417,7 @@
       41094776586432,
       41094776619200
     ],
-    "available": true
+    "available": false
   },
   {
     "id": 8133641404608,
@@ -8163,6 +8163,28 @@
     "available": true
   },
   {
+    "id": 8222097178816,
+    "title": "ナガノキャラクターズ 「かわいい」札持ち ハートなナガノのくまマスコット",
+    "price": "1760",
+    "url": "https://nagano-market.jp/collections/all/products/4571609355779",
+    "image": {
+      "id": 43505267736768,
+      "created_at": "2025-04-15T11:40:29+09:00",
+      "position": 1,
+      "updated_at": "2025-04-15T11:40:31+09:00",
+      "product_id": 8222097178816,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0585/2836/6784/files/4571609355779_1.jpg?v=1744684831",
+      "width": 1200,
+      "height": 1200
+    },
+    "variant_ids": [
+      46290852839616
+    ],
+    "available": false,
+    "restock_date": "2025-04-24"
+  },
+  {
     "id": 7527453655232,
     "title": "ナガノキャラクターズ あったかふんわりマフラー（グレー）",
     "price": "1540",
@@ -9357,7 +9379,7 @@
     "variant_ids": [
       44324855578816
     ],
-    "available": true
+    "available": false
   },
   {
     "id": 7570916802752,
@@ -10008,7 +10030,7 @@
     "variant_ids": [
       45426248745152
     ],
-    "available": true
+    "available": false
   },
   {
     "id": 7622425903296,
@@ -12591,7 +12613,7 @@
     "variant_ids": [
       45116985278656
     ],
-    "available": true
+    "available": false
   },
   {
     "id": 7915327946944,
@@ -16227,7 +16249,7 @@
     "variant_ids": [
       45398919446720
     ],
-    "available": true
+    "available": false
   },
   {
     "id": 8079186788544,
@@ -17875,6 +17897,28 @@
     "available": true
   },
   {
+    "id": 8159729680576,
+    "title": "ナガノキャラクターズ ナガノの水族館 マスコット（シロクマ）",
+    "price": "1650",
+    "url": "https://nagano-market.jp/collections/all/products/4571609352426",
+    "image": {
+      "id": 41965175406784,
+      "created_at": "2025-01-21T13:37:39+09:00",
+      "position": 1,
+      "updated_at": "2025-01-21T13:37:40+09:00",
+      "product_id": 8159729680576,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0585/2836/6784/files/4571609352426_1.jpg?v=1737434260",
+      "width": 1200,
+      "height": 1200
+    },
+    "variant_ids": [
+      46026568007872
+    ],
+    "available": true,
+    "restock_date": "2025-04-24"
+  },
+  {
     "id": 8159729713344,
     "title": "ナガノキャラクターズ ナガノの水族館 マスコット（タコクラゲ）",
     "price": "1650",
@@ -19048,7 +19092,7 @@
     "variant_ids": [
       46156107088064
     ],
-    "available": true
+    "available": false
   },
   {
     "id": 8193497432256,
@@ -20791,7 +20835,7 @@
     "variant_ids": [
       46026570662080
     ],
-    "available": true
+    "available": false
   },
   {
     "id": 8159732072640,
@@ -21401,6 +21445,28 @@
       45367286595776
     ],
     "available": true
+  },
+  {
+    "id": 8222097309888,
+    "title": "ナガノキャラクターズ ローズなナガノのくまマスコット",
+    "price": "1650",
+    "url": "https://nagano-market.jp/collections/all/products/4571609358152",
+    "image": {
+      "id": 43505875124416,
+      "created_at": "2025-04-15T13:00:32+09:00",
+      "position": 1,
+      "updated_at": "2025-04-15T13:00:33+09:00",
+      "product_id": 8222097309888,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0585/2836/6784/files/4571609358152_1_41823c70-e3b4-449d-9cc6-b12f4408f252.jpg?v=1744689633",
+      "width": 1200,
+      "height": 1200
+    },
+    "variant_ids": [
+      46290852970688
+    ],
+    "available": false,
+    "restock_date": "2025-04-24"
   },
   {
     "id": 7519803146432,
@@ -22303,7 +22369,7 @@
     "variant_ids": [
       44324860723392
     ],
-    "available": true
+    "available": false
   },
   {
     "id": 7673365528768,
@@ -22345,7 +22411,7 @@
     "variant_ids": [
       44324860788928
     ],
-    "available": true
+    "available": false
   },
   {
     "id": 7673365594304,
@@ -22366,7 +22432,7 @@
     "variant_ids": [
       44324860821696
     ],
-    "available": true
+    "available": false
   },
   {
     "id": 7673365627072,
@@ -22387,7 +22453,7 @@
     "variant_ids": [
       44324860854464
     ],
-    "available": true
+    "available": false
   },
   {
     "id": 7673364611264,
@@ -26207,7 +26273,7 @@
     "variant_ids": [
       43338111746240
     ],
-    "available": true
+    "available": false
   },
   {
     "id": 7418302103744,
@@ -27721,7 +27787,7 @@
     "variant_ids": [
       43693237010624
     ],
-    "available": true
+    "available": false
   },
   {
     "id": 7492175462592,
@@ -28021,7 +28087,7 @@
     "variant_ids": [
       43299975594176
     ],
-    "available": true
+    "available": false
   },
   {
     "id": 7323537080512,
@@ -28462,7 +28528,7 @@
     "variant_ids": [
       43185386193088
     ],
-    "available": true
+    "available": false
   },
   {
     "id": 7359069388992,
@@ -30501,7 +30567,7 @@
     "variant_ids": [
       43457292796096
     ],
-    "available": true
+    "available": false
   },
   {
     "id": 7448096538816,
@@ -32754,7 +32820,7 @@
     "variant_ids": [
       41708559466688
     ],
-    "available": true
+    "available": false
   },
   {
     "id": 7151077785792,
@@ -34077,7 +34143,7 @@
     "variant_ids": [
       43391760564416
     ],
-    "available": true
+    "available": false
   },
   {
     "id": 7431191756992,

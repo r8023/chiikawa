@@ -33,6 +33,11 @@ def save_products(file_path, products):
     with open(file_path, "w", encoding="utf-8") as f:
         json.dump(products, f, ensure_ascii=False, indent=2)
 
+import requests
+import re
+import time
+from datetime import datetime
+
 def get_all_products(base_url, headers, sleep_sec=0.5):
     all_products = []
     page = 1
@@ -47,6 +52,7 @@ def get_all_products(base_url, headers, sleep_sec=0.5):
         if res.status_code != 200:
             print(f"⚠️ 第 {page} 頁請求失敗，狀態碼 {res.status_code}")
             return None
+
         data = res.json()
         products = data.get("products", [])
         if not products:
@@ -66,6 +72,20 @@ def get_all_products(base_url, headers, sleep_sec=0.5):
                             break
                     except ValueError:
                         continue
+
+            # 檢查是否為未上架（null 或 future 時間）
+            published_at = p.get("published_at")
+            is_future = False
+            if published_at is None:
+                is_future = True
+            else:
+                try:
+                    published_dt = datetime.strptime(published_at, "%Y-%m-%dT%H:%M:%S%z")
+                    if published_dt > datetime.now(published_dt.tzinfo):
+                        is_future = True
+                except Exception:
+                    pass
+
             product = {
                 "id": p["id"],
                 "title": p["title"],
@@ -73,12 +93,17 @@ def get_all_products(base_url, headers, sleep_sec=0.5):
                 "url": f"{base_url}/products/{p['handle']}",
                 "image": p["images"][0] if p["images"] else None,
                 "variant_ids": [v["id"] for v in p["variants"]],
-                "available": p["variants"][0]["available"]
+                "available": p["variants"][0]["available"],
+                "published_at": published_at
             }
+
             if restock_date:
                 product["restock_date"] = restock_date
-                
-            all_products.append(product)
+
+            if is_future:
+                print(f"【未上架商品】{product['title']} - {product['url']} (上架時間：{published_at})")
+                all_products.append(product)
+
         page += 1
         time.sleep(sleep_sec)
     return all_products

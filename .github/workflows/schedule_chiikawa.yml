@@ -11,6 +11,8 @@ permissions:
 jobs:
   run-python-script:
     runs-on: ubuntu-latest
+    env:
+      DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL_CHIIKAWA }}
 
     steps:
       - name: Show schedule time

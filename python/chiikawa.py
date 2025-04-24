@@ -34,8 +34,6 @@ def main():
 
     #上一次已通知過的
     notified_list = load_notified_map(NOTIFIED_FILE)
-    #new_items = filter_changed(new_items,notified_list)
-    #removed_items = filter_changed(removed_items,notified_list)
     restocked_items = filter_changed(restocked_items,notified_list)
     upcoming = filter_changed(upcoming,notified_list)
 
@@ -46,7 +44,7 @@ def main():
     if new_items:
         send_discord_embeds(DISCORD_WEBHOOK_URL, new_items, f"\n✨ 新增商品：{len(new_items)}")
     if removed_items:
-        send_discord_embeds(DISCORD_WEBHOOK_URL, removed_items, f"\n🔻 下架商品：{len(removed_items)}", color=10824191)
+        send_discord_embeds(DISCORD_WEBHOOK_URL, removed_items, f"\n🔻 下架商品：{len(removed_items)}", color=7241700)
     if restocked_items:
         send_discord_embeds(DISCORD_WEBHOOK_URL, restocked_items, f"\n🧃 補貨商品：{len(restocked_items)}",color=16761035)
     if upcoming:
@@ -54,7 +52,7 @@ def main():
     
     save_products(DATA_FILE, new_products)
 
-    save_notified_map(NOTIFIED_FILE, new_items + removed_items + restocked_items + upcoming)
+    save_notified_map(NOTIFIED_FILE, restocked_items + upcoming)
 
 if __name__ == "__main__":
     main()

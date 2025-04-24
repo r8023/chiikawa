@@ -11,6 +11,8 @@ permissions:
 jobs:
   run-python-script:
     runs-on: ubuntu-latest
+    env:
+      DISCORD_WEBHOOK_URL_NAGANO: ${{ secrets.DISCORD_WEBHOOK_URL_NAGANO }}
 
     steps:
       - name: Show schedule time

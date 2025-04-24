@@ -75,17 +75,23 @@ def get_all_products(base_url, headers, sleep_sec=0.5):
 
             # 檢查是否為未上架（null 或 future 時間）
             published_at = p.get("published_at")
+            created_at = p.get("created_at")
             is_future = False
             if published_at is None:
                 is_future = True
             else:
                 try:
-                    published_dt = datetime.strptime(published_at, "%Y/%m/%dT%H:%M:%S%z")
+                    published_dt = datetime.strptime(published_at, "%Y/%m/%d %H:%M")
                     if published_dt > datetime.now(published_dt.tzinfo):
                         is_future = True
                         publish_at = dt.strftime("%Y/%m/%d %H:%M")
                 except Exception:
                     pass
+
+            created_dt = datetime.strptime(created_at, "%Y/%m/%d %H:%M")
+            if created_dt > datetime.now(created_dt.tzinfo):
+                is_future = True
+                created_at = dt.strftime("%Y/%m/%d %H:%M")
 
             product = {
                 "id": p["id"],
@@ -95,7 +101,8 @@ def get_all_products(base_url, headers, sleep_sec=0.5):
                 "image": p["images"][0] if p["images"] else None,
                 "variant_ids": [v["id"] for v in p["variants"]],
                 "available": p["variants"][0]["available"],
-                "published_at": published_at
+                "published_at": published_at,
+                "created_at": created_at
             }
 
             if restock_date:

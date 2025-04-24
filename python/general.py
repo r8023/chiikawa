@@ -59,6 +59,7 @@ def get_all_products(base_url, headers, sleep_sec=0.5):
             print("🛑 沒有更多商品，結束")
             break
 
+        print(f"✨ 共獲取：{len(products)} 隻商品")
         for p in products:
             tags = p.get("tags", [])
             restock_date = None

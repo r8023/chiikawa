@@ -103,8 +103,8 @@ def get_all_products(base_url, headers, sleep_sec=0.5):
 
             if is_future:
                 print(f"【未上架商品】{product['title']} - {product['url']} (上架時間：{published_at})")
-                all_products.append(product)
-
+            
+            all_products.append(product)
         page += 1
         time.sleep(sleep_sec)
     return all_products

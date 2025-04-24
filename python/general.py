@@ -68,7 +68,7 @@ def get_all_products(base_url, headers, sleep_sec=0.5):
                     try:
                         restock_dt = datetime.strptime(match.group(1), "%Y%m%d")
                         if restock_dt.date() >= datetime.now().date():
-                            restock_date = restock_dt.strftime("%Y-%m-%d")
+                            restock_date = restock_dt.strftime("%Y/%m/%d")
                             break
                     except ValueError:
                         continue
@@ -80,9 +80,10 @@ def get_all_products(base_url, headers, sleep_sec=0.5):
                 is_future = True
             else:
                 try:
-                    published_dt = datetime.strptime(published_at, "%Y-%m-%dT%H:%M:%S%z")
+                    published_dt = datetime.strptime(published_at, "%Y/%m/%dT%H:%M:%S%z")
                     if published_dt > datetime.now(published_dt.tzinfo):
                         is_future = True
+                        publish_at = dt.strftime("%Y/%m/%d %H:%M")
                 except Exception:
                     pass
 
@@ -176,6 +177,8 @@ def send_discord_embeds(webhook_url, items, action_title, color=COLOR_DEFAULT):
         description = f"💰 價格：¥{item['price']}\n\n🤍 ID：{', '.join(map(str, item['variant_ids']))}"
         if item.get("restock_date"):
             description = f"📅 補貨日期：{item['restock_date']}\n\n" + description
+        elif item.get("is_future") and item.get("publish_at") :
+            description = f"📅 上架日期：{item['publish_at']}\n\n" + description
         if len(description) > 2048:
             description = description[:2045] + "..."
         embed = {

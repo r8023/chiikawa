@@ -61,7 +61,7 @@ def get_all_products(base_url, headers, sleep_sec=0.5):
                 if match:
                     try:
                         restock_dt = datetime.strptime(match.group(1), "%Y%m%d")
-                        if restock_dt.date() > datetime.now().date():
+                        if restock_dt.date() >= datetime.now().date():
                             restock_date = restock_dt.strftime("%Y-%m-%d")
                             break
                     except ValueError:

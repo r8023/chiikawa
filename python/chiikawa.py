@@ -6,13 +6,13 @@ from general import *
 #變動參數
 type = "chiikawa"
 BASE_URL = "https://chiikawamarket.jp"
-DISCORD_WEBHOOK_URL = os.environ["DISCORD_WEBHOOK_URL_CHIIKAWA"]
 
 #固定參數
 DATA_DIR = "data"
 DATA_FILE = f"data/products_{type}.json"
 NOTIFIED_FILE = f"data/notified_{type}.json"
 PRODUCTS_URL = f"{BASE_URL}/collections/all/products.json"
+DISCORD_WEBHOOK_URL = os.environ["DISCORD_WEBHOOK_URL"] 
 headers = {
     "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"
 }

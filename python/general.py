@@ -84,7 +84,7 @@ def get_all_products(base_url, headers, sleep_sec=0.5):
                     published_dt = datetime.strptime(published_at, "%Y-%m-%dT%H:%M:%S%z")
                     if published_dt > datetime.now(published_dt.tzinfo):
                         is_future = True
-                        publish_at = published_dt.strftime("%Y/%m/%d %H:%M")
+                        published_at = published_dt.strftime("%Y/%m/%d %H:%M")
                 except Exception:
                     pass
             try:

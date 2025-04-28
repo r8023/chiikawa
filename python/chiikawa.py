@@ -26,6 +26,7 @@ def main():
     new_items, removed_items, restocked_items, upcoming_restocks = find_diff_products(old_products, new_products)
     upcoming_items = [item for item in new_products if item.get("is_future", False)]
     
+    print(f"💡 共獲取：{len(new_products)} 隻商品")
     print(f"✨ 新增商品：{len(new_items)}")
     print(f"🔻 下架商品：{len(removed_items)}")
     print(f"🧃 補貨商品：{len(restocked_items)}")

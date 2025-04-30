@@ -22,13 +22,13 @@ if (!document.querySelector('script[src="https://r8023.github.io/chiikawa/assets
 
 async function start() {
 	const productData = [
-		{ id: "46290852839616", quantity: 1, name: "可愛熊" },
+		{ id: "45624328290545", quantity: 1, name: "哭哭哥布林" }
+		/* { id: "46290852839616", quantity: 1, name: "可愛熊" },
 		{ id: "46290852970688", quantity: 1, name: "玫瑰熊" },
-		/* { id: "43891553108209", quantity: 1, name: "辣咖哩兔兔" },
+		{ id: "43891553108209", quantity: 1, name: "辣咖哩兔兔" },
 		{ id: "43891553042673", quantity: 1, name: "辣咖哩小八" },
 		{ id: "43891553009905", quantity: 1, name: "辣咖哩吉伊" },
 		{ id: "42919073972465", quantity: 1, name: "雞腿哥布林" },
-		{ id: "45624328290545", quantity: 1, name: "哭哭哥布林" },
 		{ id: "43764095484145", quantity: 1, name: "惡兔" },
 		{ id: "43764095516913", quantity: 1, name: "惡栗子" },
 		{ id: "43701908766961", quantity: 1, name: "墮天使小八" },

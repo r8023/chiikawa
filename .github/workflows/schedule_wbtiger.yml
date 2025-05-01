@@ -42,9 +42,7 @@ jobs:
           echo "📦 列出 data/ 檔案："
           ls -al data || echo "⚠️ 找不到 data/ 資料夾"
 
-          # 設定 remote 並先 pull 最新
           git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}
-          git pull --rebase
 
           updated=0
 
@@ -66,7 +64,9 @@ jobs:
 
           if [ "$updated" -eq 1 ]; then
             git commit -m "✅ 更新 WBTiger 相關資料"
+            git pull --rebase || (echo "❌ pull 失敗，請確認 repo 沒有衝突" && exit 1)
             git push || (echo "❌ push 失敗" && exit 1)
           else
             echo "✨ 沒有需要 commit 的變更"
           fi
+

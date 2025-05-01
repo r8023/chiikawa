@@ -16360,7 +16360,7 @@
     "variant_ids": [
       45774850392256
     ],
-    "available": false,
+    "available": true,
     "published_at": "2024-11-08T11:00:09+09:00",
     "created_at": "2024-11-05T20:55:31+09:00"
   },
@@ -33692,7 +33692,7 @@
     "variant_ids": [
       43457292861632
     ],
-    "available": true,
+    "available": false,
     "published_at": "2023-02-22T11:00:03+09:00",
     "created_at": "2023-02-14T12:56:31+09:00"
   },

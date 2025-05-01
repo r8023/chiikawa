@@ -4,7 +4,7 @@ on:
   schedule:
     - cron: '0 * * * *'  # UTC 0~16點 = 台灣時間 8:00~00:00，每小時一次
   workflow_dispatch:  # 手動觸發（debug 用）
-  
+
 permissions:
   contents: write
 
@@ -34,42 +34,39 @@ jobs:
       - name: Run wbtiger.py
         run: python python/wbtiger.py
 
-      - name: Commit changes if products_wbtiger.json changed or missing
+      - name: Commit and push changes if needed
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-      
-          if [ ! -d data ]; then
-            echo "📁 資料夾 data 不存在，正在建立..."
-            mkdir -p data
-          fi
-      
-          if [ ! -f data/products_wbtiger.json ]; then
-            echo "🆕 檔案 data/products_wbtiger.json 不存在，建立空檔案..."
-            touch data/products_wbtiger.json
-            git add data/products_wbtiger.json
-            git commit -m "✅ 新增空的 products_wbtiger.json"
-          elif ! git diff --quiet -- data/products_wbtiger.json; then
-            echo "📁 檔案 data/products_wbtiger.json 有變更，準備 commit"
-            git add data/products_wbtiger.json
-            git commit -m "✅ 更新 products_wbtiger.json"
-          else
-            echo "〰️ data/products_wbtiger.json 無異動，不需要 commit"
-          fi
 
-          if [ ! -f data/notified_wbtiger.json ]; then
-            echo "🆕 檔案 data/notified_wbtiger.json 不存在，建立空檔案..."
-            touch data/notified_wbtiger.json
-            git add data/notified_wbtiger.json
-            git commit -m "✅ 新增空的 notified_wbtiger.json"
-          elif ! git diff --quiet -- data/notified_wbtiger.json; then
-            echo "📁 檔案 data/notified_wbtiger.json 有變更，準備 commit"
-            git add data/notified_wbtiger.json
-            git commit -m "✅ 更新 notified_wbtiger.json"
-          else
-            echo "〰️ data/notified_wbtiger.json 無異動，不需要 commit"
-          fi
-          
-          git pull --rebase
+          echo "📦 列出 data/ 檔案："
+          ls -al data || echo "⚠️ 找不到 data/ 資料夾"
+
+          # 設定 remote 並先 pull 最新
           git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}
-          git push
+          git pull --rebase
+
+          updated=0
+
+          for file in data/products_wbtiger.json data/notified_wbtiger.json; do
+            if [ ! -f "$file" ]; then
+              echo "🆕 $file 不存在，建立空檔案..."
+              mkdir -p "$(dirname "$file")"
+              touch "$file"
+              git add "$file"
+              updated=1
+            elif ! git diff --quiet -- "$file"; then
+              echo "📄 $file 有變更，加入 commit"
+              git add "$file"
+              updated=1
+            else
+              echo "✅ $file 沒有變更，略過"
+            fi
+          done
+
+          if [ "$updated" -eq 1 ]; then
+            git commit -m "✅ 更新 WBTiger 相關資料"
+            git push || (echo "❌ push 失敗" && exit 1)
+          else
+            echo "✨ 沒有需要 commit 的變更"
+          fi

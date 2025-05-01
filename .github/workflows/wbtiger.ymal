@@ -1,0 +1,75 @@
+name: 排程｜ホワイトタイガーとブラッ
+
+on:
+  schedule:
+    - cron: '0 * * * *'  # UTC 0~16點 = 台灣時間 8:00~00:00，每小時一次
+  workflow_dispatch:  # 手動觸發（debug 用）
+  
+permissions:
+  contents: write
+
+jobs:
+  run-python-script:
+    runs-on: ubuntu-latest
+    env:
+      DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL_WBTIGER }}
+
+    steps:
+      - name: Show schedule time
+        run: date
+
+      - name: Checkout code
+        uses: actions/checkout@v2
+
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.9'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Run wbtiger.py
+        run: python python/wbtiger.py
+
+      - name: Commit changes if products_wbtiger.json changed or missing
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+      
+          if [ ! -d data ]; then
+            echo "📁 資料夾 data 不存在，正在建立..."
+            mkdir -p data
+          fi
+      
+          if [ ! -f data/products_wbtiger.json ]; then
+            echo "🆕 檔案 data/products_wbtiger.json 不存在，建立空檔案..."
+            touch data/products_wbtiger.json
+            git add data/products_wbtiger.json
+            git commit -m "✅ 新增空的 products_wbtiger.json"
+          elif ! git diff --quiet -- data/products_wbtiger.json; then
+            echo "📁 檔案 data/products_wbtiger.json 有變更，準備 commit"
+            git add data/products_wbtiger.json
+            git commit -m "✅ 更新 products_wbtiger.json"
+          else
+            echo "〰️ data/products_wbtiger.json 無異動，不需要 commit"
+          fi
+
+          if [ ! -f data/notified_wbtiger.json ]; then
+            echo "🆕 檔案 data/notified_wbtiger.json 不存在，建立空檔案..."
+            touch data/notified_wbtiger.json
+            git add data/notified_wbtiger.json
+            git commit -m "✅ 新增空的 notified_wbtiger.json"
+          elif ! git diff --quiet -- data/notified_wbtiger.json; then
+            echo "📁 檔案 data/notified_wbtiger.json 有變更，準備 commit"
+            git add data/notified_wbtiger.json
+            git commit -m "✅ 更新 notified_wbtiger.json"
+          else
+            echo "〰️ data/notified_wbtiger.json 無異動，不需要 commit"
+          fi
+          
+          git pull --rebase
+          git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}
+          git push

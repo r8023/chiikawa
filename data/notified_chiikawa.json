@@ -598,5 +598,25 @@
     "id": 8664894275825,
     "available": false,
     "restock_date": "2025/05/01"
+  },
+  "7708180447473": {
+    "id": 7708180447473,
+    "available": true,
+    "restock_date": null
+  },
+  "7708180316401": {
+    "id": 7708180316401,
+    "available": true,
+    "restock_date": null
+  },
+  "7708180381937": {
+    "id": 7708180381937,
+    "available": true,
+    "restock_date": null
+  },
+  "7708180218097": {
+    "id": 7708180218097,
+    "available": true,
+    "restock_date": null
   }
 }

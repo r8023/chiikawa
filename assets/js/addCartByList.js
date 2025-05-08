@@ -1,6 +1,12 @@
-const general = document.createElement("script");
-general.src = "https://r8023.github.io/chiikawa/assets/js/general.js";
-general.onload = () => {
+const existing = document.querySelector('script[src="https://r8023.github.io/chiikawa/assets/js/addCartByList.js"]');
+
+if (existing) {
+    existing.remove();
+}
+
+const scriptTR = document.createElement("script");
+scriptTR.src = "https://r8023.github.io/chiikawa/assets/js/general.js";
+scriptTR.onload = () => {
     // 現在官網沒有jQuery，自己import
     if (typeof jQuery === 'undefined') {
         const script = document.createElement('script');
@@ -85,4 +91,4 @@ general.onload = () => {
         }
     }
 };
-document.head.appendChild(general);
+document.head.appendChild(scriptTR);

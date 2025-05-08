@@ -18,18 +18,18 @@ scriptTR.onload = () => {
     async function start() {
         const links = $("#product-grid li").map(function () {
             const $li = $(this);
-
+    
             // 如果含有「売り切れ」標籤，就略過
-            if ($li.find(".card__badge").length > 0) return null;
-
+            if ($li.find(".card__badge span").length > 0) return null;
+    
             const $a = $li.find("a").first(); // 假設商品連結在 <a> 裡
-
+    
             return {
                 url: baseURLTR + $a.attr("href"),
-                name: $a.text() || "未命名"
+                name: $a.text().trim() || "未命名"
             };
         }).get();
-
+    
         for (const {
                 url,
                 name

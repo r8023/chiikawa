@@ -12103,9 +12103,10 @@
     "variant_ids": [
       44288371491008
     ],
-    "available": true,
+    "available": false,
     "published_at": "2025-01-30T18:30:04+09:00",
-    "created_at": "2023-12-11T20:06:54+09:00"
+    "created_at": "2023-12-11T20:06:54+09:00",
+    "restock_date": "2025/05/15"
   },
   {
     "id": 7664861151424,
@@ -34918,9 +34919,10 @@
     "variant_ids": [
       41555845185728
     ],
-    "available": true,
+    "available": false,
     "published_at": "2022-02-03T19:02:56+09:00",
-    "created_at": "2022-01-27T00:57:04+09:00"
+    "created_at": "2022-01-27T00:57:04+09:00",
+    "restock_date": "2025/05/15"
   },
   {
     "id": 7492175855808,

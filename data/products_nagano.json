@@ -9255,6 +9255,29 @@
     "created_at": "2023-12-27T10:37:59+09:00"
   },
   {
+    "id": 7673361039552,
+    "title": "ナガノキャラクターズ きょりゅくんを被ったハチワレマスコット",
+    "price": "1760",
+    "url": "https://nagano-market.jp/collections/all/products/4582662943964",
+    "image": {
+      "id": 36960859553984,
+      "created_at": "2023-12-27T15:16:31+09:00",
+      "position": 1,
+      "updated_at": "2023-12-27T15:16:33+09:00",
+      "product_id": 7673361039552,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0585/2836/6784/files/4582662943964_1.jpg?v=1703657793",
+      "width": 1200,
+      "height": 1200
+    },
+    "variant_ids": [
+      44324855677120
+    ],
+    "available": true,
+    "published_at": "2025-05-15T18:30:02+09:00",
+    "created_at": "2023-12-27T10:38:00+09:00"
+  },
+  {
     "id": 7673360875712,
     "title": "ナガノキャラクターズ きんきらナガノのくまのマスコット",
     "price": "1870",
@@ -12059,6 +12082,29 @@
     "available": true,
     "published_at": "2024-01-03T11:00:12+09:00",
     "created_at": "2023-12-27T10:38:33+09:00"
+  },
+  {
+    "id": 7664861184192,
+    "title": "ナガノキャラクターズ エコバッグ入りマスコット（もぐらコロッケ）",
+    "price": "2420",
+    "url": "https://nagano-market.jp/collections/all/products/4582662906631",
+    "image": {
+      "id": 36912333226176,
+      "created_at": "2023-12-11T21:10:18+09:00",
+      "position": 1,
+      "updated_at": "2023-12-11T21:10:50+09:00",
+      "product_id": 7664861184192,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0585/2836/6784/files/4582662906631_1.jpg?v=1702296650",
+      "width": 1200,
+      "height": 1200
+    },
+    "variant_ids": [
+      44288371491008
+    ],
+    "available": true,
+    "published_at": "2025-05-15T18:30:04+09:00",
+    "created_at": "2023-12-11T20:06:54+09:00"
   },
   {
     "id": 7664861151424,
@@ -19267,6 +19313,30 @@
     "available": true,
     "published_at": "2025-03-14T11:00:12+09:00",
     "created_at": "2025-01-20T16:58:49+09:00"
+  },
+  {
+    "id": 8159730172096,
+    "title": "ナガノキャラクターズ ナガノの水族館 トレーディング缶バッジ（全9種）",
+    "price": "330",
+    "url": "https://nagano-market.jp/collections/all/products/4571609355137",
+    "image": {
+      "id": 41965038698688,
+      "created_at": "2025-01-21T13:27:07+09:00",
+      "position": 1,
+      "updated_at": "2025-01-21T13:27:08+09:00",
+      "product_id": 8159730172096,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0585/2836/6784/files/image_1_8b9e4d52-6cfe-40f8-a0b6-7478c7011169.jpg?v=1737433628",
+      "width": 1200,
+      "height": 1200
+    },
+    "variant_ids": [
+      46026568499392,
+      46026568532160
+    ],
+    "available": true,
+    "published_at": "2025-05-15T18:30:03+09:00",
+    "created_at": "2025-01-20T16:58:50+09:00"
   },
   {
     "id": 8159733153984,
@@ -34827,6 +34897,29 @@
     "available": false,
     "published_at": "2024-11-08T11:00:23+09:00",
     "created_at": "2022-01-27T00:57:03+09:00"
+  },
+  {
+    "id": 7119138488512,
+    "title": "ナガノマーケット マスキングテープS（ナガノのくまとなかまたち）",
+    "price": "495",
+    "url": "https://nagano-market.jp/collections/all/products/4589468450474",
+    "image": {
+      "id": 32371164348608,
+      "created_at": "2022-01-28T11:56:07+09:00",
+      "position": 1,
+      "updated_at": "2022-01-28T11:56:08+09:00",
+      "product_id": 7119138488512,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0585/2836/6784/products/4589468450474.jpg?v=1643338568",
+      "width": 1500,
+      "height": 1500
+    },
+    "variant_ids": [
+      41555845185728
+    ],
+    "available": true,
+    "published_at": "2025-05-15T18:30:03+09:00",
+    "created_at": "2022-01-27T00:57:04+09:00"
   },
   {
     "id": 7492175855808,

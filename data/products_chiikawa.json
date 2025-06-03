@@ -26639,7 +26639,7 @@
     "variant_ids": [
       44067109470449
     ],
-    "available": true,
+    "available": false,
     "published_at": "2024-11-29T11:00:10+09:00",
     "created_at": "2023-11-15T11:39:45+09:00"
   },
@@ -48807,7 +48807,8 @@
     ],
     "available": false,
     "published_at": "2022-08-10T11:00:24+09:00",
-    "created_at": "2022-08-09T13:20:15+09:00"
+    "created_at": "2022-08-09T13:20:15+09:00",
+    "restock_date": "2025/06/05"
   },
   {
     "id": 7770195886321,
@@ -55151,7 +55152,8 @@
     ],
     "available": false,
     "published_at": "2025-02-28T11:00:13+09:00",
-    "created_at": "2025-02-21T21:58:22+09:00"
+    "created_at": "2025-02-21T21:58:22+09:00",
+    "restock_date": "2025/06/05"
   },
   {
     "id": 8754463244529,
@@ -101346,7 +101348,7 @@
     "variant_ids": [
       46158392131825
     ],
-    "available": true,
+    "available": false,
     "published_at": "2025-05-30T11:00:15+09:00",
     "created_at": "2025-05-23T15:44:46+09:00"
   },

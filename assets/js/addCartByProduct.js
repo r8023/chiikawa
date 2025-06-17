@@ -73,7 +73,7 @@ async function start() {
 				
 				retries++;
 				if (retries <= retryCount) {
-					await new Promise(resolve => setTimeout(resolve, 1000)); // 1 秒後重試
+					await new Promise(resolve => setTimeout(resolve, 1500)); // 1.5 秒後重試
 				}
 			}
 		}

@@ -25,7 +25,7 @@ async function start() {
 		{ id: "44099033563328", quantity: 1, name: "聖誕襪兔兔" },
 		{ id: "44099033497792", quantity: 1, name: "聖誕襪吉伊" },
 		{ id: "44099033530560", quantity: 1, name: "聖誕襪小八" },
-		{ id: "46445614432448", quantity: 1, name: "測試袋子" },
+		{ id: "46445614432448", quantity: 1, name: "測試袋子" }
 		/* { id: "46290852839616", quantity: 1, name: "可愛熊" },
 		{ id: "43891553108209", quantity: 1, name: "辣咖哩兔兔" },
 		{ id: "43891553042673", quantity: 1, name: "辣咖哩小八" },

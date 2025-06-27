@@ -720,7 +720,7 @@
     "variant_ids": [
       42845882810560
     ],
-    "available": true,
+    "available": false,
     "published_at": "2022-06-03T14:51:36+09:00",
     "created_at": "2022-06-01T15:34:06+09:00"
   },
@@ -4614,7 +4614,7 @@
     "variant_ids": [
       41573953110208
     ],
-    "available": true,
+    "available": false,
     "published_at": "2022-02-03T19:04:26+09:00",
     "created_at": "2022-01-30T19:37:39+09:00"
   },
@@ -5373,7 +5373,7 @@
     "variant_ids": [
       41573954945216
     ],
-    "available": true,
+    "available": false,
     "published_at": "2022-02-03T19:04:12+09:00",
     "created_at": "2022-01-30T19:37:56+09:00"
   },
@@ -7182,7 +7182,7 @@
     "variant_ids": [
       45116983410880
     ],
-    "available": true,
+    "available": false,
     "published_at": "2025-06-19T18:30:02+09:00",
     "created_at": "2024-05-20T13:29:53+09:00"
   },
@@ -7205,7 +7205,7 @@
     "variant_ids": [
       43973391057088
     ],
-    "available": true,
+    "available": false,
     "published_at": "2024-11-08T11:00:12+09:00",
     "created_at": "2023-10-18T13:08:49+09:00"
   },
@@ -7665,7 +7665,7 @@
     "variant_ids": [
       45116984197312
     ],
-    "available": true,
+    "available": false,
     "published_at": "2024-09-19T18:30:02+09:00",
     "created_at": "2024-05-20T13:30:27+09:00"
   },
@@ -9572,7 +9572,7 @@
     "variant_ids": [
       45224432959680
     ],
-    "available": true,
+    "available": false,
     "published_at": "2024-06-07T11:00:03+09:00",
     "created_at": "2024-06-05T10:31:39+09:00"
   },
@@ -9940,7 +9940,7 @@
     "variant_ids": [
       43837445963968
     ],
-    "available": true,
+    "available": false,
     "published_at": "2023-09-20T11:00:02+09:00",
     "created_at": "2023-09-15T12:24:03+09:00"
   },
@@ -10791,7 +10791,7 @@
     "variant_ids": [
       44030464032960
     ],
-    "available": true,
+    "available": false,
     "published_at": "2023-10-27T11:00:00+09:00",
     "created_at": "2023-10-26T13:03:52+09:00"
   },
@@ -11826,7 +11826,7 @@
     "variant_ids": [
       44324857938112
     ],
-    "available": true,
+    "available": false,
     "published_at": "2024-01-03T11:00:10+09:00",
     "created_at": "2023-12-27T10:38:37+09:00"
   },
@@ -12102,7 +12102,7 @@
     "variant_ids": [
       44288371523776
     ],
-    "available": true,
+    "available": false,
     "published_at": "2025-01-30T18:30:03+09:00",
     "created_at": "2023-12-11T20:06:55+09:00"
   },
@@ -12470,7 +12470,7 @@
     "variant_ids": [
       46290854052032
     ],
-    "available": true,
+    "available": false,
     "published_at": "2025-04-18T11:00:16+09:00",
     "created_at": "2025-04-14T18:10:01+09:00"
   },
@@ -14034,7 +14034,7 @@
     "variant_ids": [
       43736251826368
     ],
-    "available": true,
+    "available": false,
     "published_at": "2025-05-01T18:30:03+09:00",
     "created_at": "2023-07-12T09:24:38+09:00"
   },
@@ -16475,7 +16475,7 @@
     "variant_ids": [
       46065850417344
     ],
-    "available": true,
+    "available": false,
     "published_at": "2025-02-14T11:00:27+09:00",
     "created_at": "2025-02-04T15:55:48+09:00"
   },
@@ -17395,7 +17395,7 @@
     "variant_ids": [
       44324858429632
     ],
-    "available": true,
+    "available": false,
     "published_at": "2024-01-03T11:00:25+09:00",
     "created_at": "2023-12-27T10:38:46+09:00"
   },
@@ -18108,7 +18108,7 @@
     "variant_ids": [
       44324860395712
     ],
-    "available": true,
+    "available": false,
     "published_at": "2024-01-03T11:00:28+09:00",
     "created_at": "2023-12-27T10:39:20+09:00"
   },
@@ -20944,7 +20944,7 @@
     "variant_ids": [
       43775717277888
     ],
-    "available": true,
+    "available": false,
     "published_at": "2023-08-17T11:00:04+09:00",
     "created_at": "2023-08-08T18:10:52+09:00"
   },
@@ -21381,7 +21381,7 @@
     "variant_ids": [
       45438743445696
     ],
-    "available": true,
+    "available": false,
     "published_at": "2024-08-10T11:00:09+09:00",
     "created_at": "2024-07-30T18:31:01+09:00"
   },
@@ -24049,7 +24049,7 @@
     "variant_ids": [
       44324861018304
     ],
-    "available": true,
+    "available": false,
     "published_at": "2024-01-03T11:00:44+09:00",
     "created_at": "2023-12-27T10:39:31+09:00"
   },
@@ -24072,7 +24072,7 @@
     "variant_ids": [
       44324856463552
     ],
-    "available": true,
+    "available": false,
     "published_at": "2025-01-30T18:30:08+09:00",
     "created_at": "2023-12-27T10:38:12+09:00"
   },
@@ -24095,7 +24095,7 @@
     "variant_ids": [
       43775717179584
     ],
-    "available": true,
+    "available": false,
     "published_at": "2023-08-17T11:00:03+09:00",
     "created_at": "2023-08-08T18:10:51+09:00"
   },
@@ -24187,7 +24187,7 @@
     "variant_ids": [
       45861528305856
     ],
-    "available": true,
+    "available": false,
     "published_at": "2024-12-20T11:00:16+09:00",
     "created_at": "2024-12-12T11:34:34+09:00"
   },
@@ -24923,7 +24923,7 @@
     "variant_ids": [
       44324859510976
     ],
-    "available": true,
+    "available": false,
     "published_at": "2024-01-03T11:00:48+09:00",
     "created_at": "2023-12-27T10:39:05+09:00"
   },
@@ -25434,6 +25434,52 @@
     "created_at": "2023-12-11T20:06:44+09:00"
   },
   {
+    "id": 8267359125696,
+    "title": "ナガノキャラクターズ 雨だねマスコット（くま）",
+    "price": "1870",
+    "url": "https://nagano-market.jp/collections/all/products/4571609365495",
+    "image": {
+      "id": 44456444362944,
+      "created_at": "2025-06-23T17:13:41+09:00",
+      "position": 1,
+      "updated_at": "2025-06-23T17:13:43+09:00",
+      "product_id": 8267359125696,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0585/2836/6784/files/4571609365495_1.jpg?v=1750666423",
+      "width": 1200,
+      "height": 1200
+    },
+    "variant_ids": [
+      46504310538432
+    ],
+    "available": false,
+    "published_at": "2025-06-27T11:00:04+09:00",
+    "created_at": "2025-06-23T15:14:44+09:00"
+  },
+  {
+    "id": 8267359191232,
+    "title": "ナガノキャラクターズ 雨だねマスコット（パグ）",
+    "price": "1870",
+    "url": "https://nagano-market.jp/collections/all/products/4571609365501",
+    "image": {
+      "id": 44456353464512,
+      "created_at": "2025-06-23T17:08:46+09:00",
+      "position": 1,
+      "updated_at": "2025-06-23T17:09:24+09:00",
+      "product_id": 8267359191232,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0585/2836/6784/files/4571609365501_1.jpg?v=1750666164",
+      "width": 1200,
+      "height": 1200
+    },
+    "variant_ids": [
+      46504310603968
+    ],
+    "available": false,
+    "published_at": "2025-06-27T11:00:04+09:00",
+    "created_at": "2025-06-23T15:14:47+09:00"
+  },
+  {
     "id": 7553910898880,
     "title": "ナガノキャラクターズ 食べ食べたちのほどよいサイズの巾着",
     "price": "1320",
@@ -25475,7 +25521,7 @@
     "variant_ids": [
       43973386731712
     ],
-    "available": true,
+    "available": false,
     "published_at": "2023-10-20T11:00:16+09:00",
     "created_at": "2023-10-18T13:08:43+09:00"
   },
@@ -27513,7 +27559,7 @@
     "variant_ids": [
       43338116169920
     ],
-    "available": true,
+    "available": false,
     "published_at": "2022-12-07T11:00:34+09:00",
     "created_at": "2022-12-06T13:29:39+09:00"
   },
@@ -30048,7 +30094,7 @@
     "variant_ids": [
       43338114662592
     ],
-    "available": true,
+    "available": false,
     "published_at": "2022-12-07T11:00:30+09:00",
     "created_at": "2022-12-06T13:25:08+09:00"
   },
@@ -31436,7 +31482,7 @@
     "variant_ids": [
       43601278795968
     ],
-    "available": true,
+    "available": false,
     "published_at": "2023-04-19T11:00:12+09:00",
     "created_at": "2023-04-17T10:19:39+09:00"
   },
@@ -31735,7 +31781,7 @@
     "variant_ids": [
       43645046653120
     ],
-    "available": true,
+    "available": false,
     "published_at": "2023-05-19T11:00:02+09:00",
     "created_at": "2023-05-12T18:27:47+09:00"
   },
@@ -32057,7 +32103,7 @@
     "variant_ids": [
       42779796046016
     ],
-    "available": true,
+    "available": false,
     "published_at": "2022-05-19T17:09:07+09:00",
     "created_at": "2022-05-16T14:03:56+09:00"
   },
@@ -32563,7 +32609,7 @@
     "variant_ids": [
       42780011331776
     ],
-    "available": true,
+    "available": false,
     "published_at": "2022-05-19T17:09:02+09:00",
     "created_at": "2022-05-16T15:53:25+09:00"
   },
@@ -32908,7 +32954,7 @@
     "variant_ids": [
       43645046948032
     ],
-    "available": true,
+    "available": false,
     "published_at": "2025-05-01T18:30:04+09:00",
     "created_at": "2023-05-12T18:27:51+09:00"
   },
@@ -33322,7 +33368,7 @@
     "variant_ids": [
       43338114531520
     ],
-    "available": true,
+    "available": false,
     "published_at": "2022-12-07T11:00:29+09:00",
     "created_at": "2022-12-06T13:25:05+09:00"
   },
@@ -33553,7 +33599,7 @@
       43529175662784,
       43529175695552
     ],
-    "available": true,
+    "available": false,
     "published_at": "2023-03-17T11:00:00+09:00",
     "created_at": "2023-03-13T14:19:05+09:00"
   },
@@ -36941,7 +36987,7 @@
     "variant_ids": [
       43338114728128
     ],
-    "available": true,
+    "available": false,
     "published_at": "2022-12-07T11:00:31+09:00",
     "created_at": "2022-12-06T13:25:09+09:00"
   },
@@ -37125,7 +37171,7 @@
     "variant_ids": [
       43601278959808
     ],
-    "available": true,
+    "available": false,
     "published_at": "2023-04-19T11:00:13+09:00",
     "created_at": "2023-04-17T10:19:42+09:00"
   },
@@ -37401,7 +37447,7 @@
     "variant_ids": [
       43750994444480
     ],
-    "available": true,
+    "available": false,
     "published_at": "2024-10-10T18:30:08+09:00",
     "created_at": "2023-07-21T17:55:25+09:00"
   },
@@ -38252,7 +38298,7 @@
     "variant_ids": [
       43529175498944
     ],
-    "available": true,
+    "available": false,
     "published_at": "2023-03-17T11:00:01+09:00",
     "created_at": "2023-03-13T14:19:03+09:00"
   },
@@ -38298,7 +38344,7 @@
     "variant_ids": [
       41555845251264
     ],
-    "available": true,
+    "available": false,
     "published_at": "2022-02-03T19:02:56+09:00",
     "created_at": "2022-01-27T00:57:05+09:00"
   },
@@ -38390,7 +38436,7 @@
     "variant_ids": [
       43391760007360
     ],
-    "available": true,
+    "available": false,
     "published_at": "2023-01-13T11:00:02+09:00",
     "created_at": "2023-01-11T16:37:55+09:00"
   },
@@ -38644,7 +38690,7 @@
     "variant_ids": [
       43299975921856
     ],
-    "available": true,
+    "available": false,
     "published_at": "2022-11-18T11:00:03+09:00",
     "created_at": "2022-11-16T20:18:27+09:00"
   },
@@ -38690,7 +38736,7 @@
     "variant_ids": [
       43299975790784
     ],
-    "available": true,
+    "available": false,
     "published_at": "2022-11-18T11:00:03+09:00",
     "created_at": "2022-11-16T20:18:26+09:00"
   },

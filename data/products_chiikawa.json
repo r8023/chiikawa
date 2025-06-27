@@ -15702,7 +15702,7 @@
     "variant_ids": [
       46505701441777
     ],
-    "available": true,
+    "available": false,
     "published_at": "2025-06-27T11:00:06+09:00",
     "created_at": "2025-06-24T09:58:48+09:00"
   },
@@ -20485,6 +20485,29 @@
     "available": true,
     "published_at": "2025-05-22T18:00:19+09:00",
     "created_at": "2023-02-10T13:05:14+09:00"
+  },
+  {
+    "id": 7708141093105,
+    "title": "ちいかわ お茶碗（ちいかわ）",
+    "price": "1320",
+    "url": "https://chiikawamarket.jp/collections/all/products/4589468436232",
+    "image": {
+      "id": 37357507379441,
+      "created_at": "2022-06-12T20:19:01+09:00",
+      "position": 1,
+      "updated_at": "2022-06-12T20:19:01+09:00",
+      "product_id": 7708141093105,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0626/7142/1681/products/000000000067_1.jpg?v=1655032741",
+      "width": 800,
+      "height": 800
+    },
+    "variant_ids": [
+      42919025017073
+    ],
+    "available": false,
+    "published_at": "2022-06-17T11:05:33+09:00",
+    "created_at": "2022-06-12T20:19:01+09:00"
   },
   {
     "id": 7708162031857,
@@ -128717,7 +128740,7 @@
     "variant_ids": [
       46352797171953
     ],
-    "available": true,
+    "available": false,
     "published_at": "2025-06-20T11:00:41+09:00",
     "created_at": "2025-06-16T13:48:43+09:00"
   },
@@ -138836,7 +138859,7 @@
     "variant_ids": [
       45634255421681
     ],
-    "available": true,
+    "available": false,
     "published_at": "2025-06-05T18:00:23+09:00",
     "created_at": "2024-10-27T18:37:01+09:00"
   },
@@ -147667,29 +147690,6 @@
     "available": false,
     "published_at": "2022-06-17T11:05:34+09:00",
     "created_at": "2022-06-12T20:18:58+09:00"
-  },
-  {
-    "id": 7708141093105,
-    "title": "ちいかわ　お茶碗",
-    "price": "1320",
-    "url": "https://chiikawamarket.jp/collections/all/products/4589468436232",
-    "image": {
-      "id": 37357507379441,
-      "created_at": "2022-06-12T20:19:01+09:00",
-      "position": 1,
-      "updated_at": "2022-06-12T20:19:01+09:00",
-      "product_id": 7708141093105,
-      "variant_ids": [],
-      "src": "https://cdn.shopify.com/s/files/1/0626/7142/1681/products/000000000067_1.jpg?v=1655032741",
-      "width": 800,
-      "height": 800
-    },
-    "variant_ids": [
-      42919025017073
-    ],
-    "available": false,
-    "published_at": "2022-06-17T11:05:33+09:00",
-    "created_at": "2022-06-12T20:19:01+09:00"
   },
   {
     "id": 7708141420785,

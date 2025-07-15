@@ -22,6 +22,9 @@ if (!document.querySelector('script[src="https://r8023.github.io/chiikawa/assets
 
 async function start() {
 	const productData = [
+		{ id: "43504004563185", quantity: 1, name: "騎行兔兔" },
+		{ id: "43504004464881", quantity: 1, name: "騎行吉伊" },
+		{ id: "43504004530417", quantity: 1, name: "騎行小八" },
 		{ id: "43764095484145", quantity: 1, name: "惡兔" },
 		{ id: "43764095516913", quantity: 1, name: "惡栗子" },
 		{ id: "43764095615217", quantity: 1, name: "善獅薩" },

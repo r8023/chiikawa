@@ -1161,7 +1161,42 @@
   },
   "8138533994688": {
     "id": 8138533994688,
-    "available": true,
-    "restock_date": null
+    "available": false,
+    "restock_date": "2025/07/17"
+  },
+  "8138534191296": {
+    "id": 8138534191296,
+    "available": false,
+    "restock_date": "2025/07/17"
+  },
+  "8138534060224": {
+    "id": 8138534060224,
+    "available": false,
+    "restock_date": "2025/07/17"
+  },
+  "8138534125760": {
+    "id": 8138534125760,
+    "available": false,
+    "restock_date": "2025/07/17"
+  },
+  "8138533667008": {
+    "id": 8138533667008,
+    "available": false,
+    "restock_date": "2025/07/17"
+  },
+  "8138533830848": {
+    "id": 8138533830848,
+    "available": false,
+    "restock_date": "2025/07/17"
+  },
+  "8138534027456": {
+    "id": 8138534027456,
+    "available": false,
+    "restock_date": "2025/07/17"
+  },
+  "8138534092992": {
+    "id": 8138534092992,
+    "available": false,
+    "restock_date": "2025/07/17"
   }
 }

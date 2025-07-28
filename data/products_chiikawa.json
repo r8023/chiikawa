@@ -4513,6 +4513,29 @@
     "created_at": "2022-06-13T01:13:42+09:00"
   },
   {
+    "id": 8647152042225,
+    "title": "【検証用】在庫アラート_テスト",
+    "price": "0",
+    "url": "https://chiikawamarket.jp/collections/all/products/back-in-stock-test-20240924",
+    "image": {
+      "id": 42220705317105,
+      "created_at": "2024-09-24T16:38:33+09:00",
+      "position": 1,
+      "updated_at": "2024-09-24T16:38:34+09:00",
+      "product_id": 8647152042225,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0626/7142/1681/files/back-in-stock-test_01.jpg?v=1727163514",
+      "width": 700,
+      "height": 700
+    },
+    "variant_ids": [
+      45543728185585
+    ],
+    "available": false,
+    "published_at": "2025-07-28T15:13:08+09:00",
+    "created_at": "2024-09-24T16:11:25+09:00"
+  },
+  {
     "id": 7681182302449,
     "title": "きゃらポシリーズ ちいかわ トレーディングおかおポーチ（まいにちなかよし編）（全8種）",
     "price": "660",

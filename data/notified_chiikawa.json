@@ -2758,5 +2758,10 @@
     "id": 8738985115889,
     "available": false,
     "restock_date": "2025/07/31"
+  },
+  "8043510497521": {
+    "id": 8043510497521,
+    "available": true,
+    "restock_date": null
   }
 }

@@ -1242,27 +1242,27 @@
     "created_at": "2023-10-23T16:44:14+09:00"
   },
   {
-    "id": 8467312443633,
-    "title": "【予約】ちいかわ ハッピーバッグ2025（巳年）【2024年12月中旬より順次発送予定（発送延期の場合もキャンセル不可）】【通常商品と同時購入・配送希望日指定不可】【キャンペーン対象外】",
-    "price": "9900",
-    "url": "https://chiikawamarket.jp/collections/all/products/4571609348115",
+    "id": 9239596957937,
+    "title": "【予約】ちいかわ ハッピーバッグ2026（午年）【2025年12月中旬より順次発送予定（発送延期の場合もキャンセル不可）】【通常商品と同時購入・配送希望日指定不可】【キャンペーン対象外】",
+    "price": "11000",
+    "url": "https://chiikawamarket.jp/collections/all/products/4571609376231",
     "image": {
-      "id": 41777406804209,
-      "created_at": "2024-08-09T13:52:04+09:00",
+      "id": 45247528861937,
+      "created_at": "2025-08-06T17:45:58+09:00",
       "position": 1,
-      "updated_at": "2024-08-09T13:52:06+09:00",
-      "product_id": 8467312443633,
+      "updated_at": "2025-08-06T17:46:14+09:00",
+      "product_id": 9239596957937,
       "variant_ids": [],
-      "src": "https://cdn.shopify.com/s/files/1/0626/7142/1681/files/image_10.jpg?v=1723179126",
+      "src": "https://cdn.shopify.com/s/files/1/0626/7142/1681/files/4571609376231_0.jpg?v=1754469974",
       "width": 800,
       "height": 800
     },
     "variant_ids": [
-      45285316493553
+      46744721064177
     ],
-    "available": false,
-    "published_at": "2024-08-08T18:00:01+09:00",
-    "created_at": "2024-08-02T17:09:22+09:00"
+    "available": true,
+    "published_at": "2025-08-08T18:00:04+09:00",
+    "created_at": "2025-08-05T00:03:28+09:00"
   },
   {
     "id": 8043511447793,
@@ -113621,7 +113621,7 @@
     "variant_ids": [
       45283157967089
     ],
-    "available": true,
+    "available": false,
     "published_at": "2025-06-05T18:00:25+09:00",
     "created_at": "2024-08-01T17:29:45+09:00"
   },

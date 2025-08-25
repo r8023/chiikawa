@@ -1,8 +1,8 @@
 {
   "8222097178816": {
     "id": 8222097178816,
-    "available": true,
-    "restock_date": null
+    "available": false,
+    "restock_date": "2025/08/28"
   },
   "8159729680576": {
     "id": 8159729680576,
@@ -12,7 +12,7 @@
   "8222097309888": {
     "id": 8222097309888,
     "available": false,
-    "restock_date": "2025/04/24"
+    "restock_date": "2025/08/28"
   },
   "8222099538112": {
     "id": 8222099538112,
@@ -506,13 +506,13 @@
   },
   "7915328012480": {
     "id": 7915328012480,
-    "available": true,
-    "restock_date": null
+    "available": false,
+    "restock_date": "2025/08/28"
   },
   "7915327914176": {
     "id": 7915327914176,
-    "available": true,
-    "restock_date": null
+    "available": false,
+    "restock_date": "2025/08/28"
   },
   "8126672437440": {
     "id": 8126672437440,
@@ -691,8 +691,8 @@
   },
   "7673365102784": {
     "id": 7673365102784,
-    "available": true,
-    "restock_date": null
+    "available": false,
+    "restock_date": "2025/08/28"
   },
   "7961334415552": {
     "id": 7961334415552,
@@ -771,8 +771,8 @@
   },
   "7673365201088": {
     "id": 7673365201088,
-    "available": true,
-    "restock_date": null
+    "available": false,
+    "restock_date": "2025/08/28"
   },
   "7673366184128": {
     "id": 7673366184128,
@@ -811,8 +811,8 @@
   },
   "7673365135552": {
     "id": 7673365135552,
-    "available": true,
-    "restock_date": null
+    "available": false,
+    "restock_date": "2025/08/28"
   },
   "7744519667904": {
     "id": 7744519667904,
@@ -1601,13 +1601,13 @@
   },
   "7673365430464": {
     "id": 7673365430464,
-    "available": true,
-    "restock_date": null
+    "available": false,
+    "restock_date": "2025/08/28"
   },
   "8045721583808": {
     "id": 8045721583808,
-    "available": true,
-    "restock_date": null
+    "available": false,
+    "restock_date": "2025/08/28"
   },
   "7915327783104": {
     "id": 7915327783104,
@@ -1938,5 +1938,95 @@
     "id": 8286881185984,
     "available": false,
     "restock_date": "2025/08/21"
+  },
+  "7915328045248": {
+    "id": 7915328045248,
+    "available": false,
+    "restock_date": "2025/08/28"
+  },
+  "8293568839872": {
+    "id": 8293568839872,
+    "available": false,
+    "restock_date": "2025/08/28"
+  },
+  "8222097703104": {
+    "id": 8222097703104,
+    "available": false,
+    "restock_date": "2025/08/28"
+  },
+  "8222098194624": {
+    "id": 8222098194624,
+    "available": false,
+    "restock_date": "2025/08/28"
+  },
+  "8222097604800": {
+    "id": 8222097604800,
+    "available": false,
+    "restock_date": "2025/08/28"
+  },
+  "8222098227392": {
+    "id": 8222098227392,
+    "available": false,
+    "restock_date": "2025/08/28"
+  },
+  "8222098260160": {
+    "id": 8222098260160,
+    "available": false,
+    "restock_date": "2025/08/28"
+  },
+  "8222097670336": {
+    "id": 8222097670336,
+    "available": false,
+    "restock_date": "2025/08/28"
+  },
+  "8222098096320": {
+    "id": 8222098096320,
+    "available": false,
+    "restock_date": "2025/08/28"
+  },
+  "8222098129088": {
+    "id": 8222098129088,
+    "available": false,
+    "restock_date": "2025/08/28"
+  },
+  "8222097735872": {
+    "id": 8222097735872,
+    "available": false,
+    "restock_date": "2025/08/28"
+  },
+  "8222097572032": {
+    "id": 8222097572032,
+    "available": false,
+    "restock_date": "2025/08/28"
+  },
+  "8222097801408": {
+    "id": 8222097801408,
+    "available": false,
+    "restock_date": "2025/08/28"
+  },
+  "8222097834176": {
+    "id": 8222097834176,
+    "available": false,
+    "restock_date": "2025/08/28"
+  },
+  "7673365332160": {
+    "id": 7673365332160,
+    "available": false,
+    "restock_date": "2025/08/28"
+  },
+  "7673365364928": {
+    "id": 7673365364928,
+    "available": false,
+    "restock_date": "2025/08/28"
+  },
+  "7915327979712": {
+    "id": 7915327979712,
+    "available": false,
+    "restock_date": "2025/08/28"
+  },
+  "7673365266624": {
+    "id": 7673365266624,
+    "available": false,
+    "restock_date": "2025/08/28"
   }
 }

@@ -129958,7 +129958,7 @@
     "variant_ids": [
       46158392951025
     ],
-    "available": false,
+    "available": true,
     "published_at": "2025-07-31T18:00:09+09:00",
     "created_at": "2025-05-23T15:45:08+09:00"
   },
@@ -134973,7 +134973,7 @@
     "variant_ids": [
       46039383048433
     ],
-    "available": true,
+    "available": false,
     "published_at": "2025-06-26T18:00:12+09:00",
     "created_at": "2025-03-31T18:21:07+09:00"
   },

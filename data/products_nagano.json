@@ -2934,7 +2934,7 @@
     "variant_ids": [
       41573955174592
     ],
-    "available": true,
+    "available": false,
     "published_at": "2022-02-03T19:04:10+09:00",
     "created_at": "2022-01-30T19:37:58+09:00"
   },
@@ -5569,7 +5569,7 @@
       41259032740032,
       41259032772800
     ],
-    "available": true,
+    "available": false,
     "published_at": "2021-11-27T17:47:42+09:00",
     "created_at": "2021-11-27T17:47:42+09:00"
   },
@@ -7072,6 +7072,29 @@
     "created_at": "2024-12-05T10:55:03+09:00"
   },
   {
+    "id": 7915328045248,
+    "title": "ナガノキャラクターズ 1000ピースコンパクトジグソーパズル（No.1000c-16 食べるかおいしいモノ）",
+    "price": "3080",
+    "url": "https://nagano-market.jp/collections/all/products/4970381524722",
+    "image": {
+      "id": 37758266540224,
+      "created_at": "2024-05-22T11:01:14+09:00",
+      "position": 1,
+      "updated_at": "2024-05-22T11:01:17+09:00",
+      "product_id": 7915328045248,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0585/2836/6784/files/4970381524722_1.jpg?v=1716343277",
+      "width": 1200,
+      "height": 1200
+    },
+    "variant_ids": [
+      45116985573568
+    ],
+    "available": false,
+    "published_at": "2025-08-28T18:30:15+09:00",
+    "created_at": "2024-05-20T13:31:33+09:00"
+  },
+  {
     "id": 7527453786304,
     "title": "ナガノキャラクターズ 2024年1月始まり卓上カレンダー（ミニシール付き）",
     "price": "1430",
@@ -8148,7 +8171,7 @@
     "variant_ids": [
       45116983279808
     ],
-    "available": true,
+    "available": false,
     "published_at": "2024-05-25T11:00:10+09:00",
     "created_at": "2024-05-20T13:29:45+09:00"
   },
@@ -8519,6 +8542,52 @@
     "available": false,
     "published_at": "2025-08-08T11:00:59+09:00",
     "created_at": "2023-09-15T12:23:59+09:00"
+  },
+  {
+    "id": 8293568839872,
+    "title": "ナガノキャラクターズ mitamemoブッククリップ（全8種）1BOX 8個入",
+    "price": "4400",
+    "url": "https://nagano-market.jp/collections/all/products/4970381687304",
+    "image": {
+      "id": 45907333480640,
+      "created_at": "2025-08-05T11:41:18+09:00",
+      "position": 1,
+      "updated_at": "2025-08-05T11:41:20+09:00",
+      "product_id": 8293568839872,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0585/2836/6784/files/4970381687630_1.jpg?v=1754361680",
+      "width": 1200,
+      "height": 1200
+    },
+    "variant_ids": [
+      46632939356352
+    ],
+    "available": false,
+    "published_at": "2025-08-28T18:30:15+09:00",
+    "created_at": "2025-08-04T11:26:25+09:00"
+  },
+  {
+    "id": 7673365102784,
+    "title": "ナガノキャラクターズ mitamemo缶バッジ（全12種）1BOX 12個入",
+    "price": "6600",
+    "url": "https://nagano-market.jp/collections/all/products/4970381673819",
+    "image": {
+      "id": 36960973291712,
+      "created_at": "2023-12-27T15:43:02+09:00",
+      "position": 1,
+      "updated_at": "2023-12-27T15:43:03+09:00",
+      "product_id": 7673365102784,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0585/2836/6784/files/4970381673819_1.jpg?v=1703659383",
+      "width": 1200,
+      "height": 1200
+    },
+    "variant_ids": [
+      44324860264640
+    ],
+    "available": false,
+    "published_at": "2025-08-28T18:30:14+09:00",
+    "created_at": "2023-12-27T10:39:18+09:00"
   },
   {
     "id": 7673361236160,
@@ -9000,7 +9069,7 @@
       45816582930624,
       45816582963392
     ],
-    "available": true,
+    "available": false,
     "published_at": "2024-11-29T11:00:08+09:00",
     "created_at": "2024-11-20T17:03:22+09:00"
   },
@@ -9027,6 +9096,29 @@
     "available": true,
     "published_at": "2024-11-29T11:00:10+09:00",
     "created_at": "2024-11-20T17:03:23+09:00"
+  },
+  {
+    "id": 8222097178816,
+    "title": "ナガノキャラクターズ 「かわいい」札持ち ハートなナガノのくまマスコット",
+    "price": "1760",
+    "url": "https://nagano-market.jp/collections/all/products/4571609355779",
+    "image": {
+      "id": 43505267736768,
+      "created_at": "2025-04-15T11:40:29+09:00",
+      "position": 1,
+      "updated_at": "2025-04-15T11:40:31+09:00",
+      "product_id": 8222097178816,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0585/2836/6784/files/4571609355779_1.jpg?v=1744684831",
+      "width": 1200,
+      "height": 1200
+    },
+    "variant_ids": [
+      46290852839616
+    ],
+    "available": true,
+    "published_at": "2025-08-28T18:30:08+09:00",
+    "created_at": "2025-04-14T18:08:50+09:00"
   },
   {
     "id": 7527453655232,
@@ -11600,7 +11692,7 @@
     "variant_ids": [
       46546161303744
     ],
-    "available": true,
+    "available": false,
     "published_at": "2025-07-11T11:00:09+09:00",
     "created_at": "2025-07-07T12:18:21+09:00"
   },
@@ -13008,6 +13100,282 @@
     "created_at": "2025-04-14T18:10:35+09:00"
   },
   {
+    "id": 8222097703104,
+    "title": "ナガノキャラクターズ カラーなナガノのくまマスコット（イエロー）",
+    "price": "1540",
+    "url": "https://nagano-market.jp/collections/all/products/4571609358190",
+    "image": {
+      "id": 43505379705024,
+      "created_at": "2025-04-15T11:50:47+09:00",
+      "position": 1,
+      "updated_at": "2025-04-15T11:50:49+09:00",
+      "product_id": 8222097703104,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0585/2836/6784/files/4571609358190_1.jpg?v=1744685449",
+      "width": 1200,
+      "height": 1200
+    },
+    "variant_ids": [
+      46290853363904
+    ],
+    "available": false,
+    "published_at": "2025-08-28T18:30:09+09:00",
+    "created_at": "2025-04-14T18:09:29+09:00"
+  },
+  {
+    "id": 8222098194624,
+    "title": "ナガノキャラクターズ カラーなナガノのくまマスコット（グレー）",
+    "price": "1540",
+    "url": "https://nagano-market.jp/collections/all/products/4571609358251",
+    "image": {
+      "id": 43505397694656,
+      "created_at": "2025-04-15T11:53:07+09:00",
+      "position": 1,
+      "updated_at": "2025-04-15T11:53:09+09:00",
+      "product_id": 8222098194624,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0585/2836/6784/files/4571609358251_1.jpg?v=1744685589",
+      "width": 1200,
+      "height": 1200
+    },
+    "variant_ids": [
+      46290853855424
+    ],
+    "available": false,
+    "published_at": "2025-08-28T18:30:11+09:00",
+    "created_at": "2025-04-14T18:09:46+09:00"
+  },
+  {
+    "id": 8222097604800,
+    "title": "ナガノキャラクターズ カラーなナガノのくまマスコット（ショッキングピンク）",
+    "price": "1540",
+    "url": "https://nagano-market.jp/collections/all/products/4571609358176",
+    "image": {
+      "id": 43505361879232,
+      "created_at": "2025-04-15T11:49:58+09:00",
+      "position": 1,
+      "updated_at": "2025-04-15T11:50:00+09:00",
+      "product_id": 8222097604800,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0585/2836/6784/files/4571609358176_1.jpg?v=1744685400",
+      "width": 1200,
+      "height": 1200
+    },
+    "variant_ids": [
+      46290853265600
+    ],
+    "available": false,
+    "published_at": "2025-08-28T18:30:13+09:00",
+    "created_at": "2025-04-14T18:09:22+09:00"
+  },
+  {
+    "id": 8222098227392,
+    "title": "ナガノキャラクターズ カラーなナガノのくまマスコット（ダークブラウン）",
+    "price": "1540",
+    "url": "https://nagano-market.jp/collections/all/products/4571609358268",
+    "image": {
+      "id": 43505400807616,
+      "created_at": "2025-04-15T11:53:31+09:00",
+      "position": 1,
+      "updated_at": "2025-04-15T11:53:33+09:00",
+      "product_id": 8222098227392,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0585/2836/6784/files/4571609358268_1.jpg?v=1744685613",
+      "width": 1200,
+      "height": 1200
+    },
+    "variant_ids": [
+      46290853888192
+    ],
+    "available": false,
+    "published_at": "2025-08-28T18:30:12+09:00",
+    "created_at": "2025-04-14T18:09:49+09:00"
+  },
+  {
+    "id": 8222098260160,
+    "title": "ナガノキャラクターズ カラーなナガノのくまマスコット（チャコール）",
+    "price": "1540",
+    "url": "https://nagano-market.jp/collections/all/products/4571609358275",
+    "image": {
+      "id": 43505402347712,
+      "created_at": "2025-04-15T11:53:53+09:00",
+      "position": 1,
+      "updated_at": "2025-04-15T11:53:54+09:00",
+      "product_id": 8222098260160,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0585/2836/6784/files/4571609358275_1.jpg?v=1744685634",
+      "width": 1200,
+      "height": 1200
+    },
+    "variant_ids": [
+      46290853920960
+    ],
+    "available": true,
+    "published_at": "2025-08-28T18:30:11+09:00",
+    "created_at": "2025-04-14T18:09:52+09:00"
+  },
+  {
+    "id": 8222097670336,
+    "title": "ナガノキャラクターズ カラーなナガノのくまマスコット（ピンク）",
+    "price": "1540",
+    "url": "https://nagano-market.jp/collections/all/products/4571609358183",
+    "image": {
+      "id": 43505375772864,
+      "created_at": "2025-04-15T11:50:25+09:00",
+      "position": 1,
+      "updated_at": "2025-04-15T11:50:36+09:00",
+      "product_id": 8222097670336,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0585/2836/6784/files/4571609358183_1.jpg?v=1744685436",
+      "width": 1200,
+      "height": 1200
+    },
+    "variant_ids": [
+      46290853331136
+    ],
+    "available": false,
+    "published_at": "2025-08-28T18:30:09+09:00",
+    "created_at": "2025-04-14T18:09:25+09:00"
+  },
+  {
+    "id": 8222098096320,
+    "title": "ナガノキャラクターズ カラーなナガノのくまマスコット（ミントグリーン）",
+    "price": "1540",
+    "url": "https://nagano-market.jp/collections/all/products/4571609358237",
+    "image": {
+      "id": 43505393565888,
+      "created_at": "2025-04-15T11:52:24+09:00",
+      "position": 1,
+      "updated_at": "2025-04-15T11:52:25+09:00",
+      "product_id": 8222098096320,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0585/2836/6784/files/4571609358237_1.jpg?v=1744685545",
+      "width": 1200,
+      "height": 1200
+    },
+    "variant_ids": [
+      46290853757120
+    ],
+    "available": false,
+    "published_at": "2025-08-28T18:30:10+09:00",
+    "created_at": "2025-04-14T18:09:41+09:00"
+  },
+  {
+    "id": 8222098129088,
+    "title": "ナガノキャラクターズ カラーなナガノのくまマスコット（ライトパープル）",
+    "price": "1540",
+    "url": "https://nagano-market.jp/collections/all/products/4571609358244",
+    "image": {
+      "id": 43505395859648,
+      "created_at": "2025-04-15T11:52:46+09:00",
+      "position": 1,
+      "updated_at": "2025-04-15T11:52:48+09:00",
+      "product_id": 8222098129088,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0585/2836/6784/files/4571609358244_1.jpg?v=1744685568",
+      "width": 1200,
+      "height": 1200
+    },
+    "variant_ids": [
+      46290853789888
+    ],
+    "available": false,
+    "published_at": "2025-08-28T18:30:07+09:00",
+    "created_at": "2025-04-14T18:09:44+09:00"
+  },
+  {
+    "id": 8222097735872,
+    "title": "ナガノキャラクターズ カラーなナガノのくまマスコット（ライトブルー）",
+    "price": "1540",
+    "url": "https://nagano-market.jp/collections/all/products/4571609358206",
+    "image": {
+      "id": 43505384784064,
+      "created_at": "2025-04-15T11:51:11+09:00",
+      "position": 1,
+      "updated_at": "2025-04-15T11:51:12+09:00",
+      "product_id": 8222097735872,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0585/2836/6784/files/4571609358206_1.jpg?v=1744685472",
+      "width": 1200,
+      "height": 1200
+    },
+    "variant_ids": [
+      46290853396672
+    ],
+    "available": false,
+    "published_at": "2025-08-28T18:30:08+09:00",
+    "created_at": "2025-04-14T18:09:32+09:00"
+  },
+  {
+    "id": 8222097572032,
+    "title": "ナガノキャラクターズ カラーなナガノのくまマスコット（レッド）",
+    "price": "1540",
+    "url": "https://nagano-market.jp/collections/all/products/4571609358169",
+    "image": {
+      "id": 43505360339136,
+      "created_at": "2025-04-15T11:49:35+09:00",
+      "position": 1,
+      "updated_at": "2025-04-15T11:49:36+09:00",
+      "product_id": 8222097572032,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0585/2836/6784/files/4571609358169_1.jpg?v=1744685376",
+      "width": 1200,
+      "height": 1200
+    },
+    "variant_ids": [
+      46290853232832
+    ],
+    "available": false,
+    "published_at": "2025-08-28T18:30:11+09:00",
+    "created_at": "2025-04-14T18:09:19+09:00"
+  },
+  {
+    "id": 8222097801408,
+    "title": "ナガノキャラクターズ カラーなナガノのくまマスコット（ロイヤルブルー）",
+    "price": "1540",
+    "url": "https://nagano-market.jp/collections/all/products/4571609358213",
+    "image": {
+      "id": 43505388159168,
+      "created_at": "2025-04-15T11:51:35+09:00",
+      "position": 1,
+      "updated_at": "2025-04-15T11:51:46+09:00",
+      "product_id": 8222097801408,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0585/2836/6784/files/4571609358213_1.jpg?v=1744685506",
+      "width": 1200,
+      "height": 1200
+    },
+    "variant_ids": [
+      46290853462208
+    ],
+    "available": false,
+    "published_at": "2025-08-28T18:30:10+09:00",
+    "created_at": "2025-04-14T18:09:35+09:00"
+  },
+  {
+    "id": 8222097834176,
+    "title": "ナガノキャラクターズ カラーなナガノのくまマスコット（抹茶）",
+    "price": "1540",
+    "url": "https://nagano-market.jp/collections/all/products/4571609358220",
+    "image": {
+      "id": 43505391272128,
+      "created_at": "2025-04-15T11:52:02+09:00",
+      "position": 1,
+      "updated_at": "2025-04-15T11:52:03+09:00",
+      "product_id": 8222097834176,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0585/2836/6784/files/4571609358220_1.jpg?v=1744685523",
+      "width": 1200,
+      "height": 1200
+    },
+    "variant_ids": [
+      46290853494976
+    ],
+    "available": false,
+    "published_at": "2025-08-28T18:30:10+09:00",
+    "created_at": "2025-04-14T18:09:38+09:00"
+  },
+  {
     "id": 8222098817216,
     "title": "ナガノキャラクターズ カラーなヘム付きハンドタオル（きょりゅくん）",
     "price": "1100",
@@ -13187,7 +13555,7 @@
     "variant_ids": [
       46604797444288
     ],
-    "available": true,
+    "available": false,
     "published_at": "2025-08-21T18:30:05+09:00",
     "created_at": "2025-07-23T10:08:03+09:00"
   },
@@ -13233,7 +13601,7 @@
     "variant_ids": [
       45426247434432
     ],
-    "available": true,
+    "available": false,
     "published_at": "2024-12-13T11:00:16+09:00",
     "created_at": "2024-07-25T16:43:47+09:00"
   },
@@ -13629,6 +13997,52 @@
     "created_at": "2023-12-27T10:39:00+09:00"
   },
   {
+    "id": 7673365332160,
+    "title": "ナガノキャラクターズ クリアマステセット①食のしあわせ",
+    "price": "990",
+    "url": "https://nagano-market.jp/collections/all/products/4970381672690",
+    "image": {
+      "id": 36960961659072,
+      "created_at": "2023-12-27T15:40:27+09:00",
+      "position": 1,
+      "updated_at": "2023-12-27T15:40:28+09:00",
+      "product_id": 7673365332160,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0585/2836/6784/files/4970381672690.jpg?v=1703659228",
+      "width": 1200,
+      "height": 1200
+    },
+    "variant_ids": [
+      44324860526784
+    ],
+    "available": false,
+    "published_at": "2025-08-28T18:30:16+09:00",
+    "created_at": "2023-12-27T10:39:22+09:00"
+  },
+  {
+    "id": 7673365364928,
+    "title": "ナガノキャラクターズ クリアマステセット②わっさわさ",
+    "price": "990",
+    "url": "https://nagano-market.jp/collections/all/products/4970381672706",
+    "image": {
+      "id": 36960964903104,
+      "created_at": "2023-12-27T15:41:06+09:00",
+      "position": 1,
+      "updated_at": "2023-12-27T15:41:07+09:00",
+      "product_id": 7673365364928,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0585/2836/6784/files/4970381672706.jpg?v=1703659267",
+      "width": 1200,
+      "height": 1200
+    },
+    "variant_ids": [
+      44324860559552
+    ],
+    "available": false,
+    "published_at": "2025-08-28T18:30:17+09:00",
+    "created_at": "2023-12-27T10:39:23+09:00"
+  },
+  {
     "id": 8169727131840,
     "title": "ナガノキャラクターズ クリオネマスコット",
     "price": "1540",
@@ -13859,6 +14273,52 @@
     "created_at": "2023-12-27T10:39:45+09:00"
   },
   {
+    "id": 7915327979712,
+    "title": "ナガノキャラクターズ ゴールドクリアシール①ナガノキャラクターズ",
+    "price": "550",
+    "url": "https://nagano-market.jp/collections/all/products/4970381682170",
+    "image": {
+      "id": 37758288363712,
+      "created_at": "2024-05-22T11:05:33+09:00",
+      "position": 1,
+      "updated_at": "2024-05-22T11:05:35+09:00",
+      "product_id": 7915327979712,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0585/2836/6784/files/4970381682170_1.jpg?v=1716343535",
+      "width": 1200,
+      "height": 1200
+    },
+    "variant_ids": [
+      45116985409728
+    ],
+    "available": true,
+    "published_at": "2025-08-28T18:30:12+09:00",
+    "created_at": "2024-05-20T13:31:27+09:00"
+  },
+  {
+    "id": 7915328012480,
+    "title": "ナガノキャラクターズ ゴールドクリアシール②もぐらコロッケ",
+    "price": "550",
+    "url": "https://nagano-market.jp/collections/all/products/4970381682187",
+    "image": {
+      "id": 37758290919616,
+      "created_at": "2024-05-22T11:05:50+09:00",
+      "position": 1,
+      "updated_at": "2024-05-22T11:05:52+09:00",
+      "product_id": 7915328012480,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0585/2836/6784/files/4970381682187_1.jpg?v=1716343552",
+      "width": 1200,
+      "height": 1200
+    },
+    "variant_ids": [
+      45116985442496
+    ],
+    "available": true,
+    "published_at": "2025-08-28T18:30:13+09:00",
+    "created_at": "2024-05-20T13:31:30+09:00"
+  },
+  {
     "id": 8151628677312,
     "title": "ナガノキャラクターズ サンキューバッグ2025【返品交換不可】【他の商品と同時購入不可】【キャンペーン対象外】",
     "price": "5500",
@@ -14018,6 +14478,29 @@
     "available": false,
     "published_at": "2025-05-01T18:30:03+09:00",
     "created_at": "2023-07-12T09:24:38+09:00"
+  },
+  {
+    "id": 7915327914176,
+    "title": "ナガノキャラクターズ ジェットストリーム①早インパラ",
+    "price": "2200",
+    "url": "https://nagano-market.jp/collections/all/products/4970381672737",
+    "image": {
+      "id": 37758280073408,
+      "created_at": "2024-05-22T11:03:39+09:00",
+      "position": 1,
+      "updated_at": "2024-05-22T11:03:40+09:00",
+      "product_id": 7915327914176,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0585/2836/6784/files/4970381672737_1.jpg?v=1716343420",
+      "width": 1200,
+      "height": 1200
+    },
+    "variant_ids": [
+      45116985278656
+    ],
+    "available": true,
+    "published_at": "2025-08-28T18:30:13+09:00",
+    "created_at": "2024-05-20T13:31:20+09:00"
   },
   {
     "id": 7915327946944,
@@ -14225,7 +14708,7 @@
     "variant_ids": [
       42869334900928
     ],
-    "available": true,
+    "available": false,
     "published_at": "2024-03-29T11:00:12+09:00",
     "created_at": "2022-06-08T15:46:14+09:00"
   },
@@ -14547,7 +15030,7 @@
     "variant_ids": [
       42869335949504
     ],
-    "available": true,
+    "available": false,
     "published_at": "2024-03-29T11:00:16+09:00",
     "created_at": "2022-06-08T15:46:20+09:00"
   },
@@ -15605,7 +16088,7 @@
     "variant_ids": [
       44718567620800
     ],
-    "available": true,
+    "available": false,
     "published_at": "2024-12-13T11:00:18+09:00",
     "created_at": "2024-03-28T11:11:53+09:00"
   },
@@ -15881,7 +16364,7 @@
     "variant_ids": [
       44718567915712
     ],
-    "available": true,
+    "available": false,
     "published_at": "2024-03-29T11:00:07+09:00",
     "created_at": "2024-03-28T11:11:55+09:00"
   },
@@ -17698,7 +18181,7 @@
     "variant_ids": [
       44288372015296
     ],
-    "available": true,
+    "available": false,
     "published_at": "2025-01-30T18:30:06+09:00",
     "created_at": "2023-12-11T20:07:08+09:00"
   },
@@ -18048,6 +18531,29 @@
     "created_at": "2023-12-27T10:39:19+09:00"
   },
   {
+    "id": 7673365201088,
+    "title": "ナガノキャラクターズ トラベルステッカー②早インパラ",
+    "price": "385",
+    "url": "https://nagano-market.jp/collections/all/products/4970381672638",
+    "image": {
+      "id": 36960911425728,
+      "created_at": "2023-12-27T15:29:51+09:00",
+      "position": 1,
+      "updated_at": "2023-12-27T15:29:53+09:00",
+      "product_id": 7673365201088,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0585/2836/6784/files/4970381672638.jpg?v=1703658593",
+      "width": 1200,
+      "height": 1200
+    },
+    "variant_ids": [
+      44324860395712
+    ],
+    "available": false,
+    "published_at": "2025-08-28T18:30:17+09:00",
+    "created_at": "2023-12-27T10:39:20+09:00"
+  },
+  {
     "id": 7673365233856,
     "title": "ナガノキャラクターズ トラベルステッカー③モチキン with モチキンファン",
     "price": "385",
@@ -18069,6 +18575,29 @@
     "available": true,
     "published_at": "2024-01-03T11:00:29+09:00",
     "created_at": "2023-12-27T10:39:20+09:00"
+  },
+  {
+    "id": 7673365266624,
+    "title": "ナガノキャラクターズ トラベルステッカー④ハイチーズ",
+    "price": "385",
+    "url": "https://nagano-market.jp/collections/all/products/4970381672652",
+    "image": {
+      "id": 36960957038784,
+      "created_at": "2023-12-27T15:39:22+09:00",
+      "position": 1,
+      "updated_at": "2023-12-27T15:39:23+09:00",
+      "product_id": 7673365266624,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0585/2836/6784/files/4970381672652.jpg?v=1703659163",
+      "width": 1200,
+      "height": 1200
+    },
+    "variant_ids": [
+      44324860461248
+    ],
+    "available": false,
+    "published_at": "2025-08-28T18:30:16+09:00",
+    "created_at": "2023-12-27T10:39:21+09:00"
   },
   {
     "id": 7673365299392,
@@ -21069,6 +21598,29 @@
     "created_at": "2023-12-27T10:39:23+09:00"
   },
   {
+    "id": 7673365430464,
+    "title": "ナガノキャラクターズ パタパタメモ②ナガノキャラクターズ",
+    "price": "715",
+    "url": "https://nagano-market.jp/collections/all/products/4970381672683",
+    "image": {
+      "id": 36960960708800,
+      "created_at": "2023-12-27T15:40:13+09:00",
+      "position": 1,
+      "updated_at": "2023-12-27T15:40:14+09:00",
+      "product_id": 7673365430464,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0585/2836/6784/files/4970381672683.jpg?v=1703659214",
+      "width": 1200,
+      "height": 1200
+    },
+    "variant_ids": [
+      44324860625088
+    ],
+    "available": true,
+    "published_at": "2025-08-28T18:30:14+09:00",
+    "created_at": "2023-12-27T10:39:24+09:00"
+  },
+  {
     "id": 8193497366720,
     "title": "ナガノキャラクターズ ピィ〜と鳴く！にぎにぎスティックぬいぐるみ もぐらコロッケ",
     "price": "1650",
@@ -21136,6 +21688,29 @@
     "available": false,
     "published_at": "2025-03-14T11:00:07+09:00",
     "created_at": "2025-03-10T11:27:39+09:00"
+  },
+  {
+    "id": 7673365135552,
+    "title": "ナガノキャラクターズ ピンズコレクション（全12種）1BOX 12個入",
+    "price": "6600",
+    "url": "https://nagano-market.jp/collections/all/products/4970381673796",
+    "image": {
+      "id": 36960974995648,
+      "created_at": "2023-12-27T15:43:25+09:00",
+      "position": 1,
+      "updated_at": "2023-12-27T15:43:28+09:00",
+      "product_id": 7673365135552,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0585/2836/6784/files/4970381673796_1.jpg?v=1703659408",
+      "width": 1200,
+      "height": 1200
+    },
+    "variant_ids": [
+      44324860297408
+    ],
+    "available": true,
+    "published_at": "2025-08-28T18:30:15+09:00",
+    "created_at": "2023-12-27T10:39:18+09:00"
   },
   {
     "id": 8115715178688,
@@ -21297,6 +21872,29 @@
     "available": true,
     "published_at": "2024-08-10T11:00:10+09:00",
     "created_at": "2024-07-30T18:30:57+09:00"
+  },
+  {
+    "id": 8045721583808,
+    "title": "ナガノキャラクターズ プリズムトラベルステッカー⑦きんきら",
+    "price": "495",
+    "url": "https://nagano-market.jp/collections/all/products/4970381682255",
+    "image": {
+      "id": 38687706841280,
+      "created_at": "2024-07-31T10:54:48+09:00",
+      "position": 1,
+      "updated_at": "2024-07-31T10:54:50+09:00",
+      "product_id": 8045721583808,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0585/2836/6784/files/4970381682255_1.jpg?v=1722390890",
+      "width": 1200,
+      "height": 1200
+    },
+    "variant_ids": [
+      45438743445696
+    ],
+    "available": true,
+    "published_at": "2025-08-28T18:30:14+09:00",
+    "created_at": "2024-07-30T18:31:01+09:00"
   },
   {
     "id": 8045721616576,
@@ -23548,7 +24146,7 @@
     "variant_ids": [
       46026571251904
     ],
-    "available": true,
+    "available": false,
     "published_at": "2025-01-24T11:00:39+09:00",
     "created_at": "2025-01-20T16:59:30+09:00"
   },
@@ -24333,6 +24931,29 @@
     "available": true,
     "published_at": "2025-08-08T11:00:23+09:00",
     "created_at": "2025-08-04T11:25:43+09:00"
+  },
+  {
+    "id": 8222097309888,
+    "title": "ナガノキャラクターズ ローズなナガノのくまマスコット",
+    "price": "1650",
+    "url": "https://nagano-market.jp/collections/all/products/4571609358152",
+    "image": {
+      "id": 43505875124416,
+      "created_at": "2025-04-15T13:00:32+09:00",
+      "position": 1,
+      "updated_at": "2025-04-15T13:00:33+09:00",
+      "product_id": 8222097309888,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0585/2836/6784/files/4571609358152_1_41823c70-e3b4-449d-9cc6-b12f4408f252.jpg?v=1744689633",
+      "width": 1200,
+      "height": 1200
+    },
+    "variant_ids": [
+      46290852970688
+    ],
+    "available": true,
+    "published_at": "2025-08-28T18:30:09+09:00",
+    "created_at": "2025-04-14T18:08:59+09:00"
   },
   {
     "id": 8293567365312,
@@ -25503,7 +26124,7 @@
     "variant_ids": [
       44324859740352
     ],
-    "available": true,
+    "available": false,
     "published_at": "2024-01-03T11:00:47+09:00",
     "created_at": "2023-12-27T10:39:09+09:00"
   },
@@ -29547,7 +30168,7 @@
     "variant_ids": [
       43693237207232
     ],
-    "available": true,
+    "available": false,
     "published_at": "2023-06-14T11:00:02+09:00",
     "created_at": "2023-06-12T12:22:34+09:00"
   },
@@ -31832,7 +32453,7 @@
     "variant_ids": [
       43127089234112
     ],
-    "available": true,
+    "available": false,
     "published_at": "2022-09-08T15:25:32+09:00",
     "created_at": "2022-08-30T15:26:34+09:00"
   },
@@ -38855,7 +39476,7 @@
     "variant_ids": [
       43391760498880
     ],
-    "available": true,
+    "available": false,
     "published_at": "2023-01-13T11:00:08+09:00",
     "created_at": "2023-01-11T16:38:01+09:00"
   },

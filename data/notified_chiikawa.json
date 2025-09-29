@@ -1681,8 +1681,8 @@
   },
   "8241118576881": {
     "id": 8241118576881,
-    "available": true,
-    "restock_date": null
+    "available": false,
+    "restock_date": "2025/10/02"
   },
   "8804917313777": {
     "id": 8804917313777,
@@ -2857,27 +2857,27 @@
   "9216996114673": {
     "id": 9216996114673,
     "available": false,
-    "restock_date": "2025/08/07"
+    "restock_date": "2025/10/02"
   },
   "9216996016369": {
     "id": 9216996016369,
     "available": false,
-    "restock_date": "2025/08/07"
+    "restock_date": "2025/10/02"
   },
   "9216995983601": {
     "id": 9216995983601,
     "available": false,
-    "restock_date": "2025/08/07"
+    "restock_date": "2025/10/02"
   },
   "9216996081905": {
     "id": 9216996081905,
     "available": false,
-    "restock_date": "2025/08/07"
+    "restock_date": "2025/10/02"
   },
   "9216996049137": {
     "id": 9216996049137,
     "available": false,
-    "restock_date": "2025/08/07"
+    "restock_date": "2025/10/02"
   },
   "7976321843441": {
     "id": 7976321843441,
@@ -6711,28 +6711,28 @@
   },
   "8947562512625": {
     "id": 8947562512625,
-    "available": true,
-    "restock_date": null
+    "available": false,
+    "restock_date": "2025/10/02"
   },
   "8947561693425": {
     "id": 8947561693425,
-    "available": true,
-    "restock_date": null
+    "available": false,
+    "restock_date": "2025/10/02"
   },
   "8947562152177": {
     "id": 8947562152177,
-    "available": true,
-    "restock_date": null
+    "available": false,
+    "restock_date": "2025/10/02"
   },
   "8947562840305": {
     "id": 8947562840305,
-    "available": true,
-    "restock_date": null
+    "available": false,
+    "restock_date": "2025/10/02"
   },
   "8947563233521": {
     "id": 8947563233521,
-    "available": true,
-    "restock_date": null
+    "available": false,
+    "restock_date": "2025/10/02"
   },
   "9216995328241": {
     "id": 9216995328241,
@@ -6956,23 +6956,23 @@
   },
   "8947566051569": {
     "id": 8947566051569,
-    "available": true,
-    "restock_date": null
+    "available": false,
+    "restock_date": "2025/10/02"
   },
   "8947565330673": {
     "id": 8947565330673,
-    "available": true,
-    "restock_date": null
+    "available": false,
+    "restock_date": "2025/10/02"
   },
   "8947565756657": {
     "id": 8947565756657,
-    "available": true,
-    "restock_date": null
+    "available": false,
+    "restock_date": "2025/10/02"
   },
   "8947566412017": {
     "id": 8947566412017,
-    "available": true,
-    "restock_date": null
+    "available": false,
+    "restock_date": "2025/10/02"
   },
   "8135548731633": {
     "id": 8135548731633,
@@ -8243,5 +8243,20 @@
     "id": 8066551742705,
     "available": false,
     "restock_date": "2025/09/25"
+  },
+  "9299087982833": {
+    "id": 9299087982833,
+    "available": false,
+    "restock_date": "2025/10/02"
+  },
+  "9299088015601": {
+    "id": 9299088015601,
+    "available": false,
+    "restock_date": "2025/10/02"
+  },
+  "9299087884529": {
+    "id": 9299087884529,
+    "available": false,
+    "restock_date": "2025/10/02"
   }
 }

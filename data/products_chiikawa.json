@@ -11645,7 +11645,7 @@
     "variant_ids": [
       46867472351473
     ],
-    "available": true,
+    "available": false,
     "published_at": "2025-09-05T11:00:29+09:00",
     "created_at": "2025-09-01T21:01:41+09:00"
   },
@@ -29660,6 +29660,29 @@
     "available": true,
     "published_at": "2024-08-23T11:00:04+09:00",
     "created_at": "2024-03-15T11:45:06+09:00"
+  },
+  {
+    "id": 8415080939761,
+    "title": "ちいかわ ちいかわラーメン豚 冷やし中華皿（モモンガ）",
+    "price": "2200",
+    "url": "https://chiikawamarket.jp/collections/all/products/4582664155099",
+    "image": {
+      "id": 41444583801073,
+      "created_at": "2024-06-18T15:19:24+09:00",
+      "position": 1,
+      "updated_at": "2024-06-18T15:19:25+09:00",
+      "product_id": 8415080939761,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0626/7142/1681/files/4582664155099_01.jpg?v=1718691565",
+      "width": 1000,
+      "height": 1000
+    },
+    "variant_ids": [
+      45100687982833
+    ],
+    "available": true,
+    "published_at": "2025-10-01T00:00:02+09:00",
+    "created_at": "2024-06-18T13:12:06+09:00"
   },
   {
     "id": 8043508728049,

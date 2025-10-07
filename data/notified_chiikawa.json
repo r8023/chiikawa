@@ -856,8 +856,8 @@
   },
   "8743199899889": {
     "id": 8743199899889,
-    "available": false,
-    "restock_date": "2025/05/22"
+    "available": true,
+    "restock_date": null
   },
   "7948513313009": {
     "id": 7948513313009,
@@ -8428,5 +8428,10 @@
     "id": 8068979622129,
     "available": false,
     "restock_date": "2025/10/09"
+  },
+  "9301108490481": {
+    "id": 9301108490481,
+    "available": true,
+    "restock_date": null
   }
 }

@@ -2438,29 +2438,6 @@
     "created_at": "2025-03-04T23:12:02+09:00"
   },
   {
-    "id": 8761840402673,
-    "title": "【予約】ちいかわ×MLB TOKYO SERIES マスコット ちいかわ（ドジャース）【2025年6月下旬より順次発送予定（発送延期の場合もキャンセル不可）】【通常商品と同時購入・配送希望日指定不可】【キャンペーン対象外】",
-    "price": "1980",
-    "url": "https://chiikawamarket.jp/collections/all/products/4571609359234",
-    "image": {
-      "id": 43271923466481,
-      "created_at": "2025-03-12T11:51:01+09:00",
-      "position": 1,
-      "updated_at": "2025-03-12T11:51:13+09:00",
-      "product_id": 8761840402673,
-      "variant_ids": [],
-      "src": "https://cdn.shopify.com/s/files/1/0626/7142/1681/files/4571609359234.jpg?v=1741747873",
-      "width": 1200,
-      "height": 1200
-    },
-    "variant_ids": [
-      45974069444849
-    ],
-    "available": false,
-    "published_at": "2025-03-13T12:00:08+09:00",
-    "created_at": "2025-03-04T23:11:26+09:00"
-  },
-  {
     "id": 8355986145521,
     "title": "【予約】ちいかわ×読売ジャイアンツ 3枚セットタオル（巨人のみんな）【2024年8月中旬より順次発送予定（発送延期の場合もキャンセル不可）】【通常商品と同時購入・配送希望日指定不可】【キャンペーン対象外】",
     "price": "1210",
@@ -106063,6 +106040,29 @@
     "available": false,
     "published_at": "2022-06-17T11:00:36+09:00",
     "created_at": "2022-06-12T20:35:48+09:00"
+  },
+  {
+    "id": 7708158132465,
+    "title": "ちいかわ ピースシール こわいやつ",
+    "price": "440",
+    "url": "https://chiikawamarket.jp/collections/all/products/4901770661629",
+    "image": {
+      "id": 37357544046833,
+      "created_at": "2022-06-12T20:27:02+09:00",
+      "position": 1,
+      "updated_at": "2022-06-12T20:27:02+09:00",
+      "product_id": 7708158132465,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0626/7142/1681/products/000000000459_1.jpg?v=1655033222",
+      "width": 500,
+      "height": 500
+    },
+    "variant_ids": [
+      42919050936561
+    ],
+    "available": false,
+    "published_at": "2022-06-17T11:03:15+09:00",
+    "created_at": "2022-06-12T20:27:02+09:00"
   },
   {
     "id": 7708158001393,

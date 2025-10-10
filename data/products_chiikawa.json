@@ -92,6 +92,29 @@
     "created_at": "2022-12-01T13:36:41+09:00"
   },
   {
+    "id": 9323961876721,
+    "title": "【予約】ちいかわ Kiramekko Teddy Bear コンプリートボックス（全6種）【2025年11月下旬より順次発送予定（発送延期の場合もキャンセル不可）】【通常商品と同時購入・配送希望日指定不可】【キャンペーン対象外】",
+    "price": "14520",
+    "url": "https://chiikawamarket.jp/collections/all/products/4571609377450",
+    "image": {
+      "id": 46862028898545,
+      "created_at": "2025-10-09T11:51:01+09:00",
+      "position": 1,
+      "updated_at": "2025-10-09T11:51:13+09:00",
+      "product_id": 9323961876721,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0626/7142/1681/files/1009.jpg?v=1759978273",
+      "width": 1200,
+      "height": 1200
+    },
+    "variant_ids": [
+      46996008534257
+    ],
+    "available": true,
+    "published_at": "2025-10-10T18:00:02+09:00",
+    "created_at": "2025-10-06T11:30:57+09:00"
+  },
+  {
     "id": 8647135133937,
     "title": "【予約】ちいかわ Maison de FLEUR 刺繍タオルハンカチ（うさぎ）【2025年3月中旬より順次発送予定（発送延期の場合もキャンセル不可）】【通常商品と同時購入・配送希望日指定不可】【キャンペーン対象外】",
     "price": "1980",
@@ -15697,7 +15720,7 @@
     "variant_ids": [
       43929091506417
     ],
-    "available": true,
+    "available": false,
     "published_at": "2024-09-12T18:00:11+09:00",
     "created_at": "2023-09-05T16:53:44+09:00"
   },
@@ -79529,7 +79552,7 @@
     "variant_ids": [
       46867475955953
     ],
-    "available": true,
+    "available": false,
     "published_at": "2025-09-18T18:00:08+09:00",
     "created_at": "2025-09-01T21:03:07+09:00"
   },
@@ -155363,7 +155386,7 @@
     "variant_ids": [
       45974069575921
     ],
-    "available": true,
+    "available": false,
     "published_at": "2025-10-09T18:00:10+09:00",
     "created_at": "2025-03-04T23:11:29+09:00"
   },

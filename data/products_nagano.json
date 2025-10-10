@@ -5960,7 +5960,7 @@
     "variant_ids": [
       41708556583104
     ],
-    "available": true,
+    "available": false,
     "published_at": "2025-01-09T18:30:02+09:00",
     "created_at": "2022-03-03T20:28:42+09:00"
   },
@@ -7141,6 +7141,29 @@
     "created_at": "2024-10-02T13:22:39+09:00"
   },
   {
+    "id": 8346601324736,
+    "title": "ナガノキャラクターズ 2026年1月始まり卓上カレンダー（ミニシール付き）",
+    "price": "1430",
+    "url": "https://nagano-market.jp/collections/all/products/4571609383420",
+    "image": {
+      "id": 48139949506752,
+      "created_at": "2025-10-07T15:09:12+09:00",
+      "position": 1,
+      "updated_at": "2025-10-07T15:09:13+09:00",
+      "product_id": 8346601324736,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0585/2836/6784/files/4571609383420_1.jpg?v=1759817353",
+      "width": 1200,
+      "height": 1200
+    },
+    "variant_ids": [
+      46875812167872
+    ],
+    "available": true,
+    "published_at": "2025-10-10T11:00:18+09:00",
+    "created_at": "2025-10-04T09:29:47+09:00"
+  },
+  {
     "id": 8293567398080,
     "title": "ナガノキャラクターズ 2wayネックピロー（くま）",
     "price": "3300",
@@ -7734,7 +7757,7 @@
     "variant_ids": [
       45116984590528
     ],
-    "available": true,
+    "available": false,
     "published_at": "2024-05-25T11:00:05+09:00",
     "created_at": "2024-05-20T13:30:45+09:00"
   },
@@ -9219,6 +9242,52 @@
     "created_at": "2023-10-04T12:29:42+09:00"
   },
   {
+    "id": 8346601193664,
+    "title": "ナガノキャラクターズ あったかもこもこブランケット（肉まん）",
+    "price": "3850",
+    "url": "https://nagano-market.jp/collections/all/products/4571609373162",
+    "image": {
+      "id": 48139706859712,
+      "created_at": "2025-10-07T14:51:21+09:00",
+      "position": 1,
+      "updated_at": "2025-10-07T14:51:23+09:00",
+      "product_id": 8346601193664,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0585/2836/6784/files/4571609373162_1.jpg?v=1759816283",
+      "width": 1200,
+      "height": 1200
+    },
+    "variant_ids": [
+      46875812036800
+    ],
+    "available": false,
+    "published_at": "2025-10-10T11:00:16+09:00",
+    "created_at": "2025-10-04T09:29:38+09:00"
+  },
+  {
+    "id": 8346601259200,
+    "title": "ナガノキャラクターズ あったか収納ポケット付き3WAYブランケット（アイボリー）",
+    "price": "2640",
+    "url": "https://nagano-market.jp/collections/all/products/4571609373148",
+    "image": {
+      "id": 48139708301504,
+      "created_at": "2025-10-07T14:51:49+09:00",
+      "position": 1,
+      "updated_at": "2025-10-07T14:51:51+09:00",
+      "product_id": 8346601259200,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0585/2836/6784/files/4571609373148_1.jpg?v=1759816311",
+      "width": 1200,
+      "height": 1200
+    },
+    "variant_ids": [
+      46875812102336
+    ],
+    "available": true,
+    "published_at": "2025-10-10T11:00:17+09:00",
+    "created_at": "2025-10-04T09:29:43+09:00"
+  },
+  {
     "id": 7527453720768,
     "title": "ナガノキャラクターズ あったか収納ポケット付き3WAYブランケット（グレー）",
     "price": "2640",
@@ -9265,6 +9334,29 @@
     "created_at": "2024-10-02T13:22:34+09:00"
   },
   {
+    "id": 8346601291968,
+    "title": "ナガノキャラクターズ あったか大きめルームシューズ（アイボリー）",
+    "price": "1540",
+    "url": "https://nagano-market.jp/collections/all/products/4571609373131",
+    "image": {
+      "id": 48139709972672,
+      "created_at": "2025-10-07T14:52:16+09:00",
+      "position": 1,
+      "updated_at": "2025-10-07T14:52:18+09:00",
+      "product_id": 8346601291968,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0585/2836/6784/files/4571609373131_1.jpg?v=1759816338",
+      "width": 1200,
+      "height": 1200
+    },
+    "variant_ids": [
+      46875812135104
+    ],
+    "available": true,
+    "published_at": "2025-10-10T11:00:17+09:00",
+    "created_at": "2025-10-04T09:29:45+09:00"
+  },
+  {
     "id": 7527453688000,
     "title": "ナガノキャラクターズ あったか大きめルームシューズ（グレー）",
     "price": "1540",
@@ -9309,6 +9401,29 @@
     "available": true,
     "published_at": "2024-10-11T11:00:08+09:00",
     "created_at": "2024-10-02T13:22:30+09:00"
+  },
+  {
+    "id": 8346601226432,
+    "title": "ナガノキャラクターズ あったか大きめ毛布ブランケット（アイボリー）",
+    "price": "6380",
+    "url": "https://nagano-market.jp/collections/all/products/4571609373155",
+    "image": {
+      "id": 48139711283392,
+      "created_at": "2025-10-07T14:52:40+09:00",
+      "position": 1,
+      "updated_at": "2025-10-07T14:52:41+09:00",
+      "product_id": 8346601226432,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0585/2836/6784/files/4571609373155_1.jpg?v=1759816361",
+      "width": 1200,
+      "height": 1200
+    },
+    "variant_ids": [
+      46875812069568
+    ],
+    "available": true,
+    "published_at": "2025-10-10T11:00:17+09:00",
+    "created_at": "2025-10-04T09:29:41+09:00"
   },
   {
     "id": 7527453753536,
@@ -9513,7 +9628,7 @@
     "variant_ids": [
       44324855611584
     ],
-    "available": true,
+    "available": false,
     "published_at": "2024-11-08T11:00:14+09:00",
     "created_at": "2023-12-27T10:37:59+09:00"
   },
@@ -9608,6 +9723,29 @@
     "available": false,
     "published_at": "2024-11-08T11:00:06+09:00",
     "created_at": "2024-11-05T20:55:17+09:00"
+  },
+  {
+    "id": 8346600440000,
+    "title": "ナガノキャラクターズ くろねこなくまマスコット",
+    "price": "1760",
+    "url": "https://nagano-market.jp/collections/all/products/4571609374237",
+    "image": {
+      "id": 48139713806528,
+      "created_at": "2025-10-07T14:53:06+09:00",
+      "position": 1,
+      "updated_at": "2025-10-07T14:53:08+09:00",
+      "product_id": 8346600440000,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0585/2836/6784/files/4571609374237_1.jpg?v=1759816388",
+      "width": 1200,
+      "height": 1200
+    },
+    "variant_ids": [
+      46875811283136
+    ],
+    "available": true,
+    "published_at": "2025-10-10T11:00:06+09:00",
+    "created_at": "2025-10-04T09:28:55+09:00"
   },
   {
     "id": 8115714359488,
@@ -11445,7 +11583,7 @@
     "variant_ids": [
       43775716425920
     ],
-    "available": true,
+    "available": false,
     "published_at": "2023-08-10T11:00:01+09:00",
     "created_at": "2023-08-08T18:10:29+09:00"
   },
@@ -11583,7 +11721,7 @@
     "variant_ids": [
       46305646117056
     ],
-    "available": true,
+    "available": false,
     "published_at": "2025-08-08T11:00:40+09:00",
     "created_at": "2025-04-21T17:27:17+09:00"
   },
@@ -12135,7 +12273,7 @@
     "variant_ids": [
       44324859052224
     ],
-    "available": true,
+    "available": false,
     "published_at": "2024-01-03T11:00:08+09:00",
     "created_at": "2023-12-27T10:38:56+09:00"
   },
@@ -14624,6 +14762,190 @@
     "created_at": "2024-05-20T13:31:30+09:00"
   },
   {
+    "id": 8346600734912,
+    "title": "ナガノキャラクターズ サラサクリップ（キャメルイエロー）",
+    "price": "330",
+    "url": "https://nagano-market.jp/collections/all/products/4571609368298",
+    "image": {
+      "id": 48139744215232,
+      "created_at": "2025-10-07T14:56:10+09:00",
+      "position": 1,
+      "updated_at": "2025-10-07T14:56:11+09:00",
+      "product_id": 8346600734912,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0585/2836/6784/files/4571609368298_1.jpg?v=1759816571",
+      "width": 1200,
+      "height": 1200
+    },
+    "variant_ids": [
+      46875811643584
+    ],
+    "available": false,
+    "published_at": "2025-10-10T11:00:12+09:00",
+    "created_at": "2025-10-04T09:29:13+09:00"
+  },
+  {
+    "id": 8346600571072,
+    "title": "ナガノキャラクターズ サラサクリップ（グリーンブラック）",
+    "price": "330",
+    "url": "https://nagano-market.jp/collections/all/products/4571609368243",
+    "image": {
+      "id": 48139721015488,
+      "created_at": "2025-10-07T14:54:22+09:00",
+      "position": 1,
+      "updated_at": "2025-10-07T14:54:23+09:00",
+      "product_id": 8346600571072,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0585/2836/6784/files/4571609368243_1.jpg?v=1759816463",
+      "width": 1200,
+      "height": 1200
+    },
+    "variant_ids": [
+      46875811446976
+    ],
+    "available": false,
+    "published_at": "2025-10-10T11:00:06+09:00",
+    "created_at": "2025-10-04T09:29:01+09:00"
+  },
+  {
+    "id": 8346600636608,
+    "title": "ナガノキャラクターズ サラサクリップ（セピアブラック）",
+    "price": "330",
+    "url": "https://nagano-market.jp/collections/all/products/4571609368267",
+    "image": {
+      "id": 48139739988160,
+      "created_at": "2025-10-07T14:55:14+09:00",
+      "position": 1,
+      "updated_at": "2025-10-07T14:55:15+09:00",
+      "product_id": 8346600636608,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0585/2836/6784/files/4571609368267_1.jpg?v=1759816515",
+      "width": 1200,
+      "height": 1200
+    },
+    "variant_ids": [
+      46875811545280
+    ],
+    "available": false,
+    "published_at": "2025-10-10T11:00:09+09:00",
+    "created_at": "2025-10-04T09:29:06+09:00"
+  },
+  {
+    "id": 8346600472768,
+    "title": "ナガノキャラクターズ サラサクリップ（ダークブルー）",
+    "price": "330",
+    "url": "https://nagano-market.jp/collections/all/products/4571609368229",
+    "image": {
+      "id": 48139716395200,
+      "created_at": "2025-10-07T14:53:37+09:00",
+      "position": 1,
+      "updated_at": "2025-10-07T14:53:38+09:00",
+      "product_id": 8346600472768,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0585/2836/6784/files/4571609368229_1.jpg?v=1759816418",
+      "width": 1200,
+      "height": 1200
+    },
+    "variant_ids": [
+      46875811348672
+    ],
+    "available": false,
+    "published_at": "2025-10-10T11:00:07+09:00",
+    "created_at": "2025-10-04T09:28:57+09:00"
+  },
+  {
+    "id": 8346600669376,
+    "title": "ナガノキャラクターズ サラサクリップ（ブラウングレー）",
+    "price": "330",
+    "url": "https://nagano-market.jp/collections/all/products/4571609368274",
+    "image": {
+      "id": 48139741167808,
+      "created_at": "2025-10-07T14:55:35+09:00",
+      "position": 1,
+      "updated_at": "2025-10-07T14:55:37+09:00",
+      "product_id": 8346600669376,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0585/2836/6784/files/4571609368274_1.jpg?v=1759816537",
+      "width": 1200,
+      "height": 1200
+    },
+    "variant_ids": [
+      46875811578048
+    ],
+    "available": false,
+    "published_at": "2025-10-10T11:00:07+09:00",
+    "created_at": "2025-10-04T09:29:08+09:00"
+  },
+  {
+    "id": 8346600505536,
+    "title": "ナガノキャラクターズ サラサクリップ（ブルーグレー）",
+    "price": "330",
+    "url": "https://nagano-market.jp/collections/all/products/4571609368236",
+    "image": {
+      "id": 48139718066368,
+      "created_at": "2025-10-07T14:54:00+09:00",
+      "position": 1,
+      "updated_at": "2025-10-07T14:54:03+09:00",
+      "product_id": 8346600505536,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0585/2836/6784/files/4571609368236_1.jpg?v=1759816443",
+      "width": 1200,
+      "height": 1200
+    },
+    "variant_ids": [
+      46875811381440
+    ],
+    "available": false,
+    "published_at": "2025-10-10T11:00:05+09:00",
+    "created_at": "2025-10-04T09:28:59+09:00"
+  },
+  {
+    "id": 8346600702144,
+    "title": "ナガノキャラクターズ サラサクリップ（ボルドーパープル）",
+    "price": "330",
+    "url": "https://nagano-market.jp/collections/all/products/4571609368281",
+    "image": {
+      "id": 48139742150848,
+      "created_at": "2025-10-07T14:55:51+09:00",
+      "position": 1,
+      "updated_at": "2025-10-07T14:55:53+09:00",
+      "product_id": 8346600702144,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0585/2836/6784/files/4571609368281_1.jpg?v=1759816553",
+      "width": 1200,
+      "height": 1201
+    },
+    "variant_ids": [
+      46875811610816
+    ],
+    "available": true,
+    "published_at": "2025-10-10T11:00:08+09:00",
+    "created_at": "2025-10-04T09:29:10+09:00"
+  },
+  {
+    "id": 8346600603840,
+    "title": "ナガノキャラクターズ サラサクリップ（レッドブラック）",
+    "price": "330",
+    "url": "https://nagano-market.jp/collections/all/products/4571609368250",
+    "image": {
+      "id": 48139735269568,
+      "created_at": "2025-10-07T14:54:47+09:00",
+      "position": 1,
+      "updated_at": "2025-10-07T14:54:49+09:00",
+      "product_id": 8346600603840,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0585/2836/6784/files/4571609368250_1.jpg?v=1759816489",
+      "width": 1200,
+      "height": 1200
+    },
+    "variant_ids": [
+      46875811479744
+    ],
+    "available": true,
+    "published_at": "2025-10-10T11:00:09+09:00",
+    "created_at": "2025-10-04T09:29:04+09:00"
+  },
+  {
     "id": 8151628677312,
     "title": "ナガノキャラクターズ サンキューバッグ2025【返品交換不可】【他の商品と同時購入不可】【キャンペーン対象外】",
     "price": "5500",
@@ -14944,9 +15266,78 @@
     "variant_ids": [
       45116985180352
     ],
-    "available": true,
+    "available": false,
     "published_at": "2025-08-08T11:00:50+09:00",
     "created_at": "2024-05-20T13:31:17+09:00"
+  },
+  {
+    "id": 8346600308928,
+    "title": "ナガノキャラクターズ スケッチタッチなデスクトップから見守るひっかけぬいぐるみ（くまとぬいぐるみ）",
+    "price": "1870",
+    "url": "https://nagano-market.jp/collections/all/products/4571609359005",
+    "image": {
+      "id": 48139747360960,
+      "created_at": "2025-10-07T14:56:39+09:00",
+      "position": 1,
+      "updated_at": "2025-10-07T14:56:41+09:00",
+      "product_id": 8346600308928,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0585/2836/6784/files/4571609359005_1.jpg?v=1759816601",
+      "width": 1200,
+      "height": 1200
+    },
+    "variant_ids": [
+      46875810889920
+    ],
+    "available": false,
+    "published_at": "2025-10-10T11:00:03+09:00",
+    "created_at": "2025-10-04T09:28:48+09:00"
+  },
+  {
+    "id": 8346600341696,
+    "title": "ナガノキャラクターズ スケッチタッチなマスコット（作務衣のくま）",
+    "price": "1760",
+    "url": "https://nagano-market.jp/collections/all/products/4571609370901",
+    "image": {
+      "id": 48139748606144,
+      "created_at": "2025-10-07T14:57:06+09:00",
+      "position": 1,
+      "updated_at": "2025-10-07T14:57:07+09:00",
+      "product_id": 8346600341696,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0585/2836/6784/files/4571609370901_1.jpg?v=1759816627",
+      "width": 1200,
+      "height": 1200
+    },
+    "variant_ids": [
+      46875810922688
+    ],
+    "available": true,
+    "published_at": "2025-10-10T11:00:04+09:00",
+    "created_at": "2025-10-04T09:28:50+09:00"
+  },
+  {
+    "id": 8346600276160,
+    "title": "ナガノキャラクターズ スケッチタッチな手乗りぬいぐるみ（リュックなくま）",
+    "price": "1870",
+    "url": "https://nagano-market.jp/collections/all/products/4571609358992",
+    "image": {
+      "id": 48139972313280,
+      "created_at": "2025-10-07T15:12:51+09:00",
+      "position": 1,
+      "updated_at": "2025-10-07T15:12:53+09:00",
+      "product_id": 8346600276160,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0585/2836/6784/files/4571609358992_1.jpg?v=1759817573",
+      "width": 1200,
+      "height": 1200
+    },
+    "variant_ids": [
+      46875810857152
+    ],
+    "available": false,
+    "published_at": "2025-10-10T11:00:04+09:00",
+    "created_at": "2025-10-04T09:28:45+09:00"
   },
   {
     "id": 7673365659840,
@@ -15013,7 +15404,7 @@
     "variant_ids": [
       46747986624704
     ],
-    "available": true,
+    "available": false,
     "published_at": "2025-09-12T11:00:15+09:00",
     "created_at": "2025-09-09T14:19:51+09:00"
   },
@@ -15220,7 +15611,7 @@
     "variant_ids": [
       46747987804352
     ],
-    "available": true,
+    "available": false,
     "published_at": "2025-09-12T11:00:14+09:00",
     "created_at": "2025-09-09T14:20:07+09:00"
   },
@@ -15243,7 +15634,7 @@
     "variant_ids": [
       42869334900928
     ],
-    "available": true,
+    "available": false,
     "published_at": "2024-03-29T11:00:12+09:00",
     "created_at": "2022-06-08T15:46:14+09:00"
   },
@@ -15703,7 +16094,7 @@
     "variant_ids": [
       42869334474944
     ],
-    "available": true,
+    "available": false,
     "published_at": "2024-03-29T11:00:19+09:00",
     "created_at": "2022-06-08T15:46:11+09:00"
   },
@@ -15726,7 +16117,7 @@
     "variant_ids": [
       42869336637632
     ],
-    "available": true,
+    "available": false,
     "published_at": "2024-03-29T11:00:19+09:00",
     "created_at": "2022-06-08T15:46:25+09:00"
   },
@@ -15864,7 +16255,7 @@
     "variant_ids": [
       42869334999232
     ],
-    "available": true,
+    "available": false,
     "published_at": "2024-03-29T11:00:20+09:00",
     "created_at": "2022-06-08T15:46:15+09:00"
   },
@@ -16048,7 +16439,7 @@
     "variant_ids": [
       42869334835392
     ],
-    "available": true,
+    "available": false,
     "published_at": "2024-03-29T11:00:24+09:00",
     "created_at": "2022-06-08T15:46:13+09:00"
   },
@@ -16071,7 +16462,7 @@
     "variant_ids": [
       42869334868160
     ],
-    "available": true,
+    "available": false,
     "published_at": "2024-03-29T11:00:25+09:00",
     "created_at": "2022-06-08T15:46:14+09:00"
   },
@@ -16140,7 +16531,7 @@
     "variant_ids": [
       42869336080576
     ],
-    "available": true,
+    "available": false,
     "published_at": "2024-03-29T11:00:25+09:00",
     "created_at": "2022-06-08T15:46:21+09:00"
   },
@@ -16324,7 +16715,7 @@
     "variant_ids": [
       44718568112320
     ],
-    "available": true,
+    "available": false,
     "published_at": "2024-03-29T11:00:03+09:00",
     "created_at": "2024-03-28T11:11:58+09:00"
   },
@@ -16416,7 +16807,7 @@
     "variant_ids": [
       46065850908864
     ],
-    "available": true,
+    "available": false,
     "published_at": "2025-02-14T11:00:32+09:00",
     "created_at": "2025-02-04T15:55:55+09:00"
   },
@@ -16554,7 +16945,7 @@
     "variant_ids": [
       46065850777792
     ],
-    "available": true,
+    "available": false,
     "published_at": "2025-02-14T11:00:29+09:00",
     "created_at": "2025-02-04T15:55:52+09:00"
   },
@@ -17497,7 +17888,7 @@
     "variant_ids": [
       43973392662720
     ],
-    "available": true,
+    "available": false,
     "published_at": "2023-10-20T11:00:06+09:00",
     "created_at": "2023-10-18T13:08:55+09:00"
   },
@@ -17658,7 +18049,7 @@
     "variant_ids": [
       43973393907904
     ],
-    "available": true,
+    "available": false,
     "published_at": "2023-10-20T11:00:07+09:00",
     "created_at": "2023-10-18T13:09:00+09:00"
   },
@@ -18072,7 +18463,7 @@
     "variant_ids": [
       44324858757312
     ],
-    "available": true,
+    "available": false,
     "published_at": "2024-01-03T11:00:21+09:00",
     "created_at": "2023-12-27T10:38:52+09:00"
   },
@@ -19176,7 +19567,7 @@
     "variant_ids": [
       44324860461248
     ],
-    "available": true,
+    "available": false,
     "published_at": "2025-08-28T18:30:16+09:00",
     "created_at": "2023-12-27T10:39:21+09:00"
   },
@@ -19591,7 +19982,7 @@
     "variant_ids": [
       45367285973184
     ],
-    "available": true,
+    "available": false,
     "published_at": "2025-09-25T18:30:13+09:00",
     "created_at": "2024-07-08T15:32:15+09:00"
   },
@@ -21347,7 +21738,7 @@
     "variant_ids": [
       46026570105024
     ],
-    "available": true,
+    "available": false,
     "published_at": "2025-01-24T11:00:34+09:00",
     "created_at": "2025-01-20T16:59:14+09:00"
   },
@@ -22612,7 +23003,7 @@
     "variant_ids": [
       45438743445696
     ],
-    "available": true,
+    "available": false,
     "published_at": "2025-08-28T18:30:14+09:00",
     "created_at": "2024-07-30T18:31:01+09:00"
   },
@@ -23992,7 +24383,7 @@
     "variant_ids": [
       43837446062272
     ],
-    "available": true,
+    "available": false,
     "published_at": "2023-09-20T11:00:05+09:00",
     "created_at": "2023-09-15T12:24:04+09:00"
   },
@@ -24866,7 +25257,7 @@
     "variant_ids": [
       46026571251904
     ],
-    "available": true,
+    "available": false,
     "published_at": "2025-01-24T11:00:39+09:00",
     "created_at": "2025-01-20T16:59:30+09:00"
   },
@@ -25073,7 +25464,7 @@
     "variant_ids": [
       46026570760384
     ],
-    "available": true,
+    "available": false,
     "published_at": "2025-01-24T11:00:43+09:00",
     "created_at": "2025-01-20T16:59:25+09:00"
   },
@@ -25418,7 +25809,7 @@
     "variant_ids": [
       46632938504384
     ],
-    "available": true,
+    "available": false,
     "published_at": "2025-08-08T11:00:24+09:00",
     "created_at": "2025-08-04T11:25:30+09:00"
   },
@@ -26550,6 +26941,236 @@
     "created_at": "2024-12-05T10:55:02+09:00"
   },
   {
+    "id": 8346601160896,
+    "title": "ナガノキャラクターズ 思い出のスケッチ パタパタメモ",
+    "price": "660",
+    "url": "https://nagano-market.jp/collections/all/products/4571609368144",
+    "image": {
+      "id": 48139753717952,
+      "created_at": "2025-10-07T14:58:04+09:00",
+      "position": 1,
+      "updated_at": "2025-10-07T14:58:06+09:00",
+      "product_id": 8346601160896,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0585/2836/6784/files/4571609368144_1.jpg?v=1759816686",
+      "width": 1200,
+      "height": 1200
+    },
+    "variant_ids": [
+      46875812004032
+    ],
+    "available": false,
+    "published_at": "2025-10-10T11:00:16+09:00",
+    "created_at": "2025-10-04T09:29:35+09:00"
+  },
+  {
+    "id": 8346601095360,
+    "title": "ナガノキャラクターズ 思い出のスケッチ フレークシール",
+    "price": "550",
+    "url": "https://nagano-market.jp/collections/all/products/4571609368151",
+    "image": {
+      "id": 48139755487424,
+      "created_at": "2025-10-07T14:58:39+09:00",
+      "position": 1,
+      "updated_at": "2025-10-07T14:58:40+09:00",
+      "product_id": 8346601095360,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0585/2836/6784/files/4571609368151_1.jpg?v=1759816720",
+      "width": 1200,
+      "height": 1200
+    },
+    "variant_ids": [
+      46875811971264
+    ],
+    "available": true,
+    "published_at": "2025-10-10T11:00:15+09:00",
+    "created_at": "2025-10-04T09:29:33+09:00"
+  },
+  {
+    "id": 8346600997056,
+    "title": "ナガノキャラクターズ 思い出のスケッチ ポストカード（「思い出の匂い」）",
+    "price": "330",
+    "url": "https://nagano-market.jp/collections/all/products/4571609368212",
+    "image": {
+      "id": 48139805393088,
+      "created_at": "2025-10-07T15:00:55+09:00",
+      "position": 1,
+      "updated_at": "2025-10-07T15:00:56+09:00",
+      "product_id": 8346600997056,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0585/2836/6784/files/4571609368212_1.jpg?v=1759816856",
+      "width": 1200,
+      "height": 1200
+    },
+    "variant_ids": [
+      46875811905728
+    ],
+    "available": true,
+    "published_at": "2025-10-10T11:00:16+09:00",
+    "created_at": "2025-10-04T09:29:31+09:00"
+  },
+  {
+    "id": 8346600898752,
+    "title": "ナガノキャラクターズ 思い出のスケッチ ポストカード（からあげトート）",
+    "price": "330",
+    "url": "https://nagano-market.jp/collections/all/products/4571609368182",
+    "image": {
+      "id": 48139773837504,
+      "created_at": "2025-10-07T15:00:06+09:00",
+      "position": 1,
+      "updated_at": "2025-10-07T15:00:24+09:00",
+      "product_id": 8346600898752,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0585/2836/6784/files/4571609368182_1.jpg?v=1759816824",
+      "width": 1200,
+      "height": 1200
+    },
+    "variant_ids": [
+      46875811807424
+    ],
+    "available": true,
+    "published_at": "2025-10-10T11:00:13+09:00",
+    "created_at": "2025-10-04T09:29:24+09:00"
+  },
+  {
+    "id": 8346600931520,
+    "title": "ナガノキャラクターズ 思い出のスケッチ ポストカード（なんて便利な存在なんだッ）",
+    "price": "330",
+    "url": "https://nagano-market.jp/collections/all/products/4571609368199",
+    "image": {
+      "id": 48139775639744,
+      "created_at": "2025-10-07T15:00:21+09:00",
+      "position": 1,
+      "updated_at": "2025-10-07T15:00:24+09:00",
+      "product_id": 8346600931520,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0585/2836/6784/files/4571609368199_1.jpg?v=1759816824",
+      "width": 1200,
+      "height": 1200
+    },
+    "variant_ids": [
+      46875811840192
+    ],
+    "available": true,
+    "published_at": "2025-10-10T11:00:13+09:00",
+    "created_at": "2025-10-04T09:29:26+09:00"
+  },
+  {
+    "id": 8346600865984,
+    "title": "ナガノキャラクターズ 思い出のスケッチ ポストカード（ムクッ）",
+    "price": "330",
+    "url": "https://nagano-market.jp/collections/all/products/4571609368175",
+    "image": {
+      "id": 48139757945024,
+      "created_at": "2025-10-07T14:59:37+09:00",
+      "position": 1,
+      "updated_at": "2025-10-07T14:59:38+09:00",
+      "product_id": 8346600865984,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0585/2836/6784/files/4571609368175_1.jpg?v=1759816778",
+      "width": 1200,
+      "height": 1200
+    },
+    "variant_ids": [
+      46875811774656
+    ],
+    "available": true,
+    "published_at": "2025-10-10T11:00:14+09:00",
+    "created_at": "2025-10-04T09:29:23+09:00"
+  },
+  {
+    "id": 8346600833216,
+    "title": "ナガノキャラクターズ 思い出のスケッチ ポストカード（旅行中の記憶･････）",
+    "price": "330",
+    "url": "https://nagano-market.jp/collections/all/products/4571609368168",
+    "image": {
+      "id": 48139757027520,
+      "created_at": "2025-10-07T14:59:18+09:00",
+      "position": 1,
+      "updated_at": "2025-10-07T14:59:20+09:00",
+      "product_id": 8346600833216,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0585/2836/6784/files/4571609368168_1.jpg?v=1759816760",
+      "width": 1200,
+      "height": 1200
+    },
+    "variant_ids": [
+      46875811741888
+    ],
+    "available": true,
+    "published_at": "2025-10-10T11:00:11+09:00",
+    "created_at": "2025-10-04T09:29:19+09:00"
+  },
+  {
+    "id": 8346600964288,
+    "title": "ナガノキャラクターズ 思い出のスケッチ ポストカード（虎）",
+    "price": "330",
+    "url": "https://nagano-market.jp/collections/all/products/4571609368205",
+    "image": {
+      "id": 48139790287040,
+      "created_at": "2025-10-07T15:00:40+09:00",
+      "position": 1,
+      "updated_at": "2025-10-07T15:00:41+09:00",
+      "product_id": 8346600964288,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0585/2836/6784/files/4571609368205_1.jpg?v=1759816841",
+      "width": 1200,
+      "height": 1200
+    },
+    "variant_ids": [
+      46875811872960
+    ],
+    "available": true,
+    "published_at": "2025-10-10T11:00:14+09:00",
+    "created_at": "2025-10-04T09:29:28+09:00"
+  },
+  {
+    "id": 8346600800448,
+    "title": "ナガノキャラクターズ 思い出のスケッチ 手触りの良いクリアファイル（ベージュ）",
+    "price": "440",
+    "url": "https://nagano-market.jp/collections/all/products/4571609368137",
+    "image": {
+      "id": 48139944689856,
+      "created_at": "2025-10-07T15:08:37+09:00",
+      "position": 1,
+      "updated_at": "2025-10-07T15:08:39+09:00",
+      "product_id": 8346600800448,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0585/2836/6784/files/4571609368137_0.jpg?v=1759817319",
+      "width": 1200,
+      "height": 1200
+    },
+    "variant_ids": [
+      46875811709120
+    ],
+    "available": true,
+    "published_at": "2025-10-10T11:00:11+09:00",
+    "created_at": "2025-10-04T09:29:17+09:00"
+  },
+  {
+    "id": 8346600767680,
+    "title": "ナガノキャラクターズ 思い出のスケッチ 手触りの良いクリアファイル（ホワイト）",
+    "price": "440",
+    "url": "https://nagano-market.jp/collections/all/products/4571609368120",
+    "image": {
+      "id": 48139942461632,
+      "created_at": "2025-10-07T15:08:14+09:00",
+      "position": 1,
+      "updated_at": "2025-10-07T15:08:50+09:00",
+      "product_id": 8346600767680,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0585/2836/6784/files/4571609368120_0.jpg?v=1759817330",
+      "width": 1200,
+      "height": 1200
+    },
+    "variant_ids": [
+      46875811676352
+    ],
+    "available": true,
+    "published_at": "2025-10-10T11:00:10+09:00",
+    "created_at": "2025-10-04T09:29:15+09:00"
+  },
+  {
     "id": 8277041873088,
     "title": "ナガノキャラクターズ 折りたためるトラベルトートバッグ（グレー）",
     "price": "3520",
@@ -27028,7 +27649,7 @@
     "variant_ids": [
       44324859773120
     ],
-    "available": true,
+    "available": false,
     "published_at": "2024-01-03T11:00:48+09:00",
     "created_at": "2023-12-27T10:39:10+09:00"
   },
@@ -27169,6 +27790,29 @@
     "available": true,
     "published_at": "2024-01-03T11:00:50+09:00",
     "created_at": "2023-12-27T10:38:10+09:00"
+  },
+  {
+    "id": 8346600374464,
+    "title": "ナガノキャラクターズ 繋がる 芋栗かぼちゃマスコット",
+    "price": "3850",
+    "url": "https://nagano-market.jp/collections/all/products/4571609374145",
+    "image": {
+      "id": 48139749621952,
+      "created_at": "2025-10-07T14:57:28+09:00",
+      "position": 1,
+      "updated_at": "2025-10-07T14:57:30+09:00",
+      "product_id": 8346600374464,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0585/2836/6784/files/4571609374145_1.jpg?v=1759816650",
+      "width": 1200,
+      "height": 1200
+    },
+    "variant_ids": [
+      46875810955456
+    ],
+    "available": false,
+    "published_at": "2025-10-10T11:00:05+09:00",
+    "created_at": "2025-10-04T09:28:52+09:00"
   },
   {
     "id": 7915327193280,
@@ -28399,7 +29043,7 @@
     "variant_ids": [
       43338112139456
     ],
-    "available": true,
+    "available": false,
     "published_at": "2022-12-07T11:00:09+09:00",
     "created_at": "2022-12-06T13:24:19+09:00"
   },
@@ -29503,7 +30147,7 @@
     "variant_ids": [
       43338113745088
     ],
-    "available": true,
+    "available": false,
     "published_at": "2022-12-07T11:00:23+09:00",
     "created_at": "2022-12-06T13:24:51+09:00"
   },
@@ -31256,7 +31900,7 @@
     "variant_ids": [
       43601277157568
     ],
-    "available": true,
+    "available": false,
     "published_at": "2025-08-08T11:01:00+09:00",
     "created_at": "2023-04-17T10:19:16+09:00"
   },
@@ -32914,7 +33558,7 @@
     "variant_ids": [
       43601276829888
     ],
-    "available": true,
+    "available": false,
     "published_at": "2023-04-19T11:00:00+09:00",
     "created_at": "2023-04-17T10:19:12+09:00"
   },
@@ -33311,7 +33955,7 @@
     "variant_ids": [
       43391759909056
     ],
-    "available": true,
+    "available": false,
     "published_at": "2025-04-17T18:30:03+09:00",
     "created_at": "2023-01-11T16:37:52+09:00"
   },
@@ -34852,7 +35496,7 @@
     "variant_ids": [
       42869336768704
     ],
-    "available": true,
+    "available": false,
     "published_at": "2024-11-08T11:00:20+09:00",
     "created_at": "2022-06-08T15:46:26+09:00"
   },
@@ -34967,7 +35611,7 @@
     "variant_ids": [
       44288372179136
     ],
-    "available": true,
+    "available": false,
     "published_at": "2023-12-13T11:00:09+09:00",
     "created_at": "2023-12-11T20:07:13+09:00"
   },
@@ -34990,7 +35634,7 @@
     "variant_ids": [
       44288372146368
     ],
-    "available": true,
+    "available": false,
     "published_at": "2025-08-08T11:00:58+09:00",
     "created_at": "2023-12-11T20:07:11+09:00"
   },
@@ -37229,7 +37873,7 @@
     "variant_ids": [
       43127089103040
     ],
-    "available": true,
+    "available": false,
     "published_at": "2022-09-08T15:25:31+09:00",
     "created_at": "2022-08-30T15:26:32+09:00"
   },
@@ -37321,7 +37965,7 @@
     "variant_ids": [
       43127088840896
     ],
-    "available": true,
+    "available": false,
     "published_at": "2025-08-08T11:01:04+09:00",
     "created_at": "2022-08-30T15:26:29+09:00"
   },
@@ -38862,7 +39506,7 @@
     "variant_ids": [
       41708558024896
     ],
-    "available": true,
+    "available": false,
     "published_at": "2022-03-10T17:51:49+09:00",
     "created_at": "2022-03-03T20:28:55+09:00"
   },
@@ -39092,7 +39736,7 @@
     "variant_ids": [
       43338114760896
     ],
-    "available": true,
+    "available": false,
     "published_at": "2025-09-25T18:30:33+09:00",
     "created_at": "2022-12-06T13:25:10+09:00"
   },
@@ -39874,7 +40518,7 @@
     "variant_ids": [
       43391760695488
     ],
-    "available": true,
+    "available": false,
     "published_at": "2023-01-13T11:00:03+09:00",
     "created_at": "2023-01-11T16:38:05+09:00"
   },
@@ -40150,7 +40794,7 @@
     "variant_ids": [
       43391760859328
     ],
-    "available": true,
+    "available": false,
     "published_at": "2023-01-13T11:00:07+09:00",
     "created_at": "2023-01-11T16:38:09+09:00"
   },
@@ -40311,7 +40955,7 @@
     "variant_ids": [
       43391760793792
     ],
-    "available": true,
+    "available": false,
     "published_at": "2023-01-13T11:00:08+09:00",
     "created_at": "2023-01-11T16:38:08+09:00"
   },

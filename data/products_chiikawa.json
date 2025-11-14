@@ -66840,6 +66840,29 @@
     "created_at": "2022-12-01T13:37:20+09:00"
   },
   {
+    "id": 9361233445105,
+    "title": "ちいかわ キャラパキ ラバマスつきVer.（全8種）1BOX 10個入",
+    "price": "3850",
+    "url": "https://chiikawamarket.jp/collections/all/products/4570117924729",
+    "image": {
+      "id": 47138744991985,
+      "created_at": "2025-11-11T15:41:06+09:00",
+      "position": 1,
+      "updated_at": "2025-11-11T15:41:07+09:00",
+      "product_id": 9361233445105,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0626/7142/1681/files/4570117924729_1.jpg?v=1762843267",
+      "width": 1200,
+      "height": 1200
+    },
+    "variant_ids": [
+      47111919010033
+    ],
+    "available": false,
+    "published_at": "2025-11-14T11:00:21+09:00",
+    "created_at": "2025-11-11T14:36:27+09:00"
+  },
+  {
     "id": 7708171665649,
     "title": "ちいかわ キャラポケクリアファイル（ちいかわ）",
     "price": "605",
@@ -80866,6 +80889,121 @@
     "created_at": "2025-10-20T16:17:17+09:00"
   },
   {
+    "id": 9361233674481,
+    "title": "ちいかわ ジェットストリーム 4＆1 Lite（おめでとう）",
+    "price": "3300",
+    "url": "https://chiikawamarket.jp/collections/all/products/4550432290075",
+    "image": {
+      "id": 47138756919537,
+      "created_at": "2025-11-11T15:44:14+09:00",
+      "position": 1,
+      "updated_at": "2025-11-11T15:44:16+09:00",
+      "product_id": 9361233674481,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0626/7142/1681/files/4550432290075_1.jpg?v=1762843456",
+      "width": 1000,
+      "height": 1000
+    },
+    "variant_ids": [
+      47111919304945
+    ],
+    "available": true,
+    "published_at": "2025-11-14T11:00:19+09:00",
+    "created_at": "2025-11-11T14:36:32+09:00"
+  },
+  {
+    "id": 9361233510641,
+    "title": "ちいかわ ジェットストリーム 4＆1 Lite（ちいかわ＆うさぎ）",
+    "price": "3300",
+    "url": "https://chiikawamarket.jp/collections/all/products/4550432290044",
+    "image": {
+      "id": 47138752397553,
+      "created_at": "2025-11-11T15:43:10+09:00",
+      "position": 1,
+      "updated_at": "2025-11-11T15:43:11+09:00",
+      "product_id": 9361233510641,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0626/7142/1681/files/4550432290044_1.jpg?v=1762843391",
+      "width": 1000,
+      "height": 1000
+    },
+    "variant_ids": [
+      47111919075569
+    ],
+    "available": true,
+    "published_at": "2025-11-14T11:00:22+09:00",
+    "created_at": "2025-11-11T14:36:29+09:00"
+  },
+  {
+    "id": 9361233477873,
+    "title": "ちいかわ ジェットストリーム 4＆1 Lite（ちいかわ＆ハチワレ）",
+    "price": "3300",
+    "url": "https://chiikawamarket.jp/collections/all/products/4550432290037",
+    "image": {
+      "id": 47138747744497,
+      "created_at": "2025-11-11T15:42:00+09:00",
+      "position": 1,
+      "updated_at": "2025-11-11T15:42:01+09:00",
+      "product_id": 9361233477873,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0626/7142/1681/files/4550432290037_1.jpg?v=1762843321",
+      "width": 1000,
+      "height": 1000
+    },
+    "variant_ids": [
+      47111919042801
+    ],
+    "available": true,
+    "published_at": "2025-11-14T11:00:21+09:00",
+    "created_at": "2025-11-11T14:36:28+09:00"
+  },
+  {
+    "id": 9361233576177,
+    "title": "ちいかわ ジェットストリーム 4＆1 Lite（ハチワレ＆うさぎ）",
+    "price": "3300",
+    "url": "https://chiikawamarket.jp/collections/all/products/4550432290051",
+    "image": {
+      "id": 47138753904881,
+      "created_at": "2025-11-11T15:43:28+09:00",
+      "position": 1,
+      "updated_at": "2025-11-11T15:43:30+09:00",
+      "product_id": 9361233576177,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0626/7142/1681/files/4550432290051_1.jpg?v=1762843410",
+      "width": 1000,
+      "height": 1000
+    },
+    "variant_ids": [
+      47111919206641
+    ],
+    "available": true,
+    "published_at": "2025-11-14T11:00:21+09:00",
+    "created_at": "2025-11-11T14:36:30+09:00"
+  },
+  {
+    "id": 9361233608945,
+    "title": "ちいかわ ジェットストリーム 4＆1 Lite（モモンガ＆古本屋）",
+    "price": "3300",
+    "url": "https://chiikawamarket.jp/collections/all/products/4550432290068",
+    "image": {
+      "id": 47138754855153,
+      "created_at": "2025-11-11T15:43:50+09:00",
+      "position": 1,
+      "updated_at": "2025-11-11T15:43:52+09:00",
+      "product_id": 9361233608945,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0626/7142/1681/files/4550432290068_1.jpg?v=1762843432",
+      "width": 1000,
+      "height": 1000
+    },
+    "variant_ids": [
+      47111919239409
+    ],
+    "available": true,
+    "published_at": "2025-11-14T11:00:20+09:00",
+    "created_at": "2025-11-11T14:36:31+09:00"
+  },
+  {
     "id": 8655315075313,
     "title": "ちいかわ ジェットストリーム2＆1（おしゃれリボン）",
     "price": "2178",
@@ -83263,6 +83401,98 @@
     "created_at": "2023-05-11T16:44:46+09:00"
   },
   {
+    "id": 9361233707249,
+    "title": "ちいかわ スタンペンG ノック式（シルバー）Webオーダーパック",
+    "price": "2860",
+    "url": "https://chiikawamarket.jp/collections/all/products/4966279048951",
+    "image": {
+      "id": 47138764521713,
+      "created_at": "2025-11-11T15:46:18+09:00",
+      "position": 1,
+      "updated_at": "2025-11-11T15:46:19+09:00",
+      "product_id": 9361233707249,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0626/7142/1681/files/4966279048951_1.jpg?v=1762843579",
+      "width": 1000,
+      "height": 1000
+    },
+    "variant_ids": [
+      47111919337713
+    ],
+    "available": false,
+    "published_at": "2025-11-14T11:00:19+09:00",
+    "created_at": "2025-11-11T14:36:34+09:00"
+  },
+  {
+    "id": 9361233740017,
+    "title": "ちいかわ スタンペンG ノック式（ピンク）Webオーダーパック",
+    "price": "2860",
+    "url": "https://chiikawamarket.jp/collections/all/products/4966279048968",
+    "image": {
+      "id": 47138767143153,
+      "created_at": "2025-11-11T15:46:46+09:00",
+      "position": 1,
+      "updated_at": "2025-11-11T15:46:47+09:00",
+      "product_id": 9361233740017,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0626/7142/1681/files/4966279048968_1.jpg?v=1762843607",
+      "width": 1000,
+      "height": 1000
+    },
+    "variant_ids": [
+      47111919370481
+    ],
+    "available": false,
+    "published_at": "2025-11-14T11:00:20+09:00",
+    "created_at": "2025-11-11T14:36:35+09:00"
+  },
+  {
+    "id": 9361233805553,
+    "title": "ちいかわ スタンペンG ノック式（ブラック）Webオーダーパック",
+    "price": "2860",
+    "url": "https://chiikawamarket.jp/collections/all/products/4966279048982",
+    "image": {
+      "id": 47138770026737,
+      "created_at": "2025-11-11T15:47:28+09:00",
+      "position": 1,
+      "updated_at": "2025-11-11T15:47:30+09:00",
+      "product_id": 9361233805553,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0626/7142/1681/files/4966279048982_1.jpg?v=1762843650",
+      "width": 1000,
+      "height": 1000
+    },
+    "variant_ids": [
+      47111919436017
+    ],
+    "available": false,
+    "published_at": "2025-11-14T11:00:18+09:00",
+    "created_at": "2025-11-11T14:36:37+09:00"
+  },
+  {
+    "id": 9361233772785,
+    "title": "ちいかわ スタンペンG ノック式（ブルー）Webオーダーパック",
+    "price": "2860",
+    "url": "https://chiikawamarket.jp/collections/all/products/4966279048975",
+    "image": {
+      "id": 47138769371377,
+      "created_at": "2025-11-11T15:47:10+09:00",
+      "position": 1,
+      "updated_at": "2025-11-11T15:47:12+09:00",
+      "product_id": 9361233772785,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0626/7142/1681/files/4966279048975_1.jpg?v=1762843632",
+      "width": 1000,
+      "height": 1000
+    },
+    "variant_ids": [
+      47111919403249
+    ],
+    "available": false,
+    "published_at": "2025-11-14T11:00:18+09:00",
+    "created_at": "2025-11-11T14:36:36+09:00"
+  },
+  {
     "id": 7708163244273,
     "title": "ちいかわ スターカンバッジコレクション 1BOX 12個入",
     "price": "6600",
@@ -85438,6 +85668,29 @@
     "created_at": "2024-07-22T10:08:47+09:00"
   },
   {
+    "id": 9361234166001,
+    "title": "ちいかわ スニーカー丈ソックス（お空） メンズ用",
+    "price": "429",
+    "url": "https://chiikawamarket.jp/collections/all/products/4550310956291",
+    "image": {
+      "id": 47138799976689,
+      "created_at": "2025-11-11T15:54:39+09:00",
+      "position": 1,
+      "updated_at": "2025-11-11T15:54:40+09:00",
+      "product_id": 9361234166001,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0626/7142/1681/files/4550310956291_1.jpg?v=1762844080",
+      "width": 1200,
+      "height": 1200
+    },
+    "variant_ids": [
+      47111920419057
+    ],
+    "available": true,
+    "published_at": "2025-11-14T11:00:14+09:00",
+    "created_at": "2025-11-11T14:36:48+09:00"
+  },
+  {
     "id": 8738985181425,
     "title": "ちいかわ スニーカー丈ソックス（お風呂） キッズ用",
     "price": "418",
@@ -85718,6 +85971,29 @@
     "created_at": "2024-07-22T10:08:43+09:00"
   },
   {
+    "id": 9361234100465,
+    "title": "ちいかわ スニーカー丈ソックス（シーサー復活） メンズ用",
+    "price": "429",
+    "url": "https://chiikawamarket.jp/collections/all/products/4550310848855",
+    "image": {
+      "id": 47138798076145,
+      "created_at": "2025-11-11T15:54:19+09:00",
+      "position": 1,
+      "updated_at": "2025-11-11T15:54:20+09:00",
+      "product_id": 9361234100465,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0626/7142/1681/files/4550310848855_1.jpg?v=1762844060",
+      "width": 1200,
+      "height": 1200
+    },
+    "variant_ids": [
+      47111919730929
+    ],
+    "available": true,
+    "published_at": "2025-11-14T11:00:15+09:00",
+    "created_at": "2025-11-11T14:36:47+09:00"
+  },
+  {
     "id": 8459389698289,
     "title": "ちいかわ スニーカー丈ソックス（シーサー復活） レディース用",
     "price": "418",
@@ -85787,6 +86063,29 @@
     "created_at": "2025-01-27T12:40:40+09:00"
   },
   {
+    "id": 9361234198769,
+    "title": "ちいかわ スニーカー丈ソックス（モモンガ本） メンズ用",
+    "price": "429",
+    "url": "https://chiikawamarket.jp/collections/all/products/4550310956321",
+    "image": {
+      "id": 47138801287409,
+      "created_at": "2025-11-11T15:55:07+09:00",
+      "position": 1,
+      "updated_at": "2025-11-11T15:55:08+09:00",
+      "product_id": 9361234198769,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0626/7142/1681/files/4550310956321_1.jpg?v=1762844108",
+      "width": 1200,
+      "height": 1200
+    },
+    "variant_ids": [
+      47111920451825
+    ],
+    "available": true,
+    "published_at": "2025-11-14T11:00:14+09:00",
+    "created_at": "2025-11-11T14:36:49+09:00"
+  },
+  {
     "id": 8738985115889,
     "title": "ちいかわ スニーカー丈ソックス（モモンガ毛玉 サックス） キッズ用",
     "price": "429",
@@ -85808,6 +86107,29 @@
     "available": true,
     "published_at": "2025-07-31T18:00:10+09:00",
     "created_at": "2025-01-27T12:40:36+09:00"
+  },
+  {
+    "id": 9361234034929,
+    "title": "ちいかわ スニーカー丈ソックス（モモンガ毛玉） メンズ用",
+    "price": "429",
+    "url": "https://chiikawamarket.jp/collections/all/products/4550310848848",
+    "image": {
+      "id": 47138790342897,
+      "created_at": "2025-11-11T15:52:23+09:00",
+      "position": 1,
+      "updated_at": "2025-11-11T15:52:24+09:00",
+      "product_id": 9361234034929,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0626/7142/1681/files/4550310848848_1.jpg?v=1762843944",
+      "width": 1200,
+      "height": 1200
+    },
+    "variant_ids": [
+      47111919665393
+    ],
+    "available": true,
+    "published_at": "2025-11-14T11:00:15+09:00",
+    "created_at": "2025-11-11T14:36:46+09:00"
   },
   {
     "id": 8223865700593,
@@ -121487,7 +121809,7 @@
     "variant_ids": [
       47058924208369
     ],
-    "available": true,
+    "available": false,
     "published_at": "2025-10-31T11:00:47+09:00",
     "created_at": "2025-10-27T14:45:51+09:00"
   },
@@ -127104,6 +127426,29 @@
     "created_at": "2024-04-23T10:38:05+09:00"
   },
   {
+    "id": 9361233412337,
+    "title": "ちいかわ ミニチュアチョコチャーム＆チョコスナック（全8種）1BOX 10個入",
+    "price": "3850",
+    "url": "https://chiikawamarket.jp/collections/all/products/4570117920844",
+    "image": {
+      "id": 47138730770673,
+      "created_at": "2025-11-11T15:37:47+09:00",
+      "position": 1,
+      "updated_at": "2025-11-11T15:37:48+09:00",
+      "product_id": 9361233412337,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0626/7142/1681/files/4570117920844_1.jpg?v=1762843068",
+      "width": 1200,
+      "height": 1200
+    },
+    "variant_ids": [
+      47111918977265
+    ],
+    "available": false,
+    "published_at": "2025-11-14T11:00:22+09:00",
+    "created_at": "2025-11-11T14:36:25+09:00"
+  },
+  {
     "id": 9267547668721,
     "title": "ちいかわ ミニチュア日めくりカレンダー2026",
     "price": "2420",
@@ -130265,6 +130610,144 @@
     "available": false,
     "published_at": "2024-11-15T11:00:10+09:00",
     "created_at": "2024-11-11T18:12:02+09:00"
+  },
+  {
+    "id": 9361233871089,
+    "title": "ちいかわ メモポン3（お宝）",
+    "price": "2200",
+    "url": "https://chiikawamarket.jp/collections/all/products/4901770965369",
+    "image": {
+      "id": 47138774286577,
+      "created_at": "2025-11-11T15:48:30+09:00",
+      "position": 1,
+      "updated_at": "2025-11-11T15:48:32+09:00",
+      "product_id": 9361233871089,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0626/7142/1681/files/4901770965369_1.jpg?v=1762843712",
+      "width": 1000,
+      "height": 1000
+    },
+    "variant_ids": [
+      47111919501553
+    ],
+    "available": true,
+    "published_at": "2025-11-14T11:00:17+09:00",
+    "created_at": "2025-11-11T14:36:40+09:00"
+  },
+  {
+    "id": 9361234002161,
+    "title": "ちいかわ メモポン3（優先順位）",
+    "price": "2200",
+    "url": "https://chiikawamarket.jp/collections/all/products/4901770965574",
+    "image": {
+      "id": 47138779594993,
+      "created_at": "2025-11-11T15:49:51+09:00",
+      "position": 1,
+      "updated_at": "2025-11-11T15:49:53+09:00",
+      "product_id": 9361234002161,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0626/7142/1681/files/4901770965574_1.jpg?v=1762843793",
+      "width": 1000,
+      "height": 1000
+    },
+    "variant_ids": [
+      47111919632625
+    ],
+    "available": true,
+    "published_at": "2025-11-14T11:00:17+09:00",
+    "created_at": "2025-11-11T14:36:45+09:00"
+  },
+  {
+    "id": 9361233903857,
+    "title": "ちいかわ メモポン3（先生）",
+    "price": "2200",
+    "url": "https://chiikawamarket.jp/collections/all/products/4901770965383",
+    "image": {
+      "id": 47138776121585,
+      "created_at": "2025-11-11T15:48:53+09:00",
+      "position": 1,
+      "updated_at": "2025-11-11T15:48:55+09:00",
+      "product_id": 9361233903857,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0626/7142/1681/files/4901770965383_1.jpg?v=1762843735",
+      "width": 1000,
+      "height": 1000
+    },
+    "variant_ids": [
+      47111919534321
+    ],
+    "available": true,
+    "published_at": "2025-11-14T11:00:16+09:00",
+    "created_at": "2025-11-11T14:36:41+09:00"
+  },
+  {
+    "id": 9361233838321,
+    "title": "ちいかわ メモポン3（友情）",
+    "price": "2200",
+    "url": "https://chiikawamarket.jp/collections/all/products/4901770965345",
+    "image": {
+      "id": 47138771534065,
+      "created_at": "2025-11-11T15:47:58+09:00",
+      "position": 1,
+      "updated_at": "2025-11-11T15:47:59+09:00",
+      "product_id": 9361233838321,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0626/7142/1681/files/4901770965345_1.jpg?v=1762843679",
+      "width": 1000,
+      "height": 1000
+    },
+    "variant_ids": [
+      47111919468785
+    ],
+    "available": true,
+    "published_at": "2025-11-14T11:00:18+09:00",
+    "created_at": "2025-11-11T14:36:39+09:00"
+  },
+  {
+    "id": 9361233936625,
+    "title": "ちいかわ メモポン3（確認・承認）",
+    "price": "2200",
+    "url": "https://chiikawamarket.jp/collections/all/products/4901770965406",
+    "image": {
+      "id": 47138777759985,
+      "created_at": "2025-11-11T15:49:15+09:00",
+      "position": 1,
+      "updated_at": "2025-11-11T15:49:16+09:00",
+      "product_id": 9361233936625,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0626/7142/1681/files/4901770965406_1.jpg?v=1762843756",
+      "width": 1000,
+      "height": 1000
+    },
+    "variant_ids": [
+      47111919567089
+    ],
+    "available": true,
+    "published_at": "2025-11-14T11:00:16+09:00",
+    "created_at": "2025-11-11T14:36:42+09:00"
+  },
+  {
+    "id": 9361233969393,
+    "title": "ちいかわ メモポン3（至急）",
+    "price": "2200",
+    "url": "https://chiikawamarket.jp/collections/all/products/4901770965536",
+    "image": {
+      "id": 47138778808561,
+      "created_at": "2025-11-11T15:49:34+09:00",
+      "position": 1,
+      "updated_at": "2025-11-11T15:49:36+09:00",
+      "product_id": 9361233969393,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0626/7142/1681/files/4901770965536_1.jpg?v=1762843776",
+      "width": 1000,
+      "height": 1000
+    },
+    "variant_ids": [
+      47111919599857
+    ],
+    "available": true,
+    "published_at": "2025-11-14T11:00:16+09:00",
+    "created_at": "2025-11-11T14:36:44+09:00"
   },
   {
     "id": 7988476707057,

@@ -22,15 +22,24 @@ if (!document.querySelector('script[src="https://r8023.github.io/chiikawa/assets
 
 async function start() {
 	const productData = [
-		{ id: "46290853331136", quantity: 1, name: "粉色熊" },
+		{ id: "42938306330865", quantity: 1, name: "樂園吉伊吊飾" },
+		{ id: "42938336936177", quantity: 1, name: "樂園小八吊飾" },
+		{ id: "42938336248049", quantity: 1, name: "樂園兔兔吊飾" },
+		{ id: "42938373177585", quantity: 1, name: "樂園小桃吊飾" },
+		{ id: "42938379698417", quantity: 1, name: "長腿吉伊吊飾" },
+		{ id: "42938194133233", quantity: 1, name: "樂園吉伊S娃" },
+		{ id: "42938236502257", quantity: 1, name: "樂園小八S娃" },
+		{ id: "42938251772145", quantity: 1, name: "樂園兔兔S娃" },
+		{ id: "42938289750257", quantity: 1, name: "長腿吉伊S娃" },
+		
+		/*{ id: "46290853331136", quantity: 1, name: "粉色熊" },
 		{ id: "46290853363904", quantity: 1, name: "芒果熊" },
 		{ id: "46290853396672", quantity: 1, name: "淺藍熊" },
 		{ id: "46290853462208", quantity: 1, name: "深藍熊" },
 		{ id: "46290853494976", quantity: 1, name: "抹茶熊" },
 		{ id: "46290853757120", quantity: 1, name: "薄荷熊" },
 		{ id: "46290852839616", quantity: 1, name: "可愛熊" },
-		
-		/*{ id: "43504004563185", quantity: 1, name: "騎行兔兔" },
+		{ id: "43504004563185", quantity: 1, name: "騎行兔兔" },
 		{ id: "43504004464881", quantity: 1, name: "騎行吉伊" },
 		{ id: "43504004530417", quantity: 1, name: "騎行小八" },
 		{ id: "43764095484145", quantity: 1, name: "惡兔" },

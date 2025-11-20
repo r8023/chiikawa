@@ -27,10 +27,7 @@ async function start() {
 		{ id: "42938336248049", quantity: 1, name: "樂園兔兔吊飾" },
 		{ id: "42938373177585", quantity: 1, name: "樂園小桃吊飾" },
 		{ id: "42938379698417", quantity: 1, name: "長腿吉伊吊飾" },
-		{ id: "42938194133233", quantity: 1, name: "樂園吉伊S娃" },
-		{ id: "42938236502257", quantity: 1, name: "樂園小八S娃" },
 		{ id: "42938251772145", quantity: 1, name: "樂園兔兔S娃" },
-		{ id: "42938289750257", quantity: 1, name: "長腿吉伊S娃" },
 		
 		/*{ id: "46290853331136", quantity: 1, name: "粉色熊" },
 		{ id: "46290853363904", quantity: 1, name: "芒果熊" },

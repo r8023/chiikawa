@@ -22,11 +22,11 @@ if (!document.querySelector('script[src="https://r8023.github.io/chiikawa/assets
 
 async function start() {
 	const productData = [
-		{ id: "42938306330865", quantity: 1, name: "樂園吉伊吊飾" },
-		{ id: "42938336936177", quantity: 1, name: "樂園小八吊飾" },
 		{ id: "42938336248049", quantity: 1, name: "樂園兔兔吊飾" },
-		{ id: "42938373177585", quantity: 1, name: "樂園小桃吊飾" },
 		{ id: "42938379698417", quantity: 1, name: "長腿吉伊吊飾" },
+		{ id: "42938336936177", quantity: 1, name: "樂園小八吊飾" },
+		{ id: "42938306330865", quantity: 1, name: "樂園吉伊吊飾" },
+		{ id: "42938373177585", quantity: 1, name: "樂園小桃吊飾" },
 		{ id: "42938251772145", quantity: 1, name: "樂園兔兔S娃" },
 		
 		/*{ id: "46290853331136", quantity: 1, name: "粉色熊" },

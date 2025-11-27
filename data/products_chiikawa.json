@@ -92,6 +92,54 @@
     "created_at": "2022-12-01T13:36:41+09:00"
   },
   {
+    "id": 9374172741873,
+    "title": "【予約】ちいかわ GPSBOX うさぎだらけフィギュア（全6種）【2026年3月下旬より順次発送予定（発送延期の場合もキャンセル不可）】【通常商品と同時購入・配送希望日指定不可】【キャンペーン対象外】",
+    "price": "1320",
+    "url": "https://chiikawamarket.jp/collections/all/products/4571609381556",
+    "image": {
+      "id": 47270897778929,
+      "created_at": "2025-11-25T14:45:11+09:00",
+      "position": 1,
+      "updated_at": "2025-11-25T14:45:12+09:00",
+      "product_id": 9374172741873,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0626/7142/1681/files/4571609381556_0.jpg?v=1764049512",
+      "width": 1200,
+      "height": 1200
+    },
+    "variant_ids": [
+      47156088340721,
+      47156088373489
+    ],
+    "available": true,
+    "published_at": "2025-11-27T11:00:13+09:00",
+    "created_at": "2025-11-25T12:07:14+09:00"
+  },
+  {
+    "id": 9374172774641,
+    "title": "【予約】ちいかわ GPSBOX モモンガだらけフィギュア（全6種）【2026年3月下旬より順次発送予定（発送延期の場合もキャンセル不可）】【通常商品と同時購入・配送希望日指定不可】【キャンペーン対象外】",
+    "price": "1320",
+    "url": "https://chiikawamarket.jp/collections/all/products/4571609385011",
+    "image": {
+      "id": 47270950207729,
+      "created_at": "2025-11-25T14:46:24+09:00",
+      "position": 1,
+      "updated_at": "2025-11-25T14:46:26+09:00",
+      "product_id": 9374172774641,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0626/7142/1681/files/4571609385011_0.jpg?v=1764049586",
+      "width": 1200,
+      "height": 1200
+    },
+    "variant_ids": [
+      47156088406257,
+      47156088439025
+    ],
+    "available": true,
+    "published_at": "2025-11-27T11:00:13+09:00",
+    "created_at": "2025-11-25T12:07:16+09:00"
+  },
+  {
     "id": 9323961876721,
     "title": "【予約】ちいかわ Kiramekko Teddy Bear コンプリートボックス（全6種）【2025年11月下旬より順次発送予定（発送延期の場合もキャンセル不可）】【通常商品と同時購入・配送希望日指定不可】【キャンペーン対象外】",
     "price": "14520",
@@ -32387,6 +32435,52 @@
     "created_at": "2023-11-15T11:40:20+09:00"
   },
   {
+    "id": 9374278025457,
+    "title": "ちいかわ ちいかわレストラン さすまた風フォーク（ちいかわ）",
+    "price": "1540",
+    "url": "https://chiikawamarket.jp/collections/all/products/4571697945159",
+    "image": {
+      "id": 47276770132209,
+      "created_at": "2025-11-25T16:59:38+09:00",
+      "position": 1,
+      "updated_at": "2025-11-25T16:59:39+09:00",
+      "product_id": 9374278025457,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0626/7142/1681/files/4571697945159_1_c77070bf-32bb-4f41-8cb2-b874a2192f3f.jpg?v=1764057579",
+      "width": 1000,
+      "height": 1000
+    },
+    "variant_ids": [
+      47157392376049
+    ],
+    "available": true,
+    "published_at": "2025-11-27T11:00:09+09:00",
+    "created_at": "2025-11-25T15:51:46+09:00"
+  },
+  {
+    "id": 9374278058225,
+    "title": "ちいかわ ちいかわレストラン さすまた風フォーク（ハチワレ）",
+    "price": "1540",
+    "url": "https://chiikawamarket.jp/collections/all/products/4571697945166",
+    "image": {
+      "id": 47276777144561,
+      "created_at": "2025-11-25T16:59:48+09:00",
+      "position": 1,
+      "updated_at": "2025-11-25T16:59:49+09:00",
+      "product_id": 9374278058225,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0626/7142/1681/files/4571697945166_1_a2d25d6f-d963-4b41-b04c-e44a1881d56b.jpg?v=1764057589",
+      "width": 1000,
+      "height": 1000
+    },
+    "variant_ids": [
+      47157392408817
+    ],
+    "available": true,
+    "published_at": "2025-11-27T11:00:10+09:00",
+    "created_at": "2025-11-25T15:51:47+09:00"
+  },
+  {
     "id": 8409489015025,
     "title": "ちいかわ ちいかわレストラン なかよしペアプレート（モモンガと古本屋）",
     "price": "2200",
@@ -32431,6 +32525,29 @@
     "available": false,
     "published_at": "2025-05-01T18:00:09+09:00",
     "created_at": "2023-11-15T11:40:23+09:00"
+  },
+  {
+    "id": 9374278287601,
+    "title": "ちいかわ ちいかわレストラン なんか大きな討伐成功タンブラー",
+    "price": "990",
+    "url": "https://chiikawamarket.jp/collections/all/products/4571697945272",
+    "image": {
+      "id": 47274781245681,
+      "created_at": "2025-11-25T16:12:19+09:00",
+      "position": 1,
+      "updated_at": "2025-11-25T16:12:20+09:00",
+      "product_id": 9374278287601,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0626/7142/1681/files/4571697945272_1.jpg?v=1764054740",
+      "width": 1000,
+      "height": 1000
+    },
+    "variant_ids": [
+      47157393391857
+    ],
+    "available": true,
+    "published_at": "2025-11-27T11:00:12+09:00",
+    "created_at": "2025-11-25T15:51:54+09:00"
   },
   {
     "id": 8043508596977,
@@ -33098,6 +33215,75 @@
     "available": true,
     "published_at": "2024-08-30T11:00:23+09:00",
     "created_at": "2024-08-26T17:31:43+09:00"
+  },
+  {
+    "id": 9374278156529,
+    "title": "ちいかわ ちいかわレストラン シリコンポーチ（うさぎ）",
+    "price": "1430",
+    "url": "https://chiikawamarket.jp/collections/all/products/4571697945197",
+    "image": {
+      "id": 47276791267569,
+      "created_at": "2025-11-25T17:00:11+09:00",
+      "position": 1,
+      "updated_at": "2025-11-25T17:00:12+09:00",
+      "product_id": 9374278156529,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0626/7142/1681/files/4571697945197_1_19bfcb1d-5eea-4d2e-a7cb-197bf7f75c65.jpg?v=1764057612",
+      "width": 1000,
+      "height": 1000
+    },
+    "variant_ids": [
+      47157392507121
+    ],
+    "available": true,
+    "published_at": "2025-11-27T11:00:11+09:00",
+    "created_at": "2025-11-25T15:51:51+09:00"
+  },
+  {
+    "id": 9374278090993,
+    "title": "ちいかわ ちいかわレストラン シリコンポーチ（ちいかわ）",
+    "price": "1430",
+    "url": "https://chiikawamarket.jp/collections/all/products/4571697945173",
+    "image": {
+      "id": 47274751820017,
+      "created_at": "2025-11-25T16:11:37+09:00",
+      "position": 1,
+      "updated_at": "2025-11-25T16:11:39+09:00",
+      "product_id": 9374278090993,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0626/7142/1681/files/4571697945173_1.jpg?v=1764054699",
+      "width": 1000,
+      "height": 1000
+    },
+    "variant_ids": [
+      47157392441585
+    ],
+    "available": true,
+    "published_at": "2025-11-27T11:00:10+09:00",
+    "created_at": "2025-11-25T15:51:48+09:00"
+  },
+  {
+    "id": 9374278123761,
+    "title": "ちいかわ ちいかわレストラン シリコンポーチ（ハチワレ）",
+    "price": "1430",
+    "url": "https://chiikawamarket.jp/collections/all/products/4571697945180",
+    "image": {
+      "id": 47276784353521,
+      "created_at": "2025-11-25T17:00:02+09:00",
+      "position": 1,
+      "updated_at": "2025-11-25T17:00:03+09:00",
+      "product_id": 9374278123761,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0626/7142/1681/files/4571697945180_1_5070fc5c-da36-4233-94cb-e4a06e96300d.jpg?v=1764057603",
+      "width": 1000,
+      "height": 1000
+    },
+    "variant_ids": [
+      47157392474353
+    ],
+    "available": true,
+    "published_at": "2025-11-27T11:00:08+09:00",
+    "created_at": "2025-11-25T15:51:49+09:00"
   },
   {
     "id": 8043511054577,
@@ -33838,6 +34024,29 @@
     "created_at": "2023-11-15T11:39:48+09:00"
   },
   {
+    "id": 9374278254833,
+    "title": "ちいかわ ちいかわレストラン ハチワレのピーマン肉詰め皿",
+    "price": "1540",
+    "url": "https://chiikawamarket.jp/collections/all/products/4571697945265",
+    "image": {
+      "id": 47274777608433,
+      "created_at": "2025-11-25T16:12:12+09:00",
+      "position": 1,
+      "updated_at": "2025-11-25T16:12:13+09:00",
+      "product_id": 9374278254833,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0626/7142/1681/files/4571697945265_1.jpg?v=1764054733",
+      "width": 1000,
+      "height": 1000
+    },
+    "variant_ids": [
+      47157392572657
+    ],
+    "available": true,
+    "published_at": "2025-11-27T11:00:12+09:00",
+    "created_at": "2025-11-25T15:51:53+09:00"
+  },
+  {
     "id": 8409489309937,
     "title": "ちいかわ ちいかわレストラン ハンドタオル（なかよし・・・？）",
     "price": "770",
@@ -34481,6 +34690,29 @@
     "available": false,
     "published_at": "2025-05-01T18:00:06+09:00",
     "created_at": "2023-11-15T11:39:43+09:00"
+  },
+  {
+    "id": 9374278189297,
+    "title": "ちいかわ ちいかわレストラン ラバースマホスタンド",
+    "price": "2530",
+    "url": "https://chiikawamarket.jp/collections/all/products/4571697945258",
+    "image": {
+      "id": 47276798214385,
+      "created_at": "2025-11-25T17:00:21+09:00",
+      "position": 1,
+      "updated_at": "2025-11-25T17:00:22+09:00",
+      "product_id": 9374278189297,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0626/7142/1681/files/4571697945258_1_9b3b168c-0cb3-4329-b74f-edb43d601499.jpg?v=1764057622",
+      "width": 1000,
+      "height": 1000
+    },
+    "variant_ids": [
+      47157392539889
+    ],
+    "available": true,
+    "published_at": "2025-11-27T11:00:11+09:00",
+    "created_at": "2025-11-25T15:51:52+09:00"
   },
   {
     "id": 8043510399217,
@@ -35146,7 +35378,7 @@
     "variant_ids": [
       44067110682865
     ],
-    "available": true,
+    "available": false,
     "published_at": "2023-11-16T11:00:34+09:00",
     "created_at": "2023-11-15T11:40:04+09:00"
   },
@@ -52426,7 +52658,7 @@
     "variant_ids": [
       45624341725425
     ],
-    "available": true,
+    "available": false,
     "published_at": "2025-02-27T18:00:21+09:00",
     "created_at": "2024-10-23T13:06:39+09:00"
   },
@@ -81555,7 +81787,7 @@
     "variant_ids": [
       43890037457137
     ],
-    "available": true,
+    "available": false,
     "published_at": "2025-10-30T18:00:53+09:00",
     "created_at": "2023-08-01T17:24:00+09:00"
   },

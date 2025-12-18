@@ -26,15 +26,15 @@ async function start() {
 		{ id: "43515195228401", quantity: 1, name: "招財小八S娃" },
 		{ id: "42919074267377", quantity: 1, name: "基礎小甲蟲" },
 		{ id: "43526670024945", quantity: 1, name: "達摩兔兔" },
+		{ id: "43329815970033", quantity: 1, name: "飯糰兔兔" },
+		
+		/*{ id: "43526669926641", quantity: 1, name: "達摩吉伊" },
 		{ id: "43526669992177", quantity: 1, name: "達摩小八" },
 		{ id: "43515195162865", quantity: 1, name: "冬日兔兔" },
 		{ id: "43481770000625", quantity: 1, name: "寄生吉伊" },
 		{ id: "47008915980529", quantity: 1, name: "金封-藍" },
 		{ id: "47008916046065", quantity: 1, name: "金封-紅" },
-		
-		/*{ id: "43526669926641", quantity: 1, name: "達摩吉伊" },
 		{ id: "45741761331441", quantity: 1, name: "鏡餅奧德" },
-		{ id: "43329815970033", quantity: 1, name: "飯糰兔兔" },
 		{ id: "43087503360241", quantity: 1, name: "壞笑小八" },*/
 		
 		/*{ id: "43117814907121", quantity: 1, name: "大耳狗吉伊" },

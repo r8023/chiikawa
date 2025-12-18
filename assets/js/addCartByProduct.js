@@ -22,13 +22,23 @@ if (!document.querySelector('script[src="https://r8023.github.io/chiikawa/assets
 
 async function start() {
 	const productData = [
-		{ id: "43117814907121", quantity: 1, name: "大耳狗吉伊" },
+		{ id: "43515195293937", quantity: 1, name: "招財小八" },
+		{ id: "43515195228401", quantity: 1, name: "招財小八S娃" },
+		{ id: "43526670024945", quantity: 1, name: "達摩兔兔" },
+		{ id: "43526669926641", quantity: 1, name: "達摩吉伊" },
+		{ id: "43526669992177", quantity: 1, name: "達摩小八" },
+		{ id: "42919074267377", quantity: 1, name: "基礎小甲蟲" },
+		{ id: "45741761331441", quantity: 1, name: "鏡餅奧德" },
+		{ id: "43329815970033", quantity: 1, name: "飯糰兔兔" },
+		/*{ id: "43087503360241", quantity: 1, name: "壞笑小八" },*/
+		
+		/*{ id: "43117814907121", quantity: 1, name: "大耳狗吉伊" },
 		{ id: "43117814939889", quantity: 1, name: "帕恰狗小八" },
 		{ id: "43117814284529", quantity: 1, name: "布丁狗兔兔" },
 		{ id: "43117814481137", quantity: 1, name: "漢頓栗子" },
 		{ id: "43117814317297", quantity: 1, name: "庫洛米小桃" },
 		{ id: "43117813661937", quantity: 1, name: "美樂蒂吉伊" },
-		{ id: "43117813694705", quantity: 1, name: "凱蒂貓小八" },
+		{ id: "43117813694705", quantity: 1, name: "凱蒂貓小八" },*/
 		
 		/*{ id: "46290853331136", quantity: 1, name: "粉色熊" },
 		{ id: "46290853363904", quantity: 1, name: "芒果熊" },

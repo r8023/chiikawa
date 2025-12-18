@@ -29,6 +29,8 @@ async function start() {
 		{ id: "43526669992177", quantity: 1, name: "達摩小八" },
 		{ id: "43515195162865", quantity: 1, name: "冬日兔兔" },
 		{ id: "43481770000625", quantity: 1, name: "寄生吉伊" },
+		{ id: "47008915980529", quantity: 1, name: "金封-藍" },
+		{ id: "47008916046065", quantity: 1, name: "金封-紅" },
 		
 		/*{ id: "43526669926641", quantity: 1, name: "達摩吉伊" },
 		{ id: "45741761331441", quantity: 1, name: "鏡餅奧德" },

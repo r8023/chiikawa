@@ -22,8 +22,8 @@ if (!document.querySelector('script[src="https://r8023.github.io/chiikawa/assets
 
 async function start() {
 	const productData = [
-		{ id: "43515195293937", quantity: 1, name: "招財小八" },
-		{ id: "43515195228401", quantity: 1, name: "招財小八S娃" },
+		{ id: "43515195293937", quantity: 1, name: "招福小八" },
+		{ id: "43515195228401", quantity: 1, name: "招福小八S娃" },
 		{ id: "42919074267377", quantity: 1, name: "基礎小甲蟲" },
 		{ id: "43515195097329", quantity: 1, name: "冬日圍巾吉伊" },
 		{ id: "43515195130097", quantity: 1, name: "冬日圍巾小八" },

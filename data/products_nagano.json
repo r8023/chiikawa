@@ -1968,7 +1968,7 @@
     "variant_ids": [
       41555847971008
     ],
-    "available": true,
+    "available": false,
     "published_at": "2022-02-03T19:01:50+09:00",
     "created_at": "2022-01-27T00:57:31+09:00"
   },
@@ -11360,6 +11360,29 @@
     "created_at": "2023-10-26T13:03:53+09:00"
   },
   {
+    "id": 8422388793536,
+    "title": "ナガノキャラクターズ ぽてたまぬいぐるみ（うさぎに入れ替わったちいかわ）",
+    "price": "2750",
+    "url": "https://nagano-market.jp/collections/all/products/4974475972932",
+    "image": {
+      "id": 50998450979008,
+      "created_at": "2026-01-07T14:37:01+09:00",
+      "position": 1,
+      "updated_at": "2026-01-07T14:37:03+09:00",
+      "product_id": 8422388793536,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0585/2836/6784/files/4974475972932_1.jpg?v=1767764223",
+      "width": 500,
+      "height": 500
+    },
+    "variant_ids": [
+      47214447263936
+    ],
+    "available": true,
+    "published_at": "2026-01-09T11:00:05+09:00",
+    "created_at": "2026-01-07T12:45:02+09:00"
+  },
+  {
     "id": 8225803632832,
     "title": "ナガノキャラクターズ ぽてたまぬいぐるみ（うさぎ・なんか似てるの）",
     "price": "2530",
@@ -11519,6 +11542,29 @@
     "available": false,
     "published_at": "2023-07-07T11:00:00+09:00",
     "created_at": "2023-07-04T19:00:20+09:00"
+  },
+  {
+    "id": 8422388728000,
+    "title": "ナガノキャラクターズ ぽてたまぬいぐるみ（ちいかわに入れ替わったハチワレ）",
+    "price": "2750",
+    "url": "https://nagano-market.jp/collections/all/products/4974475972734",
+    "image": {
+      "id": 50998488498368,
+      "created_at": "2026-01-07T14:38:09+09:00",
+      "position": 1,
+      "updated_at": "2026-01-07T14:38:11+09:00",
+      "product_id": 8422388728000,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0585/2836/6784/files/4974475972734_1.jpg?v=1767764291",
+      "width": 500,
+      "height": 500
+    },
+    "variant_ids": [
+      47214447198400
+    ],
+    "available": true,
+    "published_at": "2026-01-09T11:00:04+09:00",
+    "created_at": "2026-01-07T12:44:57+09:00"
   },
   {
     "id": 8225803567296,
@@ -11728,6 +11774,29 @@
     "created_at": "2023-12-27T10:38:06+09:00"
   },
   {
+    "id": 8422388859072,
+    "title": "ナガノキャラクターズ ぽてたまぬいぐるみ（でかい鳥）",
+    "price": "3300",
+    "url": "https://nagano-market.jp/collections/all/products/4974475972635",
+    "image": {
+      "id": 50998423257280,
+      "created_at": "2026-01-07T14:36:17+09:00",
+      "position": 1,
+      "updated_at": "2026-01-07T14:36:19+09:00",
+      "product_id": 8422388859072,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0585/2836/6784/files/4974475972635_1.jpg?v=1767764179",
+      "width": 500,
+      "height": 500
+    },
+    "variant_ids": [
+      47214447329472
+    ],
+    "available": true,
+    "published_at": "2026-01-09T11:00:06+09:00",
+    "created_at": "2026-01-07T12:45:06+09:00"
+  },
+  {
     "id": 7507921764544,
     "title": "ナガノキャラクターズ ぽてたまぬいぐるみ（でかつよ）",
     "price": "3190",
@@ -11889,6 +11958,29 @@
     "created_at": "2023-11-16T13:14:27+09:00"
   },
   {
+    "id": 8422388826304,
+    "title": "ナガノキャラクターズ ぽてたまぬいぐるみ（カブトムシ・大）",
+    "price": "3520",
+    "url": "https://nagano-market.jp/collections/all/products/4974475972536",
+    "image": {
+      "id": 50998442459328,
+      "created_at": "2026-01-07T14:36:41+09:00",
+      "position": 1,
+      "updated_at": "2026-01-07T14:36:43+09:00",
+      "product_id": 8422388826304,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0585/2836/6784/files/4974475972536_1.jpg?v=1767764203",
+      "width": 500,
+      "height": 500
+    },
+    "variant_ids": [
+      47214447296704
+    ],
+    "available": true,
+    "published_at": "2026-01-09T11:00:04+09:00",
+    "created_at": "2026-01-07T12:45:04+09:00"
+  },
+  {
     "id": 8225803436224,
     "title": "ナガノキャラクターズ ぽてたまぬいぐるみ（キメラ）",
     "price": "3080",
@@ -12048,6 +12140,29 @@
     "available": false,
     "published_at": "2023-09-01T11:00:00+09:00",
     "created_at": "2023-08-30T17:35:30+09:00"
+  },
+  {
+    "id": 8422388760768,
+    "title": "ナガノキャラクターズ ぽてたまぬいぐるみ（ハチワレに入れ替わったうさぎ）",
+    "price": "2750",
+    "url": "https://nagano-market.jp/collections/all/products/4974475972833",
+    "image": {
+      "id": 50998500065472,
+      "created_at": "2026-01-07T14:38:31+09:00",
+      "position": 1,
+      "updated_at": "2026-01-07T14:38:33+09:00",
+      "product_id": 8422388760768,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0585/2836/6784/files/4974475972833_1.jpg?v=1767764313",
+      "width": 500,
+      "height": 500
+    },
+    "variant_ids": [
+      47214447231168
+    ],
+    "available": true,
+    "published_at": "2026-01-09T11:00:05+09:00",
+    "created_at": "2026-01-07T12:44:59+09:00"
   },
   {
     "id": 8225803600064,
@@ -25698,7 +25813,7 @@
     "variant_ids": [
       44324857086144
     ],
-    "available": true,
+    "available": false,
     "published_at": "2024-01-03T11:00:35+09:00",
     "created_at": "2023-12-27T10:38:23+09:00"
   },
@@ -35826,7 +35941,7 @@
     "variant_ids": [
       43645046653120
     ],
-    "available": true,
+    "available": false,
     "published_at": "2025-10-31T11:00:12+09:00",
     "created_at": "2023-05-12T18:27:47+09:00"
   },
@@ -42504,7 +42619,7 @@
     "variant_ids": [
       42972908781760
     ],
-    "available": true,
+    "available": false,
     "published_at": "2024-11-08T11:00:24+09:00",
     "created_at": "2022-07-06T15:22:17+09:00"
   },

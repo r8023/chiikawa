@@ -20978,6 +20978,29 @@
     "created_at": "2022-06-13T01:13:35+09:00"
   },
   {
+    "id": 9431470538993,
+    "title": "ちいかわ UMA TO NARUなぬいぐるみバッジセット",
+    "price": "2640",
+    "url": "https://chiikawamarket.jp/collections/all/products/4571609385998",
+    "image": {
+      "id": 48355721150705,
+      "created_at": "2026-01-07T19:49:12+09:00",
+      "position": 1,
+      "updated_at": "2026-01-07T19:49:14+09:00",
+      "product_id": 9431470538993,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0626/7142/1681/files/4571609385998_1.jpg?v=1767782954",
+      "width": 1200,
+      "height": 1200
+    },
+    "variant_ids": [
+      47652998775025
+    ],
+    "available": true,
+    "published_at": "2026-01-09T11:00:16+09:00",
+    "created_at": "2026-01-07T17:52:08+09:00"
+  },
+  {
     "id": 9173842886897,
     "title": "ちいかわ USB Type-C ACアダプタ（うさぎ）",
     "price": "3278",
@@ -38381,6 +38404,29 @@
     "created_at": "2023-11-14T16:00:51+09:00"
   },
   {
+    "id": 9431470702833,
+    "title": "ちいかわ ちいかわ＆ハチワレ ミニ雛人形",
+    "price": "9900",
+    "url": "https://chiikawamarket.jp/collections/all/products/4979866903236",
+    "image": {
+      "id": 48355753296113,
+      "created_at": "2026-01-07T19:51:23+09:00",
+      "position": 1,
+      "updated_at": "2026-01-07T19:51:24+09:00",
+      "product_id": 9431470702833,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0626/7142/1681/files/4979866903236_1.jpg?v=1767783084",
+      "width": 1200,
+      "height": 1200
+    },
+    "variant_ids": [
+      47652998938865
+    ],
+    "available": true,
+    "published_at": "2026-01-09T11:00:15+09:00",
+    "created_at": "2026-01-07T17:52:11+09:00"
+  },
+  {
     "id": 8814269661425,
     "title": "ちいかわ ちょうどいいフラットケース",
     "price": "1628",
@@ -51894,7 +51940,7 @@
     "variant_ids": [
       46940072345841
     ],
-    "available": true,
+    "available": false,
     "published_at": "2025-12-19T11:01:34+09:00",
     "created_at": "2025-09-18T14:42:45+09:00"
   },
@@ -55579,7 +55625,7 @@
     "variant_ids": [
       46149757665521
     ],
-    "available": true,
+    "available": false,
     "published_at": "2025-12-19T11:02:12+09:00",
     "created_at": "2025-05-20T12:30:35+09:00"
   },
@@ -77980,7 +78026,7 @@
     "variant_ids": [
       45922825273585
     ],
-    "available": true,
+    "available": false,
     "published_at": "2025-05-29T18:00:01+09:00",
     "created_at": "2025-02-10T15:05:23+09:00"
   },
@@ -120065,6 +120111,29 @@
     "created_at": "2024-11-19T15:38:40+09:00"
   },
   {
+    "id": 9431470866673,
+    "title": "ちいかわ ブックマークコレクション コレクションファイル Vol.3",
+    "price": "2420",
+    "url": "https://chiikawamarket.jp/collections/all/products/4582769873645",
+    "image": {
+      "id": 48355770925297,
+      "created_at": "2026-01-07T19:52:30+09:00",
+      "position": 1,
+      "updated_at": "2026-01-07T19:52:32+09:00",
+      "product_id": 9431470866673,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0626/7142/1681/files/4582769873645_1.jpg?v=1767783152",
+      "width": 1200,
+      "height": 1200
+    },
+    "variant_ids": [
+      47652999102705
+    ],
+    "available": true,
+    "published_at": "2026-01-09T11:00:16+09:00",
+    "created_at": "2026-01-07T17:52:13+09:00"
+  },
+  {
     "id": 7708141355249,
     "title": "ちいかわ ブラインド織り布缶バッジ（全8種）【BOX】",
     "price": "5280",
@@ -122846,6 +122915,52 @@
     "available": false,
     "published_at": "2024-06-28T11:00:16+09:00",
     "created_at": "2024-06-19T15:14:09+09:00"
+  },
+  {
+    "id": 9431471128817,
+    "title": "ちいかわ ペンスタンド（ちいかわ DINER ディナー）",
+    "price": "1540",
+    "url": "https://chiikawamarket.jp/collections/all/products/4901770013350",
+    "image": {
+      "id": 48355795271921,
+      "created_at": "2026-01-07T19:54:29+09:00",
+      "position": 1,
+      "updated_at": "2026-01-07T19:54:30+09:00",
+      "product_id": 9431471128817,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0626/7142/1681/files/4901770013350_1.jpg?v=1767783270",
+      "width": 1000,
+      "height": 1000
+    },
+    "variant_ids": [
+      47652999430385
+    ],
+    "available": true,
+    "published_at": "2026-01-09T11:00:16+09:00",
+    "created_at": "2026-01-07T17:52:19+09:00"
+  },
+  {
+    "id": 9431470997745,
+    "title": "ちいかわ ペンスタンド（ちいかわ DINER ランチ）",
+    "price": "1540",
+    "url": "https://chiikawamarket.jp/collections/all/products/4901770013343",
+    "image": {
+      "id": 48355779838193,
+      "created_at": "2026-01-07T19:53:13+09:00",
+      "position": 1,
+      "updated_at": "2026-01-07T19:53:15+09:00",
+      "product_id": 9431470997745,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0626/7142/1681/files/4901770013343_1.jpg?v=1767783195",
+      "width": 1000,
+      "height": 1000
+    },
+    "variant_ids": [
+      47652999299313
+    ],
+    "available": true,
+    "published_at": "2026-01-09T11:00:15+09:00",
+    "created_at": "2026-01-07T17:52:16+09:00"
   },
   {
     "id": 7997164224753,
@@ -146250,7 +146365,7 @@
     "variant_ids": [
       47585834500337
     ],
-    "available": true,
+    "available": false,
     "published_at": "2026-01-08T18:00:23+09:00",
     "created_at": "2025-12-15T21:04:20+09:00"
   },
@@ -151755,7 +151870,7 @@
     "variant_ids": [
       44456675475697
     ],
-    "available": true,
+    "available": false,
     "published_at": "2024-03-27T11:01:17+09:00",
     "created_at": "2024-03-25T17:15:03+09:00"
   },
@@ -155390,7 +155505,7 @@
     "variant_ids": [
       43891553665265
     ],
-    "available": true,
+    "available": false,
     "published_at": "2023-08-09T10:00:13+09:00",
     "created_at": "2023-08-02T17:53:20+09:00"
   },
@@ -164234,6 +164349,29 @@
     "available": false,
     "published_at": "2025-05-30T11:00:16+09:00",
     "created_at": "2025-05-23T15:44:42+09:00"
+  },
+  {
+    "id": 9431470244081,
+    "title": "ちいかわ 馬を被ったうさぎマスコット",
+    "price": "2200",
+    "url": "https://chiikawamarket.jp/collections/all/products/4571609385981",
+    "image": {
+      "id": 48355741794545,
+      "created_at": "2026-01-07T19:50:35+09:00",
+      "position": 1,
+      "updated_at": "2026-01-07T19:50:37+09:00",
+      "product_id": 9431470244081,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0626/7142/1681/files/4571609385981_1.jpg?v=1767783037",
+      "width": 1200,
+      "height": 1200
+    },
+    "variant_ids": [
+      47652998480113
+    ],
+    "available": true,
+    "published_at": "2026-01-09T11:00:17+09:00",
+    "created_at": "2026-01-07T17:52:01+09:00"
   },
   {
     "id": 7708142010609,
@@ -178211,7 +178349,7 @@
     "variant_ids": [
       43731644088561
     ],
-    "available": true,
+    "available": false,
     "published_at": "2025-11-13T18:00:45+09:00",
     "created_at": "2023-04-13T16:23:19+09:00"
   },

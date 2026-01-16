@@ -4016,7 +4016,7 @@
     "variant_ids": [
       41555847741632
     ],
-    "available": true,
+    "available": false,
     "published_at": "2022-02-03T19:01:49+09:00",
     "created_at": "2022-01-27T00:57:29+09:00"
   },
@@ -6351,7 +6351,7 @@
     "variant_ids": [
       41179736113344
     ],
-    "available": true,
+    "available": false,
     "published_at": "2021-11-13T22:28:25+09:00",
     "created_at": "2021-11-13T22:28:26+09:00"
   },
@@ -8986,6 +8986,31 @@
     "created_at": "2025-09-09T14:20:20+09:00"
   },
   {
+    "id": 8428123357376,
+    "title": "ナガノキャラクターズ Tシャツ 集合 ホワイト",
+    "price": "3300",
+    "url": "https://nagano-market.jp/collections/all/products/4570189200981",
+    "image": {
+      "id": 51197915758784,
+      "created_at": "2026-01-14T13:10:26+09:00",
+      "position": 1,
+      "updated_at": "2026-01-14T13:12:42+09:00",
+      "product_id": 8428123357376,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0585/2836/6784/files/4570189200981_8.jpg?v=1768363962",
+      "width": 1200,
+      "height": 1200
+    },
+    "variant_ids": [
+      47233756954816,
+      47233756987584,
+      47233757020352
+    ],
+    "available": true,
+    "published_at": "2026-01-16T11:00:09+09:00",
+    "created_at": "2026-01-13T22:25:42+09:00"
+  },
+  {
     "id": 8126672568512,
     "title": "ナガノキャラクターズ ZIPパーカー GROOVY FRIENDS ネイビー",
     "price": "4950",
@@ -9080,6 +9105,30 @@
     "available": true,
     "published_at": "2025-11-21T11:00:02+09:00",
     "created_at": "2025-11-17T15:34:45+09:00"
+  },
+  {
+    "id": 8428123390144,
+    "title": "ナガノキャラクターズ ZIPパーカー 集合 ブラック",
+    "price": "6600",
+    "url": "https://nagano-market.jp/collections/all/products/4570189201018",
+    "image": {
+      "id": 51220603896000,
+      "created_at": "2026-01-15T10:44:25+09:00",
+      "position": 1,
+      "updated_at": "2026-01-15T10:45:24+09:00",
+      "product_id": 8428123390144,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0585/2836/6784/files/4570189201018_15_f9e0ea8a-616b-4d05-be54-aadab2fb0fb2.jpg?v=1768441524",
+      "width": 1600,
+      "height": 1600
+    },
+    "variant_ids": [
+      47233757053120,
+      47233757085888
+    ],
+    "available": true,
+    "published_at": "2026-01-16T11:00:09+09:00",
+    "created_at": "2026-01-13T22:25:45+09:00"
   },
   {
     "id": 8386038104256,
@@ -9451,6 +9500,52 @@
     "created_at": "2025-12-15T15:15:43+09:00"
   },
   {
+    "id": 8428122800320,
+    "title": "ナガノキャラクターズ いきなりパワーアップ！ ミニミニおすわりマスコット（いちごコロッケ）",
+    "price": "1210",
+    "url": "https://nagano-market.jp/collections/all/products/4571609380832",
+    "image": {
+      "id": 51196787949760,
+      "created_at": "2026-01-14T11:46:22+09:00",
+      "position": 1,
+      "updated_at": "2026-01-14T11:46:23+09:00",
+      "product_id": 8428122800320,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0585/2836/6784/files/4571609380832_1.jpg?v=1768358783",
+      "width": 1200,
+      "height": 1200
+    },
+    "variant_ids": [
+      47233756397760
+    ],
+    "available": true,
+    "published_at": "2026-01-16T11:00:03+09:00",
+    "created_at": "2026-01-13T22:24:59+09:00"
+  },
+  {
+    "id": 8428122833088,
+    "title": "ナガノキャラクターズ いきなりパワーアップ！ ミニミニおすわりマスコット（いちご）",
+    "price": "1210",
+    "url": "https://nagano-market.jp/collections/all/products/4571609380849",
+    "image": {
+      "id": 51196791718080,
+      "created_at": "2026-01-14T11:46:51+09:00",
+      "position": 1,
+      "updated_at": "2026-01-14T11:46:53+09:00",
+      "product_id": 8428122833088,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0585/2836/6784/files/4571609380849_1.jpg?v=1768358813",
+      "width": 1200,
+      "height": 1200
+    },
+    "variant_ids": [
+      47233756430528
+    ],
+    "available": true,
+    "published_at": "2026-01-16T11:00:04+09:00",
+    "created_at": "2026-01-13T22:25:02+09:00"
+  },
+  {
     "id": 8405668921536,
     "title": "ナガノキャラクターズ いきなりパワーアップ！ ミニミニおすわりマスコット（おにぎり）",
     "price": "1210",
@@ -9474,6 +9569,52 @@
     "created_at": "2025-12-15T15:16:19+09:00"
   },
   {
+    "id": 8428122865856,
+    "title": "ナガノキャラクターズ いきなりパワーアップ！ ミニミニおすわりマスコット（きょりゅくん）",
+    "price": "1210",
+    "url": "https://nagano-market.jp/collections/all/products/4571609380870",
+    "image": {
+      "id": 51196794798272,
+      "created_at": "2026-01-14T11:47:12+09:00",
+      "position": 1,
+      "updated_at": "2026-01-14T11:47:13+09:00",
+      "product_id": 8428122865856,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0585/2836/6784/files/4571609380870_1.jpg?v=1768358833",
+      "width": 1200,
+      "height": 1200
+    },
+    "variant_ids": [
+      47233756463296
+    ],
+    "available": true,
+    "published_at": "2026-01-16T11:00:06+09:00",
+    "created_at": "2026-01-13T22:25:04+09:00"
+  },
+  {
+    "id": 8428122603712,
+    "title": "ナガノキャラクターズ いきなりパワーアップ！ ミニミニおすわりマスコット（くま／うますぎる）",
+    "price": "1210",
+    "url": "https://nagano-market.jp/collections/all/products/4571609380719",
+    "image": {
+      "id": 51196729295040,
+      "created_at": "2026-01-14T11:43:39+09:00",
+      "position": 1,
+      "updated_at": "2026-01-14T11:43:41+09:00",
+      "product_id": 8428122603712,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0585/2836/6784/files/4571609380719_1.jpg?v=1768358621",
+      "width": 1200,
+      "height": 1200
+    },
+    "variant_ids": [
+      47233756168384
+    ],
+    "available": true,
+    "published_at": "2026-01-16T11:00:03+09:00",
+    "created_at": "2026-01-13T22:24:44+09:00"
+  },
+  {
     "id": 8405668397248,
     "title": "ナガノキャラクターズ いきなりパワーアップ！ ミニミニおすわりマスコット（くま／もぐもぐ）",
     "price": "1210",
@@ -9495,6 +9636,29 @@
     "available": true,
     "published_at": "2025-12-19T11:00:08+09:00",
     "created_at": "2025-12-15T15:15:40+09:00"
+  },
+  {
+    "id": 8428122636480,
+    "title": "ナガノキャラクターズ いきなりパワーアップ！ ミニミニおすわりマスコット（くま／ハハハ）",
+    "price": "1210",
+    "url": "https://nagano-market.jp/collections/all/products/4571609380726",
+    "image": {
+      "id": 51196732539072,
+      "created_at": "2026-01-14T11:44:09+09:00",
+      "position": 1,
+      "updated_at": "2026-01-14T11:44:10+09:00",
+      "product_id": 8428122636480,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0585/2836/6784/files/4571609380726_1.jpg?v=1768358650",
+      "width": 1200,
+      "height": 1200
+    },
+    "variant_ids": [
+      47233756233920
+    ],
+    "available": true,
+    "published_at": "2026-01-16T11:00:03+09:00",
+    "created_at": "2026-01-13T22:24:47+09:00"
   },
   {
     "id": 8405668364480,
@@ -9543,6 +9707,52 @@
     "created_at": "2025-12-15T15:16:11+09:00"
   },
   {
+    "id": 8428122734784,
+    "title": "ナガノキャラクターズ いきなりパワーアップ！ ミニミニおすわりマスコット（もぐらコロッケ／くるまき）",
+    "price": "1210",
+    "url": "https://nagano-market.jp/collections/all/products/4571609380818",
+    "image": {
+      "id": 51196753248448,
+      "created_at": "2026-01-14T11:45:18+09:00",
+      "position": 1,
+      "updated_at": "2026-01-14T11:45:20+09:00",
+      "product_id": 8428122734784,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0585/2836/6784/files/4571609380818_1.jpg?v=1768358720",
+      "width": 1200,
+      "height": 1200
+    },
+    "variant_ids": [
+      47233756332224
+    ],
+    "available": true,
+    "published_at": "2026-01-16T11:00:04+09:00",
+    "created_at": "2026-01-13T22:24:54+09:00"
+  },
+  {
+    "id": 8428122669248,
+    "title": "ナガノキャラクターズ いきなりパワーアップ！ ミニミニおすわりマスコット（もぐらコロッケ／さかな）",
+    "price": "1210",
+    "url": "https://nagano-market.jp/collections/all/products/4571609380788",
+    "image": {
+      "id": 51196748628160,
+      "created_at": "2026-01-14T11:44:30+09:00",
+      "position": 1,
+      "updated_at": "2026-01-14T11:44:31+09:00",
+      "product_id": 8428122669248,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0585/2836/6784/files/4571609380788_1.jpg?v=1768358671",
+      "width": 1200,
+      "height": 1200
+    },
+    "variant_ids": [
+      47233756266688
+    ],
+    "available": true,
+    "published_at": "2026-01-16T11:00:02+09:00",
+    "created_at": "2026-01-13T22:24:50+09:00"
+  },
+  {
     "id": 8405668626624,
     "title": "ナガノキャラクターズ いきなりパワーアップ！ ミニミニおすわりマスコット（もぐらコロッケ／たこつき）",
     "price": "1210",
@@ -9584,7 +9794,7 @@
     "variant_ids": [
       47151412314304
     ],
-    "available": true,
+    "available": false,
     "published_at": "2025-12-19T11:00:09+09:00",
     "created_at": "2025-12-15T15:15:53+09:00"
   },
@@ -9635,6 +9845,52 @@
     "created_at": "2025-12-15T15:15:50+09:00"
   },
   {
+    "id": 8428122702016,
+    "title": "ナガノキャラクターズ いきなりパワーアップ！ ミニミニおすわりマスコット（もぐらコロッケ／長老）",
+    "price": "1210",
+    "url": "https://nagano-market.jp/collections/all/products/4571609380795",
+    "image": {
+      "id": 51196751741120,
+      "created_at": "2026-01-14T11:44:52+09:00",
+      "position": 1,
+      "updated_at": "2026-01-14T11:44:53+09:00",
+      "product_id": 8428122702016,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0585/2836/6784/files/4571609380795_1.jpg?v=1768358693",
+      "width": 1200,
+      "height": 1200
+    },
+    "variant_ids": [
+      47233756299456
+    ],
+    "available": true,
+    "published_at": "2026-01-16T11:00:02+09:00",
+    "created_at": "2026-01-13T22:24:52+09:00"
+  },
+  {
+    "id": 8428122767552,
+    "title": "ナガノキャラクターズ いきなりパワーアップ！ ミニミニおすわりマスコット（もぐらメンチ）",
+    "price": "1210",
+    "url": "https://nagano-market.jp/collections/all/products/4571609380825",
+    "image": {
+      "id": 51196774547648,
+      "created_at": "2026-01-14T11:45:51+09:00",
+      "position": 1,
+      "updated_at": "2026-01-14T11:45:54+09:00",
+      "product_id": 8428122767552,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0585/2836/6784/files/4571609380825_1.jpg?v=1768358754",
+      "width": 1200,
+      "height": 1200
+    },
+    "variant_ids": [
+      47233756364992
+    ],
+    "available": true,
+    "published_at": "2026-01-16T11:00:04+09:00",
+    "created_at": "2026-01-13T22:24:56+09:00"
+  },
+  {
     "id": 8405669019840,
     "title": "ナガノキャラクターズ いきなりパワーアップ！ ミニミニおすわりマスコット（もちきんちゃく）",
     "price": "1210",
@@ -9658,6 +9914,29 @@
     "created_at": "2025-12-15T15:16:26+09:00"
   },
   {
+    "id": 8428122931392,
+    "title": "ナガノキャラクターズ いきなりパワーアップ！ ミニミニおすわりマスコット（イッカク）",
+    "price": "1210",
+    "url": "https://nagano-market.jp/collections/all/products/4571609380948",
+    "image": {
+      "id": 51196796666048,
+      "created_at": "2026-01-14T11:47:55+09:00",
+      "position": 1,
+      "updated_at": "2026-01-14T11:47:57+09:00",
+      "product_id": 8428122931392,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0585/2836/6784/files/4571609380948_1.jpg?v=1768358877",
+      "width": 1200,
+      "height": 1200
+    },
+    "variant_ids": [
+      47233756528832
+    ],
+    "available": true,
+    "published_at": "2026-01-16T11:00:05+09:00",
+    "created_at": "2026-01-13T22:25:09+09:00"
+  },
+  {
     "id": 8405668856000,
     "title": "ナガノキャラクターズ いきなりパワーアップ！ ミニミニおすわりマスコット（キボシイワハイラックス）",
     "price": "1210",
@@ -9679,6 +9958,29 @@
     "available": true,
     "published_at": "2025-12-19T11:00:11+09:00",
     "created_at": "2025-12-15T15:16:13+09:00"
+  },
+  {
+    "id": 8428123160768,
+    "title": "ナガノキャラクターズ いきなりパワーアップ！ ミニミニおすわりマスコット（キメラ）",
+    "price": "1210",
+    "url": "https://nagano-market.jp/collections/all/products/4571609381068",
+    "image": {
+      "id": 51196832284864,
+      "created_at": "2026-01-14T11:50:54+09:00",
+      "position": 1,
+      "updated_at": "2026-01-14T11:50:56+09:00",
+      "product_id": 8428123160768,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0585/2836/6784/files/4571609381068_1.jpg?v=1768359056",
+      "width": 1200,
+      "height": 1200
+    },
+    "variant_ids": [
+      47233756758208
+    ],
+    "available": true,
+    "published_at": "2026-01-16T11:00:08+09:00",
+    "created_at": "2026-01-13T22:25:27+09:00"
   },
   {
     "id": 8405668659392,
@@ -9773,6 +10075,75 @@
     "created_at": "2025-12-15T15:16:08+09:00"
   },
   {
+    "id": 8428122996928,
+    "title": "ナガノキャラクターズ いきなりパワーアップ！ ミニミニおすわりマスコット（ナグリビト）",
+    "price": "1210",
+    "url": "https://nagano-market.jp/collections/all/products/4571609380979",
+    "image": {
+      "id": 51196804071616,
+      "created_at": "2026-01-14T11:48:39+09:00",
+      "position": 1,
+      "updated_at": "2026-01-14T11:48:40+09:00",
+      "product_id": 8428122996928,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0585/2836/6784/files/4571609380979_1.jpg?v=1768358920",
+      "width": 1200,
+      "height": 1200
+    },
+    "variant_ids": [
+      47233756594368
+    ],
+    "available": true,
+    "published_at": "2026-01-16T11:00:06+09:00",
+    "created_at": "2026-01-13T22:25:14+09:00"
+  },
+  {
+    "id": 8428122898624,
+    "title": "ナガノキャラクターズ いきなりパワーアップ！ ミニミニおすわりマスコット（ニセツチノコ）",
+    "price": "1210",
+    "url": "https://nagano-market.jp/collections/all/products/4571609380894",
+    "image": {
+      "id": 51196795289792,
+      "created_at": "2026-01-14T11:47:34+09:00",
+      "position": 1,
+      "updated_at": "2026-01-14T11:47:35+09:00",
+      "product_id": 8428122898624,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0585/2836/6784/files/4571609380894_1.jpg?v=1768358855",
+      "width": 1200,
+      "height": 1200
+    },
+    "variant_ids": [
+      47233756496064
+    ],
+    "available": true,
+    "published_at": "2026-01-16T11:00:05+09:00",
+    "created_at": "2026-01-13T22:25:06+09:00"
+  },
+  {
+    "id": 8428123291840,
+    "title": "ナガノキャラクターズ いきなりパワーアップ！ ミニミニおすわりマスコット（ネズミ）",
+    "price": "1210",
+    "url": "https://nagano-market.jp/collections/all/products/4571609381105",
+    "image": {
+      "id": 51196849651904,
+      "created_at": "2026-01-14T11:52:19+09:00",
+      "position": 1,
+      "updated_at": "2026-01-14T11:52:21+09:00",
+      "product_id": 8428123291840,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0585/2836/6784/files/4571609381105_1.jpg?v=1768359141",
+      "width": 1200,
+      "height": 1200
+    },
+    "variant_ids": [
+      47233756889280
+    ],
+    "available": true,
+    "published_at": "2026-01-16T11:00:10+09:00",
+    "created_at": "2026-01-13T22:25:37+09:00"
+  },
+  {
     "id": 8405668724928,
     "title": "ナガノキャラクターズ いきなりパワーアップ！ ミニミニおすわりマスコット（バイコーン）",
     "price": "1210",
@@ -9842,6 +10213,52 @@
     "created_at": "2025-12-15T15:16:16+09:00"
   },
   {
+    "id": 8428123128000,
+    "title": "ナガノキャラクターズ いきなりパワーアップ！ ミニミニおすわりマスコット（フェアリーじいや）",
+    "price": "1210",
+    "url": "https://nagano-market.jp/collections/all/products/4571609381051",
+    "image": {
+      "id": 51196823568576,
+      "created_at": "2026-01-14T11:50:27+09:00",
+      "position": 1,
+      "updated_at": "2026-01-14T11:50:29+09:00",
+      "product_id": 8428123128000,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0585/2836/6784/files/4571609381051_1.jpg?v=1768359029",
+      "width": 1200,
+      "height": 1200
+    },
+    "variant_ids": [
+      47233756725440
+    ],
+    "available": true,
+    "published_at": "2026-01-16T11:00:07+09:00",
+    "created_at": "2026-01-13T22:25:24+09:00"
+  },
+  {
+    "id": 8428122964160,
+    "title": "ナガノキャラクターズ いきなりパワーアップ！ ミニミニおすわりマスコット（マワシビト）",
+    "price": "1210",
+    "url": "https://nagano-market.jp/collections/all/products/4571609380962",
+    "image": {
+      "id": 51196800499904,
+      "created_at": "2026-01-14T11:48:17+09:00",
+      "position": 1,
+      "updated_at": "2026-01-14T11:48:18+09:00",
+      "product_id": 8428122964160,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0585/2836/6784/files/4571609380962_1.jpg?v=1768358898",
+      "width": 1200,
+      "height": 1200
+    },
+    "variant_ids": [
+      47233756561600
+    ],
+    "available": true,
+    "published_at": "2026-01-16T11:00:05+09:00",
+    "created_at": "2026-01-13T22:25:11+09:00"
+  },
+  {
     "id": 8405668757696,
     "title": "ナガノキャラクターズ いきなりパワーアップ！ ミニミニおすわりマスコット（ユニコーン）",
     "price": "1210",
@@ -9863,6 +10280,121 @@
     "available": true,
     "published_at": "2025-12-19T11:00:12+09:00",
     "created_at": "2025-12-15T15:16:05+09:00"
+  },
+  {
+    "id": 8428123226304,
+    "title": "ナガノキャラクターズ いきなりパワーアップ！ ミニミニおすわりマスコット（兎）",
+    "price": "1210",
+    "url": "https://nagano-market.jp/collections/all/products/4571609381082",
+    "image": {
+      "id": 51196841230528,
+      "created_at": "2026-01-14T11:51:57+09:00",
+      "position": 1,
+      "updated_at": "2026-01-14T11:51:58+09:00",
+      "product_id": 8428123226304,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0585/2836/6784/files/4571609381082_1.jpg?v=1768359118",
+      "width": 1200,
+      "height": 1200
+    },
+    "variant_ids": [
+      47233756823744
+    ],
+    "available": true,
+    "published_at": "2026-01-16T11:00:08+09:00",
+    "created_at": "2026-01-13T22:25:34+09:00"
+  },
+  {
+    "id": 8428123029696,
+    "title": "ナガノキャラクターズ いきなりパワーアップ！ ミニミニおすわりマスコット（星）",
+    "price": "1210",
+    "url": "https://nagano-market.jp/collections/all/products/4571609381013",
+    "image": {
+      "id": 51196808265920,
+      "created_at": "2026-01-14T11:49:06+09:00",
+      "position": 1,
+      "updated_at": "2026-01-14T11:49:07+09:00",
+      "product_id": 8428123029696,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0585/2836/6784/files/4571609381013_1.jpg?v=1768358947",
+      "width": 1200,
+      "height": 1200
+    },
+    "variant_ids": [
+      47233756627136
+    ],
+    "available": true,
+    "published_at": "2026-01-16T11:00:06+09:00",
+    "created_at": "2026-01-13T22:25:16+09:00"
+  },
+  {
+    "id": 8428123193536,
+    "title": "ナガノキャラクターズ いきなりパワーアップ！ ミニミニおすわりマスコット（虎）",
+    "price": "1210",
+    "url": "https://nagano-market.jp/collections/all/products/4571609381075",
+    "image": {
+      "id": 51196834742464,
+      "created_at": "2026-01-14T11:51:25+09:00",
+      "position": 1,
+      "updated_at": "2026-01-14T11:51:26+09:00",
+      "product_id": 8428123193536,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0585/2836/6784/files/4571609381075_1.jpg?v=1768359086",
+      "width": 1200,
+      "height": 1200
+    },
+    "variant_ids": [
+      47233756790976
+    ],
+    "available": true,
+    "published_at": "2026-01-16T11:00:08+09:00",
+    "created_at": "2026-01-13T22:25:31+09:00"
+  },
+  {
+    "id": 8428123095232,
+    "title": "ナガノキャラクターズ いきなりパワーアップ！ ミニミニおすわりマスコット（鬼）",
+    "price": "1210",
+    "url": "https://nagano-market.jp/collections/all/products/4571609381037",
+    "image": {
+      "id": 51196817178816,
+      "created_at": "2026-01-14T11:49:46+09:00",
+      "position": 1,
+      "updated_at": "2026-01-14T11:49:47+09:00",
+      "product_id": 8428123095232,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0585/2836/6784/files/4571609381037_1.jpg?v=1768358987",
+      "width": 1200,
+      "height": 1200
+    },
+    "variant_ids": [
+      47233756692672
+    ],
+    "available": true,
+    "published_at": "2026-01-16T11:00:07+09:00",
+    "created_at": "2026-01-13T22:25:21+09:00"
+  },
+  {
+    "id": 8428123062464,
+    "title": "ナガノキャラクターズ いきなりパワーアップ！ ミニミニおすわりマスコット（黒い星）",
+    "price": "1210",
+    "url": "https://nagano-market.jp/collections/all/products/4571609381020",
+    "image": {
+      "id": 51196812984512,
+      "created_at": "2026-01-14T11:49:24+09:00",
+      "position": 1,
+      "updated_at": "2026-01-14T11:49:25+09:00",
+      "product_id": 8428123062464,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0585/2836/6784/files/4571609381020_1.jpg?v=1768358965",
+      "width": 1200,
+      "height": 1200
+    },
+    "variant_ids": [
+      47233756659904
+    ],
+    "available": true,
+    "published_at": "2026-01-16T11:00:07+09:00",
+    "created_at": "2026-01-13T22:25:18+09:00"
   },
   {
     "id": 8405673083072,
@@ -9932,6 +10464,29 @@
     "available": false,
     "published_at": "2024-07-12T11:00:05+09:00",
     "created_at": "2024-07-08T15:32:52+09:00"
+  },
+  {
+    "id": 8428123324608,
+    "title": "ナガノキャラクターズ お祝いマスコット（パグ）",
+    "price": "1760",
+    "url": "https://nagano-market.jp/collections/all/products/4571609385301",
+    "image": {
+      "id": 51196857450688,
+      "created_at": "2026-01-14T11:52:59+09:00",
+      "position": 1,
+      "updated_at": "2026-01-14T11:53:01+09:00",
+      "product_id": 8428123324608,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0585/2836/6784/files/4571609385301_1.jpg?v=1768359181",
+      "width": 1200,
+      "height": 1200
+    },
+    "variant_ids": [
+      47233756922048
+    ],
+    "available": true,
+    "published_at": "2026-01-16T11:00:09+09:00",
+    "created_at": "2026-01-13T22:25:40+09:00"
   },
   {
     "id": 8323387490496,
@@ -10688,7 +11243,7 @@
     "variant_ids": [
       45367286202560
     ],
-    "available": true,
+    "available": false,
     "published_at": "2024-07-12T11:00:06+09:00",
     "created_at": "2024-07-08T15:32:29+09:00"
   },
@@ -12666,7 +13221,7 @@
     "variant_ids": [
       44288371654848
     ],
-    "available": true,
+    "available": false,
     "published_at": "2023-12-13T11:00:01+09:00",
     "created_at": "2023-12-11T20:07:00+09:00"
   },
@@ -13402,7 +13957,7 @@
     "variant_ids": [
       44288371491008
     ],
-    "available": true,
+    "available": false,
     "published_at": "2025-05-15T18:30:04+09:00",
     "created_at": "2023-12-11T20:06:54+09:00"
   },
@@ -18904,7 +19459,7 @@
     "variant_ids": [
       43973394202816
     ],
-    "available": true,
+    "available": false,
     "published_at": "2023-10-20T11:00:05+09:00",
     "created_at": "2023-10-18T13:09:05+09:00"
   },
@@ -20842,6 +21397,29 @@
     "created_at": "2025-09-09T14:20:27+09:00"
   },
   {
+    "id": 8428123422912,
+    "title": "ナガノキャラクターズ トートバッグ 集合 ホワイト",
+    "price": "2970",
+    "url": "https://nagano-market.jp/collections/all/products/4570189201032",
+    "image": {
+      "id": 51197947838656,
+      "created_at": "2026-01-14T13:12:08+09:00",
+      "position": 1,
+      "updated_at": "2026-01-14T13:12:41+09:00",
+      "product_id": 8428123422912,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0585/2836/6784/files/4570189201032_9.jpg?v=1768363961",
+      "width": 1200,
+      "height": 1200
+    },
+    "variant_ids": [
+      47233757118656
+    ],
+    "available": false,
+    "published_at": "2026-01-16T11:00:10+09:00",
+    "created_at": "2026-01-13T22:25:48+09:00"
+  },
+  {
     "id": 7527453491392,
     "title": "ナガノキャラクターズ ナガノのくま てくびまくら",
     "price": "1650",
@@ -22086,7 +22664,7 @@
     "variant_ids": [
       46026569613504
     ],
-    "available": true,
+    "available": false,
     "published_at": "2025-01-24T11:00:23+09:00",
     "created_at": "2025-01-20T16:59:06+09:00"
   },
@@ -25100,7 +25678,7 @@
     "variant_ids": [
       45116984950976
     ],
-    "available": true,
+    "available": false,
     "published_at": "2025-08-08T11:00:51+09:00",
     "created_at": "2024-05-20T13:31:06+09:00"
   },
@@ -25287,6 +25865,75 @@
     "available": false,
     "published_at": "2023-06-30T11:00:01+09:00",
     "created_at": "2023-06-12T12:22:45+09:00"
+  },
+  {
+    "id": 8428123521216,
+    "title": "ナガノキャラクターズ ミニフィギュアチャーム くま",
+    "price": "990",
+    "url": "https://nagano-market.jp/collections/all/products/4573256439031",
+    "image": {
+      "id": 51196874588352,
+      "created_at": "2026-01-14T11:55:27+09:00",
+      "position": 1,
+      "updated_at": "2026-01-14T11:55:28+09:00",
+      "product_id": 8428123521216,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0585/2836/6784/files/4573256439031_1.jpg?v=1768359328",
+      "width": 1200,
+      "height": 1200
+    },
+    "variant_ids": [
+      47233757348032
+    ],
+    "available": true,
+    "published_at": "2026-01-16T11:00:10+09:00",
+    "created_at": "2026-01-13T22:25:56+09:00"
+  },
+  {
+    "id": 8428123586752,
+    "title": "ナガノキャラクターズ ミニフィギュアチャーム もぐらコロッケ",
+    "price": "990",
+    "url": "https://nagano-market.jp/collections/all/products/4573256439055",
+    "image": {
+      "id": 51196879405248,
+      "created_at": "2026-01-14T11:55:41+09:00",
+      "position": 1,
+      "updated_at": "2026-01-14T11:55:42+09:00",
+      "product_id": 8428123586752,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0585/2836/6784/files/4573256439055_1.jpg?v=1768359342",
+      "width": 1200,
+      "height": 1200
+    },
+    "variant_ids": [
+      47233757413568
+    ],
+    "available": true,
+    "published_at": "2026-01-16T11:00:11+09:00",
+    "created_at": "2026-01-13T22:26:01+09:00"
+  },
+  {
+    "id": 8428123553984,
+    "title": "ナガノキャラクターズ ミニフィギュアチャーム パグ",
+    "price": "990",
+    "url": "https://nagano-market.jp/collections/all/products/4573256439048",
+    "image": {
+      "id": 51196879110336,
+      "created_at": "2026-01-14T11:55:33+09:00",
+      "position": 1,
+      "updated_at": "2026-01-14T11:55:35+09:00",
+      "product_id": 8428123553984,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0585/2836/6784/files/4573256439048_1.jpg?v=1768359335",
+      "width": 1200,
+      "height": 1200
+    },
+    "variant_ids": [
+      47233757380800
+    ],
+    "available": true,
+    "published_at": "2026-01-16T11:00:12+09:00",
+    "created_at": "2026-01-13T22:25:58+09:00"
   },
   {
     "id": 8293567955136,
@@ -29355,7 +30002,7 @@
     "variant_ids": [
       45116983640256
     ],
-    "available": true,
+    "available": false,
     "published_at": "2024-05-25T11:00:20+09:00",
     "created_at": "2024-05-20T13:30:04+09:00"
   },
@@ -29521,6 +30168,31 @@
     "created_at": "2023-12-11T20:06:44+09:00"
   },
   {
+    "id": 8428123488448,
+    "title": "ナガノキャラクターズ 長袖Tシャツ I LOVE KUMA スミ",
+    "price": "4180",
+    "url": "https://nagano-market.jp/collections/all/products/4570189200950",
+    "image": {
+      "id": 51197913989312,
+      "created_at": "2026-01-14T13:09:46+09:00",
+      "position": 1,
+      "updated_at": "2026-01-14T13:09:47+09:00",
+      "product_id": 8428123488448,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0585/2836/6784/files/4570189200950_1.jpg?v=1768363787",
+      "width": 1200,
+      "height": 1200
+    },
+    "variant_ids": [
+      47233757249728,
+      47233757282496,
+      47233757315264
+    ],
+    "available": true,
+    "published_at": "2026-01-16T11:00:11+09:00",
+    "created_at": "2026-01-13T22:25:53+09:00"
+  },
+  {
     "id": 8365350224064,
     "title": "ナガノキャラクターズ 長袖Tシャツ お顔ならび オートミール",
     "price": "4180",
@@ -29544,6 +30216,31 @@
     "available": true,
     "published_at": "2025-10-31T11:00:09+09:00",
     "created_at": "2025-10-28T12:35:48+09:00"
+  },
+  {
+    "id": 8428123455680,
+    "title": "ナガノキャラクターズ 長袖Tシャツ リボン ホワイト",
+    "price": "4180",
+    "url": "https://nagano-market.jp/collections/all/products/4570189200929",
+    "image": {
+      "id": 51197912056000,
+      "created_at": "2026-01-14T13:09:10+09:00",
+      "position": 1,
+      "updated_at": "2026-01-14T13:09:12+09:00",
+      "product_id": 8428123455680,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0585/2836/6784/files/4570189200929_1.jpg?v=1768363752",
+      "width": 1200,
+      "height": 1200
+    },
+    "variant_ids": [
+      47233757151424,
+      47233757184192,
+      47233757216960
+    ],
+    "available": true,
+    "published_at": "2026-01-16T11:00:11+09:00",
+    "created_at": "2026-01-13T22:25:50+09:00"
   },
   {
     "id": 8365350191296,
@@ -40158,7 +40855,7 @@
     "variant_ids": [
       41708558581952
     ],
-    "available": true,
+    "available": false,
     "published_at": "2022-03-10T17:51:43+09:00",
     "created_at": "2022-03-03T20:29:02+09:00"
   },
@@ -41699,7 +42396,7 @@
     "variant_ids": [
       43693237403840
     ],
-    "available": true,
+    "available": false,
     "published_at": "2023-06-14T11:00:05+09:00",
     "created_at": "2023-06-12T12:22:36+09:00"
   },
@@ -42044,7 +42741,7 @@
     "variant_ids": [
       43391760236736
     ],
-    "available": true,
+    "available": false,
     "published_at": "2023-01-13T11:00:05+09:00",
     "created_at": "2023-01-11T16:37:56+09:00"
   },
@@ -42412,7 +43109,7 @@
     "variant_ids": [
       43775717540032
     ],
-    "available": true,
+    "available": false,
     "published_at": "2023-08-17T11:00:05+09:00",
     "created_at": "2023-08-08T18:10:55+09:00"
   },

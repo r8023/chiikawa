@@ -1,51 +1,5 @@
 [
   {
-    "id": 9410553250033,
-    "title": "【50%OFF】ちいかわ シーサーのおみやげやさん ちんすこう（しお）",
-    "price": "810",
-    "url": "https://chiikawamarket.jp/collections/all/products/4571609380047",
-    "image": {
-      "id": 47947477287153,
-      "created_at": "2025-12-17T12:04:52+09:00",
-      "position": 1,
-      "updated_at": "2025-12-17T12:04:53+09:00",
-      "product_id": 9410553250033,
-      "variant_ids": [],
-      "src": "https://cdn.shopify.com/s/files/1/0626/7142/1681/files/4571609380047_1.jpg?v=1765940693",
-      "width": 1200,
-      "height": 1200
-    },
-    "variant_ids": [
-      47585833648369
-    ],
-    "available": false,
-    "published_at": "2025-12-19T11:00:33+09:00",
-    "created_at": "2025-12-15T21:03:32+09:00"
-  },
-  {
-    "id": 9410553151729,
-    "title": "【50%OFF】ちいかわ シーサーのおみやげやさん ちんすこう（プレーン）",
-    "price": "810",
-    "url": "https://chiikawamarket.jp/collections/all/products/4571609380030",
-    "image": {
-      "id": 47947437080817,
-      "created_at": "2025-12-17T12:03:45+09:00",
-      "position": 1,
-      "updated_at": "2025-12-17T12:03:47+09:00",
-      "product_id": 9410553151729,
-      "variant_ids": [],
-      "src": "https://cdn.shopify.com/s/files/1/0626/7142/1681/files/4571609380030_1.jpg?v=1765940627",
-      "width": 1200,
-      "height": 1200
-    },
-    "variant_ids": [
-      47585833550065
-    ],
-    "available": false,
-    "published_at": "2026-01-06T13:33:21+09:00",
-    "created_at": "2025-12-15T21:03:29+09:00"
-  },
-  {
     "id": 7713067499761,
     "title": "【50%OFF】ちいかわ ワクワクゆうえんち 行ってきちゃいましたクッキー",
     "price": "486",
@@ -83322,6 +83276,52 @@
     "available": true,
     "published_at": "2025-12-19T11:00:39+09:00",
     "created_at": "2025-12-15T21:02:44+09:00"
+  },
+  {
+    "id": 9410553250033,
+    "title": "ちいかわ シーサーのおみやげやさん ちんすこう（しお）",
+    "price": "1620",
+    "url": "https://chiikawamarket.jp/collections/all/products/4571609380047",
+    "image": {
+      "id": 47947477287153,
+      "created_at": "2025-12-17T12:04:52+09:00",
+      "position": 1,
+      "updated_at": "2025-12-17T12:04:53+09:00",
+      "product_id": 9410553250033,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0626/7142/1681/files/4571609380047_1.jpg?v=1765940693",
+      "width": 1200,
+      "height": 1200
+    },
+    "variant_ids": [
+      47585833648369
+    ],
+    "available": false,
+    "published_at": "2025-12-19T11:00:33+09:00",
+    "created_at": "2025-12-15T21:03:32+09:00"
+  },
+  {
+    "id": 9410553151729,
+    "title": "ちいかわ シーサーのおみやげやさん ちんすこう（プレーン）",
+    "price": "1620",
+    "url": "https://chiikawamarket.jp/collections/all/products/4571609380030",
+    "image": {
+      "id": 47947437080817,
+      "created_at": "2025-12-17T12:03:45+09:00",
+      "position": 1,
+      "updated_at": "2025-12-17T12:03:47+09:00",
+      "product_id": 9410553151729,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0626/7142/1681/files/4571609380030_1.jpg?v=1765940627",
+      "width": 1200,
+      "height": 1200
+    },
+    "variant_ids": [
+      47585833550065
+    ],
+    "available": false,
+    "published_at": "2026-01-06T13:33:21+09:00",
+    "created_at": "2025-12-15T21:03:29+09:00"
   },
   {
     "id": 8447710331121,

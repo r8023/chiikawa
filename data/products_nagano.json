@@ -4499,7 +4499,7 @@
     "variant_ids": [
       41573953142976
     ],
-    "available": true,
+    "available": false,
     "published_at": "2022-02-03T19:04:25+09:00",
     "created_at": "2022-01-30T19:37:39+09:00"
   },
@@ -11909,7 +11909,7 @@
     "variant_ids": [
       47214447263936
     ],
-    "available": true,
+    "available": false,
     "published_at": "2026-01-09T11:00:05+09:00",
     "created_at": "2026-01-07T12:45:02+09:00"
   },
@@ -13547,6 +13547,29 @@
     "created_at": "2024-12-05T10:55:12+09:00"
   },
   {
+    "id": 8453079695552,
+    "title": "ナガノキャラクターズ わけがわからないマスコット",
+    "price": "1650",
+    "url": "https://nagano-market.jp/collections/all/products/4571609387985",
+    "image": {
+      "id": 52017278845120,
+      "created_at": "2026-02-09T12:36:17+09:00",
+      "position": 1,
+      "updated_at": "2026-02-09T12:36:19+09:00",
+      "product_id": 8453079695552,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0585/2836/6784/files/4571609387985_1.jpg?v=1770608179",
+      "width": 1200,
+      "height": 1200
+    },
+    "variant_ids": [
+      47306711105728
+    ],
+    "available": true,
+    "published_at": "2026-02-13T11:00:06+09:00",
+    "created_at": "2026-02-06T16:46:15+09:00"
+  },
+  {
     "id": 7673363988672,
     "title": "ナガノキャラクターズ アクリルクリップ（ちいかわたち）",
     "price": "880",
@@ -14347,7 +14370,7 @@
     "variant_ids": [
       46290854019264
     ],
-    "available": true,
+    "available": false,
     "published_at": "2025-04-18T11:00:16+09:00",
     "created_at": "2025-04-14T18:09:58+09:00"
   },
@@ -15249,6 +15272,75 @@
     "created_at": "2025-04-14T18:10:23+09:00"
   },
   {
+    "id": 8453079662784,
+    "title": "ナガノキャラクターズ ガッチャンマスコット",
+    "price": "2200",
+    "url": "https://nagano-market.jp/collections/all/products/4571609387978",
+    "image": {
+      "id": 52017116676288,
+      "created_at": "2026-02-09T12:27:12+09:00",
+      "position": 1,
+      "updated_at": "2026-02-09T12:27:14+09:00",
+      "product_id": 8453079662784,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0585/2836/6784/files/4571609387978_1.jpg?v=1770607634",
+      "width": 1200,
+      "height": 1200
+    },
+    "variant_ids": [
+      47306711040192
+    ],
+    "available": true,
+    "published_at": "2026-02-13T11:00:06+09:00",
+    "created_at": "2026-02-06T16:46:12+09:00"
+  },
+  {
+    "id": 8453080416448,
+    "title": "ナガノキャラクターズ キャップ モノクロなくま ブラック",
+    "price": "3630",
+    "url": "https://nagano-market.jp/collections/all/products/4570189201278",
+    "image": {
+      "id": 52017432821952,
+      "created_at": "2026-02-09T12:43:25+09:00",
+      "position": 1,
+      "updated_at": "2026-02-09T12:43:27+09:00",
+      "product_id": 8453080416448,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0585/2836/6784/files/4570189201278_3.jpg?v=1770608607",
+      "width": 1200,
+      "height": 1200
+    },
+    "variant_ids": [
+      47306712056000
+    ],
+    "available": false,
+    "published_at": "2026-02-13T11:00:14+09:00",
+    "created_at": "2026-02-06T16:47:00+09:00"
+  },
+  {
+    "id": 8453080383680,
+    "title": "ナガノキャラクターズ キャップ モノクロなくま ホワイト",
+    "price": "3630",
+    "url": "https://nagano-market.jp/collections/all/products/4570189201261",
+    "image": {
+      "id": 52017431773376,
+      "created_at": "2026-02-09T12:43:09+09:00",
+      "position": 1,
+      "updated_at": "2026-02-09T12:43:11+09:00",
+      "product_id": 8453080383680,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0585/2836/6784/files/4570189201261_4.jpg?v=1770608591",
+      "width": 1200,
+      "height": 1200
+    },
+    "variant_ids": [
+      47306712023232
+    ],
+    "available": false,
+    "published_at": "2026-02-13T11:00:13+09:00",
+    "created_at": "2026-02-06T16:46:57+09:00"
+  },
+  {
     "id": 8286881218752,
     "title": "ナガノキャラクターズ キャンディボトル（もぐらコロッケ）",
     "price": "1650",
@@ -15290,7 +15382,7 @@
     "variant_ids": [
       46604797444288
     ],
-    "available": true,
+    "available": false,
     "published_at": "2025-10-02T18:30:03+09:00",
     "created_at": "2025-07-23T10:08:03+09:00"
   },
@@ -16052,6 +16144,52 @@
     "available": false,
     "published_at": "2024-01-03T11:00:18+09:00",
     "created_at": "2023-12-27T10:39:44+09:00"
+  },
+  {
+    "id": 8453080514752,
+    "title": "ナガノキャラクターズ クルーソックス モノクロなくま ブラック",
+    "price": "880",
+    "url": "https://nagano-market.jp/collections/all/products/4570189200684",
+    "image": {
+      "id": 52017391796416,
+      "created_at": "2026-02-09T12:40:23+09:00",
+      "position": 1,
+      "updated_at": "2026-02-09T12:40:24+09:00",
+      "product_id": 8453080514752,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0585/2836/6784/files/4570189200684_5.jpg?v=1770608424",
+      "width": 1200,
+      "height": 1200
+    },
+    "variant_ids": [
+      47306712154304
+    ],
+    "available": false,
+    "published_at": "2026-02-13T11:00:15+09:00",
+    "created_at": "2026-02-06T16:47:04+09:00"
+  },
+  {
+    "id": 8453080449216,
+    "title": "ナガノキャラクターズ クルーソックス モノクロなくま ホワイト",
+    "price": "880",
+    "url": "https://nagano-market.jp/collections/all/products/4570189200677",
+    "image": {
+      "id": 52017369120960,
+      "created_at": "2026-02-09T12:39:56+09:00",
+      "position": 1,
+      "updated_at": "2026-02-09T12:39:58+09:00",
+      "product_id": 8453080449216,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0585/2836/6784/files/4570189200677_4.jpg?v=1770608398",
+      "width": 1200,
+      "height": 1200
+    },
+    "variant_ids": [
+      47306712121536
+    ],
+    "available": false,
+    "published_at": "2026-02-13T11:00:15+09:00",
+    "created_at": "2026-02-06T16:47:01+09:00"
   },
   {
     "id": 7673366413504,
@@ -17916,7 +18054,7 @@
     "variant_ids": [
       42869335261376
     ],
-    "available": true,
+    "available": false,
     "published_at": "2024-03-29T11:00:26+09:00",
     "created_at": "2022-06-08T15:46:17+09:00"
   },
@@ -18330,7 +18468,7 @@
     "variant_ids": [
       43973392793792
     ],
-    "available": true,
+    "available": false,
     "published_at": "2023-10-20T11:00:04+09:00",
     "created_at": "2023-10-18T13:08:58+09:00"
   },
@@ -20336,6 +20474,98 @@
     "created_at": "2025-11-04T14:42:43+09:00"
   },
   {
+    "id": 8453079990464,
+    "title": "ナガノキャラクターズ タフトマット（おかおなくま）",
+    "price": "3300",
+    "url": "https://nagano-market.jp/collections/all/products/4571609389521",
+    "image": {
+      "id": 52017125884096,
+      "created_at": "2026-02-09T12:28:01+09:00",
+      "position": 1,
+      "updated_at": "2026-02-09T12:28:03+09:00",
+      "product_id": 8453079990464,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0585/2836/6784/files/4571609389521_1.jpg?v=1770607683",
+      "width": 1200,
+      "height": 1200
+    },
+    "variant_ids": [
+      47306711433408
+    ],
+    "available": true,
+    "published_at": "2026-02-13T11:00:11+09:00",
+    "created_at": "2026-02-06T16:46:33+09:00"
+  },
+  {
+    "id": 8453080088768,
+    "title": "ナガノキャラクターズ タフトマット（クルマになったくま）",
+    "price": "3300",
+    "url": "https://nagano-market.jp/collections/all/products/4571609389545",
+    "image": {
+      "id": 52017128276160,
+      "created_at": "2026-02-09T12:28:28+09:00",
+      "position": 1,
+      "updated_at": "2026-02-09T12:28:30+09:00",
+      "product_id": 8453080088768,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0585/2836/6784/files/4571609389545_1.jpg?v=1770607710",
+      "width": 1200,
+      "height": 1200
+    },
+    "variant_ids": [
+      47306711564480
+    ],
+    "available": true,
+    "published_at": "2026-02-13T11:00:10+09:00",
+    "created_at": "2026-02-06T16:46:38+09:00"
+  },
+  {
+    "id": 8453080056000,
+    "title": "ナガノキャラクターズ タフトマット（ホイップクリームなくま）",
+    "price": "3300",
+    "url": "https://nagano-market.jp/collections/all/products/4571609389538",
+    "image": {
+      "id": 52017127162048,
+      "created_at": "2026-02-09T12:28:14+09:00",
+      "position": 1,
+      "updated_at": "2026-02-09T12:28:16+09:00",
+      "product_id": 8453080056000,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0585/2836/6784/files/4571609389538_1.jpg?v=1770607696",
+      "width": 1200,
+      "height": 1200
+    },
+    "variant_ids": [
+      47306711498944
+    ],
+    "available": true,
+    "published_at": "2026-02-13T11:00:09+09:00",
+    "created_at": "2026-02-06T16:46:35+09:00"
+  },
+  {
+    "id": 8453080121536,
+    "title": "ナガノキャラクターズ タフトマット（脳に思いを馳せるくま）",
+    "price": "3300",
+    "url": "https://nagano-market.jp/collections/all/products/4571609389552",
+    "image": {
+      "id": 52017130340544,
+      "created_at": "2026-02-09T12:28:38+09:00",
+      "position": 1,
+      "updated_at": "2026-02-09T12:28:40+09:00",
+      "product_id": 8453080121536,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0585/2836/6784/files/4571609389552_1.jpg?v=1770607720",
+      "width": 1200,
+      "height": 1200
+    },
+    "variant_ids": [
+      47306711597248
+    ],
+    "available": true,
+    "published_at": "2026-02-13T11:00:12+09:00",
+    "created_at": "2026-02-06T16:46:40+09:00"
+  },
+  {
     "id": 7519803277504,
     "title": "ナガノキャラクターズ ダイカットふせん（もぐらコロッケ）",
     "price": "605",
@@ -20561,7 +20791,7 @@
     "variant_ids": [
       44288371851456
     ],
-    "available": true,
+    "available": false,
     "published_at": "2023-12-13T11:00:05+09:00",
     "created_at": "2023-12-11T20:07:04+09:00"
   },
@@ -23703,6 +23933,52 @@
     "created_at": "2023-12-27T10:39:17+09:00"
   },
   {
+    "id": 8453080350912,
+    "title": "ナガノキャラクターズ ナップサック モノクロなくま ブラック",
+    "price": "4180",
+    "url": "https://nagano-market.jp/collections/all/products/4570189201254",
+    "image": {
+      "id": 52017427251392,
+      "created_at": "2026-02-09T12:42:25+09:00",
+      "position": 1,
+      "updated_at": "2026-02-09T12:42:26+09:00",
+      "product_id": 8453080350912,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0585/2836/6784/files/4570189201254_4.jpg?v=1770608546",
+      "width": 1200,
+      "height": 1200
+    },
+    "variant_ids": [
+      47306711990464
+    ],
+    "available": false,
+    "published_at": "2026-02-13T11:00:13+09:00",
+    "created_at": "2026-02-06T16:46:55+09:00"
+  },
+  {
+    "id": 8453080318144,
+    "title": "ナガノキャラクターズ ナップサック モノクロなくま ホワイト",
+    "price": "4180",
+    "url": "https://nagano-market.jp/collections/all/products/4570189201247",
+    "image": {
+      "id": 52017424367808,
+      "created_at": "2026-02-09T12:42:03+09:00",
+      "position": 1,
+      "updated_at": "2026-02-09T12:42:04+09:00",
+      "product_id": 8453080318144,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0585/2836/6784/files/4570189201247_4.jpg?v=1770608524",
+      "width": 1200,
+      "height": 1200
+    },
+    "variant_ids": [
+      47306711957696
+    ],
+    "available": false,
+    "published_at": "2026-02-13T11:00:13+09:00",
+    "created_at": "2026-02-06T16:46:53+09:00"
+  },
+  {
     "id": 8089550225600,
     "title": "ナガノキャラクターズ ニットバッグベルト",
     "price": "1100",
@@ -24986,7 +25262,7 @@
     "variant_ids": [
       46546161402048
     ],
-    "available": true,
+    "available": false,
     "published_at": "2025-07-11T11:00:08+09:00",
     "created_at": "2025-07-07T12:18:29+09:00"
   },
@@ -26550,7 +26826,7 @@
     "variant_ids": [
       44324856627392
     ],
-    "available": true,
+    "available": false,
     "published_at": "2025-10-31T11:00:20+09:00",
     "created_at": "2023-12-27T10:38:14+09:00"
   },
@@ -27335,6 +27611,98 @@
     "available": false,
     "published_at": "2025-01-24T11:00:43+09:00",
     "created_at": "2025-01-20T16:59:25+09:00"
+  },
+  {
+    "id": 8453079957696,
+    "title": "ナガノキャラクターズ モノトーンなトートバッグ（シルバー）",
+    "price": "3850",
+    "url": "https://nagano-market.jp/collections/all/products/4571609373216",
+    "image": {
+      "id": 52017172938944,
+      "created_at": "2026-02-09T12:31:43+09:00",
+      "position": 1,
+      "updated_at": "2026-02-09T12:31:45+09:00",
+      "product_id": 8453079957696,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0585/2836/6784/files/4571609373216_1.jpg?v=1770607905",
+      "width": 1200,
+      "height": 1200
+    },
+    "variant_ids": [
+      47306711400640
+    ],
+    "available": true,
+    "published_at": "2026-02-13T11:00:10+09:00",
+    "created_at": "2026-02-06T16:46:31+09:00"
+  },
+  {
+    "id": 8453079924928,
+    "title": "ナガノキャラクターズ モノトーンなトートバッグ（ブラック）",
+    "price": "3850",
+    "url": "https://nagano-market.jp/collections/all/products/4571609373209",
+    "image": {
+      "id": 52017172480192,
+      "created_at": "2026-02-09T12:31:26+09:00",
+      "position": 1,
+      "updated_at": "2026-02-09T12:31:28+09:00",
+      "product_id": 8453079924928,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0585/2836/6784/files/4571609373209_1.jpg?v=1770607888",
+      "width": 1200,
+      "height": 1200
+    },
+    "variant_ids": [
+      47306711367872
+    ],
+    "available": true,
+    "published_at": "2026-02-13T11:00:09+09:00",
+    "created_at": "2026-02-06T16:46:29+09:00"
+  },
+  {
+    "id": 8453079859392,
+    "title": "ナガノキャラクターズ モノトーンなマスコットも入るショルダーポーチ",
+    "price": "3080",
+    "url": "https://nagano-market.jp/collections/all/products/4571609373230",
+    "image": {
+      "id": 52017202561216,
+      "created_at": "2026-02-09T12:33:55+09:00",
+      "position": 1,
+      "updated_at": "2026-02-09T12:33:57+09:00",
+      "product_id": 8453079859392,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0585/2836/6784/files/4571609373230_1.jpg?v=1770608037",
+      "width": 1200,
+      "height": 1200
+    },
+    "variant_ids": [
+      47306711269568
+    ],
+    "available": true,
+    "published_at": "2026-02-13T11:00:08+09:00",
+    "created_at": "2026-02-06T16:46:24+09:00"
+  },
+  {
+    "id": 8453079892160,
+    "title": "ナガノキャラクターズ モノトーンな折り畳みミラー",
+    "price": "2420",
+    "url": "https://nagano-market.jp/collections/all/products/4571609373223",
+    "image": {
+      "id": 52017224351936,
+      "created_at": "2026-02-09T12:34:22+09:00",
+      "position": 1,
+      "updated_at": "2026-02-09T14:34:03+09:00",
+      "product_id": 8453079892160,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0585/2836/6784/files/4571609373223_3.jpg?v=1770615243",
+      "width": 1200,
+      "height": 1200
+    },
+    "variant_ids": [
+      47306711335104
+    ],
+    "available": true,
+    "published_at": "2026-02-13T11:00:08+09:00",
+    "created_at": "2026-02-06T16:46:26+09:00"
   },
   {
     "id": 7492176478400,
@@ -29338,6 +29706,75 @@
     "created_at": "2025-06-03T11:11:49+09:00"
   },
   {
+    "id": 8453079728320,
+    "title": "ナガノキャラクターズ 桜色なマスコット（くま）",
+    "price": "1650",
+    "url": "https://nagano-market.jp/collections/all/products/4571609388715",
+    "image": {
+      "id": 52017294835904,
+      "created_at": "2026-02-09T12:36:47+09:00",
+      "position": 1,
+      "updated_at": "2026-02-09T12:36:48+09:00",
+      "product_id": 8453079728320,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0585/2836/6784/files/4571609388715_1.jpg?v=1770608208",
+      "width": 1200,
+      "height": 1200
+    },
+    "variant_ids": [
+      47306711138496
+    ],
+    "available": true,
+    "published_at": "2026-02-13T11:00:07+09:00",
+    "created_at": "2026-02-06T16:46:17+09:00"
+  },
+  {
+    "id": 8453079793856,
+    "title": "ナガノキャラクターズ 桜色なマスコット（もぐらコロッケ）",
+    "price": "1540",
+    "url": "https://nagano-market.jp/collections/all/products/4571609388739",
+    "image": {
+      "id": 52017303716032,
+      "created_at": "2026-02-09T12:37:18+09:00",
+      "position": 1,
+      "updated_at": "2026-02-09T12:37:20+09:00",
+      "product_id": 8453079793856,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0585/2836/6784/files/4571609388739_1.jpg?v=1770608240",
+      "width": 1200,
+      "height": 1200
+    },
+    "variant_ids": [
+      47306711204032
+    ],
+    "available": true,
+    "published_at": "2026-02-13T11:00:08+09:00",
+    "created_at": "2026-02-06T16:46:22+09:00"
+  },
+  {
+    "id": 8453079761088,
+    "title": "ナガノキャラクターズ 桜色なマスコット（パグ）",
+    "price": "1650",
+    "url": "https://nagano-market.jp/collections/all/products/4571609388722",
+    "image": {
+      "id": 52017298964672,
+      "created_at": "2026-02-09T12:37:01+09:00",
+      "position": 1,
+      "updated_at": "2026-02-09T12:37:03+09:00",
+      "product_id": 8453079761088,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0585/2836/6784/files/4571609388722_1.jpg?v=1770608223",
+      "width": 1200,
+      "height": 1200
+    },
+    "variant_ids": [
+      47306711171264
+    ],
+    "available": true,
+    "published_at": "2026-02-13T11:00:07+09:00",
+    "created_at": "2026-02-06T16:46:19+09:00"
+  },
+  {
     "id": 8323386933440,
     "title": "ナガノキャラクターズ 歩くアザラシマスコット",
     "price": "1650",
@@ -29890,6 +30327,52 @@
     "created_at": "2025-09-09T14:19:13+09:00"
   },
   {
+    "id": 8453080187072,
+    "title": "ナガノキャラクターズ 蓄光ウォールステッカーシート（くまともぐらコロッケ）",
+    "price": "1650",
+    "url": "https://nagano-market.jp/collections/all/products/4571609394341",
+    "image": {
+      "id": 52017325506752,
+      "created_at": "2026-02-09T12:38:11+09:00",
+      "position": 1,
+      "updated_at": "2026-02-09T12:38:12+09:00",
+      "product_id": 8453080187072,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0585/2836/6784/files/4571609394341_1.jpg?v=1770608292",
+      "width": 1200,
+      "height": 1200
+    },
+    "variant_ids": [
+      47306711662784
+    ],
+    "available": false,
+    "published_at": "2026-02-13T11:00:12+09:00",
+    "created_at": "2026-02-06T16:46:45+09:00"
+  },
+  {
+    "id": 8453080154304,
+    "title": "ナガノキャラクターズ 蓄光ウォールステッカーシート（色々なくま）",
+    "price": "1650",
+    "url": "https://nagano-market.jp/collections/all/products/4571609394334",
+    "image": {
+      "id": 52017318527168,
+      "created_at": "2026-02-09T12:37:53+09:00",
+      "position": 1,
+      "updated_at": "2026-02-09T12:37:55+09:00",
+      "product_id": 8453080154304,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0585/2836/6784/files/4571609394334_1.jpg?v=1770608275",
+      "width": 1200,
+      "height": 1200
+    },
+    "variant_ids": [
+      47306711630016
+    ],
+    "available": false,
+    "published_at": "2026-02-13T11:00:11+09:00",
+    "created_at": "2026-02-06T16:46:43+09:00"
+  },
+  {
     "id": 8277041774784,
     "title": "ナガノキャラクターズ 蚊ッマスコット",
     "price": "1760",
@@ -30103,6 +30586,56 @@
     "available": true,
     "published_at": "2025-10-31T11:00:09+09:00",
     "created_at": "2025-10-28T12:35:45+09:00"
+  },
+  {
+    "id": 8453080285376,
+    "title": "ナガノキャラクターズ 長袖Ｔシャツ モノクロなくま ブラック",
+    "price": "4400",
+    "url": "https://nagano-market.jp/collections/all/products/4570189201216",
+    "image": {
+      "id": 52017405788352,
+      "created_at": "2026-02-09T12:41:30+09:00",
+      "position": 1,
+      "updated_at": "2026-02-09T12:41:31+09:00",
+      "product_id": 8453080285376,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0585/2836/6784/files/4570189201216_13.jpg?v=1770608491",
+      "width": 1200,
+      "height": 1200
+    },
+    "variant_ids": [
+      47306711859392,
+      47306711892160,
+      47306711924928
+    ],
+    "available": true,
+    "published_at": "2026-02-13T11:00:14+09:00",
+    "created_at": "2026-02-06T16:46:50+09:00"
+  },
+  {
+    "id": 8453080219840,
+    "title": "ナガノキャラクターズ 長袖Ｔシャツ モノクロなくま ホワイト",
+    "price": "4400",
+    "url": "https://nagano-market.jp/collections/all/products/4570189201186",
+    "image": {
+      "id": 52017402872000,
+      "created_at": "2026-02-09T12:40:59+09:00",
+      "position": 1,
+      "updated_at": "2026-02-09T12:41:01+09:00",
+      "product_id": 8453080219840,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0585/2836/6784/files/4570189201186_16.jpg?v=1770608461",
+      "width": 1200,
+      "height": 1200
+    },
+    "variant_ids": [
+      47306711728320,
+      47306711761088,
+      47306711793856
+    ],
+    "available": true,
+    "published_at": "2026-02-13T11:00:11+09:00",
+    "created_at": "2026-02-06T16:46:48+09:00"
   },
   {
     "id": 8267359125696,

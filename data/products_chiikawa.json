@@ -7548,7 +7548,7 @@
     "variant_ids": [
       45741761724657
     ],
-    "available": true,
+    "available": false,
     "published_at": "2024-12-06T11:00:20+09:00",
     "created_at": "2024-11-29T22:36:42+09:00"
   },
@@ -7896,6 +7896,29 @@
     "available": true,
     "published_at": "2023-05-26T11:00:01+09:00",
     "created_at": "2023-05-23T16:26:52+09:00"
+  },
+  {
+    "id": 9470579966193,
+    "title": "ちいかわ 7days フリーケース",
+    "price": "440",
+    "url": "https://chiikawamarket.jp/collections/all/products/4548387565058",
+    "image": {
+      "id": 48691813089521,
+      "created_at": "2026-02-10T17:58:48+09:00",
+      "position": 1,
+      "updated_at": "2026-02-10T17:59:22+09:00",
+      "product_id": 9470579966193,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0626/7142/1681/files/4548387565058_1.jpg?v=1770713962",
+      "width": 1200,
+      "height": 1200
+    },
+    "variant_ids": [
+      47786657153265
+    ],
+    "available": true,
+    "published_at": "2026-02-13T11:00:22+09:00",
+    "created_at": "2026-02-09T20:24:45+09:00"
   },
   {
     "id": 8135504560369,
@@ -9276,6 +9299,98 @@
     "available": true,
     "published_at": "2025-10-30T18:00:40+09:00",
     "created_at": "2025-05-23T15:44:23+09:00"
+  },
+  {
+    "id": 9470579114225,
+    "title": "ちいかわ Bappe アフタースクール（うさぎ）",
+    "price": "2200",
+    "url": "https://chiikawamarket.jp/collections/all/products/4901770040431",
+    "image": {
+      "id": 48691663700209,
+      "created_at": "2026-02-10T17:44:46+09:00",
+      "position": 1,
+      "updated_at": "2026-02-10T17:44:47+09:00",
+      "product_id": 9470579114225,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0626/7142/1681/files/4901770040431_1.jpg?v=1770713087",
+      "width": 1000,
+      "height": 1000
+    },
+    "variant_ids": [
+      47786656039153
+    ],
+    "available": true,
+    "published_at": "2026-02-13T11:00:29+09:00",
+    "created_at": "2026-02-09T20:24:01+09:00"
+  },
+  {
+    "id": 9470578524401,
+    "title": "ちいかわ Bappe アフタースクール（ちいかわ）",
+    "price": "2200",
+    "url": "https://chiikawamarket.jp/collections/all/products/4901770040417",
+    "image": {
+      "id": 48691631292657,
+      "created_at": "2026-02-10T17:35:00+09:00",
+      "position": 1,
+      "updated_at": "2026-02-10T17:35:02+09:00",
+      "product_id": 9470578524401,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0626/7142/1681/files/4901770040417_1.jpg?v=1770712502",
+      "width": 1000,
+      "height": 1000
+    },
+    "variant_ids": [
+      47786655351025
+    ],
+    "available": true,
+    "published_at": "2026-02-13T11:00:32+09:00",
+    "created_at": "2026-02-09T20:23:55+09:00"
+  },
+  {
+    "id": 9470578557169,
+    "title": "ちいかわ Bappe アフタースクール（ハチワレ）",
+    "price": "2200",
+    "url": "https://chiikawamarket.jp/collections/all/products/4901770040424",
+    "image": {
+      "id": 48691662389489,
+      "created_at": "2026-02-10T17:44:15+09:00",
+      "position": 1,
+      "updated_at": "2026-02-10T17:44:17+09:00",
+      "product_id": 9470578557169,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0626/7142/1681/files/4901770040424_1.jpg?v=1770713057",
+      "width": 1000,
+      "height": 1000
+    },
+    "variant_ids": [
+      47786655449329
+    ],
+    "available": true,
+    "published_at": "2026-02-13T11:00:28+09:00",
+    "created_at": "2026-02-09T20:23:58+09:00"
+  },
+  {
+    "id": 9470579507441,
+    "title": "ちいかわ Bappe アフタースクール（モモンガ）",
+    "price": "2200",
+    "url": "https://chiikawamarket.jp/collections/all/products/4901770040448",
+    "image": {
+      "id": 48691665535217,
+      "created_at": "2026-02-10T17:45:13+09:00",
+      "position": 1,
+      "updated_at": "2026-02-10T17:45:14+09:00",
+      "product_id": 9470579507441,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0626/7142/1681/files/4901770040448_1.jpg?v=1770713114",
+      "width": 1000,
+      "height": 1000
+    },
+    "variant_ids": [
+      47786656530673
+    ],
+    "available": true,
+    "published_at": "2026-02-13T11:00:29+09:00",
+    "created_at": "2026-02-09T20:24:05+09:00"
   },
   {
     "id": 7689413198065,
@@ -23697,7 +23812,7 @@
     "variant_ids": [
       47008913031409
     ],
-    "available": true,
+    "available": false,
     "published_at": "2025-10-17T11:00:46+09:00",
     "created_at": "2025-10-10T20:53:39+09:00"
   },
@@ -28106,7 +28221,7 @@
     "variant_ids": [
       45105001332977
     ],
-    "available": true,
+    "available": false,
     "published_at": "2024-09-26T18:00:04+09:00",
     "created_at": "2024-06-19T15:13:55+09:00"
   },
@@ -28152,7 +28267,7 @@
     "variant_ids": [
       45105001431281
     ],
-    "available": true,
+    "available": false,
     "published_at": "2024-09-26T18:00:05+09:00",
     "created_at": "2024-06-19T15:13:57+09:00"
   },
@@ -34532,6 +34647,29 @@
     "created_at": "2023-11-15T11:40:13+09:00"
   },
   {
+    "id": 9470577606897,
+    "title": "ちいかわ ちいかわレストラン グラス（マーメイド）",
+    "price": "1430",
+    "url": "https://chiikawamarket.jp/collections/all/products/4571697948662",
+    "image": {
+      "id": 48691792314609,
+      "created_at": "2026-02-10T17:52:22+09:00",
+      "position": 1,
+      "updated_at": "2026-02-10T17:52:24+09:00",
+      "product_id": 9470577606897,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0626/7142/1681/files/4571697948662_1.jpg?v=1770713544",
+      "width": 1000,
+      "height": 1000
+    },
+    "variant_ids": [
+      47786653581553
+    ],
+    "available": true,
+    "published_at": "2026-02-13T11:00:37+09:00",
+    "created_at": "2026-02-09T20:23:20+09:00"
+  },
+  {
     "id": 8043508924657,
     "title": "ちいかわ ちいかわレストラン ケース入りマルチクロス（じゅっ）",
     "price": "990",
@@ -34693,6 +34831,29 @@
     "created_at": "2025-11-25T15:51:51+09:00"
   },
   {
+    "id": 9470577705201,
+    "title": "ちいかわ ちいかわレストラン シリコンポーチ（くりまんじゅう）",
+    "price": "1430",
+    "url": "https://chiikawamarket.jp/collections/all/products/4571697945210",
+    "image": {
+      "id": 48691788153073,
+      "created_at": "2026-02-10T17:50:38+09:00",
+      "position": 1,
+      "updated_at": "2026-02-10T17:52:44+09:00",
+      "product_id": 9470577705201,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0626/7142/1681/files/4571697945210_1.jpg?v=1770713564",
+      "width": 1000,
+      "height": 1000
+    },
+    "variant_ids": [
+      47786653778161
+    ],
+    "available": true,
+    "published_at": "2026-02-13T11:00:36+09:00",
+    "created_at": "2026-02-09T20:23:27+09:00"
+  },
+  {
     "id": 9374278090993,
     "title": "ちいかわ ちいかわレストラン シリコンポーチ（ちいかわ）",
     "price": "1430",
@@ -34714,6 +34875,29 @@
     "available": true,
     "published_at": "2025-11-27T11:00:10+09:00",
     "created_at": "2025-11-25T15:51:48+09:00"
+  },
+  {
+    "id": 9470578032881,
+    "title": "ちいかわ ちいかわレストラン シリコンポーチ（シーサー）",
+    "price": "1430",
+    "url": "https://chiikawamarket.jp/collections/all/products/4571697945227",
+    "image": {
+      "id": 48691788480753,
+      "created_at": "2026-02-10T17:50:52+09:00",
+      "position": 1,
+      "updated_at": "2026-02-10T17:52:44+09:00",
+      "product_id": 9470578032881,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0626/7142/1681/files/4571697945227_1.jpg?v=1770713564",
+      "width": 1000,
+      "height": 1000
+    },
+    "variant_ids": [
+      47786654269681
+    ],
+    "available": true,
+    "published_at": "2026-02-13T11:00:33+09:00",
+    "created_at": "2026-02-09T20:23:33+09:00"
   },
   {
     "id": 9374278123761,
@@ -34739,6 +34923,75 @@
     "created_at": "2025-11-25T15:51:49+09:00"
   },
   {
+    "id": 9470577672433,
+    "title": "ちいかわ ちいかわレストラン シリコンポーチ（モモンガ）",
+    "price": "1430",
+    "url": "https://chiikawamarket.jp/collections/all/products/4571697945234",
+    "image": {
+      "id": 48691789824241,
+      "created_at": "2026-02-10T17:51:39+09:00",
+      "position": 1,
+      "updated_at": "2026-02-10T17:52:44+09:00",
+      "product_id": 9470577672433,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0626/7142/1681/files/4571697945234_1.jpg?v=1770713564",
+      "width": 1000,
+      "height": 1000
+    },
+    "variant_ids": [
+      47786653647089
+    ],
+    "available": true,
+    "published_at": "2026-02-13T11:00:36+09:00",
+    "created_at": "2026-02-09T20:23:24+09:00"
+  },
+  {
+    "id": 9470578000113,
+    "title": "ちいかわ ちいかわレストラン シリコンポーチ（ラッコ）",
+    "price": "1430",
+    "url": "https://chiikawamarket.jp/collections/all/products/4571697945203",
+    "image": {
+      "id": 48691646038257,
+      "created_at": "2026-02-10T17:39:28+09:00",
+      "position": 1,
+      "updated_at": "2026-02-10T17:46:53+09:00",
+      "product_id": 9470578000113,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0626/7142/1681/files/4571697945203_1.jpg?v=1770713213",
+      "width": 1000,
+      "height": 1000
+    },
+    "variant_ids": [
+      47786654138609
+    ],
+    "available": true,
+    "published_at": "2026-02-13T11:00:33+09:00",
+    "created_at": "2026-02-09T20:23:30+09:00"
+  },
+  {
+    "id": 9470578098417,
+    "title": "ちいかわ ちいかわレストラン シリコンポーチ（古本屋）",
+    "price": "1430",
+    "url": "https://chiikawamarket.jp/collections/all/products/4571697945241",
+    "image": {
+      "id": 48691789299953,
+      "created_at": "2026-02-10T17:51:24+09:00",
+      "position": 1,
+      "updated_at": "2026-02-10T17:51:25+09:00",
+      "product_id": 9470578098417,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0626/7142/1681/files/4571697945241_1.jpg?v=1770713485",
+      "width": 1000,
+      "height": 1000
+    },
+    "variant_ids": [
+      47786654400753
+    ],
+    "available": true,
+    "published_at": "2026-02-13T11:00:34+09:00",
+    "created_at": "2026-02-09T20:23:36+09:00"
+  },
+  {
     "id": 8043511054577,
     "title": "ちいかわ ちいかわレストラン ジップパーカー Welcome オートミール",
     "price": "5940",
@@ -34761,6 +35014,29 @@
     "available": false,
     "published_at": "2023-11-16T11:00:15+09:00",
     "created_at": "2023-11-15T11:40:32+09:00"
+  },
+  {
+    "id": 9470577574129,
+    "title": "ちいかわ ちいかわレストラン ジャガードボトルホルダー",
+    "price": "2200",
+    "url": "https://chiikawamarket.jp/collections/all/products/4571697948754",
+    "image": {
+      "id": 48691792937201,
+      "created_at": "2026-02-10T17:52:32+09:00",
+      "position": 1,
+      "updated_at": "2026-02-10T17:52:33+09:00",
+      "product_id": 9470577574129,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0626/7142/1681/files/4571697948754_1.jpg?v=1770713553",
+      "width": 1000,
+      "height": 1000
+    },
+    "variant_ids": [
+      47786653548785
+    ],
+    "available": true,
+    "published_at": "2026-02-13T11:00:35+09:00",
+    "created_at": "2026-02-09T20:23:14+09:00"
   },
   {
     "id": 8043508859121,
@@ -36143,6 +36419,29 @@
     "available": false,
     "published_at": "2025-05-01T18:00:06+09:00",
     "created_at": "2023-11-15T11:39:43+09:00"
+  },
+  {
+    "id": 9470577541361,
+    "title": "ちいかわ ちいかわレストラン ラウンドプレート（アロハシャツ）",
+    "price": "2420",
+    "url": "https://chiikawamarket.jp/collections/all/products/4571697948655",
+    "image": {
+      "id": 48691791855857,
+      "created_at": "2026-02-10T17:52:07+09:00",
+      "position": 1,
+      "updated_at": "2026-02-10T17:52:08+09:00",
+      "product_id": 9470577541361,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0626/7142/1681/files/4571697948655_1.jpg?v=1770713528",
+      "width": 1000,
+      "height": 1000
+    },
+    "variant_ids": [
+      47786653516017
+    ],
+    "available": true,
+    "published_at": "2026-02-13T11:00:38+09:00",
+    "created_at": "2026-02-09T20:23:10+09:00"
   },
   {
     "id": 9374278189297,
@@ -51645,7 +51944,7 @@
     "variant_ids": [
       47762521850097
     ],
-    "available": true,
+    "available": false,
     "published_at": "2026-02-06T11:00:06+09:00",
     "created_at": "2026-02-03T16:03:02+09:00"
   },
@@ -51668,7 +51967,7 @@
     "variant_ids": [
       47762520867057
     ],
-    "available": true,
+    "available": false,
     "published_at": "2026-02-06T11:00:08+09:00",
     "created_at": "2026-02-03T16:02:53+09:00"
   },
@@ -62672,6 +62971,75 @@
     "created_at": "2025-12-01T15:58:45+09:00"
   },
   {
+    "id": 9470580195569,
+    "title": "ちいかわ アニメ『ちいかわ』 100丈マキタオル（サマードット）",
+    "price": "2750",
+    "url": "https://chiikawamarket.jp/collections/all/products/4550681019441",
+    "image": {
+      "id": 48691799589105,
+      "created_at": "2026-02-10T17:55:23+09:00",
+      "position": 1,
+      "updated_at": "2026-02-10T17:59:20+09:00",
+      "product_id": 9470580195569,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0626/7142/1681/files/4550681019441_1.jpg?v=1770713960",
+      "width": 1200,
+      "height": 1200
+    },
+    "variant_ids": [
+      47786657546481
+    ],
+    "available": true,
+    "published_at": "2026-02-13T11:00:20+09:00",
+    "created_at": "2026-02-09T20:25:02+09:00"
+  },
+  {
+    "id": 9470580064497,
+    "title": "ちいかわ アニメ『ちいかわ』 60丈マキタオル（パネル）",
+    "price": "1870",
+    "url": "https://chiikawamarket.jp/collections/all/products/4550681019427",
+    "image": {
+      "id": 48691797065969,
+      "created_at": "2026-02-10T17:54:25+09:00",
+      "position": 1,
+      "updated_at": "2026-02-10T17:59:20+09:00",
+      "product_id": 9470580064497,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0626/7142/1681/files/4550681019427_1.jpg?v=1770713960",
+      "width": 1200,
+      "height": 1200
+    },
+    "variant_ids": [
+      47786657251569
+    ],
+    "available": true,
+    "published_at": "2026-02-13T11:00:19+09:00",
+    "created_at": "2026-02-09T20:24:55+09:00"
+  },
+  {
+    "id": 9470580130033,
+    "title": "ちいかわ アニメ『ちいかわ』 80丈マキタオル（サマーストライプ）",
+    "price": "2530",
+    "url": "https://chiikawamarket.jp/collections/all/products/4550681019434",
+    "image": {
+      "id": 48691798737137,
+      "created_at": "2026-02-10T17:54:52+09:00",
+      "position": 1,
+      "updated_at": "2026-02-10T17:59:20+09:00",
+      "product_id": 9470580130033,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0626/7142/1681/files/4550681019434_1.jpg?v=1770713960",
+      "width": 1200,
+      "height": 1200
+    },
+    "variant_ids": [
+      47786657415409
+    ],
+    "available": true,
+    "published_at": "2026-02-13T11:00:18+09:00",
+    "created_at": "2026-02-09T20:24:59+09:00"
+  },
+  {
     "id": 9461764161777,
     "title": "ちいかわ アニメ『ちいかわ』 お昼寝ケット（ドット）",
     "price": "2530",
@@ -62695,6 +63063,29 @@
     "created_at": "2026-02-03T16:03:22+09:00"
   },
   {
+    "id": 9470580228337,
+    "title": "ちいかわ アニメ『ちいかわ』 キャップタオル（ドット）",
+    "price": "1100",
+    "url": "https://chiikawamarket.jp/collections/all/products/4550681019472",
+    "image": {
+      "id": 48691799916785,
+      "created_at": "2026-02-10T17:55:42+09:00",
+      "position": 1,
+      "updated_at": "2026-02-10T17:59:20+09:00",
+      "product_id": 9470580228337,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0626/7142/1681/files/4550681019472_1.jpg?v=1770713960",
+      "width": 1200,
+      "height": 1200
+    },
+    "variant_ids": [
+      47786657612017
+    ],
+    "available": true,
+    "published_at": "2026-02-13T11:00:19+09:00",
+    "created_at": "2026-02-09T20:25:06+09:00"
+  },
+  {
     "id": 9461764129009,
     "title": "ちいかわ アニメ『ちいかわ』 ジュニアバスタオル（ドット）",
     "price": "1320",
@@ -62716,6 +63107,52 @@
     "available": true,
     "published_at": "2026-02-06T11:00:02+09:00",
     "created_at": "2026-02-03T16:03:21+09:00"
+  },
+  {
+    "id": 9470579998961,
+    "title": "ちいかわ アニメ『ちいかわ』 ジュニア枕（ドット）",
+    "price": "1650",
+    "url": "https://chiikawamarket.jp/collections/all/products/4550681019373",
+    "image": {
+      "id": 48691794837745,
+      "created_at": "2026-02-10T17:53:19+09:00",
+      "position": 1,
+      "updated_at": "2026-02-10T17:59:21+09:00",
+      "product_id": 9470579998961,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0626/7142/1681/files/4550681019373_1.jpg?v=1770713961",
+      "width": 1200,
+      "height": 1200
+    },
+    "variant_ids": [
+      47786657186033
+    ],
+    "available": true,
+    "published_at": "2026-02-13T11:00:21+09:00",
+    "created_at": "2026-02-09T20:24:48+09:00"
+  },
+  {
+    "id": 9470580031729,
+    "title": "ちいかわ アニメ『ちいかわ』 スクールクッション（ドット）",
+    "price": "1650",
+    "url": "https://chiikawamarket.jp/collections/all/products/4550681019380",
+    "image": {
+      "id": 48691795460337,
+      "created_at": "2026-02-10T17:53:48+09:00",
+      "position": 1,
+      "updated_at": "2026-02-10T17:59:22+09:00",
+      "product_id": 9470580031729,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0626/7142/1681/files/4550681019380_1.jpg?v=1770713962",
+      "width": 1200,
+      "height": 1200
+    },
+    "variant_ids": [
+      47786657218801
+    ],
+    "available": true,
+    "published_at": "2026-02-13T11:00:22+09:00",
+    "created_at": "2026-02-09T20:24:51+09:00"
   },
   {
     "id": 9461763997937,
@@ -64673,6 +65110,98 @@
     "created_at": "2024-12-17T11:58:45+09:00"
   },
   {
+    "id": 9470578491633,
+    "title": "ちいかわ ウォーターインシール（MIX）【クレジットカード決済限定商品】",
+    "price": "594",
+    "url": "https://chiikawamarket.jp/collections/all/products/4550432303447",
+    "image": {
+      "id": 48691661471985,
+      "created_at": "2026-02-10T17:43:45+09:00",
+      "position": 1,
+      "updated_at": "2026-02-10T17:46:52+09:00",
+      "product_id": 9470578491633,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0626/7142/1681/files/4550432303447_1.jpg?v=1770713212",
+      "width": 1000,
+      "height": 1000
+    },
+    "variant_ids": [
+      47786655219953
+    ],
+    "available": false,
+    "published_at": "2026-02-13T11:00:31+09:00",
+    "created_at": "2026-02-09T20:23:50+09:00"
+  },
+  {
+    "id": 9470578426097,
+    "title": "ちいかわ ウォーターインシール（うさぎ）【クレジットカード決済限定商品】",
+    "price": "594",
+    "url": "https://chiikawamarket.jp/collections/all/products/4550432303430",
+    "image": {
+      "id": 48691660292337,
+      "created_at": "2026-02-10T17:43:23+09:00",
+      "position": 1,
+      "updated_at": "2026-02-10T17:46:51+09:00",
+      "product_id": 9470578426097,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0626/7142/1681/files/4550432303430_1.jpg?v=1770713211",
+      "width": 1000,
+      "height": 1000
+    },
+    "variant_ids": [
+      47786655088881
+    ],
+    "available": false,
+    "published_at": "2026-02-13T11:00:30+09:00",
+    "created_at": "2026-02-09T20:23:46+09:00"
+  },
+  {
+    "id": 9470578131185,
+    "title": "ちいかわ ウォーターインシール（ちいかわ）【クレジットカード決済限定商品】",
+    "price": "594",
+    "url": "https://chiikawamarket.jp/collections/all/products/4550432303416",
+    "image": {
+      "id": 48691620184305,
+      "created_at": "2026-02-10T17:33:04+09:00",
+      "position": 1,
+      "updated_at": "2026-02-10T17:33:05+09:00",
+      "product_id": 9470578131185,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0626/7142/1681/files/4550432303416_1.jpg?v=1770712385",
+      "width": 1000,
+      "height": 1000
+    },
+    "variant_ids": [
+      47786654466289
+    ],
+    "available": false,
+    "published_at": "2026-02-13T11:00:34+09:00",
+    "created_at": "2026-02-09T20:23:38+09:00"
+  },
+  {
+    "id": 9470578163953,
+    "title": "ちいかわ ウォーターインシール（ハチワレ）【クレジットカード決済限定商品】",
+    "price": "594",
+    "url": "https://chiikawamarket.jp/collections/all/products/4550432303423",
+    "image": {
+      "id": 48691657474289,
+      "created_at": "2026-02-10T17:42:42+09:00",
+      "position": 1,
+      "updated_at": "2026-02-10T17:46:53+09:00",
+      "product_id": 9470578163953,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0626/7142/1681/files/4550432303423_1.jpg?v=1770713213",
+      "width": 1000,
+      "height": 1000
+    },
+    "variant_ids": [
+      47786654597361
+    ],
+    "available": false,
+    "published_at": "2026-02-13T11:00:32+09:00",
+    "created_at": "2026-02-09T20:23:42+09:00"
+  },
+  {
     "id": 8797745152241,
     "title": "ちいかわ ウォーターシューター2（うさぎ）",
     "price": "1980",
@@ -64783,7 +65312,7 @@
     "variant_ids": [
       43696213360881
     ],
-    "available": true,
+    "available": false,
     "published_at": "2023-03-22T11:00:02+09:00",
     "created_at": "2023-03-17T20:21:57+09:00"
   },
@@ -66281,6 +66810,52 @@
     "available": true,
     "published_at": "2025-10-17T11:00:48+09:00",
     "created_at": "2025-10-10T20:53:33+09:00"
+  },
+  {
+    "id": 9470579540209,
+    "title": "ちいかわ エナメルバッグ風ペンポーチ アフタースクール（みんな）",
+    "price": "1980",
+    "url": "https://chiikawamarket.jp/collections/all/products/4901770040493",
+    "image": {
+      "id": 48691667730673,
+      "created_at": "2026-02-10T17:46:04+09:00",
+      "position": 1,
+      "updated_at": "2026-02-10T17:46:06+09:00",
+      "product_id": 9470579540209,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0626/7142/1681/files/4901770040493_1.jpg?v=1770713166",
+      "width": 1000,
+      "height": 1000
+    },
+    "variant_ids": [
+      47786656694513
+    ],
+    "available": true,
+    "published_at": "2026-02-13T11:00:30+09:00",
+    "created_at": "2026-02-09T20:24:10+09:00"
+  },
+  {
+    "id": 9470579572977,
+    "title": "ちいかわ エナメルバッグ風ペンポーチ アフタースクール（モモンガ）",
+    "price": "1980",
+    "url": "https://chiikawamarket.jp/collections/all/products/4901770040509",
+    "image": {
+      "id": 48691669041393,
+      "created_at": "2026-02-10T17:46:32+09:00",
+      "position": 1,
+      "updated_at": "2026-02-10T17:46:33+09:00",
+      "product_id": 9470579572977,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0626/7142/1681/files/4901770040509_1.jpg?v=1770713193",
+      "width": 1000,
+      "height": 1000
+    },
+    "variant_ids": [
+      47786656727281
+    ],
+    "available": true,
+    "published_at": "2026-02-13T11:00:27+09:00",
+    "created_at": "2026-02-09T20:24:14+09:00"
   },
   {
     "id": 7975520436465,
@@ -86605,6 +87180,52 @@
     "created_at": "2022-07-14T06:22:10+09:00"
   },
   {
+    "id": 9470579736817,
+    "title": "ちいかわ シールバインダー アフタースクール（デニム）",
+    "price": "1320",
+    "url": "https://chiikawamarket.jp/collections/all/products/4901770040615",
+    "image": {
+      "id": 48691772686577,
+      "created_at": "2026-02-10T17:48:53+09:00",
+      "position": 1,
+      "updated_at": "2026-02-10T17:48:55+09:00",
+      "product_id": 9470579736817,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0626/7142/1681/files/4901770040615_1.jpg?v=1770713335",
+      "width": 1000,
+      "height": 1000
+    },
+    "variant_ids": [
+      47786656891121
+    ],
+    "available": false,
+    "published_at": "2026-02-13T11:00:27+09:00",
+    "created_at": "2026-02-09T20:24:24+09:00"
+  },
+  {
+    "id": 9470579769585,
+    "title": "ちいかわ シールバインダー アフタースクール（ボーダー）",
+    "price": "1320",
+    "url": "https://chiikawamarket.jp/collections/all/products/4901770040622",
+    "image": {
+      "id": 48691786514673,
+      "created_at": "2026-02-10T17:49:41+09:00",
+      "position": 1,
+      "updated_at": "2026-02-10T17:52:43+09:00",
+      "product_id": 9470579769585,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0626/7142/1681/files/4901770040622_1.jpg?v=1770713563",
+      "width": 1000,
+      "height": 1000
+    },
+    "variant_ids": [
+      47786656923889
+    ],
+    "available": false,
+    "published_at": "2026-02-13T11:00:23+09:00",
+    "created_at": "2026-02-09T20:24:27+09:00"
+  },
+  {
     "id": 9225043607793,
     "title": "ちいかわ シールバインダー（おえかきネオン）",
     "price": "990",
@@ -88397,6 +89018,98 @@
     "available": false,
     "published_at": "2025-06-06T11:00:07+09:00",
     "created_at": "2025-06-02T17:41:01+09:00"
+  },
+  {
+    "id": 9470579867889,
+    "title": "ちいかわ ジョイントフリーケース 3マス（うさぎ）",
+    "price": "418",
+    "url": "https://chiikawamarket.jp/collections/all/products/4548387565034",
+    "image": {
+      "id": 48691808534769,
+      "created_at": "2026-02-10T17:57:35+09:00",
+      "position": 1,
+      "updated_at": "2026-02-10T17:57:37+09:00",
+      "product_id": 9470579867889,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0626/7142/1681/files/4548387565034_1.jpg?v=1770713857",
+      "width": 1200,
+      "height": 1200
+    },
+    "variant_ids": [
+      47786657022193
+    ],
+    "available": true,
+    "published_at": "2026-02-13T11:00:25+09:00",
+    "created_at": "2026-02-09T20:24:38+09:00"
+  },
+  {
+    "id": 9470579802353,
+    "title": "ちいかわ ジョイントフリーケース 3マス（ちいかわ）",
+    "price": "418",
+    "url": "https://chiikawamarket.jp/collections/all/products/4548387565010",
+    "image": {
+      "id": 48691800998129,
+      "created_at": "2026-02-10T17:56:12+09:00",
+      "position": 1,
+      "updated_at": "2026-02-10T17:56:14+09:00",
+      "product_id": 9470579802353,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0626/7142/1681/files/4548387565010_1.jpg?v=1770713774",
+      "width": 1200,
+      "height": 1200
+    },
+    "variant_ids": [
+      47786656956657
+    ],
+    "available": true,
+    "published_at": "2026-02-13T11:00:24+09:00",
+    "created_at": "2026-02-09T20:24:30+09:00"
+  },
+  {
+    "id": 9470579835121,
+    "title": "ちいかわ ジョイントフリーケース 3マス（ハチワレ）",
+    "price": "418",
+    "url": "https://chiikawamarket.jp/collections/all/products/4548387565027",
+    "image": {
+      "id": 48691802439921,
+      "created_at": "2026-02-10T17:56:58+09:00",
+      "position": 1,
+      "updated_at": "2026-02-10T17:56:59+09:00",
+      "product_id": 9470579835121,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0626/7142/1681/files/4548387565027_1.jpg?v=1770713819",
+      "width": 1200,
+      "height": 1200
+    },
+    "variant_ids": [
+      47786656989425
+    ],
+    "available": true,
+    "published_at": "2026-02-13T11:00:24+09:00",
+    "created_at": "2026-02-09T20:24:33+09:00"
+  },
+  {
+    "id": 9470579900657,
+    "title": "ちいかわ ジョイントフリーケース 3マス（モモンガ）",
+    "price": "418",
+    "url": "https://chiikawamarket.jp/collections/all/products/4548387565041",
+    "image": {
+      "id": 48691810959601,
+      "created_at": "2026-02-10T17:58:11+09:00",
+      "position": 1,
+      "updated_at": "2026-02-10T17:58:13+09:00",
+      "product_id": 9470579900657,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0626/7142/1681/files/4548387565041_1.jpg?v=1770713893",
+      "width": 1200,
+      "height": 1200
+    },
+    "variant_ids": [
+      47786657054961
+    ],
+    "available": true,
+    "published_at": "2026-02-13T11:00:21+09:00",
+    "created_at": "2026-02-09T20:24:41+09:00"
   },
   {
     "id": 8447712887025,
@@ -123723,7 +124436,7 @@
     "variant_ids": [
       43883077337329
     ],
-    "available": true,
+    "available": false,
     "published_at": "2025-03-27T18:00:39+09:00",
     "created_at": "2023-07-26T16:59:15+09:00"
   },
@@ -129876,7 +130589,7 @@
     "variant_ids": [
       46743326851313
     ],
-    "available": true,
+    "available": false,
     "published_at": "2025-08-08T11:00:28+09:00",
     "created_at": "2025-08-04T12:10:40+09:00"
   },
@@ -142791,7 +143504,7 @@
     "variant_ids": [
       43837347496177
     ],
-    "available": true,
+    "available": false,
     "published_at": "2023-06-23T11:00:04+09:00",
     "created_at": "2023-06-20T20:08:01+09:00"
   },
@@ -166559,6 +167272,52 @@
     "available": false,
     "published_at": "2022-06-17T11:02:10+09:00",
     "created_at": "2022-06-12T20:30:35+09:00"
+  },
+  {
+    "id": 9470579605745,
+    "title": "ちいかわ 鍵付きノート アフタースクール（オーロラ）",
+    "price": "1045",
+    "url": "https://chiikawamarket.jp/collections/all/products/4901770040554",
+    "image": {
+      "id": 48691671466225,
+      "created_at": "2026-02-10T17:47:20+09:00",
+      "position": 1,
+      "updated_at": "2026-02-10T17:47:22+09:00",
+      "product_id": 9470579605745,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0626/7142/1681/files/4901770040554_1.jpg?v=1770713242",
+      "width": 1000,
+      "height": 1000
+    },
+    "variant_ids": [
+      47786656760049
+    ],
+    "available": true,
+    "published_at": "2026-02-13T11:00:26+09:00",
+    "created_at": "2026-02-09T20:24:17+09:00"
+  },
+  {
+    "id": 9470579638513,
+    "title": "ちいかわ 鍵付きノート アフタースクール（リボン）",
+    "price": "1045",
+    "url": "https://chiikawamarket.jp/collections/all/products/4901770040561",
+    "image": {
+      "id": 48691675791601,
+      "created_at": "2026-02-10T17:48:05+09:00",
+      "position": 1,
+      "updated_at": "2026-02-10T17:48:07+09:00",
+      "product_id": 9470579638513,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0626/7142/1681/files/4901770040561_1.jpg?v=1770713287",
+      "width": 1000,
+      "height": 1000
+    },
+    "variant_ids": [
+      47786656792817
+    ],
+    "available": true,
+    "published_at": "2026-02-13T11:00:26+09:00",
+    "created_at": "2026-02-09T20:24:20+09:00"
   },
   {
     "id": 7966864703729,

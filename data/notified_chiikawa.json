@@ -506,13 +506,13 @@
   },
   "7704443093233": {
     "id": 7704443093233,
-    "available": false,
-    "restock_date": "2025/05/01"
+    "available": true,
+    "restock_date": null
   },
   "7986523406577": {
     "id": 7986523406577,
-    "available": false,
-    "restock_date": "2025/05/01"
+    "available": true,
+    "restock_date": null
   },
   "7986523439345": {
     "id": 7986523439345,
@@ -521,8 +521,8 @@
   },
   "7704437358833": {
     "id": 7704437358833,
-    "available": false,
-    "restock_date": "2025/05/01"
+    "available": true,
+    "restock_date": null
   },
   "7986523373809": {
     "id": 7986523373809,

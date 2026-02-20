@@ -32355,7 +32355,7 @@
     "variant_ids": [
       46218997498097
     ],
-    "available": true,
+    "available": false,
     "published_at": "2025-08-28T18:00:21+09:00",
     "created_at": "2025-06-09T13:21:49+09:00"
   },
@@ -95624,7 +95624,7 @@
     "variant_ids": [
       44674201452785
     ],
-    "available": true,
+    "available": false,
     "published_at": "2025-12-19T11:01:52+09:00",
     "created_at": "2024-04-16T10:40:48+09:00"
   },
@@ -99950,7 +99950,7 @@
     "variant_ids": [
       47810631303409
     ],
-    "available": true,
+    "available": false,
     "published_at": "2026-02-20T11:00:13+09:00",
     "created_at": "2026-02-16T17:33:55+09:00"
   },
@@ -112671,7 +112671,7 @@
     "variant_ids": [
       47810633236721
     ],
-    "available": true,
+    "available": false,
     "published_at": "2026-02-20T11:00:53+09:00",
     "created_at": "2026-02-16T17:36:48+09:00"
   },
@@ -160468,7 +160468,7 @@
     "variant_ids": [
       44456676032753
     ],
-    "available": true,
+    "available": false,
     "published_at": "2025-12-19T11:01:46+09:00",
     "created_at": "2024-03-25T17:15:15+09:00"
   },

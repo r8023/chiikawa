@@ -68377,7 +68377,7 @@
     "variant_ids": [
       47034515882225
     ],
-    "available": true,
+    "available": false,
     "published_at": "2025-10-24T11:00:45+09:00",
     "created_at": "2025-10-20T16:16:51+09:00"
   },
@@ -130540,7 +130540,7 @@
     "variant_ids": [
       45993606217969
     ],
-    "available": false,
+    "available": true,
     "published_at": "2025-08-28T18:00:27+09:00",
     "created_at": "2025-03-11T11:48:02+09:00"
   },

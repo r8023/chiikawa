@@ -4678,29 +4678,6 @@
     "created_at": "2024-12-17T11:58:32+09:00"
   },
   {
-    "id": 8638635737329,
-    "title": "ちいかわ 2025年 年賀はんこ 6個セット",
-    "price": "6611",
-    "url": "https://chiikawamarket.jp/collections/all/products/4977524961376",
-    "image": {
-      "id": 42164248936689,
-      "created_at": "2024-09-17T16:56:59+09:00",
-      "position": 1,
-      "updated_at": "2024-09-17T16:57:02+09:00",
-      "product_id": 8638635737329,
-      "variant_ids": [],
-      "src": "https://cdn.shopify.com/s/files/1/0626/7142/1681/files/4977524961376_1.jpg?v=1726559822",
-      "width": 1200,
-      "height": 1200
-    },
-    "variant_ids": [
-      45524203143409
-    ],
-    "available": false,
-    "published_at": "2024-09-20T11:00:03+09:00",
-    "created_at": "2024-09-17T12:06:02+09:00"
-  },
-  {
     "id": 8688132784369,
     "title": "ちいかわ 2025年スケジュール帳",
     "price": "1870",
@@ -4745,29 +4722,6 @@
     "available": false,
     "published_at": "2025-12-12T11:00:09+09:00",
     "created_at": "2025-12-08T14:16:16+09:00"
-  },
-  {
-    "id": 9299087458545,
-    "title": "ちいかわ 2026年 年賀はんこ 6個セット",
-    "price": "7381",
-    "url": "https://chiikawamarket.jp/collections/all/products/4977524962229",
-    "image": {
-      "id": 46535090438385,
-      "created_at": "2025-09-16T16:12:01+09:00",
-      "position": 1,
-      "updated_at": "2025-09-16T16:12:42+09:00",
-      "product_id": 9299087458545,
-      "variant_ids": [],
-      "src": "https://cdn.shopify.com/s/files/1/0626/7142/1681/files/4977524962229_1.jpg?v=1758006762",
-      "width": 1200,
-      "height": 1200
-    },
-    "variant_ids": [
-      46934393684209
-    ],
-    "available": true,
-    "published_at": "2025-09-19T11:00:35+09:00",
-    "created_at": "2025-09-16T13:58:59+09:00"
   },
   {
     "id": 9327819325681,
@@ -154649,6 +154603,52 @@
     "available": false,
     "published_at": "2024-02-16T11:00:04+09:00",
     "created_at": "2024-02-14T16:10:25+09:00"
+  },
+  {
+    "id": 8638635737329,
+    "title": "ちいかわ 年賀はんこ 6個セット①",
+    "price": "6611",
+    "url": "https://chiikawamarket.jp/collections/all/products/4977524961376",
+    "image": {
+      "id": 42164248936689,
+      "created_at": "2024-09-17T16:56:59+09:00",
+      "position": 1,
+      "updated_at": "2024-09-17T16:57:02+09:00",
+      "product_id": 8638635737329,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0626/7142/1681/files/4977524961376_1.jpg?v=1726559822",
+      "width": 1200,
+      "height": 1200
+    },
+    "variant_ids": [
+      45524203143409
+    ],
+    "available": false,
+    "published_at": "2024-09-20T11:00:03+09:00",
+    "created_at": "2024-09-17T12:06:02+09:00"
+  },
+  {
+    "id": 9299087458545,
+    "title": "ちいかわ 年賀はんこ 6個セット②",
+    "price": "7381",
+    "url": "https://chiikawamarket.jp/collections/all/products/4977524962229",
+    "image": {
+      "id": 46535090438385,
+      "created_at": "2025-09-16T16:12:01+09:00",
+      "position": 1,
+      "updated_at": "2025-09-16T16:12:42+09:00",
+      "product_id": 9299087458545,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0626/7142/1681/files/4977524962229_1.jpg?v=1758006762",
+      "width": 1200,
+      "height": 1200
+    },
+    "variant_ids": [
+      46934393684209
+    ],
+    "available": true,
+    "published_at": "2025-09-19T11:00:35+09:00",
+    "created_at": "2025-09-16T13:58:59+09:00"
   },
   {
     "id": 7708160786673,

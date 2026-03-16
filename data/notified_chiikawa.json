@@ -2166,8 +2166,8 @@
   },
   "8035474309361": {
     "id": 8035474309361,
-    "available": false,
-    "restock_date": "2025/10/16"
+    "available": true,
+    "restock_date": null
   },
   "8141385793777": {
     "id": 8141385793777,
@@ -4396,8 +4396,8 @@
   },
   "8043509219569": {
     "id": 8043509219569,
-    "available": false,
-    "restock_date": "2026/02/20"
+    "available": true,
+    "restock_date": null
   },
   "8043509186801": {
     "id": 8043509186801,
@@ -9491,8 +9491,8 @@
   },
   "9343582372081": {
     "id": 9343582372081,
-    "available": false,
-    "restock_date": "2025/12/19"
+    "available": true,
+    "restock_date": null
   },
   "9343582568689": {
     "id": 9343582568689,
@@ -12491,6 +12491,26 @@
   },
   "8638657233137": {
     "id": 8638657233137,
+    "available": true,
+    "restock_date": null
+  },
+  "7927095001329": {
+    "id": 7927095001329,
+    "available": true,
+    "restock_date": null
+  },
+  "9336782127345": {
+    "id": 9336782127345,
+    "available": true,
+    "restock_date": null
+  },
+  "9256626389233": {
+    "id": 9256626389233,
+    "available": true,
+    "restock_date": null
+  },
+  "8173964853489": {
+    "id": 8173964853489,
     "available": true,
     "restock_date": null
   }

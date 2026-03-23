@@ -1,28 +1,5 @@
 [
   {
-    "id": 9267547308273,
-    "title": "【50%OFF】ちいかわ Chiikawa Baby ヨーチビスケット缶",
-    "price": "1134",
-    "url": "https://chiikawamarket.jp/collections/all/products/4571609375333",
-    "image": {
-      "id": 46406606553329,
-      "created_at": "2025-09-02T20:14:35+09:00",
-      "position": 1,
-      "updated_at": "2025-09-02T20:14:37+09:00",
-      "product_id": 9267547308273,
-      "variant_ids": [],
-      "src": "https://cdn.shopify.com/s/files/1/0626/7142/1681/files/4571609375333_1.jpg?v=1756811677",
-      "width": 1200,
-      "height": 1200
-    },
-    "variant_ids": [
-      46867475300593
-    ],
-    "available": false,
-    "published_at": "2026-01-23T11:01:23+09:00",
-    "created_at": "2025-09-01T21:02:57+09:00"
-  },
-  {
     "id": 7713067499761,
     "title": "【50%OFF】ちいかわ ワクワクゆうえんち 行ってきちゃいましたクッキー",
     "price": "486",
@@ -12964,6 +12941,29 @@
     "available": true,
     "published_at": "2026-01-23T11:01:53+09:00",
     "created_at": "2025-09-01T21:02:23+09:00"
+  },
+  {
+    "id": 9267547308273,
+    "title": "ちいかわ Chiikawa Baby ヨーチビスケット缶",
+    "price": "2268",
+    "url": "https://chiikawamarket.jp/collections/all/products/4571609375333",
+    "image": {
+      "id": 46406606553329,
+      "created_at": "2025-09-02T20:14:35+09:00",
+      "position": 1,
+      "updated_at": "2025-09-02T20:14:37+09:00",
+      "product_id": 9267547308273,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0626/7142/1681/files/4571609375333_1.jpg?v=1756811677",
+      "width": 1200,
+      "height": 1200
+    },
+    "variant_ids": [
+      46867475300593
+    ],
+    "available": false,
+    "published_at": "2026-01-23T11:01:23+09:00",
+    "created_at": "2025-09-01T21:02:57+09:00"
   },
   {
     "id": 9267547406577,

@@ -16257,7 +16257,7 @@
     "variant_ids": [
       46083431334129
     ],
-    "available": true,
+    "available": false,
     "published_at": "2025-04-25T11:00:45+09:00",
     "created_at": "2025-04-22T10:19:59+09:00"
   },
@@ -47990,7 +47990,7 @@
     "variant_ids": [
       46083427795185
     ],
-    "available": true,
+    "available": false,
     "published_at": "2025-04-25T11:00:11+09:00",
     "created_at": "2025-04-22T10:18:39+09:00"
   },
@@ -52627,7 +52627,7 @@
     "variant_ids": [
       47036802662641
     ],
-    "available": true,
+    "available": false,
     "published_at": "2026-03-19T11:01:31+09:00",
     "created_at": "2025-10-21T12:44:17+09:00"
   },
@@ -82079,75 +82079,6 @@
     "created_at": "2025-09-01T21:03:11+09:00"
   },
   {
-    "id": 8694735667441,
-    "title": "ちいかわ コミックマグ（～ともだち～モモンガ）",
-    "price": "1430",
-    "url": "https://chiikawamarket.jp/collections/all/products/4994209146446",
-    "image": {
-      "id": 42642393596145,
-      "created_at": "2024-12-10T11:55:56+09:00",
-      "position": 1,
-      "updated_at": "2024-12-10T11:55:58+09:00",
-      "product_id": 8694735667441,
-      "variant_ids": [],
-      "src": "https://cdn.shopify.com/s/files/1/0626/7142/1681/files/4994209146446_1.jpg?v=1733799358",
-      "width": 1200,
-      "height": 1200
-    },
-    "variant_ids": [
-      45754964279537
-    ],
-    "available": false,
-    "published_at": "2025-12-19T11:02:06+09:00",
-    "created_at": "2024-12-04T14:23:33+09:00"
-  },
-  {
-    "id": 8694735634673,
-    "title": "ちいかわ コミックマグ（～もう一杯～くりまんじゅう）",
-    "price": "1430",
-    "url": "https://chiikawamarket.jp/collections/all/products/4994209146408",
-    "image": {
-      "id": 42642396283121,
-      "created_at": "2024-12-10T11:57:01+09:00",
-      "position": 1,
-      "updated_at": "2024-12-10T11:57:03+09:00",
-      "product_id": 8694735634673,
-      "variant_ids": [],
-      "src": "https://cdn.shopify.com/s/files/1/0626/7142/1681/files/4994209146408_1.jpg?v=1733799423",
-      "width": 1200,
-      "height": 1200
-    },
-    "variant_ids": [
-      45754964246769
-    ],
-    "available": false,
-    "published_at": "2025-12-19T11:02:07+09:00",
-    "created_at": "2024-12-04T14:23:32+09:00"
-  },
-  {
-    "id": 8694735569137,
-    "title": "ちいかわ コミックマグ（～ウヤハァ！！～うさぎ）",
-    "price": "1430",
-    "url": "https://chiikawamarket.jp/collections/all/products/4994209146392",
-    "image": {
-      "id": 42642401362161,
-      "created_at": "2024-12-10T11:58:48+09:00",
-      "position": 1,
-      "updated_at": "2024-12-10T11:58:49+09:00",
-      "product_id": 8694735569137,
-      "variant_ids": [],
-      "src": "https://cdn.shopify.com/s/files/1/0626/7142/1681/files/4994209146392_1_ff807cba-a1b0-4532-8903-b4ac2da3a4fb.jpg?v=1733799529",
-      "width": 1200,
-      "height": 1200
-    },
-    "variant_ids": [
-      45754964181233
-    ],
-    "available": false,
-    "published_at": "2025-04-03T18:00:16+09:00",
-    "created_at": "2024-12-04T14:23:31+09:00"
-  },
-  {
     "id": 8694735503601,
     "title": "ちいかわ コミックマグ（～比率～ちいかわ）",
     "price": "1430",
@@ -82169,29 +82100,6 @@
     "available": true,
     "published_at": "2025-04-03T18:00:17+09:00",
     "created_at": "2024-12-04T14:23:29+09:00"
-  },
-  {
-    "id": 8694735536369,
-    "title": "ちいかわ コミックマグ（～自信～ハチワレ）",
-    "price": "1430",
-    "url": "https://chiikawamarket.jp/collections/all/products/4994209146385",
-    "image": {
-      "id": 42642408407281,
-      "created_at": "2024-12-10T12:01:00+09:00",
-      "position": 1,
-      "updated_at": "2024-12-10T12:01:03+09:00",
-      "product_id": 8694735536369,
-      "variant_ids": [],
-      "src": "https://cdn.shopify.com/s/files/1/0626/7142/1681/files/4994209146385_1.jpg?v=1733799663",
-      "width": 1200,
-      "height": 1200
-    },
-    "variant_ids": [
-      45754964148465
-    ],
-    "available": false,
-    "published_at": "2025-04-03T18:00:16+09:00",
-    "created_at": "2024-12-04T14:23:30+09:00"
   },
   {
     "id": 9446099255537,

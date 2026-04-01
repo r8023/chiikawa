@@ -102067,6 +102067,29 @@
     "created_at": "2026-02-03T16:02:46+09:00"
   },
   {
+    "id": 9531281441009,
+    "title": "ちいかわ セラミエイド 薬用スキンミルク",
+    "price": "1430",
+    "url": "https://chiikawamarket.jp/collections/all/products/4971710523522",
+    "image": {
+      "id": 49104071327985,
+      "created_at": "2026-03-31T16:21:31+09:00",
+      "position": 1,
+      "updated_at": "2026-03-31T16:21:33+09:00",
+      "product_id": 9531281441009,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0626/7142/1681/files/4971710523522_1_b4d40c4d-aa55-48e0-936a-db663ac4206e.jpg?v=1774941693",
+      "width": 1200,
+      "height": 1200
+    },
+    "variant_ids": [
+      47966719967473
+    ],
+    "available": false,
+    "published_at": "2026-04-01T11:00:11+09:00",
+    "created_at": "2026-03-30T11:16:57+09:00"
+  },
+  {
     "id": 8369773019377,
     "title": "ちいかわ セリフ付箋（ありがとうございました）",
     "price": "440",
@@ -102456,6 +102479,190 @@
     "available": true,
     "published_at": "2026-03-19T11:00:34+09:00",
     "created_at": "2026-03-13T14:48:34+09:00"
+  },
+  {
+    "id": 9531281604849,
+    "title": "ちいかわ ソフティモ クリアプロ クッションクレンジングオイル",
+    "price": "1870",
+    "url": "https://chiikawamarket.jp/collections/all/products/4971710555776",
+    "image": {
+      "id": 49104074539249,
+      "created_at": "2026-03-31T16:23:59+09:00",
+      "position": 1,
+      "updated_at": "2026-03-31T16:24:01+09:00",
+      "product_id": 9531281604849,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0626/7142/1681/files/4971710555776_1_47d9bd4e-cd1e-425c-93a3-b1b9f9fefb39.jpg?v=1774941841",
+      "width": 1200,
+      "height": 1200
+    },
+    "variant_ids": [
+      47966720131313
+    ],
+    "available": true,
+    "published_at": "2026-04-01T11:00:05+09:00",
+    "created_at": "2026-03-30T11:17:16+09:00"
+  },
+  {
+    "id": 9531281637617,
+    "title": "ちいかわ ソフティモ クリアプロ 酵素クレンジングオイル",
+    "price": "1870",
+    "url": "https://chiikawamarket.jp/collections/all/products/4971710397161",
+    "image": {
+      "id": 49104075784433,
+      "created_at": "2026-03-31T16:24:54+09:00",
+      "position": 1,
+      "updated_at": "2026-03-31T16:24:55+09:00",
+      "product_id": 9531281637617,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0626/7142/1681/files/4971710397161_1_2d077b98-9ab8-4238-b0b7-cd40c00df5ab.jpg?v=1774941895",
+      "width": 1200,
+      "height": 1200
+    },
+    "variant_ids": [
+      47966720164081
+    ],
+    "available": true,
+    "published_at": "2026-04-01T11:00:06+09:00",
+    "created_at": "2026-03-30T11:17:19+09:00"
+  },
+  {
+    "id": 9531281506545,
+    "title": "ちいかわ ソフティモ クレンジングウォッシュ ヒアルロン酸",
+    "price": "523",
+    "url": "https://chiikawamarket.jp/collections/all/products/4971710799705",
+    "image": {
+      "id": 49104072343793,
+      "created_at": "2026-03-31T16:22:44+09:00",
+      "position": 1,
+      "updated_at": "2026-03-31T16:22:46+09:00",
+      "product_id": 9531281506545,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0626/7142/1681/files/4971710799705_1_49f6d28f-78b1-484a-a094-b548533a4bbd.jpg?v=1774941766",
+      "width": 1200,
+      "height": 1200
+    },
+    "variant_ids": [
+      47966720033009
+    ],
+    "available": true,
+    "published_at": "2026-04-01T11:00:09+09:00",
+    "created_at": "2026-03-30T11:17:07+09:00"
+  },
+  {
+    "id": 9531281539313,
+    "title": "ちいかわ ソフティモ スピーディ クレンジングオイル",
+    "price": "768",
+    "url": "https://chiikawamarket.jp/collections/all/products/4971710576214",
+    "image": {
+      "id": 49104072409329,
+      "created_at": "2026-03-31T16:23:08+09:00",
+      "position": 1,
+      "updated_at": "2026-03-31T16:23:09+09:00",
+      "product_id": 9531281539313,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0626/7142/1681/files/4971710576214_1_5864352e-1a71-4eaf-973c-e4e4e516bf21.jpg?v=1774941789",
+      "width": 1200,
+      "height": 1200
+    },
+    "variant_ids": [
+      47966720065777
+    ],
+    "available": true,
+    "published_at": "2026-04-01T11:00:08+09:00",
+    "created_at": "2026-03-30T11:17:10+09:00"
+  },
+  {
+    "id": 9531281670385,
+    "title": "ちいかわ ソフティモ スーパー ポイントメイクアップリムーバー",
+    "price": "712",
+    "url": "https://chiikawamarket.jp/collections/all/products/4971710318159",
+    "image": {
+      "id": 49104076407025,
+      "created_at": "2026-03-31T16:25:14+09:00",
+      "position": 1,
+      "updated_at": "2026-03-31T16:25:15+09:00",
+      "product_id": 9531281670385,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0626/7142/1681/files/4971710318159_1_f7dcc5f6-3432-4db9-9064-0fab891c8cdb.jpg?v=1774941915",
+      "width": 1200,
+      "height": 1200
+    },
+    "variant_ids": [
+      47966720196849
+    ],
+    "available": true,
+    "published_at": "2026-04-01T11:00:07+09:00",
+    "created_at": "2026-03-30T11:17:21+09:00"
+  },
+  {
+    "id": 9531281703153,
+    "title": "ちいかわ ソフティモ スーパー マスカラリムーバー",
+    "price": "880",
+    "url": "https://chiikawamarket.jp/collections/all/products/4971710595819",
+    "image": {
+      "id": 49104076800241,
+      "created_at": "2026-03-31T16:25:49+09:00",
+      "position": 1,
+      "updated_at": "2026-03-31T16:25:51+09:00",
+      "product_id": 9531281703153,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0626/7142/1681/files/4971710595819_1_b1c3b51c-01d8-4367-93a1-31f37c04667f.jpg?v=1774941951",
+      "width": 1200,
+      "height": 1200
+    },
+    "variant_ids": [
+      47966720229617
+    ],
+    "available": true,
+    "published_at": "2026-04-01T11:00:06+09:00",
+    "created_at": "2026-03-30T11:17:25+09:00"
+  },
+  {
+    "id": 9531281572081,
+    "title": "ちいかわ ソフティモ ディープ クレンジングオイル",
+    "price": "768",
+    "url": "https://chiikawamarket.jp/collections/all/products/4971710576238",
+    "image": {
+      "id": 49104072573169,
+      "created_at": "2026-03-31T16:23:34+09:00",
+      "position": 1,
+      "updated_at": "2026-03-31T16:23:35+09:00",
+      "product_id": 9531281572081,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0626/7142/1681/files/4971710576238_1_9440784f-a673-4926-aa22-fab8c1576031.jpg?v=1774941815",
+      "width": 1200,
+      "height": 1200
+    },
+    "variant_ids": [
+      47966720098545
+    ],
+    "available": true,
+    "published_at": "2026-04-01T11:00:10+09:00",
+    "created_at": "2026-03-30T11:17:13+09:00"
+  },
+  {
+    "id": 9531281473777,
+    "title": "ちいかわ ソフティモ 薬用クレンジングウォッシュ ホワイト",
+    "price": "523",
+    "url": "https://chiikawamarket.jp/collections/all/products/4971710300840",
+    "image": {
+      "id": 49104071852273,
+      "created_at": "2026-03-31T16:22:10+09:00",
+      "position": 1,
+      "updated_at": "2026-03-31T16:22:11+09:00",
+      "product_id": 9531281473777,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0626/7142/1681/files/4971710300840_1_fe92bdab-ee87-4ea6-994c-0bd85b5bbb15.jpg?v=1774941731",
+      "width": 1200,
+      "height": 1200
+    },
+    "variant_ids": [
+      47966720000241
+    ],
+    "available": true,
+    "published_at": "2026-04-01T11:00:08+09:00",
+    "created_at": "2026-03-30T11:17:05+09:00"
   },
   {
     "id": 7953568989425,
@@ -121924,7 +122131,7 @@
     "variant_ids": [
       46218999005425
     ],
-    "available": true,
+    "available": false,
     "published_at": "2026-03-18T18:02:48+09:00",
     "created_at": "2025-06-09T13:22:27+09:00"
   },
@@ -156244,7 +156451,7 @@
     "variant_ids": [
       47585835319537
     ],
-    "available": true,
+    "available": false,
     "published_at": "2026-01-08T18:00:23+09:00",
     "created_at": "2025-12-15T21:04:28+09:00"
   },

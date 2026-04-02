@@ -24860,7 +24860,7 @@
     "variant_ids": [
       44162002419953
     ],
-    "available": false,
+    "available": true,
     "published_at": "2025-11-13T18:00:37+09:00",
     "created_at": "2023-12-26T14:17:08+09:00"
   },
@@ -32467,7 +32467,7 @@
       45653020967153,
       45653020999921
     ],
-    "available": true,
+    "available": false,
     "published_at": "2025-05-09T11:00:15+09:00",
     "created_at": "2024-11-05T17:02:49+09:00"
   },
@@ -37582,7 +37582,7 @@
       45653021032689,
       45653021065457
     ],
-    "available": true,
+    "available": false,
     "published_at": "2025-05-09T11:00:15+09:00",
     "created_at": "2024-11-05T17:02:50+09:00"
   },
@@ -50980,7 +50980,7 @@
     "variant_ids": [
       44887720722673
     ],
-    "available": false,
+    "available": true,
     "published_at": "2024-05-17T11:00:04+09:00",
     "created_at": "2024-05-13T11:30:18+09:00"
   },
@@ -77031,7 +77031,7 @@
     "variant_ids": [
       44215717855473
     ],
-    "available": false,
+    "available": true,
     "published_at": "2025-11-13T18:00:35+09:00",
     "created_at": "2024-01-17T13:49:13+09:00"
   },
@@ -83620,54 +83620,6 @@
     "created_at": "2025-04-22T10:19:26+09:00"
   },
   {
-    "id": 8792894374129,
-    "title": "ちいかわ コースター付マグ（ハチワレ）",
-    "price": "2200",
-    "url": "https://chiikawamarket.jp/collections/all/products/4979855153383",
-    "image": {
-      "id": 43621237326065,
-      "created_at": "2025-04-24T14:37:01+09:00",
-      "position": 1,
-      "updated_at": "2025-04-24T14:37:42+09:00",
-      "product_id": 8792894374129,
-      "variant_ids": [],
-      "src": "https://cdn.shopify.com/s/files/1/0626/7142/1681/files/4979855153383_1_a5e11479-3715-4cc6-8c42-cd630c1110e2.jpg?v=1745473062",
-      "width": 1200,
-      "height": 1200
-    },
-    "variant_ids": [
-      46083430023409
-    ],
-    "available": false,
-    "published_at": "2025-11-20T18:00:22+09:00",
-    "created_at": "2025-04-22T10:19:27+09:00",
-    "restock_date": "2026/04/03"
-  },
-  {
-    "id": 8792894439665,
-    "title": "ちいかわ コースター付マグ（モモンガ）",
-    "price": "2200",
-    "url": "https://chiikawamarket.jp/collections/all/products/4979855153406",
-    "image": {
-      "id": 43620403347697,
-      "created_at": "2025-04-24T10:47:18+09:00",
-      "position": 1,
-      "updated_at": "2025-04-24T10:47:19+09:00",
-      "product_id": 8792894439665,
-      "variant_ids": [],
-      "src": "https://cdn.shopify.com/s/files/1/0626/7142/1681/files/4979855153406_1.jpg?v=1745459239",
-      "width": 1200,
-      "height": 1200
-    },
-    "variant_ids": [
-      46083430088945
-    ],
-    "available": false,
-    "published_at": "2025-09-18T11:06:18+09:00",
-    "created_at": "2025-04-22T10:19:29+09:00",
-    "restock_date": "2026/04/03"
-  },
-  {
     "id": 7863355638001,
     "title": "ちいかわ コースター（うさぎ）",
     "price": "550",
@@ -90053,30 +90005,6 @@
     "created_at": "2023-09-21T11:02:49+09:00"
   },
   {
-    "id": 9301108654321,
-    "title": "ちいかわ シーリングライト",
-    "price": "6578",
-    "url": "https://chiikawamarket.jp/collections/all/products/4550668638290",
-    "image": {
-      "id": 46628097327345,
-      "created_at": "2025-09-22T18:36:34+09:00",
-      "position": 1,
-      "updated_at": "2025-09-22T18:36:36+09:00",
-      "product_id": 9301108654321,
-      "variant_ids": [],
-      "src": "https://cdn.shopify.com/s/files/1/0626/7142/1681/files/4550668638290_1.jpg?v=1758533796",
-      "width": 1200,
-      "height": 1200
-    },
-    "variant_ids": [
-      46940067365105
-    ],
-    "available": false,
-    "published_at": "2026-01-29T18:00:09+09:00",
-    "created_at": "2025-09-18T14:41:27+09:00",
-    "restock_date": "2026/04/03"
-  },
-  {
     "id": 8000816742641,
     "title": "ちいかわ シールコレクション2（全50種）1BOX 20パック入",
     "price": "2200",
@@ -92383,7 +92311,7 @@
       47899298201841,
       47899298234609
     ],
-    "available": true,
+    "available": false,
     "published_at": "2026-03-19T11:00:36+09:00",
     "created_at": "2026-03-13T14:48:29+09:00"
   },
@@ -102568,7 +102496,7 @@
     "variant_ids": [
       47966720065777
     ],
-    "available": true,
+    "available": false,
     "published_at": "2026-04-01T11:00:08+09:00",
     "created_at": "2026-03-30T11:17:10+09:00"
   },
@@ -124665,7 +124593,7 @@
     "variant_ids": [
       44887721738481
     ],
-    "available": false,
+    "available": true,
     "published_at": "2024-05-17T11:00:09+09:00",
     "created_at": "2024-05-13T11:30:38+09:00"
   },
@@ -158299,7 +158227,7 @@
     "variant_ids": [
       44674200338673
     ],
-    "available": false,
+    "available": true,
     "published_at": "2025-11-13T18:00:24+09:00",
     "created_at": "2024-04-16T10:40:31+09:00"
   },
@@ -162767,7 +162695,7 @@
     "variant_ids": [
       44456676753649
     ],
-    "available": false,
+    "available": true,
     "published_at": "2025-08-07T18:00:25+09:00",
     "created_at": "2024-03-25T17:15:33+09:00"
   },
@@ -168248,7 +168176,7 @@
     "variant_ids": [
       44887721541873
     ],
-    "available": false,
+    "available": true,
     "published_at": "2024-05-17T11:00:09+09:00",
     "created_at": "2024-05-13T11:30:32+09:00"
   },
@@ -168271,7 +168199,7 @@
     "variant_ids": [
       44887721574641
     ],
-    "available": false,
+    "available": true,
     "published_at": "2025-11-13T18:00:21+09:00",
     "created_at": "2024-05-13T11:30:33+09:00"
   },
@@ -185928,102 +185856,6 @@
     "created_at": "2022-12-01T13:36:27+09:00"
   },
   {
-    "id": 7708162588913,
-    "title": "ちいかわらんど アクリルキーホルダー（ぴーぽぽうさぎ）",
-    "price": "660",
-    "url": "https://chiikawamarket.jp/collections/all/products/4589468442950",
-    "image": {
-      "id": 37357554827505,
-      "created_at": "2022-06-12T20:28:52+09:00",
-      "position": 1,
-      "updated_at": "2022-06-12T20:28:52+09:00",
-      "product_id": 7708162588913,
-      "variant_ids": [],
-      "src": "https://cdn.shopify.com/s/files/1/0626/7142/1681/products/000000000561_1.jpg?v=1655033332",
-      "width": 800,
-      "height": 800
-    },
-    "variant_ids": [
-      42919056769265
-    ],
-    "available": false,
-    "published_at": "2025-07-18T11:01:15+09:00",
-    "created_at": "2022-06-12T20:28:52+09:00",
-    "restock_date": "2026/04/03"
-  },
-  {
-    "id": 7708162457841,
-    "title": "ちいかわらんど アクリルキーホルダー（ぴーぽぽちいかわ）",
-    "price": "660",
-    "url": "https://chiikawamarket.jp/collections/all/products/4589468442936",
-    "image": {
-      "id": 37357554630897,
-      "created_at": "2022-06-12T20:28:50+09:00",
-      "position": 1,
-      "updated_at": "2022-06-12T20:28:50+09:00",
-      "product_id": 7708162457841,
-      "variant_ids": [],
-      "src": "https://cdn.shopify.com/s/files/1/0626/7142/1681/products/000000000559_1.jpg?v=1655033330",
-      "width": 800,
-      "height": 800
-    },
-    "variant_ids": [
-      42919056638193
-    ],
-    "available": false,
-    "published_at": "2025-07-18T11:01:15+09:00",
-    "created_at": "2022-06-12T20:28:50+09:00",
-    "restock_date": "2026/04/03"
-  },
-  {
-    "id": 7708162523377,
-    "title": "ちいかわらんど アクリルキーホルダー（ぴーぽぽハチワレ）",
-    "price": "660",
-    "url": "https://chiikawamarket.jp/collections/all/products/4589468442943",
-    "image": {
-      "id": 37357554729201,
-      "created_at": "2022-06-12T20:28:51+09:00",
-      "position": 1,
-      "updated_at": "2022-06-12T20:28:51+09:00",
-      "product_id": 7708162523377,
-      "variant_ids": [],
-      "src": "https://cdn.shopify.com/s/files/1/0626/7142/1681/products/000000000560_1.jpg?v=1655033331",
-      "width": 800,
-      "height": 800
-    },
-    "variant_ids": [
-      42919056703729
-    ],
-    "available": false,
-    "published_at": "2025-07-18T11:01:14+09:00",
-    "created_at": "2022-06-12T20:28:51+09:00",
-    "restock_date": "2026/04/03"
-  },
-  {
-    "id": 7708162261233,
-    "title": "ちいかわらんど スマホに貼れるサイズなゆるカットステッカー（ぴーぽぽ）",
-    "price": "385",
-    "url": "https://chiikawamarket.jp/collections/all/products/4589468442899",
-    "image": {
-      "id": 37357553778929,
-      "created_at": "2022-06-12T20:28:44+09:00",
-      "position": 1,
-      "updated_at": "2022-06-12T20:28:44+09:00",
-      "product_id": 7708162261233,
-      "variant_ids": [],
-      "src": "https://cdn.shopify.com/s/files/1/0626/7142/1681/products/000000000555_1.jpg?v=1655033324",
-      "width": 800,
-      "height": 800
-    },
-    "variant_ids": [
-      42919056441585
-    ],
-    "available": false,
-    "published_at": "2022-06-17T11:02:43+09:00",
-    "created_at": "2022-06-12T20:28:44+09:00",
-    "restock_date": "2026/04/03"
-  },
-  {
     "id": 7708162228465,
     "title": "ちいかわらんど スマホに貼れるサイズなゆるカットステッカー（シャク）",
     "price": "385",
@@ -186045,30 +185877,6 @@
     "available": true,
     "published_at": "2022-06-17T11:02:43+09:00",
     "created_at": "2022-06-12T20:28:43+09:00"
-  },
-  {
-    "id": 7708162162929,
-    "title": "ちいかわらんど スマホに貼れるサイズなゆるカットステッカー（乗れません）",
-    "price": "385",
-    "url": "https://chiikawamarket.jp/collections/all/products/4589468442875",
-    "image": {
-      "id": 37357553647857,
-      "created_at": "2022-06-12T20:28:42+09:00",
-      "position": 1,
-      "updated_at": "2022-06-12T20:28:41+09:00",
-      "product_id": 7708162162929,
-      "variant_ids": [],
-      "src": "https://cdn.shopify.com/s/files/1/0626/7142/1681/products/000000000553_1.jpg?v=1655033321",
-      "width": 800,
-      "height": 800
-    },
-    "variant_ids": [
-      42919056310513
-    ],
-    "available": false,
-    "published_at": "2025-05-22T18:00:21+09:00",
-    "created_at": "2022-06-12T20:28:41+09:00",
-    "restock_date": "2026/04/03"
   },
   {
     "id": 7966865850609,
@@ -186115,78 +185923,6 @@
     "available": false,
     "published_at": "2022-06-11T10:59:40+09:00",
     "created_at": "2022-05-25T14:03:33+09:00"
-  },
-  {
-    "id": 7708162752753,
-    "title": "ちいかわらんど マグカップ",
-    "price": "1650",
-    "url": "https://chiikawamarket.jp/collections/all/products/4589468442998",
-    "image": {
-      "id": 37357555089649,
-      "created_at": "2022-06-12T20:28:57+09:00",
-      "position": 1,
-      "updated_at": "2022-06-12T20:28:57+09:00",
-      "product_id": 7708162752753,
-      "variant_ids": [],
-      "src": "https://cdn.shopify.com/s/files/1/0626/7142/1681/products/000000000565_1.jpg?v=1655033337",
-      "width": 800,
-      "height": 800
-    },
-    "variant_ids": [
-      42919056998641
-    ],
-    "available": false,
-    "published_at": "2025-05-22T18:00:21+09:00",
-    "created_at": "2022-06-12T20:28:57+09:00",
-    "restock_date": "2026/04/03"
-  },
-  {
-    "id": 7684144562417,
-    "title": "ちいかわらんど マスキングテープL（ぴーぽぽ）",
-    "price": "880",
-    "url": "https://chiikawamarket.jp/collections/all/products/4582662910874",
-    "image": {
-      "id": 37345329447153,
-      "created_at": "2022-06-10T21:49:24+09:00",
-      "position": 1,
-      "updated_at": "2022-06-10T21:49:26+09:00",
-      "product_id": 7684144562417,
-      "variant_ids": [],
-      "src": "https://cdn.shopify.com/s/files/1/0626/7142/1681/products/4582662910874_1.jpg?v=1654865366",
-      "width": 800,
-      "height": 800
-    },
-    "variant_ids": [
-      42824945172721
-    ],
-    "available": false,
-    "published_at": "2025-07-18T11:01:18+09:00",
-    "created_at": "2022-05-18T13:57:10+09:00",
-    "restock_date": "2026/04/03"
-  },
-  {
-    "id": 7684145709297,
-    "title": "ちいかわらんど マスキングテープS（みんなでさんかくぼうし）",
-    "price": "495",
-    "url": "https://chiikawamarket.jp/collections/all/products/4582662910881",
-    "image": {
-      "id": 37345331970289,
-      "created_at": "2022-06-10T21:50:14+09:00",
-      "position": 1,
-      "updated_at": "2022-06-10T21:50:16+09:00",
-      "product_id": 7684145709297,
-      "variant_ids": [],
-      "src": "https://cdn.shopify.com/s/files/1/0626/7142/1681/products/4582662910881_1.jpg?v=1654865416",
-      "width": 800,
-      "height": 800
-    },
-    "variant_ids": [
-      42824948613361
-    ],
-    "available": false,
-    "published_at": "2025-07-18T11:01:17+09:00",
-    "created_at": "2022-05-18T13:59:57+09:00",
-    "restock_date": "2026/04/03"
   },
   {
     "id": 7966865817841,
@@ -186258,78 +185994,6 @@
     "created_at": "2022-05-18T11:07:05+09:00"
   },
   {
-    "id": 7708162326769,
-    "title": "ちいかわらんど レイヤーアクリルスタンド（ぴーぽぽ）",
-    "price": "770",
-    "url": "https://chiikawamarket.jp/collections/all/products/4589468442905",
-    "image": {
-      "id": 37357554008305,
-      "created_at": "2022-06-12T20:28:46+09:00",
-      "position": 1,
-      "updated_at": "2022-06-12T20:28:46+09:00",
-      "product_id": 7708162326769,
-      "variant_ids": [],
-      "src": "https://cdn.shopify.com/s/files/1/0626/7142/1681/products/000000000556_1.jpg?v=1655033326",
-      "width": 800,
-      "height": 800
-    },
-    "variant_ids": [
-      42919056507121
-    ],
-    "available": false,
-    "published_at": "2025-07-18T11:01:16+09:00",
-    "created_at": "2022-06-12T20:28:46+09:00",
-    "restock_date": "2026/04/03"
-  },
-  {
-    "id": 7708162425073,
-    "title": "ちいかわらんど レイヤーアクリルスタンド（ゴウンゴウン）",
-    "price": "770",
-    "url": "https://chiikawamarket.jp/collections/all/products/4589468442929",
-    "image": {
-      "id": 37357554204913,
-      "created_at": "2022-06-12T20:28:48+09:00",
-      "position": 1,
-      "updated_at": "2022-06-12T20:28:48+09:00",
-      "product_id": 7708162425073,
-      "variant_ids": [],
-      "src": "https://cdn.shopify.com/s/files/1/0626/7142/1681/products/000000000558_1.jpg?v=1655033328",
-      "width": 800,
-      "height": 800
-    },
-    "variant_ids": [
-      42919056605425
-    ],
-    "available": false,
-    "published_at": "2025-07-18T11:01:16+09:00",
-    "created_at": "2022-06-12T20:28:48+09:00",
-    "restock_date": "2026/04/03"
-  },
-  {
-    "id": 7708162359537,
-    "title": "ちいかわらんど レイヤーアクリルスタンド（乗れません）",
-    "price": "770",
-    "url": "https://chiikawamarket.jp/collections/all/products/4589468442912",
-    "image": {
-      "id": 37357554139377,
-      "created_at": "2022-06-12T20:28:47+09:00",
-      "position": 1,
-      "updated_at": "2022-06-12T20:28:47+09:00",
-      "product_id": 7708162359537,
-      "variant_ids": [],
-      "src": "https://cdn.shopify.com/s/files/1/0626/7142/1681/products/000000000557_1.jpg?v=1655033327",
-      "width": 800,
-      "height": 800
-    },
-    "variant_ids": [
-      42919056539889
-    ],
-    "available": false,
-    "published_at": "2025-07-18T11:01:17+09:00",
-    "created_at": "2022-06-12T20:28:47+09:00",
-    "restock_date": "2026/04/03"
-  },
-  {
     "id": 7708162818289,
     "title": "ちいかわらんど 大きめハンドタオル（ぴーぽぽ）",
     "price": "770",
@@ -186376,126 +186040,6 @@
     "created_at": "2022-06-12T20:29:00+09:00"
   },
   {
-    "id": 7966865752305,
-    "title": "ちいかわらんど 小分けに便利な2個セットミニ巾着",
-    "price": "1320",
-    "url": "https://chiikawamarket.jp/collections/all/products/4582662974814",
-    "image": {
-      "id": 39095558701297,
-      "created_at": "2023-07-12T19:03:08+09:00",
-      "position": 1,
-      "updated_at": "2023-07-12T19:03:10+09:00",
-      "product_id": 7966865752305,
-      "variant_ids": [],
-      "src": "https://cdn.shopify.com/s/files/1/0626/7142/1681/files/4582662974814_1.jpg?v=1689156190",
-      "width": 1200,
-      "height": 1200
-    },
-    "variant_ids": [
-      43867212513521
-    ],
-    "available": false,
-    "published_at": "2025-07-18T11:01:04+09:00",
-    "created_at": "2023-07-11T21:00:18+09:00",
-    "restock_date": "2026/04/03"
-  },
-  {
-    "id": 7708162687217,
-    "title": "ちいかわらんど 缶バッジ（ゴウンゴウン）",
-    "price": "330",
-    "url": "https://chiikawamarket.jp/collections/all/products/4589468442974",
-    "image": {
-      "id": 37357554991345,
-      "created_at": "2022-06-12T20:28:55+09:00",
-      "position": 1,
-      "updated_at": "2022-06-12T20:28:55+09:00",
-      "product_id": 7708162687217,
-      "variant_ids": [],
-      "src": "https://cdn.shopify.com/s/files/1/0626/7142/1681/products/000000000563_1.jpg?v=1655033335",
-      "width": 800,
-      "height": 800
-    },
-    "variant_ids": [
-      42919056867569
-    ],
-    "available": false,
-    "published_at": "2025-07-18T11:01:13+09:00",
-    "created_at": "2022-06-12T20:28:55+09:00",
-    "restock_date": "2026/04/03"
-  },
-  {
-    "id": 7708162719985,
-    "title": "ちいかわらんど 缶バッジ（シャク）",
-    "price": "330",
-    "url": "https://chiikawamarket.jp/collections/all/products/4589468442981",
-    "image": {
-      "id": 37357555024113,
-      "created_at": "2022-06-12T20:28:56+09:00",
-      "position": 1,
-      "updated_at": "2022-06-12T20:28:56+09:00",
-      "product_id": 7708162719985,
-      "variant_ids": [],
-      "src": "https://cdn.shopify.com/s/files/1/0626/7142/1681/products/000000000564_1.jpg?v=1655033336",
-      "width": 800,
-      "height": 800
-    },
-    "variant_ids": [
-      42919056933105
-    ],
-    "available": false,
-    "published_at": "2025-07-18T11:01:13+09:00",
-    "created_at": "2022-06-12T20:28:56+09:00",
-    "restock_date": "2026/04/03"
-  },
-  {
-    "id": 7708162621681,
-    "title": "ちいかわらんど 缶バッジ（乗れません）",
-    "price": "330",
-    "url": "https://chiikawamarket.jp/collections/all/products/4589468442967",
-    "image": {
-      "id": 37357554893041,
-      "created_at": "2022-06-12T20:28:53+09:00",
-      "position": 1,
-      "updated_at": "2022-06-12T20:28:53+09:00",
-      "product_id": 7708162621681,
-      "variant_ids": [],
-      "src": "https://cdn.shopify.com/s/files/1/0626/7142/1681/products/000000000562_1.jpg?v=1655033333",
-      "width": 800,
-      "height": 800
-    },
-    "variant_ids": [
-      42919056802033
-    ],
-    "available": false,
-    "published_at": "2025-07-18T11:01:14+09:00",
-    "created_at": "2022-06-12T20:28:53+09:00",
-    "restock_date": "2026/04/03"
-  },
-  {
-    "id": 7684029087985,
-    "title": "ちいかわらんど アクリルペンスタンド（シャク）",
-    "price": "1320",
-    "url": "https://chiikawamarket.jp/collections/all/products/4582662910898",
-    "image": {
-      "id": 37305092112625,
-      "created_at": "2022-06-03T10:58:55+09:00",
-      "position": 1,
-      "updated_at": "2022-06-03T10:58:56+09:00",
-      "product_id": 7684029087985,
-      "variant_ids": [],
-      "src": "https://cdn.shopify.com/s/files/1/0626/7142/1681/products/004_9af60896-3d24-4aa6-bb6f-560a25bbece5.jpg?v=1654221536",
-      "width": 800,
-      "height": 800
-    },
-    "variant_ids": [
-      42824602648817
-    ],
-    "available": false,
-    "published_at": "2025-07-18T11:01:19+09:00",
-    "created_at": "2022-05-18T10:58:19+09:00",
-    "restock_date": "2026/04/03"
-  },
-  {
     "id": 7682698543345,
     "title": "ちいかわらんど アクリル卓上時計",
     "price": "3080",
@@ -186517,54 +186061,6 @@
     "available": false,
     "published_at": "2022-06-11T10:59:28+09:00",
     "created_at": "2022-05-17T15:26:09+09:00"
-  },
-  {
-    "id": 7682690285809,
-    "title": "ちいかわらんど クリアファイル（ちいかわ・ハチワレ）",
-    "price": "385",
-    "url": "https://chiikawamarket.jp/collections/all/products/4582662910904",
-    "image": {
-      "id": 37305038078193,
-      "created_at": "2022-06-03T10:46:57+09:00",
-      "position": 1,
-      "updated_at": "2022-06-03T10:46:58+09:00",
-      "product_id": 7682690285809,
-      "variant_ids": [],
-      "src": "https://cdn.shopify.com/s/files/1/0626/7142/1681/products/ck__A4_B_kanpu_1.jpg?v=1654220818",
-      "width": 800,
-      "height": 800
-    },
-    "variant_ids": [
-      42820820926705
-    ],
-    "available": false,
-    "published_at": "2025-05-22T18:00:22+09:00",
-    "created_at": "2022-05-17T15:18:50+09:00",
-    "restock_date": "2026/04/03"
-  },
-  {
-    "id": 7682697232625,
-    "title": "ちいかわらんど クリアファイル（なかよし）",
-    "price": "385",
-    "url": "https://chiikawamarket.jp/collections/all/products/4582662910911",
-    "image": {
-      "id": 37305056493809,
-      "created_at": "2022-06-03T10:50:03+09:00",
-      "position": 1,
-      "updated_at": "2022-06-03T10:50:04+09:00",
-      "product_id": 7682697232625,
-      "variant_ids": [],
-      "src": "https://cdn.shopify.com/s/files/1/0626/7142/1681/products/ck__A4_A_kanpu_1.jpg?v=1654221004",
-      "width": 800,
-      "height": 800
-    },
-    "variant_ids": [
-      42820837114097
-    ],
-    "available": false,
-    "published_at": "2025-05-22T18:00:22+09:00",
-    "created_at": "2022-05-17T15:23:25+09:00",
-    "restock_date": "2026/04/03"
   },
   {
     "id": 7682702999793,
@@ -186611,78 +186107,6 @@
     "available": false,
     "published_at": "2022-06-11T10:59:29+09:00",
     "created_at": "2022-05-17T15:40:50+09:00"
-  },
-  {
-    "id": 7684025647345,
-    "title": "ちいかわらんど 割れないグラス（シャク）",
-    "price": "990",
-    "url": "https://chiikawamarket.jp/collections/all/products/4582662910836",
-    "image": {
-      "id": 37305086968049,
-      "created_at": "2022-06-03T10:56:21+09:00",
-      "position": 1,
-      "updated_at": "2022-06-03T10:56:22+09:00",
-      "product_id": 7684025647345,
-      "variant_ids": [],
-      "src": "https://cdn.shopify.com/s/files/1/0626/7142/1681/products/018.jpg?v=1654221382",
-      "width": 800,
-      "height": 800
-    },
-    "variant_ids": [
-      42824590393585
-    ],
-    "available": false,
-    "published_at": "2025-12-19T11:01:10+09:00",
-    "created_at": "2022-05-18T10:50:14+09:00",
-    "restock_date": "2026/04/03"
-  },
-  {
-    "id": 7684027777265,
-    "title": "ちいかわらんど 割れないグラス（乗れません）",
-    "price": "990",
-    "url": "https://chiikawamarket.jp/collections/all/products/4582662910843",
-    "image": {
-      "id": 37305089360113,
-      "created_at": "2022-06-03T10:57:28+09:00",
-      "position": 1,
-      "updated_at": "2022-06-03T10:57:29+09:00",
-      "product_id": 7684027777265,
-      "variant_ids": [],
-      "src": "https://cdn.shopify.com/s/files/1/0626/7142/1681/products/022_e7f8a93b-fbce-45d2-8f43-ad7c00ef80ac.jpg?v=1654221449",
-      "width": 800,
-      "height": 800
-    },
-    "variant_ids": [
-      42824598192369
-    ],
-    "available": false,
-    "published_at": "2025-07-18T11:01:17+09:00",
-    "created_at": "2022-05-18T10:54:25+09:00",
-    "restock_date": "2026/04/03"
-  },
-  {
-    "id": 7684031381745,
-    "title": "ちいかわらんど 大きめトートバッグ（乗れません）",
-    "price": "2420",
-    "url": "https://chiikawamarket.jp/collections/all/products/4582662911017",
-    "image": {
-      "id": 37305095651569,
-      "created_at": "2022-06-03T11:00:39+09:00",
-      "position": 1,
-      "updated_at": "2022-06-03T11:00:40+09:00",
-      "product_id": 7684031381745,
-      "variant_ids": [],
-      "src": "https://cdn.shopify.com/s/files/1/0626/7142/1681/products/133.jpg?v=1654221640",
-      "width": 800,
-      "height": 800
-    },
-    "variant_ids": [
-      42824609169649
-    ],
-    "available": false,
-    "published_at": "2025-05-22T18:00:21+09:00",
-    "created_at": "2022-05-18T11:02:17+09:00",
-    "restock_date": "2026/04/03"
   },
   {
     "id": 7708154364145,
@@ -189551,7 +188975,7 @@
     "variant_ids": [
       43731644121329
     ],
-    "available": false,
+    "available": true,
     "published_at": "2025-08-07T18:00:39+09:00",
     "created_at": "2023-04-13T16:23:20+09:00"
   },
@@ -191456,7 +190880,7 @@
     "variant_ids": [
       42740077101297
     ],
-    "available": false,
+    "available": true,
     "published_at": "2024-02-15T18:00:35+09:00",
     "created_at": "2022-04-27T11:19:07+09:00"
   },
@@ -191479,7 +190903,7 @@
     "variant_ids": [
       42740059373809
     ],
-    "available": false,
+    "available": true,
     "published_at": "2025-12-19T11:01:09+09:00",
     "created_at": "2022-04-27T11:09:03+09:00"
   },
@@ -191502,7 +190926,7 @@
     "variant_ids": [
       42740066746609
     ],
-    "available": false,
+    "available": true,
     "published_at": "2025-11-13T18:00:48+09:00",
     "created_at": "2022-04-27T11:15:42+09:00"
   },
@@ -192146,7 +191570,7 @@
     "variant_ids": [
       42740273348849
     ],
-    "available": false,
+    "available": true,
     "published_at": "2025-12-19T11:01:10+09:00",
     "created_at": "2022-04-27T13:04:09+09:00"
   },

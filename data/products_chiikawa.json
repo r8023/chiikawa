@@ -10353,7 +10353,7 @@
       46867475661041,
       46867475693809
     ],
-    "available": true,
+    "available": false,
     "published_at": "2026-01-23T11:01:15+09:00",
     "created_at": "2025-09-01T21:03:02+09:00"
   },
@@ -12776,7 +12776,7 @@
     "variant_ids": [
       46867471728881
     ],
-    "available": true,
+    "available": false,
     "published_at": "2026-01-23T11:01:55+09:00",
     "created_at": "2025-09-01T21:01:22+09:00"
   },
@@ -20855,7 +20855,7 @@
     "variant_ids": [
       47762519785713
     ],
-    "available": true,
+    "available": false,
     "published_at": "2026-02-06T11:00:16+09:00",
     "created_at": "2026-02-03T16:02:22+09:00"
   },
@@ -53354,7 +53354,7 @@
       47034515816689,
       47034515849457
     ],
-    "available": true,
+    "available": false,
     "published_at": "2026-04-15T18:00:16+09:00",
     "created_at": "2025-10-20T16:16:50+09:00"
   },
@@ -59500,7 +59500,7 @@
     "variant_ids": [
       47034514866417
     ],
-    "available": true,
+    "available": false,
     "published_at": "2026-02-20T11:01:49+09:00",
     "created_at": "2025-10-20T16:16:11+09:00"
   },
@@ -105684,7 +105684,7 @@
     "variant_ids": [
       45702088163569
     ],
-    "available": true,
+    "available": false,
     "published_at": "2025-10-16T18:00:18+09:00",
     "created_at": "2024-11-19T14:37:16+09:00"
   },
@@ -152791,7 +152791,7 @@
     "variant_ids": [
       47559173210353
     ],
-    "available": true,
+    "available": false,
     "published_at": "2025-12-19T11:00:58+09:00",
     "created_at": "2025-12-08T14:16:47+09:00"
   },
@@ -152814,7 +152814,7 @@
     "variant_ids": [
       47559173144817
     ],
-    "available": true,
+    "available": false,
     "published_at": "2025-12-19T11:00:59+09:00",
     "created_at": "2025-12-08T14:16:44+09:00"
   },
@@ -169681,7 +169681,7 @@
     "variant_ids": [
       48015497920753
     ],
-    "available": true,
+    "available": false,
     "published_at": "2026-04-17T11:00:12+09:00",
     "created_at": "2026-04-10T11:16:41+09:00"
   },

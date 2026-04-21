@@ -9043,7 +9043,7 @@
     "variant_ids": [
       43823335211249
     ],
-    "available": true,
+    "available": false,
     "published_at": "2023-06-09T11:00:05+09:00",
     "created_at": "2023-06-07T17:28:26+09:00"
   },
@@ -13099,7 +13099,7 @@
     "variant_ids": [
       46867475300593
     ],
-    "available": true,
+    "available": false,
     "published_at": "2026-01-23T11:01:23+09:00",
     "created_at": "2025-09-01T21:02:57+09:00"
   },
@@ -34106,29 +34106,6 @@
     "created_at": "2026-03-26T15:21:28+09:00"
   },
   {
-    "id": 9528134795505,
-    "title": "ちいかわ ちいかわパーク おかお巾着（フグ）",
-    "price": "1540",
-    "url": "https://chiikawamarket.jp/collections/all/products/4571609369233",
-    "image": {
-      "id": 49369892225265,
-      "created_at": "2026-04-16T09:51:32+09:00",
-      "position": 1,
-      "updated_at": "2026-04-16T10:42:27+09:00",
-      "product_id": 9528134795505,
-      "variant_ids": [],
-      "src": "https://cdn.shopify.com/s/files/1/0626/7142/1681/files/4571609369233_1_93aed1f1-3227-447d-8e43-54ef573a55ce.jpg?v=1776303747",
-      "width": 1200,
-      "height": 1200
-    },
-    "variant_ids": [
-      47956786610417
-    ],
-    "available": false,
-    "published_at": "2026-04-21T18:04:44+09:00",
-    "created_at": "2026-03-26T15:21:55+09:00"
-  },
-  {
     "id": 9528134533361,
     "title": "ちいかわ ちいかわパーク おかお巾着（モモンガ）",
     "price": "1540",
@@ -34819,29 +34796,6 @@
     "created_at": "2026-03-26T15:12:40+09:00"
   },
   {
-    "id": 9528125292785,
-    "title": "ちいかわ ちいかわパーク ぱっちんバンド（くりまんじゅう）",
-    "price": "1760",
-    "url": "https://chiikawamarket.jp/collections/all/products/4571609365778",
-    "image": {
-      "id": 49107721224433,
-      "created_at": "2026-03-31T20:44:25+09:00",
-      "position": 1,
-      "updated_at": "2026-03-31T20:44:27+09:00",
-      "product_id": 9528125292785,
-      "variant_ids": [],
-      "src": "https://cdn.shopify.com/s/files/1/0626/7142/1681/files/4571609365778_1_215dd761-7b8b-486c-ae32-0ef980c192d6.jpg?v=1774957467",
-      "width": 1200,
-      "height": 1200
-    },
-    "variant_ids": [
-      47956769177841
-    ],
-    "available": false,
-    "published_at": "2026-04-21T18:00:31+09:00",
-    "created_at": "2026-03-26T15:12:46+09:00"
-  },
-  {
     "id": 9528125128945,
     "title": "ちいかわ ちいかわパーク ぱっちんバンド（ちいかわ）",
     "price": "1760",
@@ -34865,52 +34819,6 @@
     "created_at": "2026-03-26T15:12:35+09:00"
   },
   {
-    "id": 9528125325553,
-    "title": "ちいかわ ちいかわパーク ぱっちんバンド（シーサー）",
-    "price": "1760",
-    "url": "https://chiikawamarket.jp/collections/all/products/4571609365785",
-    "image": {
-      "id": 49107720896753,
-      "created_at": "2026-03-31T20:44:12+09:00",
-      "position": 1,
-      "updated_at": "2026-03-31T20:44:13+09:00",
-      "product_id": 9528125325553,
-      "variant_ids": [],
-      "src": "https://cdn.shopify.com/s/files/1/0626/7142/1681/files/4571609365785_1_805f6212-6564-418a-baed-0dc4e966b679.jpg?v=1774957453",
-      "width": 1200,
-      "height": 1200
-    },
-    "variant_ids": [
-      47956769210609
-    ],
-    "available": false,
-    "published_at": "2026-04-21T18:00:33+09:00",
-    "created_at": "2026-03-26T15:12:50+09:00"
-  },
-  {
-    "id": 9528125161713,
-    "title": "ちいかわ ちいかわパーク ぱっちんバンド（ハチワレ）",
-    "price": "1760",
-    "url": "https://chiikawamarket.jp/collections/all/products/4571609365747",
-    "image": {
-      "id": 49107735773425,
-      "created_at": "2026-03-31T20:44:56+09:00",
-      "position": 1,
-      "updated_at": "2026-03-31T20:44:58+09:00",
-      "product_id": 9528125161713,
-      "variant_ids": [],
-      "src": "https://cdn.shopify.com/s/files/1/0626/7142/1681/files/4571609365747_1_b06bd7eb-4aaf-4f8c-9fe7-34dccd586c24.jpg?v=1774957498",
-      "width": 1200,
-      "height": 1200
-    },
-    "variant_ids": [
-      47956769046769
-    ],
-    "available": false,
-    "published_at": "2026-04-21T18:00:27+09:00",
-    "created_at": "2026-03-26T15:12:37+09:00"
-  },
-  {
     "id": 9528125260017,
     "title": "ちいかわ ちいかわパーク ぱっちんバンド（モモンガ）",
     "price": "1760",
@@ -34932,52 +34840,6 @@
     "available": false,
     "published_at": "2026-04-21T18:00:32+09:00",
     "created_at": "2026-03-26T15:12:43+09:00"
-  },
-  {
-    "id": 9528125358321,
-    "title": "ちいかわ ちいかわパーク ぱっちんバンド（ラッコ）",
-    "price": "1760",
-    "url": "https://chiikawamarket.jp/collections/all/products/4571609365792",
-    "image": {
-      "id": 49107709395185,
-      "created_at": "2026-03-31T20:44:01+09:00",
-      "position": 1,
-      "updated_at": "2026-03-31T20:44:03+09:00",
-      "product_id": 9528125358321,
-      "variant_ids": [],
-      "src": "https://cdn.shopify.com/s/files/1/0626/7142/1681/files/4571609365792_1_f6415c4e-7b93-4c53-aad8-12c53a09d4a6.jpg?v=1774957443",
-      "width": 1200,
-      "height": 1200
-    },
-    "variant_ids": [
-      47956769243377
-    ],
-    "available": false,
-    "published_at": "2026-04-21T18:00:36+09:00",
-    "created_at": "2026-03-26T15:12:52+09:00"
-  },
-  {
-    "id": 9528125391089,
-    "title": "ちいかわ ちいかわパーク ぱっちんバンド（古本屋）",
-    "price": "1760",
-    "url": "https://chiikawamarket.jp/collections/all/products/4571609365808",
-    "image": {
-      "id": 49107703857393,
-      "created_at": "2026-03-31T20:43:49+09:00",
-      "position": 1,
-      "updated_at": "2026-03-31T20:43:51+09:00",
-      "product_id": 9528125391089,
-      "variant_ids": [],
-      "src": "https://cdn.shopify.com/s/files/1/0626/7142/1681/files/4571609365808_1_baa0f58a-c34c-4dd2-910b-f3a3f61bed6f.jpg?v=1774957431",
-      "width": 1200,
-      "height": 1200
-    },
-    "variant_ids": [
-      47956769276145
-    ],
-    "available": false,
-    "published_at": "2026-04-21T18:00:34+09:00",
-    "created_at": "2026-03-26T15:12:54+09:00"
   },
   {
     "id": 9528128176369,
@@ -37235,29 +37097,6 @@
     "created_at": "2026-04-14T13:50:03+09:00"
   },
   {
-    "id": 9528130109681,
-    "title": "ちいかわ ちいかわパーク スマホに貼れるサイズのテーマステッカー（ちいかわの家）",
-    "price": "330",
-    "url": "https://chiikawamarket.jp/collections/all/products/4571609370512",
-    "image": {
-      "id": 49104103178481,
-      "created_at": "2026-03-31T16:31:27+09:00",
-      "position": 1,
-      "updated_at": "2026-03-31T16:31:28+09:00",
-      "product_id": 9528130109681,
-      "variant_ids": [],
-      "src": "https://cdn.shopify.com/s/files/1/0626/7142/1681/files/4571609370512_1.jpg?v=1774942288",
-      "width": 1200,
-      "height": 1200
-    },
-    "variant_ids": [
-      47956778287345
-    ],
-    "available": false,
-    "published_at": "2026-04-21T18:03:23+09:00",
-    "created_at": "2026-03-26T15:17:06+09:00"
-  },
-  {
     "id": 9528130175217,
     "title": "ちいかわ ちいかわパーク スマホに貼れるサイズのテーマステッカー（オデとゴブリン）",
     "price": "330",
@@ -37325,29 +37164,6 @@
     "available": false,
     "published_at": "2026-04-21T18:03:22+09:00",
     "created_at": "2026-03-26T15:17:04+09:00"
-  },
-  {
-    "id": 9528129978609,
-    "title": "ちいかわ ちいかわパーク スマホに貼れるサイズのテーマステッカー（悪夢）",
-    "price": "330",
-    "url": "https://chiikawamarket.jp/collections/all/products/4571609370482",
-    "image": {
-      "id": 49104093413617,
-      "created_at": "2026-03-31T16:30:40+09:00",
-      "position": 1,
-      "updated_at": "2026-03-31T16:30:41+09:00",
-      "product_id": 9528129978609,
-      "variant_ids": [],
-      "src": "https://cdn.shopify.com/s/files/1/0626/7142/1681/files/4571609370482_1.jpg?v=1774942241",
-      "width": 1200,
-      "height": 1200
-    },
-    "variant_ids": [
-      47956778123505
-    ],
-    "available": false,
-    "published_at": "2026-04-21T18:03:17+09:00",
-    "created_at": "2026-03-26T15:16:58+09:00"
   },
   {
     "id": 9528129913073,
@@ -37649,29 +37465,6 @@
     "created_at": "2026-03-26T15:15:47+09:00"
   },
   {
-    "id": 9528129061105,
-    "title": "ちいかわ ちいかわパーク テーマアクリルキーホルダー（オデとゴブリン）",
-    "price": "770",
-    "url": "https://chiikawamarket.jp/collections/all/products/4571609370451",
-    "image": {
-      "id": 49104354017521,
-      "created_at": "2026-03-31T16:42:50+09:00",
-      "position": 1,
-      "updated_at": "2026-03-31T16:42:51+09:00",
-      "product_id": 9528129061105,
-      "variant_ids": [],
-      "src": "https://cdn.shopify.com/s/files/1/0626/7142/1681/files/4571609370451_1.jpg?v=1774942971",
-      "width": 1200,
-      "height": 1200
-    },
-    "variant_ids": [
-      47956776124657
-    ],
-    "available": false,
-    "published_at": "2026-04-21T18:03:02+09:00",
-    "created_at": "2026-03-26T15:15:51+09:00"
-  },
-  {
     "id": 9528128602353,
     "title": "ちいかわ ちいかわパーク テーマアクリルキーホルダー（シャッターチャンス）",
     "price": "770",
@@ -37718,98 +37511,6 @@
     "created_at": "2026-03-26T15:15:43+09:00"
   },
   {
-    "id": 9528128667889,
-    "title": "ちいかわ ちいかわパーク テーマアクリルキーホルダー（悪夢）",
-    "price": "770",
-    "url": "https://chiikawamarket.jp/collections/all/products/4571609370406",
-    "image": {
-      "id": 49104318497009,
-      "created_at": "2026-03-31T16:41:45+09:00",
-      "position": 1,
-      "updated_at": "2026-03-31T16:41:47+09:00",
-      "product_id": 9528128667889,
-      "variant_ids": [],
-      "src": "https://cdn.shopify.com/s/files/1/0626/7142/1681/files/4571609370406_1.jpg?v=1774942907",
-      "width": 1200,
-      "height": 1200
-    },
-    "variant_ids": [
-      47956775665905
-    ],
-    "available": false,
-    "published_at": "2026-04-21T18:02:59+09:00",
-    "created_at": "2026-03-26T15:15:41+09:00"
-  },
-  {
-    "id": 9528128635121,
-    "title": "ちいかわ ちいかわパーク テーマアクリルキーホルダー（拾魔）",
-    "price": "770",
-    "url": "https://chiikawamarket.jp/collections/all/products/4571609370390",
-    "image": {
-      "id": 49104315187441,
-      "created_at": "2026-03-31T16:41:40+09:00",
-      "position": 1,
-      "updated_at": "2026-03-31T16:41:41+09:00",
-      "product_id": 9528128635121,
-      "variant_ids": [],
-      "src": "https://cdn.shopify.com/s/files/1/0626/7142/1681/files/4571609370390_1.jpg?v=1774942901",
-      "width": 1200,
-      "height": 1200
-    },
-    "variant_ids": [
-      47956775633137
-    ],
-    "available": false,
-    "published_at": "2026-04-21T18:02:55+09:00",
-    "created_at": "2026-03-26T15:15:39+09:00"
-  },
-  {
-    "id": 9528128700657,
-    "title": "ちいかわ ちいかわパーク テーマアクリルキーホルダー（木）",
-    "price": "770",
-    "url": "https://chiikawamarket.jp/collections/all/products/4571609370413",
-    "image": {
-      "id": 49104322494705,
-      "created_at": "2026-03-31T16:41:54+09:00",
-      "position": 1,
-      "updated_at": "2026-03-31T16:41:56+09:00",
-      "product_id": 9528128700657,
-      "variant_ids": [],
-      "src": "https://cdn.shopify.com/s/files/1/0626/7142/1681/files/4571609370413_1.jpg?v=1774942916",
-      "width": 1200,
-      "height": 1200
-    },
-    "variant_ids": [
-      47956775698673
-    ],
-    "available": false,
-    "published_at": "2026-04-21T18:02:57+09:00",
-    "created_at": "2026-03-26T15:15:42+09:00"
-  },
-  {
-    "id": 9528129028337,
-    "title": "ちいかわ ちいかわパーク テーマアクリルキーホルダー（穴に落ちたハチワレ）",
-    "price": "770",
-    "url": "https://chiikawamarket.jp/collections/all/products/4571609370444",
-    "image": {
-      "id": 49104351265009,
-      "created_at": "2026-03-31T16:42:44+09:00",
-      "position": 1,
-      "updated_at": "2026-03-31T16:42:46+09:00",
-      "product_id": 9528129028337,
-      "variant_ids": [],
-      "src": "https://cdn.shopify.com/s/files/1/0626/7142/1681/files/4571609370444_1.jpg?v=1774942966",
-      "width": 1200,
-      "height": 1200
-    },
-    "variant_ids": [
-      47956776091889
-    ],
-    "available": false,
-    "published_at": "2026-04-21T18:03:01+09:00",
-    "created_at": "2026-03-26T15:15:50+09:00"
-  },
-  {
     "id": 9528131649777,
     "title": "ちいかわ ちいかわパーク トレーディングホログラム缶バッジ～フラッグ～（全8種）",
     "price": "330",
@@ -37830,7 +37531,7 @@
       47956780089585
     ],
     "available": false,
-    "published_at": "2026-04-21T18:03:45+09:00",
+    "published_at": "2026-04-21T19:56:25+09:00",
     "created_at": "2026-03-26T15:18:30+09:00"
   },
   {
@@ -37857,75 +37558,6 @@
     "created_at": "2026-04-14T13:50:31+09:00"
   },
   {
-    "id": 9528132042993,
-    "title": "ちいかわ ちいかわパーク ネックレス（さすまた ちいかわ）",
-    "price": "1870",
-    "url": "https://chiikawamarket.jp/collections/all/products/4571609354956",
-    "image": {
-      "id": 49096103821553,
-      "created_at": "2026-03-30T15:48:29+09:00",
-      "position": 1,
-      "updated_at": "2026-03-30T15:48:31+09:00",
-      "product_id": 9528132042993,
-      "variant_ids": [],
-      "src": "https://cdn.shopify.com/s/files/1/0626/7142/1681/files/4571609354956_1.jpg?v=1774853311",
-      "width": 1200,
-      "height": 1200
-    },
-    "variant_ids": [
-      47956780482801
-    ],
-    "available": false,
-    "published_at": "2026-04-21T18:03:54+09:00",
-    "created_at": "2026-03-26T15:19:06+09:00"
-  },
-  {
-    "id": 9528132075761,
-    "title": "ちいかわ ちいかわパーク ネックレス（さすまた ハチワレ）",
-    "price": "1870",
-    "url": "https://chiikawamarket.jp/collections/all/products/4571609354963",
-    "image": {
-      "id": 49096103526641,
-      "created_at": "2026-03-30T15:48:06+09:00",
-      "position": 1,
-      "updated_at": "2026-03-30T15:48:07+09:00",
-      "product_id": 9528132075761,
-      "variant_ids": [],
-      "src": "https://cdn.shopify.com/s/files/1/0626/7142/1681/files/4571609354963_1.jpg?v=1774853287",
-      "width": 1200,
-      "height": 1200
-    },
-    "variant_ids": [
-      47956780515569
-    ],
-    "available": false,
-    "published_at": "2026-04-21T18:03:56+09:00",
-    "created_at": "2026-03-26T15:19:09+09:00"
-  },
-  {
-    "id": 9528132141297,
-    "title": "ちいかわ ちいかわパーク ネックレス（報酬袋）",
-    "price": "1870",
-    "url": "https://chiikawamarket.jp/collections/all/products/4571609354987",
-    "image": {
-      "id": 49096102904049,
-      "created_at": "2026-03-30T15:46:57+09:00",
-      "position": 1,
-      "updated_at": "2026-03-30T15:46:59+09:00",
-      "product_id": 9528132141297,
-      "variant_ids": [],
-      "src": "https://cdn.shopify.com/s/files/1/0626/7142/1681/files/4571609354987_1.jpg?v=1774853219",
-      "width": 1200,
-      "height": 1200
-    },
-    "variant_ids": [
-      47956780581105
-    ],
-    "available": false,
-    "published_at": "2026-04-21T18:03:55+09:00",
-    "created_at": "2026-03-26T15:19:13+09:00"
-  },
-  {
     "id": 9528132174065,
     "title": "ちいかわ ちいかわパーク ネックレス（草むしり検定3級 うさぎ）",
     "price": "1870",
@@ -37947,52 +37579,6 @@
     "available": false,
     "published_at": "2026-04-21T18:04:00+09:00",
     "created_at": "2026-03-26T15:19:16+09:00"
-  },
-  {
-    "id": 9528132010225,
-    "title": "ちいかわ ちいかわパーク ネックレス（草むしり検定5級 ちいかわ）",
-    "price": "1870",
-    "url": "https://chiikawamarket.jp/collections/all/products/4571609354949",
-    "image": {
-      "id": 49096104542449,
-      "created_at": "2026-03-30T15:48:50+09:00",
-      "position": 1,
-      "updated_at": "2026-03-30T15:48:52+09:00",
-      "product_id": 9528132010225,
-      "variant_ids": [],
-      "src": "https://cdn.shopify.com/s/files/1/0626/7142/1681/files/4571609354949_1.jpg?v=1774853332",
-      "width": 1200,
-      "height": 1200
-    },
-    "variant_ids": [
-      47956780450033
-    ],
-    "available": false,
-    "published_at": "2026-04-21T18:03:51+09:00",
-    "created_at": "2026-03-26T15:19:03+09:00"
-  },
-  {
-    "id": 9528132108529,
-    "title": "ちいかわ ちいかわパーク ネックレス（討伐棒 うさぎ）",
-    "price": "1870",
-    "url": "https://chiikawamarket.jp/collections/all/products/4571609354970",
-    "image": {
-      "id": 49096103166193,
-      "created_at": "2026-03-30T15:47:26+09:00",
-      "position": 1,
-      "updated_at": "2026-03-30T15:47:28+09:00",
-      "product_id": 9528132108529,
-      "variant_ids": [],
-      "src": "https://cdn.shopify.com/s/files/1/0626/7142/1681/files/4571609354970_1.jpg?v=1774853248",
-      "width": 1200,
-      "height": 1200
-    },
-    "variant_ids": [
-      47956780548337
-    ],
-    "available": false,
-    "published_at": "2026-04-21T18:03:57+09:00",
-    "created_at": "2026-03-26T15:19:10+09:00"
   },
   {
     "id": 9551567421681,
@@ -38684,29 +38270,6 @@
     "available": false,
     "published_at": "2026-04-21T18:03:41+09:00",
     "created_at": "2026-03-26T15:18:09+09:00"
-  },
-  {
-    "id": 9528131551473,
-    "title": "ちいかわ ちいかわパーク ポストカード（暗い森）",
-    "price": "330",
-    "url": "https://chiikawamarket.jp/collections/all/products/4571609370642",
-    "image": {
-      "id": 49107859144945,
-      "created_at": "2026-03-31T21:05:33+09:00",
-      "position": 1,
-      "updated_at": "2026-03-31T21:05:34+09:00",
-      "product_id": 9528131551473,
-      "variant_ids": [],
-      "src": "https://cdn.shopify.com/s/files/1/0626/7142/1681/files/4571609370642_1_fa38428a-cbba-4023-b36b-341c7b4ad9c7.jpg?v=1774958734",
-      "width": 1500,
-      "height": 1500
-    },
-    "variant_ids": [
-      47956779958513
-    ],
-    "available": false,
-    "published_at": "2026-04-21T18:03:43+09:00",
-    "created_at": "2026-03-26T15:18:18+09:00"
   },
   {
     "id": 9528125718769,
@@ -39422,29 +38985,6 @@
     "created_at": "2026-03-26T15:15:21+09:00"
   },
   {
-    "id": 9528128438513,
-    "title": "ちいかわ ちいかわパーク メダル風アクリルキーホルダー（くりまんじゅう）",
-    "price": "880",
-    "url": "https://chiikawamarket.jp/collections/all/products/4571609367673",
-    "image": {
-      "id": 49104111042801,
-      "created_at": "2026-03-31T16:32:03+09:00",
-      "position": 1,
-      "updated_at": "2026-03-31T16:32:05+09:00",
-      "product_id": 9528128438513,
-      "variant_ids": [],
-      "src": "https://cdn.shopify.com/s/files/1/0626/7142/1681/files/4571609367673_1.jpg?v=1774942325",
-      "width": 1200,
-      "height": 1200
-    },
-    "variant_ids": [
-      47956775305457
-    ],
-    "available": false,
-    "published_at": "2026-04-21T18:02:52+09:00",
-    "created_at": "2026-03-26T15:15:25+09:00"
-  },
-  {
     "id": 9528128274673,
     "title": "ちいかわ ちいかわパーク メダル風アクリルキーホルダー（ちいかわ）",
     "price": "880",
@@ -39466,29 +39006,6 @@
     "available": false,
     "published_at": "2026-04-21T18:02:29+09:00",
     "created_at": "2026-03-26T15:15:16+09:00"
-  },
-  {
-    "id": 9528128471281,
-    "title": "ちいかわ ちいかわパーク メダル風アクリルキーホルダー（シーサー）",
-    "price": "880",
-    "url": "https://chiikawamarket.jp/collections/all/products/4571609367680",
-    "image": {
-      "id": 49104108355825,
-      "created_at": "2026-03-31T16:31:48+09:00",
-      "position": 1,
-      "updated_at": "2026-03-31T16:31:50+09:00",
-      "product_id": 9528128471281,
-      "variant_ids": [],
-      "src": "https://cdn.shopify.com/s/files/1/0626/7142/1681/files/4571609367680_1.jpg?v=1774942310",
-      "width": 1200,
-      "height": 1200
-    },
-    "variant_ids": [
-      47956775338225
-    ],
-    "available": false,
-    "published_at": "2026-04-21T18:02:51+09:00",
-    "created_at": "2026-03-26T15:15:28+09:00"
   },
   {
     "id": 9528128340209,
@@ -39537,52 +39054,6 @@
     "created_at": "2026-03-26T15:15:23+09:00"
   },
   {
-    "id": 9528128504049,
-    "title": "ちいかわ ちいかわパーク メダル風アクリルキーホルダー（ラッコ）",
-    "price": "880",
-    "url": "https://chiikawamarket.jp/collections/all/products/4571609367697",
-    "image": {
-      "id": 49104104456433,
-      "created_at": "2026-03-31T16:31:32+09:00",
-      "position": 1,
-      "updated_at": "2026-03-31T16:31:33+09:00",
-      "product_id": 9528128504049,
-      "variant_ids": [],
-      "src": "https://cdn.shopify.com/s/files/1/0626/7142/1681/files/4571609367697_1.jpg?v=1774942293",
-      "width": 1200,
-      "height": 1200
-    },
-    "variant_ids": [
-      47956775370993
-    ],
-    "available": false,
-    "published_at": "2026-04-21T18:02:54+09:00",
-    "created_at": "2026-03-26T15:15:31+09:00"
-  },
-  {
-    "id": 9528128569585,
-    "title": "ちいかわ ちいかわパーク メダル風アクリルキーホルダー（古本屋）",
-    "price": "880",
-    "url": "https://chiikawamarket.jp/collections/all/products/4571609367703",
-    "image": {
-      "id": 49104099442929,
-      "created_at": "2026-03-31T16:31:10+09:00",
-      "position": 1,
-      "updated_at": "2026-03-31T16:31:11+09:00",
-      "product_id": 9528128569585,
-      "variant_ids": [],
-      "src": "https://cdn.shopify.com/s/files/1/0626/7142/1681/files/4571609367703_1.jpg?v=1774942271",
-      "width": 1200,
-      "height": 1200
-    },
-    "variant_ids": [
-      47956775567601
-    ],
-    "available": false,
-    "published_at": "2026-04-21T18:02:55+09:00",
-    "created_at": "2026-03-26T15:15:34+09:00"
-  },
-  {
     "id": 9551565684977,
     "title": "ちいかわ ちいかわパーク ライトキーホルダー（パジャマうさぎ）",
     "price": "1500",
@@ -39627,29 +39098,6 @@
     "available": false,
     "published_at": "2026-04-21T18:02:06+09:00",
     "created_at": "2026-04-14T13:48:43+09:00"
-  },
-  {
-    "id": 9528134893809,
-    "title": "ちいかわ ちいかわパーク ラッコの剣みたいなショルダーポーチ",
-    "price": "5500",
-    "url": "https://chiikawamarket.jp/collections/all/products/4571609385073",
-    "image": {
-      "id": 49369898156273,
-      "created_at": "2026-04-16T09:56:50+09:00",
-      "position": 1,
-      "updated_at": "2026-04-16T09:56:53+09:00",
-      "product_id": 9528134893809,
-      "variant_ids": [],
-      "src": "https://cdn.shopify.com/s/files/1/0626/7142/1681/files/4571609385073_1.jpg?v=1776301013",
-      "width": 1200,
-      "height": 1200
-    },
-    "variant_ids": [
-      47956786741489
-    ],
-    "available": false,
-    "published_at": "2026-04-21T18:04:45+09:00",
-    "created_at": "2026-03-26T15:22:04+09:00"
   },
   {
     "id": 9528134172913,
@@ -79794,7 +79242,7 @@
     "variant_ids": [
       47940171366641
     ],
-    "available": true,
+    "available": false,
     "published_at": "2026-03-27T11:00:11+09:00",
     "created_at": "2026-03-19T13:53:52+09:00"
   },

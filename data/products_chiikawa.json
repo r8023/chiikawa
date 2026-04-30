@@ -14771,7 +14771,7 @@
     "variant_ids": [
       47008915783921
     ],
-    "available": true,
+    "available": false,
     "published_at": "2025-12-19T11:03:03+09:00",
     "created_at": "2025-10-10T20:54:10+09:00"
   },
@@ -49545,75 +49545,6 @@
     "created_at": "2023-03-22T15:44:24+09:00"
   },
   {
-    "id": 7933654860017,
-    "title": "ちいかわ てんし♡あくま あくまのあかちゃんマスコット（うさぎ）",
-    "price": "1430",
-    "url": "https://chiikawamarket.jp/collections/all/products/4582662984455",
-    "image": {
-      "id": 38756649992433,
-      "created_at": "2023-04-19T20:47:15+09:00",
-      "position": 1,
-      "updated_at": "2023-04-19T20:47:16+09:00",
-      "product_id": 7933654860017,
-      "variant_ids": [],
-      "src": "https://cdn.shopify.com/s/files/1/0626/7142/1681/products/4582662984455_1.jpg?v=1681904836",
-      "width": 1200,
-      "height": 1200
-    },
-    "variant_ids": [
-      43764095484145
-    ],
-    "available": false,
-    "published_at": "2025-07-18T11:01:06+09:00",
-    "created_at": "2023-04-19T20:38:45+09:00"
-  },
-  {
-    "id": 7933654892785,
-    "title": "ちいかわ てんし♡あくま あくまのあかちゃんマスコット（くりまんじゅう）",
-    "price": "1430",
-    "url": "https://chiikawamarket.jp/collections/all/products/4582662984448",
-    "image": {
-      "id": 38756651532529,
-      "created_at": "2023-04-19T20:47:30+09:00",
-      "position": 1,
-      "updated_at": "2023-04-19T20:47:31+09:00",
-      "product_id": 7933654892785,
-      "variant_ids": [],
-      "src": "https://cdn.shopify.com/s/files/1/0626/7142/1681/products/4582662984448_1.jpg?v=1681904851",
-      "width": 1200,
-      "height": 1200
-    },
-    "variant_ids": [
-      43764095516913
-    ],
-    "available": false,
-    "published_at": "2025-07-18T11:01:05+09:00",
-    "created_at": "2023-04-19T20:38:46+09:00"
-  },
-  {
-    "id": 7933654958321,
-    "title": "ちいかわ てんし♡あくま あくまのあかちゃんマスコット（モモンガ）",
-    "price": "1430",
-    "url": "https://chiikawamarket.jp/collections/all/products/4582662984431",
-    "image": {
-      "id": 38756653334769,
-      "created_at": "2023-04-19T20:47:45+09:00",
-      "position": 1,
-      "updated_at": "2023-04-19T20:47:46+09:00",
-      "product_id": 7933654958321,
-      "variant_ids": [],
-      "src": "https://cdn.shopify.com/s/files/1/0626/7142/1681/products/4582662984431_1.jpg?v=1681904866",
-      "width": 1200,
-      "height": 1200
-    },
-    "variant_ids": [
-      43764095582449
-    ],
-    "available": false,
-    "published_at": "2025-07-18T11:01:06+09:00",
-    "created_at": "2023-04-19T20:38:46+09:00"
-  },
-  {
     "id": 7917331316977,
     "title": "ちいかわ てんし♡あくま てんしなアクリルチャーム",
     "price": "1320",
@@ -49635,75 +49566,6 @@
     "available": false,
     "published_at": "2023-04-28T11:00:24+09:00",
     "created_at": "2023-03-22T15:44:23+09:00"
-  },
-  {
-    "id": 7933654794481,
-    "title": "ちいかわ てんし♡あくま てんしのあかちゃんマスコット（ちいかわ）",
-    "price": "1430",
-    "url": "https://chiikawamarket.jp/collections/all/products/4582662984479",
-    "image": {
-      "id": 38756647370993,
-      "created_at": "2023-04-19T20:46:44+09:00",
-      "position": 1,
-      "updated_at": "2023-04-19T20:46:45+09:00",
-      "product_id": 7933654794481,
-      "variant_ids": [],
-      "src": "https://cdn.shopify.com/s/files/1/0626/7142/1681/products/4582662984479_1.jpg?v=1681904805",
-      "width": 1200,
-      "height": 1200
-    },
-    "variant_ids": [
-      43764095418609
-    ],
-    "available": false,
-    "published_at": "2025-07-18T11:01:07+09:00",
-    "created_at": "2023-04-19T20:38:44+09:00"
-  },
-  {
-    "id": 7933654991089,
-    "title": "ちいかわ てんし♡あくま てんしのあかちゃんマスコット（シーサー）",
-    "price": "1430",
-    "url": "https://chiikawamarket.jp/collections/all/products/4582662984424",
-    "image": {
-      "id": 38756654743793,
-      "created_at": "2023-04-19T20:48:00+09:00",
-      "position": 1,
-      "updated_at": "2023-04-19T20:48:01+09:00",
-      "product_id": 7933654991089,
-      "variant_ids": [],
-      "src": "https://cdn.shopify.com/s/files/1/0626/7142/1681/products/4582662984424_1.jpg?v=1681904881",
-      "width": 1200,
-      "height": 1200
-    },
-    "variant_ids": [
-      43764095615217
-    ],
-    "available": false,
-    "published_at": "2025-07-18T11:01:05+09:00",
-    "created_at": "2023-04-19T20:38:47+09:00"
-  },
-  {
-    "id": 7933654827249,
-    "title": "ちいかわ てんし♡あくま てんしのあかちゃんマスコット（ハチワレ）",
-    "price": "1430",
-    "url": "https://chiikawamarket.jp/collections/all/products/4582662984462",
-    "image": {
-      "id": 38756648976625,
-      "created_at": "2023-04-19T20:46:59+09:00",
-      "position": 1,
-      "updated_at": "2023-04-19T20:47:00+09:00",
-      "product_id": 7933654827249,
-      "variant_ids": [],
-      "src": "https://cdn.shopify.com/s/files/1/0626/7142/1681/products/4582662984462_1.jpg?v=1681904820",
-      "width": 1200,
-      "height": 1200
-    },
-    "variant_ids": [
-      43764095451377
-    ],
-    "available": false,
-    "published_at": "2025-07-18T11:01:08+09:00",
-    "created_at": "2023-04-19T20:38:45+09:00"
   },
   {
     "id": 7917330399473,
@@ -51571,29 +51433,6 @@
     "created_at": "2023-03-22T15:44:29+09:00"
   },
   {
-    "id": 7917330694385,
-    "title": "ちいかわ てんし♡あくま マスコット（あくまなうさぎ）",
-    "price": "1650",
-    "url": "https://chiikawamarket.jp/collections/all/products/4582662984608",
-    "image": {
-      "id": 38650910114033,
-      "created_at": "2023-03-22T18:00:20+09:00",
-      "position": 1,
-      "updated_at": "2023-03-22T18:00:21+09:00",
-      "product_id": 7917330694385,
-      "variant_ids": [],
-      "src": "https://cdn.shopify.com/s/files/1/0626/7142/1681/products/4582662984608_1.jpg?v=1679475621",
-      "width": 1000,
-      "height": 1000
-    },
-    "variant_ids": [
-      43701908799729
-    ],
-    "available": false,
-    "published_at": "2025-07-18T11:01:09+09:00",
-    "created_at": "2023-03-22T15:44:16+09:00"
-  },
-  {
     "id": 7917330727153,
     "title": "ちいかわ てんし♡あくま マスコット（あくまなくりまんじゅう）",
     "price": "1650",
@@ -51638,121 +51477,6 @@
     "available": true,
     "published_at": "2025-07-18T11:01:08+09:00",
     "created_at": "2023-03-22T15:44:17+09:00"
-  },
-  {
-    "id": 7917330858225,
-    "title": "ちいかわ てんし♡あくま マスコット（えらい天使なラッコ）",
-    "price": "1650",
-    "url": "https://chiikawamarket.jp/collections/all/products/4582662984561",
-    "image": {
-      "id": 38650904543473,
-      "created_at": "2023-03-22T17:58:12+09:00",
-      "position": 1,
-      "updated_at": "2023-03-22T17:58:13+09:00",
-      "product_id": 7917330858225,
-      "variant_ids": [],
-      "src": "https://cdn.shopify.com/s/files/1/0626/7142/1681/products/4582662984561_1.jpg?v=1679475493",
-      "width": 1000,
-      "height": 1000
-    },
-    "variant_ids": [
-      43701908963569
-    ],
-    "available": false,
-    "published_at": "2025-07-18T11:01:07+09:00",
-    "created_at": "2023-03-22T15:44:19+09:00"
-  },
-  {
-    "id": 7917330661617,
-    "title": "ちいかわ てんし♡あくま マスコット（だてんしなハチワレ）",
-    "price": "1650",
-    "url": "https://chiikawamarket.jp/collections/all/products/4582662984622",
-    "image": {
-      "id": 38650912768241,
-      "created_at": "2023-03-22T18:01:13+09:00",
-      "position": 1,
-      "updated_at": "2023-03-22T18:01:14+09:00",
-      "product_id": 7917330661617,
-      "variant_ids": [],
-      "src": "https://cdn.shopify.com/s/files/1/0626/7142/1681/products/4582662984622_1.jpg?v=1679475674",
-      "width": 1000,
-      "height": 1000
-    },
-    "variant_ids": [
-      43701908766961
-    ],
-    "available": false,
-    "published_at": "2025-07-18T11:01:10+09:00",
-    "created_at": "2023-03-22T15:44:16+09:00"
-  },
-  {
-    "id": 7917330596081,
-    "title": "ちいかわ てんし♡あくま マスコット（てんしなちいかわ）",
-    "price": "1650",
-    "url": "https://chiikawamarket.jp/collections/all/products/4582662984639",
-    "image": {
-      "id": 38650913882353,
-      "created_at": "2023-03-22T18:01:37+09:00",
-      "position": 1,
-      "updated_at": "2023-03-22T18:01:38+09:00",
-      "product_id": 7917330596081,
-      "variant_ids": [],
-      "src": "https://cdn.shopify.com/s/files/1/0626/7142/1681/products/4582662984639_1.jpg?v=1679475698",
-      "width": 1000,
-      "height": 1000
-    },
-    "variant_ids": [
-      43701908701425
-    ],
-    "available": false,
-    "published_at": "2025-07-18T11:01:10+09:00",
-    "created_at": "2023-03-22T15:44:15+09:00"
-  },
-  {
-    "id": 7917330825457,
-    "title": "ちいかわ てんし♡あくま マスコット（てんしなシーサー）",
-    "price": "1650",
-    "url": "https://chiikawamarket.jp/collections/all/products/4582662984578",
-    "image": {
-      "id": 38650905821425,
-      "created_at": "2023-03-22T17:58:57+09:00",
-      "position": 1,
-      "updated_at": "2023-03-22T17:58:58+09:00",
-      "product_id": 7917330825457,
-      "variant_ids": [],
-      "src": "https://cdn.shopify.com/s/files/1/0626/7142/1681/products/4582662984578_1.jpg?v=1679475538",
-      "width": 1000,
-      "height": 1000
-    },
-    "variant_ids": [
-      43701908930801
-    ],
-    "available": false,
-    "published_at": "2025-07-18T11:01:09+09:00",
-    "created_at": "2023-03-22T15:44:18+09:00"
-  },
-  {
-    "id": 7917330628849,
-    "title": "ちいかわ てんし♡あくま マスコット（てんしなハチワレ）",
-    "price": "1650",
-    "url": "https://chiikawamarket.jp/collections/all/products/4582662984615",
-    "image": {
-      "id": 38650911916273,
-      "created_at": "2023-03-22T18:00:49+09:00",
-      "position": 1,
-      "updated_at": "2023-03-22T18:00:50+09:00",
-      "product_id": 7917330628849,
-      "variant_ids": [],
-      "src": "https://cdn.shopify.com/s/files/1/0626/7142/1681/products/4582662984615_1.jpg?v=1679475650",
-      "width": 1000,
-      "height": 1000
-    },
-    "variant_ids": [
-      43701908734193
-    ],
-    "available": false,
-    "published_at": "2025-07-18T11:01:11+09:00",
-    "created_at": "2023-03-22T15:44:15+09:00"
   },
   {
     "id": 7917332431089,

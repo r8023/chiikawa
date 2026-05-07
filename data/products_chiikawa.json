@@ -12036,7 +12036,7 @@
     "variant_ids": [
       46867474645233
     ],
-    "available": true,
+    "available": false,
     "published_at": "2026-01-23T11:01:31+09:00",
     "created_at": "2025-09-01T21:02:35+09:00"
   },
@@ -30567,7 +30567,7 @@
     "variant_ids": [
       43634052169969
     ],
-    "available": true,
+    "available": false,
     "published_at": "2024-10-21T18:30:03+09:00",
     "created_at": "2023-02-10T13:05:11+09:00"
   },
@@ -35946,6 +35946,29 @@
     "available": false,
     "published_at": "2026-04-21T18:00:15+09:00",
     "created_at": "2026-03-26T15:11:46+09:00"
+  },
+  {
+    "id": 9550937686257,
+    "title": "ちいかわ ちいかわパーク まめまめフィギュア",
+    "price": "2750",
+    "url": "https://chiikawamarket.jp/collections/all/products/4571609383901",
+    "image": {
+      "id": 49409711177969,
+      "created_at": "2026-04-20T11:04:33+09:00",
+      "position": 1,
+      "updated_at": "2026-04-20T11:04:34+09:00",
+      "product_id": 9550937686257,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0626/7142/1681/files/4571609383925_0_1.jpg?v=1776650674",
+      "width": 1000,
+      "height": 1000
+    },
+    "variant_ids": [
+      48034008989937
+    ],
+    "available": false,
+    "published_at": "2026-05-07T19:18:29+09:00",
+    "created_at": "2026-04-13T23:43:33+09:00"
   },
   {
     "id": 9528132632817,
@@ -102865,7 +102888,7 @@
     "variant_ids": [
       48015497658609
     ],
-    "available": true,
+    "available": false,
     "published_at": "2026-04-30T18:00:14+09:00",
     "created_at": "2026-04-10T11:16:23+09:00"
   },
@@ -160363,7 +160386,7 @@
     "variant_ids": [
       46743327736049
     ],
-    "available": true,
+    "available": false,
     "published_at": "2025-08-08T11:00:21+09:00",
     "created_at": "2025-08-04T12:10:57+09:00"
   },
@@ -179235,7 +179258,7 @@
     "variant_ids": [
       48114351341809
     ],
-    "available": true,
+    "available": false,
     "published_at": "2026-05-01T11:00:24+09:00",
     "created_at": "2026-04-30T18:31:49+09:00"
   },
@@ -201011,29 +201034,6 @@
     "available": false,
     "published_at": "2022-06-17T11:05:25+09:00",
     "created_at": "2022-06-12T20:19:27+09:00"
-  },
-  {
-    "id": 9550937686257,
-    "title": "ちいかわパーク まめまめフィギュア",
-    "price": "2750",
-    "url": "https://chiikawamarket.jp/collections/all/products/4571609383901",
-    "image": {
-      "id": 49409711177969,
-      "created_at": "2026-04-20T11:04:33+09:00",
-      "position": 1,
-      "updated_at": "2026-04-20T11:04:34+09:00",
-      "product_id": 9550937686257,
-      "variant_ids": [],
-      "src": "https://cdn.shopify.com/s/files/1/0626/7142/1681/files/4571609383925_0_1.jpg?v=1776650674",
-      "width": 1000,
-      "height": 1000
-    },
-    "variant_ids": [
-      48034008989937
-    ],
-    "available": false,
-    "published_at": "2026-04-21T18:04:49+09:00",
-    "created_at": "2026-04-13T23:43:33+09:00"
   },
   {
     "id": 7708170322161,

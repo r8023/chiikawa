@@ -581,8 +581,8 @@
   },
   "7484485533888": {
     "id": 7484485533888,
-    "available": true,
-    "restock_date": null
+    "available": false,
+    "restock_date": "2026/06/26"
   },
   "7462590841024": {
     "id": 7462590841024,
@@ -1316,8 +1316,8 @@
   },
   "7342630568128": {
     "id": 7342630568128,
-    "available": true,
-    "restock_date": null
+    "available": false,
+    "restock_date": "2026/06/26"
   },
   "7342630535360": {
     "id": 7342630535360,
@@ -1796,13 +1796,13 @@
   },
   "7342630666432": {
     "id": 7342630666432,
-    "available": true,
-    "restock_date": null
+    "available": false,
+    "restock_date": "2026/06/26"
   },
   "7342630600896": {
     "id": 7342630600896,
-    "available": true,
-    "restock_date": null
+    "available": false,
+    "restock_date": "2026/06/26"
   },
   "7448096407744": {
     "id": 7448096407744,
@@ -1826,23 +1826,23 @@
   },
   "7475350208704": {
     "id": 7475350208704,
-    "available": true,
-    "restock_date": null
+    "available": false,
+    "restock_date": "2026/06/26"
   },
   "7475350307008": {
     "id": 7475350307008,
-    "available": true,
-    "restock_date": null
+    "available": false,
+    "restock_date": "2026/06/26"
   },
   "7475350339776": {
     "id": 7475350339776,
-    "available": true,
-    "restock_date": null
+    "available": false,
+    "restock_date": "2026/06/26"
   },
   "7475350372544": {
     "id": 7475350372544,
-    "available": true,
-    "restock_date": null
+    "available": false,
+    "restock_date": "2026/06/26"
   },
   "7484485632192": {
     "id": 7484485632192,
@@ -2752,12 +2752,12 @@
   "8453080514752": {
     "id": 8453080514752,
     "available": false,
-    "restock_date": "2026/05/22"
+    "restock_date": "2026/06/26"
   },
   "8453080449216": {
     "id": 8453080449216,
     "available": false,
-    "restock_date": "2026/05/22"
+    "restock_date": "2026/06/26"
   },
   "7673365299392": {
     "id": 7673365299392,
@@ -2873,5 +2873,20 @@
     "id": 8543682068672,
     "available": false,
     "restock_date": "2026/05/22"
+  },
+  "8543681904832": {
+    "id": 8543681904832,
+    "available": false,
+    "restock_date": "2026/06/26"
+  },
+  "8543682003136": {
+    "id": 8543682003136,
+    "available": false,
+    "restock_date": "2026/06/26"
+  },
+  "7475350405312": {
+    "id": 7475350405312,
+    "available": false,
+    "restock_date": "2026/06/26"
   }
 }

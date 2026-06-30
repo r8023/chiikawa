@@ -1014,6 +1014,29 @@
     "created_at": "2023-04-11T14:33:39+09:00"
   },
   {
+    "id": 9647099904241,
+    "title": "【予約】ちいかわ イヤーズプレート（2027）【2026年10月中旬より順次発送予定（発送延期の場合もキャンセル不可）】【通常商品と同時購入・配送希望日指定不可】",
+    "price": "4950",
+    "url": "https://chiikawamarket.jp/collections/all/products/4979855145302",
+    "image": {
+      "id": 50039591633137,
+      "created_at": "2026-06-24T11:21:37+09:00",
+      "position": 1,
+      "updated_at": "2026-06-24T11:21:39+09:00",
+      "product_id": 9647099904241,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0626/7142/1681/files/4979855145302_0.jpg?v=1782267699",
+      "width": 1200,
+      "height": 1200
+    },
+    "variant_ids": [
+      48343136141553
+    ],
+    "available": true,
+    "published_at": "2026-06-30T18:00:04+09:00",
+    "created_at": "2026-06-23T15:05:09+09:00"
+  },
+  {
     "id": 8054839476465,
     "title": "【予約】ちいかわ グレーの子3体おてだまにもできちゃうマスコットセット【2024年4月中旬より順次発送予定（発送延期の場合もキャンセル不可）】【通常商品と同時購入・配送希望日指定不可】【キャンペーン対象外】",
     "price": "3300",
@@ -1518,6 +1541,29 @@
     "available": false,
     "published_at": "2023-12-22T18:00:02+09:00",
     "created_at": "2023-12-18T17:08:47+09:00"
+  },
+  {
+    "id": 9647099871473,
+    "title": "【予約】ちいかわ マグ（2027）【2026年10月中旬より順次発送予定（発送延期の場合もキャンセル不可）】【通常商品と同時購入・配送希望日指定不可】",
+    "price": "2420",
+    "url": "https://chiikawamarket.jp/collections/all/products/4979855145296",
+    "image": {
+      "id": 50039591436529,
+      "created_at": "2026-06-24T11:21:08+09:00",
+      "position": 1,
+      "updated_at": "2026-06-24T11:21:09+09:00",
+      "product_id": 9647099871473,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0626/7142/1681/files/4979855145296_0.jpg?v=1782267669",
+      "width": 1200,
+      "height": 1200
+    },
+    "variant_ids": [
+      48343136108785
+    ],
+    "available": true,
+    "published_at": "2026-06-30T18:00:08+09:00",
+    "created_at": "2026-06-23T15:05:04+09:00"
   },
   {
     "id": 8148317896945,
@@ -11599,7 +11645,7 @@
     "variant_ids": [
       47712308855025
     ],
-    "available": true,
+    "available": false,
     "published_at": "2026-01-23T11:00:39+09:00",
     "created_at": "2026-01-20T13:31:40+09:00"
   },
@@ -78856,7 +78902,7 @@
     "variant_ids": [
       48005012422897
     ],
-    "available": true,
+    "available": false,
     "published_at": "2026-04-10T11:00:04+09:00",
     "created_at": "2026-04-07T20:07:31+09:00"
   },
@@ -143854,7 +143900,7 @@
     "variant_ids": [
       45624347197681
     ],
-    "available": true,
+    "available": false,
     "published_at": "2025-03-13T18:00:13+09:00",
     "created_at": "2024-10-23T13:07:03+09:00"
   },
@@ -183546,6 +183592,29 @@
     "available": false,
     "published_at": "2026-06-15T18:00:39+09:00",
     "created_at": "2026-06-07T17:23:07+09:00"
+  },
+  {
+    "id": 9652487848177,
+    "title": "ちいかわ 映画ちいかわ ペーパーシアター（Lサイズ）（PT-L127 映画ちいかわ 人魚の島のひみつ）",
+    "price": "3080",
+    "url": "https://chiikawamarket.jp/collections/all/products/4970381533557",
+    "image": {
+      "id": 50067769557233,
+      "created_at": "2026-06-30T11:52:35+09:00",
+      "position": 1,
+      "updated_at": "2026-06-30T11:52:37+09:00",
+      "product_id": 9652487848177,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0626/7142/1681/files/0001_4970381533557-02_2721fe9d-03d5-4cb2-8689-4d0dbced5728.jpg?v=1782787957",
+      "width": 1200,
+      "height": 1200
+    },
+    "variant_ids": [
+      48363582456049
+    ],
+    "available": false,
+    "published_at": "2026-06-30T20:05:35+09:00",
+    "created_at": "2026-06-30T11:37:38+09:00"
   },
   {
     "id": 9617616896241,

@@ -17673,5 +17673,20 @@
     "id": 9646110966001,
     "available": true,
     "restock_date": null
+  },
+  "9532315140337": {
+    "id": 9532315140337,
+    "available": true,
+    "restock_date": null
+  },
+  "9654046490865": {
+    "id": 9654046490865,
+    "available": false,
+    "restock_date": "2026/07/10"
+  },
+  "9657231016177": {
+    "id": 9657231016177,
+    "available": false,
+    "restock_date": "2026/07/24"
   }
 }

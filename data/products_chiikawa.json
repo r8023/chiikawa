@@ -64086,7 +64086,7 @@
     "variant_ids": [
       46006212985073
     ],
-    "available": true,
+    "available": false,
     "published_at": "2026-01-08T18:00:03+09:00",
     "created_at": "2025-03-17T18:08:31+09:00"
   },
@@ -191016,6 +191016,52 @@
     "created_at": "2026-07-21T19:31:04+09:00"
   },
   {
+    "id": 9671144571121,
+    "title": "ちいかわ 映画ちいかわ 耳伸びちゃった ちいかわマスコット",
+    "price": "1870",
+    "url": "https://chiikawamarket.jp/collections/all/products/4571609404422",
+    "image": {
+      "id": 50174086021361,
+      "created_at": "2026-07-16T13:31:18+09:00",
+      "position": 1,
+      "updated_at": "2026-07-16T13:31:20+09:00",
+      "product_id": 9671144571121,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0626/7142/1681/files/4571609404422_1.jpg?v=1784176280",
+      "width": 1200,
+      "height": 1200
+    },
+    "variant_ids": [
+      48413281386737
+    ],
+    "available": false,
+    "published_at": "2026-08-19T19:11:24+09:00",
+    "created_at": "2026-07-15T20:31:19+09:00"
+  },
+  {
+    "id": 9671144538353,
+    "title": "ちいかわ 映画ちいかわ 船酔いしちゃった ちいかわマスコット",
+    "price": "1870",
+    "url": "https://chiikawamarket.jp/collections/all/products/4571609404415",
+    "image": {
+      "id": 50174090215665,
+      "created_at": "2026-07-16T13:38:09+09:00",
+      "position": 1,
+      "updated_at": "2026-07-16T13:38:11+09:00",
+      "product_id": 9671144538353,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0626/7142/1681/files/4571609404415_1_b82cc0d5-f99b-45dd-b6d7-94303a830ee3.jpg?v=1784176691",
+      "width": 1200,
+      "height": 1200
+    },
+    "variant_ids": [
+      48413281353969
+    ],
+    "available": false,
+    "published_at": "2026-08-19T19:11:03+09:00",
+    "created_at": "2026-07-15T20:31:17+09:00"
+  },
+  {
     "id": 9621681799409,
     "title": "ちいかわ 映画ちいかわ 首振りキーホルダー（うさぎ）",
     "price": "990",
@@ -213993,6 +214039,75 @@
     "available": false,
     "published_at": "2026-08-07T11:01:54+09:00",
     "created_at": "2026-07-21T20:31:32+09:00"
+  },
+  {
+    "id": 9676413927665,
+    "title": "ちいかわ×スッパイマン マスコット（うさぎ）",
+    "price": "2200",
+    "url": "https://chiikawamarket.jp/collections/all/products/4571609403838",
+    "image": {
+      "id": 50202180714737,
+      "created_at": "2026-07-22T17:41:55+09:00",
+      "position": 1,
+      "updated_at": "2026-07-22T17:41:56+09:00",
+      "product_id": 9676413927665,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0626/7142/1681/files/4571609403838_1_62187a28-6638-456f-9fdc-3c633fa8f6ce.jpg?v=1784709716",
+      "width": 1200,
+      "height": 1200
+    },
+    "variant_ids": [
+      48429583565041
+    ],
+    "available": false,
+    "published_at": "2026-08-19T19:13:13+09:00",
+    "created_at": "2026-07-21T20:31:16+09:00"
+  },
+  {
+    "id": 9676413829361,
+    "title": "ちいかわ×スッパイマン マスコット（ちいかわ）",
+    "price": "2200",
+    "url": "https://chiikawamarket.jp/collections/all/products/4571609403814",
+    "image": {
+      "id": 50202179764465,
+      "created_at": "2026-07-22T17:41:15+09:00",
+      "position": 1,
+      "updated_at": "2026-07-22T17:41:17+09:00",
+      "product_id": 9676413829361,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0626/7142/1681/files/4571609403814_1_25c0f1c7-0c13-4fd3-8c10-2ea0dd9e2a00.jpg?v=1784709677",
+      "width": 1200,
+      "height": 1200
+    },
+    "variant_ids": [
+      48429583466737
+    ],
+    "available": false,
+    "published_at": "2026-08-19T19:11:43+09:00",
+    "created_at": "2026-07-21T20:31:11+09:00"
+  },
+  {
+    "id": 9676413894897,
+    "title": "ちいかわ×スッパイマン マスコット（ハチワレ）",
+    "price": "2200",
+    "url": "https://chiikawamarket.jp/collections/all/products/4571609403821",
+    "image": {
+      "id": 50202180354289,
+      "created_at": "2026-07-22T17:41:35+09:00",
+      "position": 1,
+      "updated_at": "2026-07-22T17:41:36+09:00",
+      "product_id": 9676413894897,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0626/7142/1681/files/4571609403821_1_e17f4f16-03cb-476b-84e2-0db839547d9f.jpg?v=1784709696",
+      "width": 1200,
+      "height": 1200
+    },
+    "variant_ids": [
+      48429583532273
+    ],
+    "available": false,
+    "published_at": "2026-08-19T19:12:42+09:00",
+    "created_at": "2026-07-21T20:31:14+09:00"
   },
   {
     "id": 7763591495921,

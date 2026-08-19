@@ -42,7 +42,7 @@ def get_all_products(base_url, headers, sleep_sec=0.5):
     all_products = []
     page = 1
     while True:
-        url = f"{base_url}/products.json?page={page}"
+        url = f"{base_url}/products.json?limit=250&page={page}"
         print(f"抓取第 {page} 頁：{url}")
         try:
             res = requests.get(url, headers=headers)

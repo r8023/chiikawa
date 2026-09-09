@@ -683,5 +683,15 @@
     "id": 9781973549286,
     "available": true,
     "restock_date": null
+  },
+  "8983184310502": {
+    "id": 8983184310502,
+    "available": false,
+    "restock_date": "2026/09/11"
+  },
+  "8755034128614": {
+    "id": 8755034128614,
+    "available": false,
+    "restock_date": "2026/09/11"
   }
 }

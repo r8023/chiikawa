@@ -3883,30 +3883,6 @@
     "created_at": "2025-10-21T17:43:10+09:00"
   },
   {
-    "id": 8983184310502,
-    "title": "ホワイトタイガーとブラックタイガー ぬいぐるみS（マスター）",
-    "price": "2200",
-    "url": "https://wbtiger-toraebistore.jp/collections/all/products/4571609359739",
-    "image": {
-      "id": 43964009677030,
-      "created_at": "2025-04-07T17:15:52+09:00",
-      "position": 1,
-      "updated_at": "2025-04-07T17:15:53+09:00",
-      "product_id": 8983184310502,
-      "variant_ids": [],
-      "src": "https://cdn.shopify.com/s/files/1/0697/2053/9366/files/4571609359739_1.jpg?v=1744013753",
-      "width": 1500,
-      "height": 1500
-    },
-    "variant_ids": [
-      45846055420134
-    ],
-    "available": false,
-    "published_at": "2025-04-11T11:00:04+09:00",
-    "created_at": "2025-04-07T15:51:20+09:00",
-    "restock_date": "2026/09/11"
-  },
-  {
     "id": 8953707692262,
     "title": "ホワイトタイガーとブラックタイガー ぬいぐるみ（プリンを盗み食いするうさぎ先生）",
     "price": "2860",
@@ -6938,7 +6914,7 @@
     "variant_ids": [
       45486665203942
     ],
-    "available": true,
+    "available": false,
     "published_at": "2024-11-15T11:00:04+09:00",
     "created_at": "2024-11-06T17:15:30+09:00"
   },
@@ -12429,30 +12405,6 @@
     "available": false,
     "published_at": "2025-04-11T11:00:04+09:00",
     "created_at": "2025-04-07T15:51:19+09:00"
-  },
-  {
-    "id": 8755034128614,
-    "title": "ホワイトタイガーとブラックタイガー マスコット（マスター）",
-    "price": "1760",
-    "url": "https://wbtiger-toraebistore.jp/collections/all/products/4571609337348",
-    "image": {
-      "id": 41582576271590,
-      "created_at": "2024-07-02T16:30:16+09:00",
-      "position": 1,
-      "updated_at": "2024-07-02T16:30:18+09:00",
-      "product_id": 8755034128614,
-      "variant_ids": [],
-      "src": "https://cdn.shopify.com/s/files/1/0697/2053/9366/files/4571609337348_1.jpg?v=1719905418",
-      "width": 1500,
-      "height": 1500
-    },
-    "variant_ids": [
-      45143919821030
-    ],
-    "available": false,
-    "published_at": "2024-07-12T11:00:48+09:00",
-    "created_at": "2024-07-02T13:23:36+09:00",
-    "restock_date": "2026/09/11"
   },
   {
     "id": 8835153887462,

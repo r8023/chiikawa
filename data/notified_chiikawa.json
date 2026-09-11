@@ -1686,8 +1686,8 @@
   },
   "8804917313777": {
     "id": 8804917313777,
-    "available": false,
-    "restock_date": "2026/03/18"
+    "available": true,
+    "restock_date": null
   },
   "8804917346545": {
     "id": 8804917346545,
@@ -18711,6 +18711,21 @@
   },
   "9783573512433": {
     "id": 9783573512433,
+    "available": true,
+    "restock_date": null
+  },
+  "9480023638257": {
+    "id": 9480023638257,
+    "available": true,
+    "restock_date": null
+  },
+  "8342759604465": {
+    "id": 8342759604465,
+    "available": true,
+    "restock_date": null
+  },
+  "9480023474417": {
+    "id": 9480023474417,
     "available": true,
     "restock_date": null
   }

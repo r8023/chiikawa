@@ -67706,7 +67706,7 @@
     "variant_ids": [
       44399609938161
     ],
-    "available": false,
+    "available": true,
     "published_at": "2025-11-13T18:00:32+09:00",
     "created_at": "2024-03-11T12:06:05+09:00"
   },
@@ -75052,6 +75052,190 @@
     "available": true,
     "published_at": "2026-09-04T11:00:16+09:00",
     "created_at": "2026-09-01T15:38:00+09:00"
+  },
+  {
+    "id": 9583993290993,
+    "title": "ちいかわ みんなで仮装なマスコット（いちご大福なラッコ）",
+    "price": "1980",
+    "url": "https://chiikawamarket.jp/collections/all/products/4571609402763",
+    "image": {
+      "id": 49608518795505,
+      "created_at": "2026-05-07T17:41:17+09:00",
+      "position": 1,
+      "updated_at": "2026-05-07T17:41:19+09:00",
+      "product_id": 9583993290993,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0626/7142/1681/files/4571609402763_1.jpg?v=1778143279",
+      "width": 1200,
+      "height": 1200
+    },
+    "variant_ids": [
+      48144368959729
+    ],
+    "available": false,
+    "published_at": "2026-09-17T11:19:01+09:00",
+    "created_at": "2026-05-07T14:06:30+09:00"
+  },
+  {
+    "id": 9583993094385,
+    "title": "ちいかわ みんなで仮装なマスコット（えだまめなくりまんじゅう）",
+    "price": "1980",
+    "url": "https://chiikawamarket.jp/collections/all/products/4571609402749",
+    "image": {
+      "id": 49608522203377,
+      "created_at": "2026-05-07T17:42:38+09:00",
+      "position": 1,
+      "updated_at": "2026-05-07T17:42:40+09:00",
+      "product_id": 9583993094385,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0626/7142/1681/files/4571609402749_1.jpg?v=1778143360",
+      "width": 1200,
+      "height": 1200
+    },
+    "variant_ids": [
+      48144368697585
+    ],
+    "available": false,
+    "published_at": "2026-09-17T11:18:58+09:00",
+    "created_at": "2026-05-07T14:06:24+09:00"
+  },
+  {
+    "id": 9583992996081,
+    "title": "ちいかわ みんなで仮装なマスコット（コウモリなモモンガ）",
+    "price": "1980",
+    "url": "https://chiikawamarket.jp/collections/all/products/4571609402732",
+    "image": {
+      "id": 49608525480177,
+      "created_at": "2026-05-07T17:43:22+09:00",
+      "position": 1,
+      "updated_at": "2026-05-07T17:43:24+09:00",
+      "product_id": 9583992996081,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0626/7142/1681/files/4571609402732_1.jpg?v=1778143404",
+      "width": 1200,
+      "height": 1200
+    },
+    "variant_ids": [
+      48144368566513
+    ],
+    "available": false,
+    "published_at": "2026-09-17T11:18:57+09:00",
+    "created_at": "2026-05-07T14:06:20+09:00"
+  },
+  {
+    "id": 9583993422065,
+    "title": "ちいかわ みんなで仮装なマスコット（コウモリな古本屋）",
+    "price": "1980",
+    "url": "https://chiikawamarket.jp/collections/all/products/4571609402770",
+    "image": {
+      "id": 49608457224433,
+      "created_at": "2026-05-07T17:20:23+09:00",
+      "position": 1,
+      "updated_at": "2026-05-07T17:20:25+09:00",
+      "product_id": 9583993422065,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0626/7142/1681/files/4571609402770_1_c09169c1-18a8-4162-9942-467b6c7f9a5f.jpg?v=1778142025",
+      "width": 1200,
+      "height": 1200
+    },
+    "variant_ids": [
+      48144369090801
+    ],
+    "available": false,
+    "published_at": "2026-09-17T11:18:21+09:00",
+    "created_at": "2026-05-07T14:06:34+09:00"
+  },
+  {
+    "id": 9583992897777,
+    "title": "ちいかわ みんなで仮装なマスコット（ドクターなうさぎ）",
+    "price": "1980",
+    "url": "https://chiikawamarket.jp/collections/all/products/4571609402725",
+    "image": {
+      "id": 49608526233841,
+      "created_at": "2026-05-07T17:43:55+09:00",
+      "position": 1,
+      "updated_at": "2026-05-07T17:43:57+09:00",
+      "product_id": 9583992897777,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0626/7142/1681/files/4571609402725_1.jpg?v=1778143437",
+      "width": 1200,
+      "height": 1200
+    },
+    "variant_ids": [
+      48144368435441
+    ],
+    "available": false,
+    "published_at": "2026-09-17T11:18:56+09:00",
+    "created_at": "2026-05-07T14:06:17+09:00"
+  },
+  {
+    "id": 9583992701169,
+    "title": "ちいかわ みんなで仮装なマスコット（ナースなちいかわ）",
+    "price": "1980",
+    "url": "https://chiikawamarket.jp/collections/all/products/4571609402701",
+    "image": {
+      "id": 49608530198769,
+      "created_at": "2026-05-07T17:45:17+09:00",
+      "position": 1,
+      "updated_at": "2026-05-07T17:45:18+09:00",
+      "product_id": 9583992701169,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0626/7142/1681/files/4571609402701_1_e49bc5dd-3302-40f9-8518-9c1386caf52a.jpg?v=1778143518",
+      "width": 1200,
+      "height": 1200
+    },
+    "variant_ids": [
+      48144368206065
+    ],
+    "available": false,
+    "published_at": "2026-09-17T11:18:54+09:00",
+    "created_at": "2026-05-07T14:06:08+09:00"
+  },
+  {
+    "id": 9583992832241,
+    "title": "ちいかわ みんなで仮装なマスコット（ナースなハチワレ）",
+    "price": "1980",
+    "url": "https://chiikawamarket.jp/collections/all/products/4571609402718",
+    "image": {
+      "id": 49608528593137,
+      "created_at": "2026-05-07T17:44:35+09:00",
+      "position": 1,
+      "updated_at": "2026-05-07T17:44:37+09:00",
+      "product_id": 9583992832241,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0626/7142/1681/files/4571609402718_1.jpg?v=1778143477",
+      "width": 1200,
+      "height": 1200
+    },
+    "variant_ids": [
+      48144368369905
+    ],
+    "available": false,
+    "published_at": "2026-09-17T11:18:55+09:00",
+    "created_at": "2026-05-07T14:06:13+09:00"
+  },
+  {
+    "id": 9583993192689,
+    "title": "ちいかわ みんなで仮装なマスコット（バフォメットなシーサー）",
+    "price": "1980",
+    "url": "https://chiikawamarket.jp/collections/all/products/4571609402756",
+    "image": {
+      "id": 49608520630513,
+      "created_at": "2026-05-07T17:41:53+09:00",
+      "position": 1,
+      "updated_at": "2026-05-07T17:41:54+09:00",
+      "product_id": 9583993192689,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0626/7142/1681/files/4571609402756_1.jpg?v=1778143314",
+      "width": 1200,
+      "height": 1200
+    },
+    "variant_ids": [
+      48144368828657
+    ],
+    "available": false,
+    "published_at": "2026-09-17T11:18:59+09:00",
+    "created_at": "2026-05-07T14:06:27+09:00"
   },
   {
     "id": 7986523275505,
@@ -105079,7 +105263,7 @@
     "variant_ids": [
       48377625346289
     ],
-    "available": true,
+    "available": false,
     "published_at": "2026-07-10T11:02:08+09:00",
     "created_at": "2026-07-06T15:00:28+09:00"
   },
@@ -189289,7 +189473,7 @@
     "variant_ids": [
       48290841133297
     ],
-    "available": true,
+    "available": false,
     "published_at": "2026-09-10T18:00:40+09:00",
     "created_at": "2026-06-10T18:05:11+09:00"
   },

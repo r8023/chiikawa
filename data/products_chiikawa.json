@@ -28311,7 +28311,7 @@
     "variant_ids": [
       47008913031409
     ],
-    "available": true,
+    "available": false,
     "published_at": "2026-09-17T18:01:13+09:00",
     "created_at": "2025-10-10T20:53:39+09:00"
   },
@@ -40161,7 +40161,7 @@
     "variant_ids": [
       47956786643185
     ],
-    "available": true,
+    "available": false,
     "published_at": "2026-05-08T11:04:20+09:00",
     "created_at": "2026-03-26T15:21:58+09:00"
   },
@@ -42077,7 +42077,7 @@
     "variant_ids": [
       47956783104241
     ],
-    "available": true,
+    "available": false,
     "published_at": "2026-05-08T11:03:58+09:00",
     "created_at": "2026-03-26T15:20:46+09:00"
   },
@@ -62626,7 +62626,7 @@
     "variant_ids": [
       46953910632689
     ],
-    "available": false,
+    "available": true,
     "published_at": "2026-08-05T18:01:36+09:00",
     "created_at": "2025-09-22T16:30:53+09:00"
   },
@@ -62649,7 +62649,7 @@
     "variant_ids": [
       46953910567153
     ],
-    "available": false,
+    "available": true,
     "published_at": "2026-08-05T18:01:37+09:00",
     "created_at": "2025-09-22T16:30:51+09:00"
   },
@@ -62672,7 +62672,7 @@
     "variant_ids": [
       46953910599921
     ],
-    "available": false,
+    "available": true,
     "published_at": "2026-08-05T18:01:34+09:00",
     "created_at": "2025-09-22T16:30:52+09:00"
   },
@@ -97312,7 +97312,7 @@
     "variant_ids": [
       48101814698225
     ],
-    "available": true,
+    "available": false,
     "published_at": "2026-05-01T11:00:22+09:00",
     "created_at": "2026-04-28T16:23:16+09:00"
   },
@@ -121682,7 +121682,7 @@
     "variant_ids": [
       45576805548273
     ],
-    "available": true,
+    "available": false,
     "published_at": "2024-10-11T11:00:15+09:00",
     "created_at": "2024-10-07T10:25:25+09:00"
   },
@@ -129734,7 +129734,7 @@
     "variant_ids": [
       44099852501233
     ],
-    "available": true,
+    "available": false,
     "published_at": "2025-05-29T18:00:07+09:00",
     "created_at": "2023-11-28T17:24:55+09:00"
   },
@@ -148409,75 +148409,6 @@
     "created_at": "2024-11-19T14:36:10+09:00"
   },
   {
-    "id": 8682106093809,
-    "title": "ちいかわ パラレルワールド！？ ぷちミニマスコット（うさぎ？）",
-    "price": "1650",
-    "url": "https://chiikawamarket.jp/collections/all/products/4571609344100",
-    "image": {
-      "id": 42511823601905,
-      "created_at": "2024-11-19T22:02:19+09:00",
-      "position": 1,
-      "updated_at": "2024-11-19T22:02:21+09:00",
-      "product_id": 8682106093809,
-      "variant_ids": [],
-      "src": "https://cdn.shopify.com/s/files/1/0626/7142/1681/files/4571609344100_1.jpg?v=1732021341",
-      "width": 1200,
-      "height": 1200
-    },
-    "variant_ids": [
-      45702080921841
-    ],
-    "available": false,
-    "published_at": "2024-11-22T11:00:24+09:00",
-    "created_at": "2024-11-19T14:36:08+09:00"
-  },
-  {
-    "id": 8682105962737,
-    "title": "ちいかわ パラレルワールド！？ ぷちミニマスコット（ちいかわ？）",
-    "price": "1650",
-    "url": "https://chiikawamarket.jp/collections/all/products/4571609344087",
-    "image": {
-      "id": 42511819997425,
-      "created_at": "2024-11-19T22:01:32+09:00",
-      "position": 1,
-      "updated_at": "2024-11-19T22:01:34+09:00",
-      "product_id": 8682105962737,
-      "variant_ids": [],
-      "src": "https://cdn.shopify.com/s/files/1/0626/7142/1681/files/4571609344087_1.jpg?v=1732021294",
-      "width": 1200,
-      "height": 1200
-    },
-    "variant_ids": [
-      45702080790769
-    ],
-    "available": false,
-    "published_at": "2024-11-22T11:00:23+09:00",
-    "created_at": "2024-11-19T14:36:06+09:00"
-  },
-  {
-    "id": 8682106028273,
-    "title": "ちいかわ パラレルワールド！？ ぷちミニマスコット（ハチワレ？）",
-    "price": "1650",
-    "url": "https://chiikawamarket.jp/collections/all/products/4571609344094",
-    "image": {
-      "id": 42511821799665,
-      "created_at": "2024-11-19T22:02:03+09:00",
-      "position": 1,
-      "updated_at": "2024-11-19T22:02:04+09:00",
-      "product_id": 8682106028273,
-      "variant_ids": [],
-      "src": "https://cdn.shopify.com/s/files/1/0626/7142/1681/files/4571609344094_1.jpg?v=1732021324",
-      "width": 1200,
-      "height": 1200
-    },
-    "variant_ids": [
-      45702080856305
-    ],
-    "available": false,
-    "published_at": "2024-11-22T11:00:24+09:00",
-    "created_at": "2024-11-19T14:36:07+09:00"
-  },
-  {
     "id": 8682107797745,
     "title": "ちいかわ パラレルワールド！？ ほどよいサイズの巾着（イエロー）",
     "price": "1320",
@@ -148779,29 +148710,6 @@
     "available": false,
     "published_at": "2025-01-09T18:00:24+09:00",
     "created_at": "2024-11-19T14:36:16+09:00"
-  },
-  {
-    "id": 8682106192113,
-    "title": "ちいかわ パラレルワールド！？ マスコット（強くなったハチワレ）",
-    "price": "1980",
-    "url": "https://chiikawamarket.jp/collections/all/products/4571609344117",
-    "image": {
-      "id": 42511960768753,
-      "created_at": "2024-11-19T22:22:07+09:00",
-      "position": 1,
-      "updated_at": "2024-11-19T22:22:09+09:00",
-      "product_id": 8682106192113,
-      "variant_ids": [],
-      "src": "https://cdn.shopify.com/s/files/1/0626/7142/1681/files/4571609344117_1.jpg?v=1732022529",
-      "width": 1200,
-      "height": 1200
-    },
-    "variant_ids": [
-      45702080987377
-    ],
-    "available": false,
-    "published_at": "2024-11-22T11:00:29+09:00",
-    "created_at": "2024-11-19T14:36:09+09:00"
   },
   {
     "id": 8682107076849,
@@ -151682,7 +151590,7 @@
     "variant_ids": [
       45922825076977
     ],
-    "available": true,
+    "available": false,
     "published_at": "2025-06-26T18:00:14+09:00",
     "created_at": "2025-02-10T15:05:20+09:00"
   },

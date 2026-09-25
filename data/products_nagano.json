@@ -11537,7 +11537,7 @@
     "variant_ids": [
       43973390991552
     ],
-    "available": true,
+    "available": false,
     "published_at": "2023-10-20T11:00:02+09:00",
     "created_at": "2023-10-18T13:08:47+09:00"
   },
@@ -16436,7 +16436,7 @@
     "variant_ids": [
       44324859281600
     ],
-    "available": true,
+    "available": false,
     "published_at": "2024-01-03T11:00:14+09:00",
     "created_at": "2023-12-27T10:39:00+09:00"
   },
@@ -17080,7 +17080,7 @@
     "variant_ids": [
       46875811545280
     ],
-    "available": true,
+    "available": false,
     "published_at": "2025-10-10T11:00:09+09:00",
     "created_at": "2025-10-04T09:29:06+09:00"
   },
@@ -17103,7 +17103,7 @@
     "variant_ids": [
       46875811348672
     ],
-    "available": true,
+    "available": false,
     "published_at": "2025-10-10T11:00:07+09:00",
     "created_at": "2025-10-04T09:28:57+09:00"
   },
@@ -17149,7 +17149,7 @@
     "variant_ids": [
       46875811381440
     ],
-    "available": true,
+    "available": false,
     "published_at": "2025-10-10T11:00:05+09:00",
     "created_at": "2025-10-04T09:28:59+09:00"
   },
@@ -17172,7 +17172,7 @@
     "variant_ids": [
       46875811610816
     ],
-    "available": true,
+    "available": false,
     "published_at": "2025-10-10T11:00:08+09:00",
     "created_at": "2025-10-04T09:29:10+09:00"
   },
@@ -17688,7 +17688,7 @@
       47661731643584,
       47661731676352
     ],
-    "available": true,
+    "available": false,
     "published_at": "2026-05-22T11:00:04+09:00",
     "created_at": "2026-03-09T15:19:49+09:00"
   },
@@ -20310,7 +20310,7 @@
     "variant_ids": [
       44718568472768
     ],
-    "available": true,
+    "available": false,
     "published_at": "2024-03-29T11:00:10+09:00",
     "created_at": "2024-03-28T11:12:00+09:00"
   },
@@ -20678,7 +20678,7 @@
     "variant_ids": [
       48129924858048
     ],
-    "available": true,
+    "available": false,
     "published_at": "2026-04-10T11:00:09+09:00",
     "created_at": "2026-04-07T11:27:34+09:00"
   },
@@ -22104,7 +22104,7 @@
     "variant_ids": [
       48394294362304
     ],
-    "available": true,
+    "available": false,
     "published_at": "2026-06-12T11:00:08+09:00",
     "created_at": "2026-06-10T09:56:28+09:00"
   },
@@ -24163,7 +24163,7 @@
     "variant_ids": [
       46026570170560
     ],
-    "available": true,
+    "available": false,
     "published_at": "2025-01-24T11:00:12+09:00",
     "created_at": "2025-01-20T16:59:15+09:00"
   },
@@ -24347,7 +24347,7 @@
     "variant_ids": [
       46026569253056
     ],
-    "available": true,
+    "available": false,
     "published_at": "2025-01-24T11:00:15+09:00",
     "created_at": "2025-01-20T16:59:00+09:00"
   },
@@ -25200,7 +25200,7 @@
     "variant_ids": [
       46026568138944
     ],
-    "available": true,
+    "available": false,
     "published_at": "2025-03-14T11:00:10+09:00",
     "created_at": "2025-01-20T16:58:44+09:00"
   },
@@ -26926,7 +26926,7 @@
     "variant_ids": [
       47151412838592
     ],
-    "available": true,
+    "available": false,
     "published_at": "2026-01-22T18:30:03+09:00",
     "created_at": "2025-12-15T15:16:33+09:00"
   },
@@ -27087,7 +27087,7 @@
     "variant_ids": [
       46747986395328
     ],
-    "available": true,
+    "available": false,
     "published_at": "2025-09-12T11:00:18+09:00",
     "created_at": "2025-09-09T14:19:43+09:00"
   },
@@ -27851,6 +27851,29 @@
     "created_at": "2026-06-22T10:48:52+09:00"
   },
   {
+    "id": 8614604832960,
+    "title": "ナガノキャラクターズ ボンボンドロップシール（くまとパグ）",
+    "price": "550",
+    "url": "https://nagano-market.jp/collections/all/products/4571609397335",
+    "image": {
+      "id": 55929326305472,
+      "created_at": "2026-06-23T19:56:26+09:00",
+      "position": 1,
+      "updated_at": "2026-06-23T19:56:28+09:00",
+      "product_id": 8614604832960,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0585/2836/6784/files/4571609397335_1_615fab13-74ba-437b-a7ca-4590194464f6.jpg?v=1782212188",
+      "width": 1500,
+      "height": 1500
+    },
+    "variant_ids": [
+      48485158584512
+    ],
+    "available": true,
+    "published_at": "2026-09-25T18:00:04+09:00",
+    "created_at": "2026-06-22T10:48:46+09:00"
+  },
+  {
     "id": 8614606176448,
     "title": "ナガノキャラクターズ ボンボンドロップシール（なかまたち）",
     "price": "550",
@@ -27872,6 +27895,29 @@
     "available": false,
     "published_at": "2026-06-26T11:00:14+09:00",
     "created_at": "2026-06-22T10:54:09+09:00"
+  },
+  {
+    "id": 8614604898496,
+    "title": "ナガノキャラクターズ ボンボンドロップシール（カラーなくま）",
+    "price": "550",
+    "url": "https://nagano-market.jp/collections/all/products/4571609397342",
+    "image": {
+      "id": 55929330827456,
+      "created_at": "2026-06-23T19:56:51+09:00",
+      "position": 1,
+      "updated_at": "2026-06-23T19:56:53+09:00",
+      "product_id": 8614604898496,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0585/2836/6784/files/4571609397342_1.jpg?v=1782212213",
+      "width": 1500,
+      "height": 1500
+    },
+    "variant_ids": [
+      48485158650048
+    ],
+    "available": true,
+    "published_at": "2026-09-25T18:00:04+09:00",
+    "created_at": "2026-06-22T10:48:50+09:00"
   },
   {
     "id": 7553912209600,
@@ -27915,7 +27961,7 @@
     "variant_ids": [
       43973395906752
     ],
-    "available": true,
+    "available": false,
     "published_at": "2025-09-25T18:30:26+09:00",
     "created_at": "2023-10-18T13:09:15+09:00"
   },
@@ -45929,7 +45975,7 @@
     "variant_ids": [
       43601278664896
     ],
-    "available": true,
+    "available": false,
     "published_at": "2026-08-07T11:00:12+09:00",
     "created_at": "2023-04-17T10:19:37+09:00"
   },

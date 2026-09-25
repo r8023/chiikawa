@@ -27851,30 +27851,6 @@
     "created_at": "2026-06-22T10:48:52+09:00"
   },
   {
-    "id": 8614604832960,
-    "title": "ナガノキャラクターズ ボンボンドロップシール（くまとパグ）",
-    "price": "550",
-    "url": "https://nagano-market.jp/collections/all/products/4571609397335",
-    "image": {
-      "id": 55929326305472,
-      "created_at": "2026-06-23T19:56:26+09:00",
-      "position": 1,
-      "updated_at": "2026-06-23T19:56:28+09:00",
-      "product_id": 8614604832960,
-      "variant_ids": [],
-      "src": "https://cdn.shopify.com/s/files/1/0585/2836/6784/files/4571609397335_1_615fab13-74ba-437b-a7ca-4590194464f6.jpg?v=1782212188",
-      "width": 1500,
-      "height": 1500
-    },
-    "variant_ids": [
-      48485158584512
-    ],
-    "available": false,
-    "published_at": "2026-06-26T11:00:15+09:00",
-    "created_at": "2026-06-22T10:48:46+09:00",
-    "restock_date": "2026/09/25"
-  },
-  {
     "id": 8614606176448,
     "title": "ナガノキャラクターズ ボンボンドロップシール（なかまたち）",
     "price": "550",
@@ -27896,30 +27872,6 @@
     "available": false,
     "published_at": "2026-06-26T11:00:14+09:00",
     "created_at": "2026-06-22T10:54:09+09:00"
-  },
-  {
-    "id": 8614604898496,
-    "title": "ナガノキャラクターズ ボンボンドロップシール（カラーなくま）",
-    "price": "550",
-    "url": "https://nagano-market.jp/collections/all/products/4571609397342",
-    "image": {
-      "id": 55929330827456,
-      "created_at": "2026-06-23T19:56:51+09:00",
-      "position": 1,
-      "updated_at": "2026-06-23T19:56:53+09:00",
-      "product_id": 8614604898496,
-      "variant_ids": [],
-      "src": "https://cdn.shopify.com/s/files/1/0585/2836/6784/files/4571609397342_1.jpg?v=1782212213",
-      "width": 1500,
-      "height": 1500
-    },
-    "variant_ids": [
-      48485158650048
-    ],
-    "available": false,
-    "published_at": "2026-06-26T11:00:14+09:00",
-    "created_at": "2026-06-22T10:48:50+09:00",
-    "restock_date": "2026/09/25"
   },
   {
     "id": 7553912209600,

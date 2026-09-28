@@ -21037,7 +21037,7 @@
     "variant_ids": [
       47058924798193
     ],
-    "available": true,
+    "available": false,
     "published_at": "2025-10-31T11:00:39+09:00",
     "created_at": "2025-10-27T14:46:11+09:00"
   },
@@ -48278,6 +48278,190 @@
     "available": false,
     "published_at": "2026-06-26T11:01:24+09:00",
     "created_at": "2026-06-23T11:57:01+09:00"
+  },
+  {
+    "id": 10306644967665,
+    "title": "ちいかわ ちいかわベーカリー コロネなマスコット（うさぎ）",
+    "price": "2310",
+    "url": "https://chiikawamarket.jp/collections/all/products/4571609335368",
+    "image": {
+      "id": 50880899186929,
+      "created_at": "2026-09-25T16:24:45+09:00",
+      "position": 1,
+      "updated_at": "2026-09-25T16:24:46+09:00",
+      "product_id": 10306644967665,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0626/7142/1681/files/4571609335368_1.jpg?v=1790321086",
+      "width": 1200,
+      "height": 1200
+    },
+    "variant_ids": [
+      50498912616689
+    ],
+    "available": false,
+    "published_at": "2026-09-28T13:00:09+09:00",
+    "created_at": "2026-09-25T16:22:12+09:00"
+  },
+  {
+    "id": 10306645033201,
+    "title": "ちいかわ ちいかわベーカリー コロネなマスコット（くりまんじゅう）",
+    "price": "2310",
+    "url": "https://chiikawamarket.jp/collections/all/products/4571609335382",
+    "image": {
+      "id": 50880911114481,
+      "created_at": "2026-09-25T16:25:40+09:00",
+      "position": 1,
+      "updated_at": "2026-09-25T16:25:41+09:00",
+      "product_id": 10306645033201,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0626/7142/1681/files/4571609335382_1.jpg?v=1790321141",
+      "width": 1200,
+      "height": 1200
+    },
+    "variant_ids": [
+      50498912682225
+    ],
+    "available": false,
+    "published_at": "2026-09-28T13:00:07+09:00",
+    "created_at": "2026-09-25T16:22:17+09:00"
+  },
+  {
+    "id": 10306644902129,
+    "title": "ちいかわ ちいかわベーカリー コロネなマスコット（ちいかわ）",
+    "price": "2310",
+    "url": "https://chiikawamarket.jp/collections/all/products/4571609335344",
+    "image": {
+      "id": 50880898072817,
+      "created_at": "2026-09-25T16:23:04+09:00",
+      "position": 1,
+      "updated_at": "2026-09-25T16:23:06+09:00",
+      "product_id": 10306644902129,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0626/7142/1681/files/4571609335344_1.jpg?v=1790320986",
+      "width": 1200,
+      "height": 1200
+    },
+    "variant_ids": [
+      50498912551153
+    ],
+    "available": false,
+    "published_at": "2026-09-28T13:00:11+09:00",
+    "created_at": "2026-09-25T16:22:06+09:00"
+  },
+  {
+    "id": 10306645065969,
+    "title": "ちいかわ ちいかわベーカリー コロネなマスコット（シーサー）",
+    "price": "2310",
+    "url": "https://chiikawamarket.jp/collections/all/products/4571609335399",
+    "image": {
+      "id": 50880917307633,
+      "created_at": "2026-09-25T16:27:00+09:00",
+      "position": 1,
+      "updated_at": "2026-09-25T16:27:02+09:00",
+      "product_id": 10306645065969,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0626/7142/1681/files/4571609335399_1.jpg?v=1790321222",
+      "width": 1200,
+      "height": 1200
+    },
+    "variant_ids": [
+      50498912714993
+    ],
+    "available": false,
+    "published_at": "2026-09-28T13:00:06+09:00",
+    "created_at": "2026-09-25T16:22:19+09:00"
+  },
+  {
+    "id": 10306644934897,
+    "title": "ちいかわ ちいかわベーカリー コロネなマスコット（ハチワレ）",
+    "price": "2310",
+    "url": "https://chiikawamarket.jp/collections/all/products/4571609335351",
+    "image": {
+      "id": 50880898793713,
+      "created_at": "2026-09-25T16:23:51+09:00",
+      "position": 1,
+      "updated_at": "2026-09-25T16:23:53+09:00",
+      "product_id": 10306644934897,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0626/7142/1681/files/4571609335351_1.jpg?v=1790321033",
+      "width": 1200,
+      "height": 1200
+    },
+    "variant_ids": [
+      50498912583921
+    ],
+    "available": false,
+    "published_at": "2026-09-28T13:00:10+09:00",
+    "created_at": "2026-09-25T16:22:09+09:00"
+  },
+  {
+    "id": 10306645000433,
+    "title": "ちいかわ ちいかわベーカリー コロネなマスコット（モモンガ）",
+    "price": "2310",
+    "url": "https://chiikawamarket.jp/collections/all/products/4571609335375",
+    "image": {
+      "id": 50880902856945,
+      "created_at": "2026-09-25T16:25:14+09:00",
+      "position": 1,
+      "updated_at": "2026-09-25T16:25:15+09:00",
+      "product_id": 10306645000433,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0626/7142/1681/files/4571609335375_1.jpg?v=1790321115",
+      "width": 1200,
+      "height": 1200
+    },
+    "variant_ids": [
+      50498912649457
+    ],
+    "available": false,
+    "published_at": "2026-09-28T13:00:12+09:00",
+    "created_at": "2026-09-25T16:22:14+09:00"
+  },
+  {
+    "id": 10306645098737,
+    "title": "ちいかわ ちいかわベーカリー コロネなマスコット（ラッコ）",
+    "price": "2310",
+    "url": "https://chiikawamarket.jp/collections/all/products/4571609335405",
+    "image": {
+      "id": 50880918946033,
+      "created_at": "2026-09-25T16:27:29+09:00",
+      "position": 1,
+      "updated_at": "2026-09-25T16:27:31+09:00",
+      "product_id": 10306645098737,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0626/7142/1681/files/4571609335405_1.jpg?v=1790321251",
+      "width": 1200,
+      "height": 1200
+    },
+    "variant_ids": [
+      50498912747761
+    ],
+    "available": false,
+    "published_at": "2026-09-28T13:00:05+09:00",
+    "created_at": "2026-09-25T16:22:22+09:00"
+  },
+  {
+    "id": 10306645131505,
+    "title": "ちいかわ ちいかわベーカリー コロネなマスコット（古本屋）",
+    "price": "2310",
+    "url": "https://chiikawamarket.jp/collections/all/products/4571609335412",
+    "image": {
+      "id": 50880925139185,
+      "created_at": "2026-09-25T16:27:57+09:00",
+      "position": 1,
+      "updated_at": "2026-09-25T16:27:59+09:00",
+      "product_id": 10306645131505,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0626/7142/1681/files/4571609335412_1.jpg?v=1790321279",
+      "width": 1200,
+      "height": 1200
+    },
+    "variant_ids": [
+      50498912780529
+    ],
+    "available": false,
+    "published_at": "2026-09-28T13:00:08+09:00",
+    "created_at": "2026-09-25T16:22:25+09:00"
   },
   {
     "id": 9239267868913,
@@ -99660,7 +99844,7 @@
     "variant_ids": [
       44369845059825
     ],
-    "available": true,
+    "available": false,
     "published_at": "2026-01-23T11:01:11+09:00",
     "created_at": "2024-03-04T11:01:31+09:00"
   },
@@ -145961,7 +146145,7 @@
     "variant_ids": [
       48478798053617
     ],
-    "available": true,
+    "available": false,
     "published_at": "2026-08-07T11:00:08+09:00",
     "created_at": "2026-08-05T12:48:45+09:00"
   },

@@ -42629,7 +42629,7 @@
     "variant_ids": [
       47956782842097
     ],
-    "available": true,
+    "available": false,
     "published_at": "2026-09-17T18:01:01+09:00",
     "created_at": "2026-03-26T15:20:21+09:00"
   },
@@ -50726,7 +50726,7 @@
     "variant_ids": [
       45071473410289
     ],
-    "available": true,
+    "available": false,
     "published_at": "2024-09-19T18:00:31+09:00",
     "created_at": "2024-06-13T14:54:50+09:00"
   },
@@ -86627,29 +86627,6 @@
     "created_at": "2026-07-14T13:19:00+09:00"
   },
   {
-    "id": 9669302452465,
-    "title": "ちいかわ アニメ『ちいかわ』ピクチュアパズル（なかまいっぱい）",
-    "price": "770",
-    "url": "https://chiikawamarket.jp/collections/all/products/4905096253254",
-    "image": {
-      "id": 50158655209713,
-      "created_at": "2026-07-14T14:43:09+09:00",
-      "position": 1,
-      "updated_at": "2026-07-14T14:43:10+09:00",
-      "product_id": 9669302452465,
-      "variant_ids": [],
-      "src": "https://cdn.shopify.com/s/files/1/0626/7142/1681/files/4905096253254.jpg?v=1784007790",
-      "width": 1200,
-      "height": 1200
-    },
-    "variant_ids": [
-      48405138047217
-    ],
-    "available": true,
-    "published_at": "2026-07-17T11:01:00+09:00",
-    "created_at": "2026-07-14T13:18:58+09:00"
-  },
-  {
     "id": 9669302354161,
     "title": "ちいかわ アニメ『ちいかわ』音楽ノート シール付き（B5・10段）",
     "price": "495",
@@ -106037,7 +106014,7 @@
     "variant_ids": [
       47940170973425
     ],
-    "available": true,
+    "available": false,
     "published_at": "2026-07-30T00:00:19+09:00",
     "created_at": "2026-03-19T13:53:38+09:00"
   },
@@ -136340,7 +136317,7 @@
     "variant_ids": [
       47157588197617
     ],
-    "available": true,
+    "available": false,
     "published_at": "2026-01-15T18:00:07+09:00",
     "created_at": "2025-11-25T16:57:20+09:00"
   },
@@ -151229,75 +151206,6 @@
     "created_at": "2025-02-03T21:02:25+09:00"
   },
   {
-    "id": 8735514001649,
-    "title": "ちいかわ ピクチュアパズル（がんばって）",
-    "price": "770",
-    "url": "https://chiikawamarket.jp/collections/all/products/4905096253087",
-    "image": {
-      "id": 42910453334257,
-      "created_at": "2025-01-22T12:33:06+09:00",
-      "position": 1,
-      "updated_at": "2025-01-22T12:33:07+09:00",
-      "product_id": 8735514001649,
-      "variant_ids": [],
-      "src": "https://cdn.shopify.com/s/files/1/0626/7142/1681/files/4905096253087_1.jpg?v=1737516787",
-      "width": 1200,
-      "height": 1200
-    },
-    "variant_ids": [
-      45884384444657
-    ],
-    "available": true,
-    "published_at": "2025-01-24T11:00:06+09:00",
-    "created_at": "2025-01-21T13:46:03+09:00"
-  },
-  {
-    "id": 8735514034417,
-    "title": "ちいかわ ピクチュアパズル（なかよしだ）",
-    "price": "770",
-    "url": "https://chiikawamarket.jp/collections/all/products/4905096253094",
-    "image": {
-      "id": 42910454939889,
-      "created_at": "2025-01-22T12:33:27+09:00",
-      "position": 1,
-      "updated_at": "2025-01-22T12:33:29+09:00",
-      "product_id": 8735514034417,
-      "variant_ids": [],
-      "src": "https://cdn.shopify.com/s/files/1/0626/7142/1681/files/4905096253094_1.jpg?v=1737516809",
-      "width": 1200,
-      "height": 1200
-    },
-    "variant_ids": [
-      45884384477425
-    ],
-    "available": true,
-    "published_at": "2025-01-24T11:00:07+09:00",
-    "created_at": "2025-01-21T13:46:04+09:00"
-  },
-  {
-    "id": 8735514067185,
-    "title": "ちいかわ ピクチュアパズル（ひらがな）",
-    "price": "770",
-    "url": "https://chiikawamarket.jp/collections/all/products/4905096253131",
-    "image": {
-      "id": 42910455693553,
-      "created_at": "2025-01-22T12:33:39+09:00",
-      "position": 1,
-      "updated_at": "2025-01-22T12:33:40+09:00",
-      "product_id": 8735514067185,
-      "variant_ids": [],
-      "src": "https://cdn.shopify.com/s/files/1/0626/7142/1681/files/4905096253131_1.jpg?v=1737516820",
-      "width": 1200,
-      "height": 1200
-    },
-    "variant_ids": [
-      45884384510193
-    ],
-    "available": false,
-    "published_at": "2025-01-24T11:00:09+09:00",
-    "created_at": "2025-01-21T13:46:05+09:00"
-  },
-  {
     "id": 7941498765553,
     "title": "ちいかわ ピクニックケース",
     "price": "2420",
@@ -152356,29 +152264,6 @@
     "created_at": "2022-06-17T17:49:02+09:00"
   },
   {
-    "id": 8804917379313,
-    "title": "ちいかわ フィギュアキーホルダー（うさぎ2）",
-    "price": "880",
-    "url": "https://chiikawamarket.jp/collections/all/products/4573256433312",
-    "image": {
-      "id": 43704794448113,
-      "created_at": "2025-05-12T14:06:22+09:00",
-      "position": 1,
-      "updated_at": "2025-05-12T14:06:24+09:00",
-      "product_id": 8804917379313,
-      "variant_ids": [],
-      "src": "https://cdn.shopify.com/s/files/1/0626/7142/1681/files/4573256433312_1.jpg?v=1747026384",
-      "width": 1080,
-      "height": 1080
-    },
-    "variant_ids": [
-      46126998618353
-    ],
-    "available": false,
-    "published_at": "2026-04-30T18:00:54+09:00",
-    "created_at": "2025-05-12T09:47:17+09:00"
-  },
-  {
     "id": 7684094263537,
     "title": "ちいかわ フィギュアキーホルダー（うさぎ）",
     "price": "880",
@@ -152400,29 +152285,6 @@
     "available": false,
     "published_at": "2022-05-20T10:59:49+09:00",
     "created_at": "2022-05-18T12:51:12+09:00"
-  },
-  {
-    "id": 9480023638257,
-    "title": "ちいかわ フィギュアキーホルダー（くりまんじゅう2）",
-    "price": "880",
-    "url": "https://chiikawamarket.jp/collections/all/products/4573256436016",
-    "image": {
-      "id": 48731914043633,
-      "created_at": "2026-02-16T21:43:53+09:00",
-      "position": 1,
-      "updated_at": "2026-02-16T21:43:54+09:00",
-      "product_id": 9480023638257,
-      "variant_ids": [],
-      "src": "https://cdn.shopify.com/s/files/1/0626/7142/1681/files/4573256436016_1.jpg?v=1771245834",
-      "width": 1200,
-      "height": 1200
-    },
-    "variant_ids": [
-      47810631926001
-    ],
-    "available": false,
-    "published_at": "2026-02-20T11:00:23+09:00",
-    "created_at": "2026-02-16T17:34:45+09:00"
   },
   {
     "id": 8241118576881,
@@ -152448,29 +152310,6 @@
     "created_at": "2024-04-16T10:41:31+09:00"
   },
   {
-    "id": 8804917313777,
-    "title": "ちいかわ フィギュアキーホルダー（ちいかわ2）",
-    "price": "880",
-    "url": "https://chiikawamarket.jp/collections/all/products/4573256433299",
-    "image": {
-      "id": 43704791957745,
-      "created_at": "2025-05-12T14:06:03+09:00",
-      "position": 1,
-      "updated_at": "2025-05-12T14:06:05+09:00",
-      "product_id": 8804917313777,
-      "variant_ids": [],
-      "src": "https://cdn.shopify.com/s/files/1/0626/7142/1681/files/4573256433299_1.jpg?v=1747026365",
-      "width": 1080,
-      "height": 1080
-    },
-    "variant_ids": [
-      46126998552817
-    ],
-    "available": false,
-    "published_at": "2026-03-18T18:03:01+09:00",
-    "created_at": "2025-05-12T09:47:15+09:00"
-  },
-  {
     "id": 7684037116145,
     "title": "ちいかわ フィギュアキーホルダー（ちいかわ）",
     "price": "880",
@@ -152492,52 +152331,6 @@
     "available": false,
     "published_at": "2022-05-20T10:59:49+09:00",
     "created_at": "2022-05-18T11:14:30+09:00"
-  },
-  {
-    "id": 9480023507185,
-    "title": "ちいかわ フィギュアキーホルダー（カブトムシ）",
-    "price": "880",
-    "url": "https://chiikawamarket.jp/collections/all/products/4573256436054",
-    "image": {
-      "id": 48731914895601,
-      "created_at": "2026-02-16T21:44:57+09:00",
-      "position": 1,
-      "updated_at": "2026-02-16T21:44:59+09:00",
-      "product_id": 9480023507185,
-      "variant_ids": [],
-      "src": "https://cdn.shopify.com/s/files/1/0626/7142/1681/files/4573256436054_1.jpg?v=1771245899",
-      "width": 1200,
-      "height": 1200
-    },
-    "variant_ids": [
-      47810631762161
-    ],
-    "available": false,
-    "published_at": "2026-02-20T11:00:24+09:00",
-    "created_at": "2026-02-16T17:34:37+09:00"
-  },
-  {
-    "id": 9480023671025,
-    "title": "ちいかわ フィギュアキーホルダー（シーサー2）",
-    "price": "880",
-    "url": "https://chiikawamarket.jp/collections/all/products/4573256436023",
-    "image": {
-      "id": 48731914174705,
-      "created_at": "2026-02-16T21:44:10+09:00",
-      "position": 1,
-      "updated_at": "2026-02-16T21:44:12+09:00",
-      "product_id": 9480023671025,
-      "variant_ids": [],
-      "src": "https://cdn.shopify.com/s/files/1/0626/7142/1681/files/4573256436023_1.jpg?v=1771245852",
-      "width": 1200,
-      "height": 1200
-    },
-    "variant_ids": [
-      47810631958769
-    ],
-    "available": false,
-    "published_at": "2026-02-20T11:00:24+09:00",
-    "created_at": "2026-02-16T17:34:48+09:00"
   },
   {
     "id": 8342759604465,
@@ -152563,29 +152356,6 @@
     "created_at": "2024-05-16T15:13:21+09:00"
   },
   {
-    "id": 8804917346545,
-    "title": "ちいかわ フィギュアキーホルダー（ハチワレ2）",
-    "price": "880",
-    "url": "https://chiikawamarket.jp/collections/all/products/4573256433305",
-    "image": {
-      "id": 43704792056049,
-      "created_at": "2025-05-12T14:06:12+09:00",
-      "position": 1,
-      "updated_at": "2025-05-12T14:06:14+09:00",
-      "product_id": 8804917346545,
-      "variant_ids": [],
-      "src": "https://cdn.shopify.com/s/files/1/0626/7142/1681/files/4573256433305_1.jpg?v=1747026374",
-      "width": 1080,
-      "height": 1080
-    },
-    "variant_ids": [
-      46126998585585
-    ],
-    "available": false,
-    "published_at": "2026-08-05T18:01:52+09:00",
-    "created_at": "2025-05-12T09:47:16+09:00"
-  },
-  {
     "id": 7684045013233,
     "title": "ちいかわ フィギュアキーホルダー（ハチワレ）",
     "price": "880",
@@ -152609,29 +152379,6 @@
     "created_at": "2022-05-18T11:25:52+09:00"
   },
   {
-    "id": 9480023572721,
-    "title": "ちいかわ フィギュアキーホルダー（モモンガ2）",
-    "price": "880",
-    "url": "https://chiikawamarket.jp/collections/all/products/4573256436009",
-    "image": {
-      "id": 48731913912561,
-      "created_at": "2026-02-16T21:43:36+09:00",
-      "position": 1,
-      "updated_at": "2026-02-16T21:43:37+09:00",
-      "product_id": 9480023572721,
-      "variant_ids": [],
-      "src": "https://cdn.shopify.com/s/files/1/0626/7142/1681/files/4573256436009_1.jpg?v=1771245817",
-      "width": 1200,
-      "height": 1200
-    },
-    "variant_ids": [
-      47810631827697
-    ],
-    "available": true,
-    "published_at": "2026-02-20T11:00:22+09:00",
-    "created_at": "2026-02-16T17:34:41+09:00"
-  },
-  {
     "id": 8097274134769,
     "title": "ちいかわ フィギュアキーホルダー（モモンガ）",
     "price": "880",
@@ -152653,52 +152400,6 @@
     "available": false,
     "published_at": "2024-01-26T11:00:09+09:00",
     "created_at": "2024-01-24T16:28:55+09:00"
-  },
-  {
-    "id": 9480023441649,
-    "title": "ちいかわ フィギュアキーホルダー（ラッコ）",
-    "price": "880",
-    "url": "https://chiikawamarket.jp/collections/all/products/4573256436030",
-    "image": {
-      "id": 48731914305777,
-      "created_at": "2026-02-16T21:44:26+09:00",
-      "position": 1,
-      "updated_at": "2026-02-16T21:44:28+09:00",
-      "product_id": 9480023441649,
-      "variant_ids": [],
-      "src": "https://cdn.shopify.com/s/files/1/0626/7142/1681/files/4573256436030_1.jpg?v=1771245868",
-      "width": 1200,
-      "height": 1200
-    },
-    "variant_ids": [
-      47810631696625
-    ],
-    "available": true,
-    "published_at": "2026-02-20T11:00:19+09:00",
-    "created_at": "2026-02-16T17:34:30+09:00"
-  },
-  {
-    "id": 9480023474417,
-    "title": "ちいかわ フィギュアキーホルダー（古本屋）",
-    "price": "880",
-    "url": "https://chiikawamarket.jp/collections/all/products/4573256436047",
-    "image": {
-      "id": 48731914436849,
-      "created_at": "2026-02-16T21:44:39+09:00",
-      "position": 1,
-      "updated_at": "2026-02-16T21:44:41+09:00",
-      "product_id": 9480023474417,
-      "variant_ids": [],
-      "src": "https://cdn.shopify.com/s/files/1/0626/7142/1681/files/4573256436047_1.jpg?v=1771245881",
-      "width": 1200,
-      "height": 1200
-    },
-    "variant_ids": [
-      47810631729393
-    ],
-    "available": false,
-    "published_at": "2026-04-30T18:00:25+09:00",
-    "created_at": "2026-02-16T17:34:34+09:00"
   },
   {
     "id": 9504147177713,
@@ -161653,7 +161354,7 @@
     "variant_ids": [
       48741874729201
     ],
-    "available": true,
+    "available": false,
     "published_at": "2026-09-18T11:01:25+09:00",
     "created_at": "2026-09-14T17:02:02+09:00"
   },

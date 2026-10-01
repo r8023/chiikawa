@@ -10961,7 +10961,7 @@
     "variant_ids": [
       48218050199793
     ],
-    "available": true,
+    "available": false,
     "published_at": "2026-05-29T11:00:25+09:00",
     "created_at": "2026-05-26T10:47:46+09:00"
   },
@@ -37560,6 +37560,29 @@
     "created_at": "2026-03-31T17:38:30+09:00"
   },
   {
+    "id": 9813676654833,
+    "title": "ちいかわ ちいかわらんど トートバッグ ちいかわおかおポケット ブラック",
+    "price": "4950",
+    "url": "https://chiikawamarket.jp/collections/all/products/4570189208758",
+    "image": {
+      "id": 50762069147889,
+      "created_at": "2026-09-15T17:02:43+09:00",
+      "position": 1,
+      "updated_at": "2026-09-15T17:02:44+09:00",
+      "product_id": 9813676654833,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0626/7142/1681/files/4570189208758_1_24900a39-9cd0-4abc-9b69-ad75b418b440.jpg?v=1789459364",
+      "width": 1200,
+      "height": 1200
+    },
+    "variant_ids": [
+      48741872435441
+    ],
+    "available": false,
+    "published_at": "2026-09-18T11:01:55+09:00",
+    "created_at": "2026-09-14T17:00:44+09:00"
+  },
+  {
     "id": 9802065379569,
     "title": "ちいかわ ちいかわらんど ボンボンドロップシール",
     "price": "550",
@@ -48904,6 +48927,52 @@
     "created_at": "2026-07-30T14:30:34+09:00"
   },
   {
+    "id": 15199728009457,
+    "title": "ちいかわ ちいかわベーカリー ニットカーディガン パンなみんな ベージュ",
+    "price": "6050",
+    "url": "https://chiikawamarket.jp/collections/all/products/4570189212410",
+    "image": {
+      "id": 50929279140081,
+      "created_at": "2026-09-29T18:39:15+09:00",
+      "position": 1,
+      "updated_at": "2026-09-29T18:39:16+09:00",
+      "product_id": 15199728009457,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0626/7142/1681/files/4570189212410_1.jpg?v=1790674756",
+      "width": 1200,
+      "height": 1200
+    },
+    "variant_ids": [
+      67099775271153
+    ],
+    "available": false,
+    "published_at": "2026-10-01T15:06:40+09:00",
+    "created_at": "2026-09-29T17:26:31+09:00"
+  },
+  {
+    "id": 15199728042225,
+    "title": "ちいかわ ちいかわベーカリー バンダナ パンなみんな ベージュ",
+    "price": "1650",
+    "url": "https://chiikawamarket.jp/collections/all/products/4570189212427",
+    "image": {
+      "id": 50929295393009,
+      "created_at": "2026-09-29T18:42:40+09:00",
+      "position": 1,
+      "updated_at": "2026-09-29T18:42:41+09:00",
+      "product_id": 15199728042225,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0626/7142/1681/files/4570189212427_1.jpg?v=1790674961",
+      "width": 1200,
+      "height": 1200
+    },
+    "variant_ids": [
+      67099775303921
+    ],
+    "available": false,
+    "published_at": "2026-10-01T15:06:40+09:00",
+    "created_at": "2026-09-29T17:26:34+09:00"
+  },
+  {
     "id": 8662932848881,
     "title": "ちいかわ ちいかわベーカリー パンみたいなおかおポーチ（うさぎ）",
     "price": "2090",
@@ -49753,6 +49822,54 @@
     "available": true,
     "published_at": "2026-07-03T11:00:09+09:00",
     "created_at": "2026-06-22T11:28:15+09:00"
+  },
+  {
+    "id": 15199761072369,
+    "title": "ちいかわ ちいかわベーカリー 長袖Tシャツ パンなみんな ベージュ",
+    "price": "4950",
+    "url": "https://chiikawamarket.jp/collections/all/products/4570189212397",
+    "image": {
+      "id": 50929299685617,
+      "created_at": "2026-09-29T18:43:37+09:00",
+      "position": 1,
+      "updated_at": "2026-09-29T18:43:38+09:00",
+      "product_id": 15199761072369,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0626/7142/1681/files/4570189212397_1.jpg?v=1790675018",
+      "width": 1200,
+      "height": 1200
+    },
+    "variant_ids": [
+      67099924955377,
+      67099924988145
+    ],
+    "available": false,
+    "published_at": "2026-10-01T15:06:40+09:00",
+    "created_at": "2026-09-29T18:38:12+09:00"
+  },
+  {
+    "id": 15199761105137,
+    "title": "ちいかわ ちいかわベーカリー 長袖Tシャツ メニュー ホワイト",
+    "price": "4950",
+    "url": "https://chiikawamarket.jp/collections/all/products/4570189212403",
+    "image": {
+      "id": 50929302995185,
+      "created_at": "2026-09-29T18:44:21+09:00",
+      "position": 1,
+      "updated_at": "2026-09-29T18:44:22+09:00",
+      "product_id": 15199761105137,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0626/7142/1681/files/4570189212403_1.jpg?v=1790675062",
+      "width": 1200,
+      "height": 1200
+    },
+    "variant_ids": [
+      67099925020913,
+      67099925053681
+    ],
+    "available": false,
+    "published_at": "2026-10-01T15:06:40+09:00",
+    "created_at": "2026-09-29T18:38:15+09:00"
   },
   {
     "id": 8158767972593,
@@ -87174,7 +87291,7 @@
     "variant_ids": [
       46978330820849
     ],
-    "available": true,
+    "available": false,
     "published_at": "2025-12-04T18:00:14+09:00",
     "created_at": "2025-09-30T10:48:35+09:00"
   },
@@ -140622,29 +140739,6 @@
     "available": false,
     "published_at": "2026-06-19T11:00:51+09:00",
     "created_at": "2026-06-16T15:55:15+09:00"
-  },
-  {
-    "id": 9813676654833,
-    "title": "ちいかわ トートバッグ ちいかわおかおポケット ブラック",
-    "price": "4950",
-    "url": "https://chiikawamarket.jp/collections/all/products/4570189208758",
-    "image": {
-      "id": 50762069147889,
-      "created_at": "2026-09-15T17:02:43+09:00",
-      "position": 1,
-      "updated_at": "2026-09-15T17:02:44+09:00",
-      "product_id": 9813676654833,
-      "variant_ids": [],
-      "src": "https://cdn.shopify.com/s/files/1/0626/7142/1681/files/4570189208758_1_24900a39-9cd0-4abc-9b69-ad75b418b440.jpg?v=1789459364",
-      "width": 1200,
-      "height": 1200
-    },
-    "variant_ids": [
-      48741872435441
-    ],
-    "available": false,
-    "published_at": "2026-09-18T11:01:55+09:00",
-    "created_at": "2026-09-14T17:00:44+09:00"
   },
   {
     "id": 9256626127089,

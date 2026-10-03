@@ -554,6 +554,75 @@
     "created_at": "2025-12-15T11:32:19+09:00"
   },
   {
+    "id": 9821307076849,
+    "title": "【予約】ちいかわ ちいプラ うさぎと自転車【2027年1月下旬より順次発送予定（発送延期の場合もキャンセル不可）】【通常商品と同時購入・配送希望日指定不可】【キャンペーン対象外】",
+    "price": "1650",
+    "url": "https://chiikawamarket.jp/collections/all/products/4571609418351",
+    "image": {
+      "id": 50949763694833,
+      "created_at": "2026-10-01T12:05:55+09:00",
+      "position": 1,
+      "updated_at": "2026-10-01T12:05:57+09:00",
+      "product_id": 9821307076849,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0626/7142/1681/files/4571609418351_0.jpg?v=1790823957",
+      "width": 1200,
+      "height": 1200
+    },
+    "variant_ids": [
+      48777758834929
+    ],
+    "available": true,
+    "published_at": "2026-10-03T10:00:06+09:00",
+    "created_at": "2026-09-18T11:50:55+09:00"
+  },
+  {
+    "id": 9821306388721,
+    "title": "【予約】ちいかわ ちいプラ ちいかわと自転車【2026年12月下旬より順次発送予定（発送延期の場合もキャンセル不可）】【通常商品と同時購入・配送希望日指定不可】【キャンペーン対象外】",
+    "price": "1650",
+    "url": "https://chiikawamarket.jp/collections/all/products/4571609412267",
+    "image": {
+      "id": 50949752946929,
+      "created_at": "2026-10-01T12:04:28+09:00",
+      "position": 1,
+      "updated_at": "2026-10-01T12:04:29+09:00",
+      "product_id": 9821306388721,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0626/7142/1681/files/4571609412267_0.jpg?v=1790823869",
+      "width": 1200,
+      "height": 1200
+    },
+    "variant_ids": [
+      48777754673393
+    ],
+    "available": true,
+    "published_at": "2026-10-03T10:00:04+09:00",
+    "created_at": "2026-09-18T11:47:41+09:00"
+  },
+  {
+    "id": 9821306519793,
+    "title": "【予約】ちいかわ ちいプラ ハチワレと自転車【2026年12月下旬より順次発送予定（発送延期の場合もキャンセル不可）】【通常商品と同時購入・配送希望日指定不可】【キャンペーン対象外】",
+    "price": "1980",
+    "url": "https://chiikawamarket.jp/collections/all/products/4571609412274",
+    "image": {
+      "id": 50949761302769,
+      "created_at": "2026-10-01T12:05:24+09:00",
+      "position": 1,
+      "updated_at": "2026-10-01T12:05:25+09:00",
+      "product_id": 9821306519793,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0626/7142/1681/files/4571609412274_0.jpg?v=1790823925",
+      "width": 1200,
+      "height": 1200
+    },
+    "variant_ids": [
+      48777754902769
+    ],
+    "available": true,
+    "published_at": "2026-10-03T10:00:05+09:00",
+    "created_at": "2026-09-18T11:48:49+09:00"
+  },
+  {
     "id": 7953707335921,
     "title": "【予約】ちいかわ てんし♡あくま 「あのこ悪魔」のぬいぐるみ【2023年10月上旬より順次発送予定】【通常商品と同時購入・配送希望日指定不可】【キャンペーン対象外】",
     "price": "5500",
@@ -91251,7 +91320,7 @@
     "variant_ids": [
       47008912834801
     ],
-    "available": true,
+    "available": false,
     "published_at": "2025-10-17T11:00:48+09:00",
     "created_at": "2025-10-10T20:53:36+09:00"
   },
@@ -94658,7 +94727,7 @@
     "variant_ids": [
       48319840420081
     ],
-    "available": true,
+    "available": false,
     "published_at": "2026-06-19T11:00:38+09:00",
     "created_at": "2026-06-16T15:54:36+09:00"
   },
@@ -100030,7 +100099,7 @@
     "variant_ids": [
       48377626165489
     ],
-    "available": true,
+    "available": false,
     "published_at": "2026-10-01T18:00:16+09:00",
     "created_at": "2026-07-06T15:00:53+09:00"
   },
@@ -102652,7 +102721,7 @@
     "variant_ids": [
       44139898372337
     ],
-    "available": true,
+    "available": false,
     "published_at": "2026-10-01T18:00:54+09:00",
     "created_at": "2023-12-14T11:37:19+09:00"
   },
@@ -116228,7 +116297,7 @@
     "variant_ids": [
       47585837514993
     ],
-    "available": true,
+    "available": false,
     "published_at": "2026-04-30T18:00:33+09:00",
     "created_at": "2025-12-15T21:04:53+09:00"
   },
@@ -125366,7 +125435,7 @@
     "variant_ids": [
       45576805384433
     ],
-    "available": true,
+    "available": false,
     "published_at": "2024-10-11T11:00:19+09:00",
     "created_at": "2024-10-07T10:25:21+09:00"
   },
@@ -178376,7 +178445,7 @@
     "variant_ids": [
       46940067332337
     ],
-    "available": false,
+    "available": true,
     "published_at": "2025-10-16T18:00:06+09:00",
     "created_at": "2025-09-18T14:41:26+09:00"
   },
@@ -198987,7 +199056,7 @@
     "variant_ids": [
       48290844999921
     ],
-    "available": true,
+    "available": false,
     "published_at": "2026-10-01T18:00:21+09:00",
     "created_at": "2026-06-10T18:05:44+09:00"
   },
@@ -216502,7 +216571,7 @@
     "variant_ids": [
       47559168852209
     ],
-    "available": true,
+    "available": false,
     "published_at": "2026-02-20T11:01:25+09:00",
     "created_at": "2025-12-08T14:14:11+09:00"
   },

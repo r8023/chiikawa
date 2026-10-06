@@ -9136,7 +9136,7 @@
     "variant_ids": [
       44264549679345
     ],
-    "available": true,
+    "available": false,
     "published_at": "2024-12-19T18:00:03+09:00",
     "created_at": "2024-01-30T13:52:13+09:00"
   },
@@ -16862,7 +16862,7 @@
     "variant_ids": [
       47970908471537
     ],
-    "available": true,
+    "available": false,
     "published_at": "2026-09-10T18:00:48+09:00",
     "created_at": "2026-03-31T17:38:44+09:00"
   },
@@ -45622,7 +45622,7 @@
     "variant_ids": [
       47956783005937
     ],
-    "available": true,
+    "available": false,
     "published_at": "2026-05-08T11:03:57+09:00",
     "created_at": "2026-03-26T15:20:37+09:00"
   },
@@ -58671,7 +58671,7 @@
     "variant_ids": [
       43764095582449
     ],
-    "available": true,
+    "available": false,
     "published_at": "2026-05-01T11:00:29+09:00",
     "created_at": "2023-04-19T20:38:46+09:00"
   },
@@ -89457,7 +89457,7 @@
     "variant_ids": [
       45799345783025
     ],
-    "available": true,
+    "available": false,
     "published_at": "2025-06-19T18:00:14+09:00",
     "created_at": "2024-12-17T11:58:48+09:00"
   },
@@ -110713,7 +110713,7 @@
     "variant_ids": [
       45217481883889
     ],
-    "available": true,
+    "available": false,
     "published_at": "2026-02-20T11:01:36+09:00",
     "created_at": "2024-07-10T13:15:33+09:00"
   },
@@ -135629,7 +135629,7 @@
     "variant_ids": [
       48741875024113
     ],
-    "available": true,
+    "available": false,
     "published_at": "2026-09-18T11:01:19+09:00",
     "created_at": "2026-09-14T17:02:13+09:00"
   },
@@ -149048,7 +149048,7 @@
     "variant_ids": [
       67098586120433
     ],
-    "available": true,
+    "available": false,
     "published_at": "2026-10-02T11:00:04+09:00",
     "created_at": "2026-09-29T12:07:50+09:00"
   },
@@ -199516,7 +199516,7 @@
     "variant_ids": [
       48290844573937
     ],
-    "available": true,
+    "available": false,
     "published_at": "2026-10-01T18:00:25+09:00",
     "created_at": "2026-06-10T18:05:25+09:00"
   },
@@ -205136,7 +205136,7 @@
     "variant_ids": [
       43867212742897
     ],
-    "available": true,
+    "available": false,
     "published_at": "2026-03-18T18:04:58+09:00",
     "created_at": "2023-07-11T21:00:23+09:00"
   },

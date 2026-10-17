@@ -6772,7 +6772,7 @@
     "variant_ids": [
       50352402727104
     ],
-    "available": true,
+    "available": false,
     "published_at": "2026-10-02T11:00:08+09:00",
     "created_at": "2026-09-28T12:14:38+09:00"
   },
@@ -8460,6 +8460,31 @@
     "created_at": "2024-07-30T18:30:27+09:00"
   },
   {
+    "id": 10257933631680,
+    "title": "ナガノキャラクターズ Tシャツ DANCE（パグ） オフホワイト",
+    "price": "3850",
+    "url": "https://nagano-market.jp/collections/all/products/4570189212854",
+    "image": {
+      "id": 59851584471232,
+      "created_at": "2026-10-08T17:35:40+09:00",
+      "position": 1,
+      "updated_at": "2026-10-08T17:35:42+09:00",
+      "product_id": 10257933631680,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0585/2836/6784/files/4570189212854_01.jpg?v=1791448542",
+      "width": 3200,
+      "height": 3200
+    },
+    "variant_ids": [
+      50443756339392,
+      50443756372160,
+      50443756404928
+    ],
+    "available": true,
+    "published_at": "2026-10-16T11:00:01+09:00",
+    "created_at": "2026-10-08T16:29:30+09:00"
+  },
+  {
     "id": 8646252396736,
     "title": "ナガノキャラクターズ Tシャツ ENERGY CHARGE スミ",
     "price": "5500",
@@ -8533,6 +8558,31 @@
     "available": false,
     "published_at": "2024-08-10T11:00:05+09:00",
     "created_at": "2024-07-30T18:30:20+09:00"
+  },
+  {
+    "id": 10257933533376,
+    "title": "ナガノキャラクターズ Tシャツ SLEEPY（くま） ネイビー",
+    "price": "3850",
+    "url": "https://nagano-market.jp/collections/all/products/4570189212823",
+    "image": {
+      "id": 59851546329280,
+      "created_at": "2026-10-08T17:34:55+09:00",
+      "position": 1,
+      "updated_at": "2026-10-08T17:34:58+09:00",
+      "product_id": 10257933533376,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0585/2836/6784/files/4570189212823_01.jpg?v=1791448498",
+      "width": 3092,
+      "height": 3091
+    },
+    "variant_ids": [
+      50443756175552,
+      50443756208320,
+      50443756241088
+    ],
+    "available": true,
+    "published_at": "2026-10-16T11:00:02+09:00",
+    "created_at": "2026-10-08T16:29:28+09:00"
   },
   {
     "id": 8045721059520,
@@ -9073,7 +9123,7 @@
       47062520103104,
       47062520135872
     ],
-    "available": true,
+    "available": false,
     "published_at": "2025-11-21T11:00:02+09:00",
     "created_at": "2025-11-17T15:34:45+09:00"
   },
@@ -13285,7 +13335,7 @@
     "variant_ids": [
       47214447296704
     ],
-    "available": true,
+    "available": false,
     "published_at": "2026-03-04T11:05:42+09:00",
     "created_at": "2026-01-07T12:45:04+09:00"
   },
@@ -14435,7 +14485,7 @@
     "variant_ids": [
       48394292822208
     ],
-    "available": true,
+    "available": false,
     "published_at": "2026-08-07T11:00:07+09:00",
     "created_at": "2026-06-10T09:55:51+09:00"
   },
@@ -18102,7 +18152,7 @@
     "variant_ids": [
       46747987148992
     ],
-    "available": true,
+    "available": false,
     "published_at": "2025-09-12T11:00:16+09:00",
     "created_at": "2025-09-09T14:19:56+09:00"
   },
@@ -18148,7 +18198,7 @@
     "variant_ids": [
       46747987837120
     ],
-    "available": true,
+    "available": false,
     "published_at": "2025-09-12T11:00:14+09:00",
     "created_at": "2025-09-09T14:20:09+09:00"
   },
@@ -22725,7 +22775,7 @@
     "variant_ids": [
       44324857446592
     ],
-    "available": true,
+    "available": false,
     "published_at": "2024-01-03T11:00:25+09:00",
     "created_at": "2023-12-27T10:38:29+09:00"
   },
@@ -23188,6 +23238,98 @@
     "available": false,
     "published_at": "2026-10-02T11:00:13+09:00",
     "created_at": "2026-09-28T12:14:19+09:00"
+  },
+  {
+    "id": 10257933107392,
+    "title": "ナガノキャラクターズ デニムトートバッグ イニシャル ブルー",
+    "price": "5280",
+    "url": "https://nagano-market.jp/collections/all/products/4570189211680",
+    "image": {
+      "id": 59851355816128,
+      "created_at": "2026-10-08T17:30:05+09:00",
+      "position": 1,
+      "updated_at": "2026-10-08T17:30:07+09:00",
+      "product_id": 10257933107392,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0585/2836/6784/files/4570189211680_07.jpg?v=1791448207",
+      "width": 1600,
+      "height": 1600
+    },
+    "variant_ids": [
+      50443755684032
+    ],
+    "available": true,
+    "published_at": "2026-10-16T11:00:03+09:00",
+    "created_at": "2026-10-08T16:29:18+09:00"
+  },
+  {
+    "id": 10257933172928,
+    "title": "ナガノキャラクターズ デニムトートバッグ ピース ブラック",
+    "price": "5280",
+    "url": "https://nagano-market.jp/collections/all/products/4570189211697",
+    "image": {
+      "id": 59851380818112,
+      "created_at": "2026-10-08T17:30:35+09:00",
+      "position": 1,
+      "updated_at": "2026-10-08T17:30:38+09:00",
+      "product_id": 10257933172928,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0585/2836/6784/files/4570189211697_07.jpg?v=1791448238",
+      "width": 1600,
+      "height": 1600
+    },
+    "variant_ids": [
+      50443755749568
+    ],
+    "available": false,
+    "published_at": "2026-10-16T11:00:03+09:00",
+    "created_at": "2026-10-08T16:29:20+09:00"
+  },
+  {
+    "id": 10257932976320,
+    "title": "ナガノキャラクターズ デニムポーチ イニシャル ブルー",
+    "price": "3850",
+    "url": "https://nagano-market.jp/collections/all/products/4570189211666",
+    "image": {
+      "id": 59851265671360,
+      "created_at": "2026-10-08T17:27:23+09:00",
+      "position": 1,
+      "updated_at": "2026-10-08T17:27:25+09:00",
+      "product_id": 10257932976320,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0585/2836/6784/files/4570189211666_01.jpg?v=1791448045",
+      "width": 1600,
+      "height": 1600
+    },
+    "variant_ids": [
+      50443755552960
+    ],
+    "available": true,
+    "published_at": "2026-10-16T11:00:04+09:00",
+    "created_at": "2026-10-08T16:29:15+09:00"
+  },
+  {
+    "id": 10257933009088,
+    "title": "ナガノキャラクターズ デニムポーチ ピース ブラック",
+    "price": "3850",
+    "url": "https://nagano-market.jp/collections/all/products/4570189211673",
+    "image": {
+      "id": 59851339563200,
+      "created_at": "2026-10-08T17:29:31+09:00",
+      "position": 1,
+      "updated_at": "2026-10-08T17:29:33+09:00",
+      "product_id": 10257933009088,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0585/2836/6784/files/4570189211673_01.jpg?v=1791448173",
+      "width": 1600,
+      "height": 1600
+    },
+    "variant_ids": [
+      50443755585728
+    ],
+    "available": true,
+    "published_at": "2026-10-16T11:00:04+09:00",
+    "created_at": "2026-10-08T16:29:17+09:00"
   },
   {
     "id": 8079186788544,
@@ -26196,6 +26338,52 @@
     "created_at": "2026-02-06T16:46:53+09:00"
   },
   {
+    "id": 10257933402304,
+    "title": "ナガノキャラクターズ ニットカーディガン カレッジなくま ナチュラル",
+    "price": "7150",
+    "url": "https://nagano-market.jp/collections/all/products/4570189211147",
+    "image": {
+      "id": 59851474469056,
+      "created_at": "2026-10-08T17:32:52+09:00",
+      "position": 1,
+      "updated_at": "2026-10-08T17:32:54+09:00",
+      "product_id": 10257933402304,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0585/2836/6784/files/4570189211147_01.jpg?v=1791448374",
+      "width": 1600,
+      "height": 1600
+    },
+    "variant_ids": [
+      50443756044480
+    ],
+    "available": false,
+    "published_at": "2026-10-16T11:00:02+09:00",
+    "created_at": "2026-10-08T16:29:24+09:00"
+  },
+  {
+    "id": 10257933467840,
+    "title": "ナガノキャラクターズ ニットカーディガン カレッジなパグ ブラック",
+    "price": "7150",
+    "url": "https://nagano-market.jp/collections/all/products/4570189211154",
+    "image": {
+      "id": 59851505205440,
+      "created_at": "2026-10-08T17:33:44+09:00",
+      "position": 1,
+      "updated_at": "2026-10-08T17:33:46+09:00",
+      "product_id": 10257933467840,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0585/2836/6784/files/4570189211154_01.jpg?v=1791448426",
+      "width": 1600,
+      "height": 1600
+    },
+    "variant_ids": [
+      50443756110016
+    ],
+    "available": false,
+    "published_at": "2026-10-16T11:00:01+09:00",
+    "created_at": "2026-10-08T16:29:26+09:00"
+  },
+  {
     "id": 8089550225600,
     "title": "ナガノキャラクターズ ニットバッグベルト",
     "price": "1100",
@@ -26260,7 +26448,7 @@
     "variant_ids": [
       47017817080000
     ],
-    "available": true,
+    "available": false,
     "published_at": "2026-04-23T18:30:09+09:00",
     "created_at": "2025-11-04T14:43:18+09:00"
   },
@@ -26513,7 +26701,7 @@
     "variant_ids": [
       48618835017920
     ],
-    "available": true,
+    "available": false,
     "published_at": "2026-09-18T11:00:07+09:00",
     "created_at": "2026-07-15T15:55:33+09:00"
   },
@@ -30561,7 +30749,7 @@
     "variant_ids": [
       46026571219136
     ],
-    "available": true,
+    "available": false,
     "published_at": "2025-01-24T11:00:41+09:00",
     "created_at": "2025-01-20T16:59:29+09:00"
   },
@@ -30934,6 +31122,54 @@
     "available": false,
     "published_at": "2025-08-08T11:00:51+09:00",
     "created_at": "2024-05-20T13:31:19+09:00"
+  },
+  {
+    "id": 10257933271232,
+    "title": "ナガノキャラクターズ ラガーシャツ KUMA ブルー",
+    "price": "6380",
+    "url": "https://nagano-market.jp/collections/all/products/4570189211079",
+    "image": {
+      "id": 59851406606528,
+      "created_at": "2026-10-08T17:31:09+09:00",
+      "position": 1,
+      "updated_at": "2026-10-08T17:31:12+09:00",
+      "product_id": 10257933271232,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0585/2836/6784/files/4570189211079_01.jpg?v=1791448272",
+      "width": 1600,
+      "height": 1600
+    },
+    "variant_ids": [
+      50443755847872,
+      50443755880640
+    ],
+    "available": false,
+    "published_at": "2026-10-16T11:00:03+09:00",
+    "created_at": "2026-10-08T16:29:21+09:00"
+  },
+  {
+    "id": 10257933336768,
+    "title": "ナガノキャラクターズ ラガーシャツ PUG スミクロ",
+    "price": "6380",
+    "url": "https://nagano-market.jp/collections/all/products/4570189211093",
+    "image": {
+      "id": 59851436523712,
+      "created_at": "2026-10-08T17:31:59+09:00",
+      "position": 1,
+      "updated_at": "2026-10-08T17:32:01+09:00",
+      "product_id": 10257933336768,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0585/2836/6784/files/4570189211093_01.jpg?v=1791448321",
+      "width": 1600,
+      "height": 1600
+    },
+    "variant_ids": [
+      50443755946176,
+      50443755978944
+    ],
+    "available": false,
+    "published_at": "2026-10-16T11:00:04+09:00",
+    "created_at": "2026-10-08T16:29:23+09:00"
   },
   {
     "id": 8277041905856,
@@ -31720,7 +31956,7 @@
       50352402792640,
       50352402825408
     ],
-    "available": true,
+    "available": false,
     "published_at": "2026-10-02T11:00:06+09:00",
     "created_at": "2026-09-28T12:14:43+09:00"
   },
@@ -38353,7 +38589,7 @@
     "variant_ids": [
       43338112204992
     ],
-    "available": true,
+    "available": false,
     "published_at": "2022-12-07T11:00:09+09:00",
     "created_at": "2022-12-06T13:24:21+09:00"
   },

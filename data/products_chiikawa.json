@@ -1198,29 +1198,6 @@
     "created_at": "2023-10-23T16:44:14+09:00"
   },
   {
-    "id": 7992196661489,
-    "title": "【予約】ちいかわ ハッピーバッグ2024（辰年）【2023年12月上旬より順次発送予定（発送延期の場合もキャンセル不可）】【通常商品と同時購入・配送希望日指定不可】【キャンペーン対象外】",
-    "price": "9900",
-    "url": "https://chiikawamarket.jp/collections/all/products/4582662906433",
-    "image": {
-      "id": 39430419185905,
-      "created_at": "2023-09-11T18:58:17+09:00",
-      "position": 1,
-      "updated_at": "2023-09-11T18:58:24+09:00",
-      "product_id": 7992196661489,
-      "variant_ids": [],
-      "src": "https://cdn.shopify.com/s/files/1/0626/7142/1681/files/4582662906433_1.jpg?v=1694426304",
-      "width": 800,
-      "height": 800
-    },
-    "variant_ids": [
-      43930493386993
-    ],
-    "available": false,
-    "published_at": "2025-12-22T16:43:13+09:00",
-    "created_at": "2023-09-06T19:21:59+09:00"
-  },
-  {
     "id": 8467312443633,
     "title": "【予約】ちいかわ ハッピーバッグ2025（巳年）【2024年12月中旬より順次発送予定（発送延期の場合もキャンセル不可）】【通常商品と同時購入・配送希望日指定不可】【キャンペーン対象外】",
     "price": "9900",
@@ -16025,7 +16002,7 @@
     "variant_ids": [
       47008913785073
     ],
-    "available": true,
+    "available": false,
     "published_at": "2026-03-18T18:01:31+09:00",
     "created_at": "2025-10-10T20:53:46+09:00"
   },
@@ -30870,7 +30847,7 @@
     "variant_ids": [
       46743324688625
     ],
-    "available": true,
+    "available": false,
     "published_at": "2025-08-08T11:00:44+09:00",
     "created_at": "2025-08-04T12:09:56+09:00"
   },
@@ -49801,7 +49778,7 @@
     "variant_ids": [
       45613675577585
     ],
-    "available": true,
+    "available": false,
     "published_at": "2026-06-26T11:04:38+09:00",
     "created_at": "2024-10-22T15:18:27+09:00"
   },
@@ -50867,7 +50844,7 @@
     "variant_ids": [
       47133306978545
     ],
-    "available": true,
+    "available": false,
     "published_at": "2025-11-21T11:00:27+09:00",
     "created_at": "2025-11-18T14:19:40+09:00"
   },
@@ -78204,7 +78181,7 @@
     "variant_ids": [
       47762511298801
     ],
-    "available": true,
+    "available": false,
     "published_at": "2026-02-06T11:00:30+09:00",
     "created_at": "2026-02-03T16:01:09+09:00"
   },
@@ -87317,7 +87294,7 @@
     "variant_ids": [
       67174807929073
     ],
-    "available": true,
+    "available": false,
     "published_at": "2026-10-16T11:03:59+09:00",
     "created_at": "2026-10-13T12:00:30+09:00"
   },
@@ -149585,7 +149562,7 @@
     "variant_ids": [
       67098585596145
     ],
-    "available": true,
+    "available": false,
     "published_at": "2026-10-02T11:00:05+09:00",
     "created_at": "2026-09-29T12:07:39+09:00"
   },
@@ -150996,7 +150973,7 @@
     "variant_ids": [
       45702082593009
     ],
-    "available": true,
+    "available": false,
     "published_at": "2024-11-22T11:00:28+09:00",
     "created_at": "2024-11-19T14:36:25+09:00"
   },
@@ -162649,7 +162626,7 @@
     "variant_ids": [
       67098585039089
     ],
-    "available": true,
+    "available": false,
     "published_at": "2026-10-02T11:00:09+09:00",
     "created_at": "2026-09-29T12:07:26+09:00"
   },

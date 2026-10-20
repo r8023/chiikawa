@@ -134624,7 +134624,7 @@
     "variant_ids": [
       43814073762033
     ],
-    "available": true,
+    "available": false,
     "published_at": "2023-06-02T11:00:07+09:00",
     "created_at": "2023-05-29T18:31:34+09:00"
   },
@@ -188028,29 +188028,6 @@
     "created_at": "2025-03-11T11:47:53+09:00"
   },
   {
-    "id": 7997162651889,
-    "title": "ちいかわ 先生のごほうびスタンプ",
-    "price": "2750",
-    "url": "https://chiikawamarket.jp/collections/all/products/4977524129134",
-    "image": {
-      "id": 39462727549169,
-      "created_at": "2023-09-21T13:34:44+09:00",
-      "position": 1,
-      "updated_at": "2023-09-21T13:34:46+09:00",
-      "product_id": 7997162651889,
-      "variant_ids": [],
-      "src": "https://cdn.shopify.com/s/files/1/0626/7142/1681/files/4977524129134_01.jpg?v=1695270886",
-      "width": 1200,
-      "height": 1200
-    },
-    "variant_ids": [
-      43946791796977
-    ],
-    "available": false,
-    "published_at": "2026-10-01T18:00:57+09:00",
-    "created_at": "2023-09-21T11:02:28+09:00"
-  },
-  {
     "id": 9250297774321,
     "title": "ちいかわ 先生のごほうびスタンプ（パーティー）",
     "price": "2970",
@@ -208722,7 +208699,7 @@
     "variant_ids": [
       45741765525745
     ],
-    "available": true,
+    "available": false,
     "published_at": "2024-12-06T11:00:49+09:00",
     "created_at": "2024-11-29T22:37:35+09:00"
   },

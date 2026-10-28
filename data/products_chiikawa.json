@@ -42036,7 +42036,7 @@
     "variant_ids": [
       48036359897329
     ],
-    "available": false,
+    "available": true,
     "published_at": "2026-05-08T11:00:31+09:00",
     "created_at": "2026-04-14T13:49:04+09:00"
   },
@@ -42105,7 +42105,7 @@
     "variant_ids": [
       48036359209201
     ],
-    "available": false,
+    "available": true,
     "published_at": "2026-10-22T18:00:15+09:00",
     "created_at": "2026-04-14T13:49:03+09:00"
   },
@@ -78872,7 +78872,7 @@
     "variant_ids": [
       43977915105521
     ],
-    "available": true,
+    "available": false,
     "published_at": "2025-09-18T18:00:48+09:00",
     "created_at": "2023-10-11T15:19:09+09:00"
   },
@@ -85672,7 +85672,7 @@
     "variant_ids": [
       45993606217969
     ],
-    "available": false,
+    "available": true,
     "published_at": "2026-03-13T11:01:58+09:00",
     "created_at": "2025-03-11T11:48:02+09:00"
   },
@@ -90479,29 +90479,6 @@
     "available": false,
     "published_at": "2026-10-08T18:00:27+09:00",
     "created_at": "2025-05-20T12:31:16+09:00"
-  },
-  {
-    "id": 8688132882673,
-    "title": "ちいかわ ウノ",
-    "price": "1540",
-    "url": "https://chiikawamarket.jp/collections/all/products/4970381802936",
-    "image": {
-      "id": 42549262778609,
-      "created_at": "2024-11-25T13:59:08+09:00",
-      "position": 1,
-      "updated_at": "2024-11-25T13:59:09+09:00",
-      "product_id": 8688132882673,
-      "variant_ids": [],
-      "src": "https://cdn.shopify.com/s/files/1/0626/7142/1681/files/4970381802936_2.jpg?v=1732510749",
-      "width": 1200,
-      "height": 1200
-    },
-    "variant_ids": [
-      45728872497393
-    ],
-    "available": false,
-    "published_at": "2025-09-18T18:00:34+09:00",
-    "created_at": "2024-11-25T12:12:07+09:00"
   },
   {
     "id": 8812241879281,
@@ -129517,7 +129494,7 @@
     "variant_ids": [
       45993606283505
     ],
-    "available": false,
+    "available": true,
     "published_at": "2025-08-28T18:00:28+09:00",
     "created_at": "2025-03-11T11:48:04+09:00"
   },
@@ -153972,7 +153949,7 @@
     "variant_ids": [
       45993606349041
     ],
-    "available": false,
+    "available": true,
     "published_at": "2026-04-30T18:01:02+09:00",
     "created_at": "2025-03-11T11:48:06+09:00"
   },

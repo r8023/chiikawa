@@ -5500,7 +5500,7 @@
     "variant_ids": [
       47008913260785
     ],
-    "available": true,
+    "available": false,
     "published_at": "2025-10-17T11:00:45+09:00",
     "created_at": "2025-10-10T20:53:41+09:00"
   },
@@ -21430,7 +21430,7 @@
     "variant_ids": [
       67324578955505
     ],
-    "available": true,
+    "available": false,
     "published_at": "2026-10-30T11:00:16+09:00",
     "created_at": "2026-10-27T11:08:17+09:00"
   },
@@ -76576,7 +76576,7 @@
     "variant_ids": [
       45249787855089
     ],
-    "available": true,
+    "available": false,
     "published_at": "2026-10-22T18:00:40+09:00",
     "created_at": "2024-07-22T10:08:14+09:00"
   },
@@ -85786,7 +85786,7 @@
     "variant_ids": [
       48167020593393
     ],
-    "available": true,
+    "available": false,
     "published_at": "2026-05-15T11:00:33+09:00",
     "created_at": "2026-05-12T10:50:52+09:00"
   },
@@ -157932,7 +157932,7 @@
     "variant_ids": [
       67324581478641
     ],
-    "available": true,
+    "available": false,
     "published_at": "2026-10-30T11:00:11+09:00",
     "created_at": "2026-10-27T11:08:32+09:00"
   },
@@ -161668,75 +161668,6 @@
     "available": false,
     "published_at": "2025-11-13T18:00:41+09:00",
     "created_at": "2023-09-21T11:03:07+09:00"
-  },
-  {
-    "id": 9366997893361,
-    "title": "ちいかわ プレゼントフォーユーなぬいぐるみ（うさぎ）",
-    "price": "3300",
-    "url": "https://chiikawamarket.jp/collections/all/products/4571609378655",
-    "image": {
-      "id": 47200233914609,
-      "created_at": "2025-11-19T17:09:59+09:00",
-      "position": 1,
-      "updated_at": "2025-11-19T17:10:01+09:00",
-      "product_id": 9366997893361,
-      "variant_ids": [],
-      "src": "https://cdn.shopify.com/s/files/1/0626/7142/1681/files/4571609378655_1.jpg?v=1763539801",
-      "width": 1200,
-      "height": 1200
-    },
-    "variant_ids": [
-      47133302817009
-    ],
-    "available": false,
-    "published_at": "2025-11-21T11:00:48+09:00",
-    "created_at": "2025-11-18T14:18:22+09:00"
-  },
-  {
-    "id": 9366997827825,
-    "title": "ちいかわ プレゼントフォーユーなぬいぐるみ（ちいかわ）",
-    "price": "3300",
-    "url": "https://chiikawamarket.jp/collections/all/products/4571609378631",
-    "image": {
-      "id": 47200225788145,
-      "created_at": "2025-11-19T17:08:21+09:00",
-      "position": 1,
-      "updated_at": "2025-11-19T17:08:23+09:00",
-      "product_id": 9366997827825,
-      "variant_ids": [],
-      "src": "https://cdn.shopify.com/s/files/1/0626/7142/1681/files/4571609378631_1.jpg?v=1763539703",
-      "width": 1200,
-      "height": 1200
-    },
-    "variant_ids": [
-      47133302751473
-    ],
-    "available": false,
-    "published_at": "2025-11-21T11:00:49+09:00",
-    "created_at": "2025-11-18T14:18:19+09:00"
-  },
-  {
-    "id": 9366997860593,
-    "title": "ちいかわ プレゼントフォーユーなぬいぐるみ（ハチワレ）",
-    "price": "3300",
-    "url": "https://chiikawamarket.jp/collections/all/products/4571609378648",
-    "image": {
-      "id": 47200228507889,
-      "created_at": "2025-11-19T17:08:59+09:00",
-      "position": 1,
-      "updated_at": "2025-11-19T17:43:45+09:00",
-      "product_id": 9366997860593,
-      "variant_ids": [],
-      "src": "https://cdn.shopify.com/s/files/1/0626/7142/1681/files/4571609378648_1.jpg?v=1763541825",
-      "width": 1200,
-      "height": 1200
-    },
-    "variant_ids": [
-      47133302784241
-    ],
-    "available": false,
-    "published_at": "2025-11-21T11:00:50+09:00",
-    "created_at": "2025-11-18T14:18:20+09:00"
   },
   {
     "id": 8066553446641,

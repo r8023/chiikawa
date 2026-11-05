@@ -13,7 +13,7 @@ scriptTR.src = "https://r8023.github.io/chiikawa/assets/js/general.js";
 scriptTR.onload = () => {
 
     const buttons = document.querySelectorAll(
-        ".gw-wl-product-list btn.gw-wl-product-card__action-btn"
+        ".gw-wl-product-list button.gw-wl-product-card__action-btn"
     );
 
     const total = buttons.length;

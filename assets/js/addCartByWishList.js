@@ -1,6 +1,6 @@
 
 const existing = document.querySelector(
-    'script[src="https://r8023.github.io/chiikawa/assets/js/addCartByList.js"]'
+    'script[src="https://r8023.github.io/chiikawa/assets/js/addCartByWishList.js"]'
 );
 
 if (existing) {
@@ -12,7 +12,10 @@ scriptTR.src = "https://r8023.github.io/chiikawa/assets/js/general.js";
 
 scriptTR.onload = () => {
 
-    const buttons = $(".gw-wl-product-list .gw-wl-product-card__action-btn");
+    const buttons = document.querySelectorAll(
+        ".gw-wl-product-list .gw-wl-product-card__action-btn"
+    );
+
     const total = buttons.length;
 
     if (total === 0) {
@@ -24,11 +27,13 @@ scriptTR.onload = () => {
 
     let completed = 0;
 
-    buttons.each(function (index) {
-        const $btn = $(this);
+    buttons.forEach((btn, index) => {
 
         setTimeout(() => {
-            const name = $btn.closest(".gw-wl-product-card").find("a").first().text().trim()
+
+            const card = btn.closest(".gw-wl-product-card");
+
+            const name = card?.querySelector("a")?.textContent.trim()
                 || `商品 ${index + 1}`;
 
             showToast(
@@ -37,7 +42,7 @@ scriptTR.onload = () => {
             );
 
             try {
-                $btn.trigger("click");
+                btn.click();
                 completed++;
 
                 if (completed === total) {
@@ -54,8 +59,13 @@ scriptTR.onload = () => {
             }
 
         }, index * 500);
+
     });
 
+};
+
+scriptTR.onerror = () => {
+    console.error("general.js 載入失敗");
 };
 
 document.head.appendChild(scriptTR);

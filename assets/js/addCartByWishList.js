@@ -13,7 +13,7 @@ scriptTR.src = "https://r8023.github.io/chiikawa/assets/js/general.js";
 scriptTR.onload = () => {
 
     const buttons = document.querySelectorAll(
-        ".gw-wl-product-list button.gw-wl-product-card__action-btn:not(:disabled)"
+        ".gw-wl-product-list button.gw-wl-product-card__action-btn:not([disabled]):not([aria-disabled='true']):not(.gw-btn--disabled)"
     );
 
     const total = buttons.length;

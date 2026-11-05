@@ -676,13 +676,13 @@
   },
   "9781973614822": {
     "id": 9781973614822,
-    "available": true,
-    "restock_date": null
+    "available": false,
+    "restock_date": "2026/11/06"
   },
   "9781973549286": {
     "id": 9781973549286,
-    "available": true,
-    "restock_date": null
+    "available": false,
+    "restock_date": "2026/11/06"
   },
   "8983184310502": {
     "id": 8983184310502,
@@ -753,5 +753,15 @@
     "id": 15399668973798,
     "available": true,
     "restock_date": null
+  },
+  "9781973483750": {
+    "id": 9781973483750,
+    "available": false,
+    "restock_date": "2026/11/06"
+  },
+  "9781973450982": {
+    "id": 9781973450982,
+    "available": false,
+    "restock_date": "2026/11/06"
   }
 }

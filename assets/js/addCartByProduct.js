@@ -22,8 +22,8 @@ if (!document.querySelector('script[src="https://r8023.github.io/chiikawa/assets
 
 async function start() {
 	const productData = [
-		{ id: "CHGS-0338", quantity: 1, name: "吉伊飯糰" },
-		{ id: "CHGS-0378", quantity: 1, name: "伏見兔兔" },
+		{ id: "51540729332033", quantity: 1, name: "和装なハチワレ" },
+		{ id: "51839993217345", quantity: 1, name: "師傅" },
 
 		/*{ id: "43117814907121", quantity: 1, name: "大耳狗吉伊" },
 		{ id: "43117814939889", quantity: 1, name: "帕恰狗小八" },

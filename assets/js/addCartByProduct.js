@@ -22,25 +22,9 @@ if (!document.querySelector('script[src="https://r8023.github.io/chiikawa/assets
 
 async function start() {
 	const productData = [
-		{ id: "4571609414131", quantity: 1, name: "兔兔聖誕精靈" },
-		{ id: "4571609414117", quantity: 1, name: "吉伊聖誕精靈" },
-		{ id: "4571609414124", quantity: 1, name: "小八聖誕精靈" },
-		{ id: "4571609413035", quantity: 1, name: "兔兔聖誕樹" },
-		{ id: "4571609414094", quantity: 1, name: "奇美拉小八" },
-		{ id: "4571609414100", quantity: 1, name: "奇美拉兔兔" },
+		{ id: "CHGS-0338", quantity: 1, name: "吉伊飯糰" },
 		{ id: "CHGS-0378", quantity: 1, name: "伏見兔兔" },
-		/*
-		{ id: "43481770000625", quantity: 1, name: "寄生吉伊" },
-		{ id: "43481769804017", quantity: 1, name: "睡衣小八電腦掛" },
-		{ id: "43329815970033", quantity: 1, name: "飯糰兔兔電腦掛" },
-		
-		{ id: "43526669926641", quantity: 1, name: "達摩吉伊" },
-		{ id: "43515195162865", quantity: 1, name: "冬日兔兔" },
-		{ id: "47008915980529", quantity: 1, name: "金封-藍" },
-		{ id: "47008916046065", quantity: 1, name: "金封-紅" },
-		{ id: "45741761331441", quantity: 1, name: "鏡餅奧德" },
-		{ id: "43087503360241", quantity: 1, name: "壞笑小八" },*/
-		
+
 		/*{ id: "43117814907121", quantity: 1, name: "大耳狗吉伊" },
 		{ id: "43117814939889", quantity: 1, name: "帕恰狗小八" },
 		{ id: "43117814284529", quantity: 1, name: "布丁狗兔兔" },

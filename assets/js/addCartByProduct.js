@@ -28,9 +28,8 @@ async function start() {
 		{ id: "4571609413035", quantity: 1, name: "兔兔聖誕樹" },
 		{ id: "4571609414094", quantity: 1, name: "奇美拉小八" },
 		{ id: "4571609414100", quantity: 1, name: "奇美拉兔兔" },
-  /*
-		{ id: "43526669992177", quantity: 1, name: "達摩小八" },
-		{ id: "43526670024945", quantity: 1, name: "達摩兔兔" },
+		{ id: "CHGS-0378", quantity: 1, name: "伏見兔兔" },
+		/*
 		{ id: "43481770000625", quantity: 1, name: "寄生吉伊" },
 		{ id: "43481769804017", quantity: 1, name: "睡衣小八電腦掛" },
 		{ id: "43329815970033", quantity: 1, name: "飯糰兔兔電腦掛" },

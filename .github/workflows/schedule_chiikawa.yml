@@ -10,7 +10,7 @@ permissions:
 
 jobs:
   run-python-script:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04
     env:
       DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL_CHIIKAWA }}
 

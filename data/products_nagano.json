@@ -2566,7 +2566,7 @@
     "variant_ids": [
       41573954977984
     ],
-    "available": true,
+    "available": false,
     "published_at": "2022-02-03T19:04:12+09:00",
     "created_at": "2022-01-30T19:37:56+09:00"
   },
@@ -6259,7 +6259,7 @@
     "variant_ids": [
       41179738472640
     ],
-    "available": true,
+    "available": false,
     "published_at": "2021-11-13T22:28:50+09:00",
     "created_at": "2021-11-13T22:28:51+09:00"
   },
@@ -6777,6 +6777,52 @@
     "created_at": "2026-09-28T12:14:38+09:00"
   },
   {
+    "id": 10304258015424,
+    "title": "ナガノキャラクターズ 2wayイヤーマフラー Fluffy Time アイボリー",
+    "price": "3080",
+    "url": "https://nagano-market.jp/collections/all/products/4570189214087",
+    "image": {
+      "id": 60673682112704,
+      "created_at": "2026-10-30T19:13:47+09:00",
+      "position": 1,
+      "updated_at": "2026-10-30T19:13:48+09:00",
+      "product_id": 10304258015424,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0585/2836/6784/files/4570189214087_03_ab820658-f3b6-4de6-a25b-be927dd7adf0.jpg?v=1793355228",
+      "width": 1600,
+      "height": 1600
+    },
+    "variant_ids": [
+      50645910421696
+    ],
+    "available": false,
+    "published_at": "2026-11-13T11:00:06+09:00",
+    "created_at": "2026-10-30T16:37:36+09:00"
+  },
+  {
+    "id": 10304258048192,
+    "title": "ナガノキャラクターズ 2wayイヤーマフラー Fluffy Time ブラウン",
+    "price": "3080",
+    "url": "https://nagano-market.jp/collections/all/products/4570189214094",
+    "image": {
+      "id": 60673699643584,
+      "created_at": "2026-10-30T19:14:26+09:00",
+      "position": 1,
+      "updated_at": "2026-10-30T19:14:28+09:00",
+      "product_id": 10304258048192,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0585/2836/6784/files/4570189214094_03.jpg?v=1793355268",
+      "width": 3420,
+      "height": 3420
+    },
+    "variant_ids": [
+      50645910454464
+    ],
+    "available": false,
+    "published_at": "2026-11-13T11:00:05+09:00",
+    "created_at": "2026-10-30T16:37:37+09:00"
+  },
+  {
     "id": 8293567398080,
     "title": "ナガノキャラクターズ 2wayネックピロー（くま）",
     "price": "3300",
@@ -7186,7 +7232,7 @@
     "variant_ids": [
       45847446749376
     ],
-    "available": true,
+    "available": false,
     "published_at": "2024-12-13T11:00:08+09:00",
     "created_at": "2024-12-05T10:55:06+09:00"
   },
@@ -8313,7 +8359,7 @@
     "variant_ids": [
       44324855808192
     ],
-    "available": true,
+    "available": false,
     "published_at": "2024-01-03T11:00:02+09:00",
     "created_at": "2023-12-27T10:38:02+09:00"
   },
@@ -8580,7 +8626,7 @@
       50443756208320,
       50443756241088
     ],
-    "available": true,
+    "available": false,
     "published_at": "2026-10-16T11:00:02+09:00",
     "created_at": "2026-10-08T16:29:28+09:00"
   },
@@ -8655,7 +8701,7 @@
       46290855723200,
       46290855755968
     ],
-    "available": true,
+    "available": false,
     "published_at": "2025-04-18T11:00:27+09:00",
     "created_at": "2025-04-14T18:11:20+09:00"
   },
@@ -10804,7 +10850,7 @@
     "variant_ids": [
       44324855709888
     ],
-    "available": true,
+    "available": false,
     "published_at": "2025-08-08T11:00:57+09:00",
     "created_at": "2023-12-27T10:38:01+09:00"
   },
@@ -10919,10 +10965,9 @@
     "variant_ids": [
       48702030381248
     ],
-    "available": false,
-    "published_at": "2026-08-07T11:00:21+09:00",
-    "created_at": "2026-07-31T13:22:39+09:00",
-    "restock_date": "2026/11/13"
+    "available": true,
+    "published_at": "2026-11-13T11:00:20+09:00",
+    "created_at": "2026-07-31T13:22:39+09:00"
   },
   {
     "id": 8663392714944,
@@ -10943,10 +10988,9 @@
     "variant_ids": [
       48702030414016
     ],
-    "available": false,
-    "published_at": "2026-08-07T11:00:21+09:00",
-    "created_at": "2026-07-31T13:22:40+09:00",
-    "restock_date": "2026/11/13"
+    "available": true,
+    "published_at": "2026-11-13T11:00:19+09:00",
+    "created_at": "2026-07-31T13:22:40+09:00"
   },
   {
     "id": 8663392649408,
@@ -12054,6 +12098,52 @@
     "created_at": "2026-03-09T15:19:31+09:00"
   },
   {
+    "id": 10304257589440,
+    "title": "ナガノキャラクターズ ぬくぬくソックス くま (年末) オフ 23-25cm",
+    "price": "2200",
+    "url": "https://nagano-market.jp/collections/all/products/4570189207775",
+    "image": {
+      "id": 60670922522816,
+      "created_at": "2026-10-30T17:55:31+09:00",
+      "position": 1,
+      "updated_at": "2026-10-30T17:55:33+09:00",
+      "product_id": 10304257589440,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0585/2836/6784/files/4570189207775_1.jpg?v=1793350533",
+      "width": 1600,
+      "height": 1600
+    },
+    "variant_ids": [
+      50645909864640
+    ],
+    "available": false,
+    "published_at": "2026-11-13T11:00:14+09:00",
+    "created_at": "2026-10-30T16:37:24+09:00"
+  },
+  {
+    "id": 10304257622208,
+    "title": "ナガノキャラクターズ ぬくぬくソックス もぐらコロッケ(さかな) オレンジ 23-25cm",
+    "price": "2200",
+    "url": "https://nagano-market.jp/collections/all/products/4570189207782",
+    "image": {
+      "id": 60670965448896,
+      "created_at": "2026-10-30T17:56:17+09:00",
+      "position": 1,
+      "updated_at": "2026-10-30T17:56:19+09:00",
+      "product_id": 10304257622208,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0585/2836/6784/files/4570189207782_1.jpg?v=1793350579",
+      "width": 1600,
+      "height": 1600
+    },
+    "variant_ids": [
+      50645909897408
+    ],
+    "available": false,
+    "published_at": "2026-11-13T11:00:12+09:00",
+    "created_at": "2026-10-30T16:37:25+09:00"
+  },
+  {
     "id": 7833992659136,
     "title": "ナガノキャラクターズ ひんやりまくらカバー（パープル）",
     "price": "1980",
@@ -12348,10 +12438,9 @@
     "variant_ids": [
       47090090442944
     ],
-    "available": false,
-    "published_at": "2025-11-28T11:00:09+09:00",
-    "created_at": "2025-11-25T16:44:22+09:00",
-    "restock_date": "2026/11/13"
+    "available": true,
+    "published_at": "2026-11-13T11:00:24+09:00",
+    "created_at": "2025-11-25T16:44:22+09:00"
   },
   {
     "id": 8392186233024,
@@ -12671,10 +12760,9 @@
     "variant_ids": [
       44324856430784
     ],
-    "available": false,
-    "published_at": "2026-03-13T11:00:16+09:00",
-    "created_at": "2023-12-27T10:38:11+09:00",
-    "restock_date": "2026/11/13"
+    "available": true,
+    "published_at": "2026-11-13T11:00:22+09:00",
+    "created_at": "2023-12-27T10:38:11+09:00"
   },
   {
     "id": 7673360941248,
@@ -14489,10 +14577,9 @@
     "variant_ids": [
       48394292822208
     ],
-    "available": false,
-    "published_at": "2026-08-07T11:00:07+09:00",
-    "created_at": "2026-06-10T09:55:51+09:00",
-    "restock_date": "2026/11/13"
+    "available": true,
+    "published_at": "2026-11-13T11:00:21+09:00",
+    "created_at": "2026-06-10T09:55:51+09:00"
   },
   {
     "id": 8323387654336,
@@ -16790,7 +16877,7 @@
     "variant_ids": [
       45774850523328
     ],
-    "available": false,
+    "available": true,
     "published_at": "2024-11-08T11:00:05+09:00",
     "created_at": "2024-11-05T20:55:33+09:00"
   },
@@ -17163,6 +17250,29 @@
     "created_at": "2025-09-09T14:19:10+09:00"
   },
   {
+    "id": 10304257556672,
+    "title": "ナガノキャラクターズ ケーキを食べよう もぐらコロッケのマスコット2個セット （サンタとたこつき）",
+    "price": "2860",
+    "url": "https://nagano-market.jp/collections/all/products/4571609414933",
+    "image": {
+      "id": 60670894571712,
+      "created_at": "2026-10-30T17:54:41+09:00",
+      "position": 1,
+      "updated_at": "2026-10-30T17:54:43+09:00",
+      "product_id": 10304257556672,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0585/2836/6784/files/2_0e6083bb-ba7f-4056-b13a-768f677d493c.png?v=1793350483",
+      "width": 1200,
+      "height": 1200
+    },
+    "variant_ids": [
+      50645909831872
+    ],
+    "available": false,
+    "published_at": "2026-11-13T11:00:17+09:00",
+    "created_at": "2026-10-30T16:37:23+09:00"
+  },
+  {
     "id": 7915327979712,
     "title": "ナガノキャラクターズ ゴールドクリアシール①ナガノキャラクターズ",
     "price": "550",
@@ -17531,6 +17641,52 @@
     "created_at": "2025-04-14T18:11:27+09:00"
   },
   {
+    "id": 10304258113728,
+    "title": "ナガノキャラクターズ ショルダーポーチ Hmm...（くまともぐらコロッケ） ブルー",
+    "price": "3850",
+    "url": "https://nagano-market.jp/collections/all/products/4570189214100",
+    "image": {
+      "id": 60673615921344,
+      "created_at": "2026-10-30T19:10:29+09:00",
+      "position": 1,
+      "updated_at": "2026-10-30T19:10:31+09:00",
+      "product_id": 10304258113728,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0585/2836/6784/files/4570189214100_01.jpg?v=1793355031",
+      "width": 1600,
+      "height": 1600
+    },
+    "variant_ids": [
+      50645910520000
+    ],
+    "available": false,
+    "published_at": "2026-11-13T11:00:05+09:00",
+    "created_at": "2026-10-30T16:37:38+09:00"
+  },
+  {
+    "id": 10304258146496,
+    "title": "ナガノキャラクターズ ショルダーポーチ 初夢（じいさんとアザラシ） ブルー",
+    "price": "3850",
+    "url": "https://nagano-market.jp/collections/all/products/4570189214117",
+    "image": {
+      "id": 60673631387840,
+      "created_at": "2026-10-30T19:10:53+09:00",
+      "position": 1,
+      "updated_at": "2026-10-30T19:10:54+09:00",
+      "product_id": 10304258146496,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0585/2836/6784/files/4570189214117_01.jpg?v=1793355054",
+      "width": 1600,
+      "height": 1600
+    },
+    "variant_ids": [
+      50645910552768
+    ],
+    "available": false,
+    "published_at": "2026-11-13T11:00:03+09:00",
+    "created_at": "2026-10-30T16:37:40+09:00"
+  },
+  {
     "id": 7500416712896,
     "title": "ナガノキャラクターズ シリコンルームライト（もぐらコロッケ）",
     "price": "3080",
@@ -17666,7 +17822,7 @@
       49021379379392,
       49021379412160
     ],
-    "available": true,
+    "available": false,
     "published_at": "2026-10-23T11:00:10+09:00",
     "created_at": "2026-09-16T09:55:51+09:00"
   },
@@ -17905,7 +18061,7 @@
       50551757242560,
       50551757275328
     ],
-    "available": true,
+    "available": false,
     "published_at": "2026-10-23T11:00:06+09:00",
     "created_at": "2026-10-21T13:49:19+09:00"
   },
@@ -21312,7 +21468,7 @@
     "variant_ids": [
       46065849925824
     ],
-    "available": true,
+    "available": false,
     "published_at": "2025-02-14T11:00:20+09:00",
     "created_at": "2025-02-04T15:55:40+09:00"
   },
@@ -21381,7 +21537,7 @@
     "variant_ids": [
       48129924595904
     ],
-    "available": true,
+    "available": false,
     "published_at": "2026-04-10T11:00:13+09:00",
     "created_at": "2026-04-07T11:27:20+09:00"
   },
@@ -22462,7 +22618,7 @@
     "variant_ids": [
       46290853200064
     ],
-    "available": true,
+    "available": false,
     "published_at": "2026-08-07T11:00:08+09:00",
     "created_at": "2025-04-14T18:09:16+09:00"
   },
@@ -22692,7 +22848,7 @@
     "variant_ids": [
       44288371982528
     ],
-    "available": true,
+    "available": false,
     "published_at": "2023-12-13T11:00:03+09:00",
     "created_at": "2023-12-11T20:07:07+09:00"
   },
@@ -22946,9 +23102,8 @@
       48976982016192
     ],
     "available": false,
-    "published_at": "2026-10-02T11:00:13+09:00",
-    "created_at": "2026-09-08T19:37:12+09:00",
-    "restock_date": "2026/11/13"
+    "published_at": "2026-11-13T11:00:18+09:00",
+    "created_at": "2026-09-08T19:37:12+09:00"
   },
   {
     "id": 8663393272000,
@@ -22992,7 +23147,7 @@
     "variant_ids": [
       48702031003840
     ],
-    "available": true,
+    "available": false,
     "published_at": "2026-09-18T11:00:06+09:00",
     "created_at": "2026-07-31T13:23:07+09:00"
   },
@@ -23130,10 +23285,9 @@
     "variant_ids": [
       48394292887744
     ],
-    "available": false,
-    "published_at": "2026-08-07T11:00:06+09:00",
-    "created_at": "2026-06-10T09:55:54+09:00",
-    "restock_date": "2026/11/13"
+    "available": true,
+    "published_at": "2026-11-13T11:00:23+09:00",
+    "created_at": "2026-06-10T09:55:54+09:00"
   },
   {
     "id": 8323387162816,
@@ -23223,7 +23377,7 @@
     "variant_ids": [
       43775716982976
     ],
-    "available": true,
+    "available": false,
     "published_at": "2026-04-23T18:30:15+09:00",
     "created_at": "2023-08-08T18:10:50+09:00"
   },
@@ -23246,7 +23400,7 @@
     "variant_ids": [
       43775717081280
     ],
-    "available": true,
+    "available": false,
     "published_at": "2023-08-17T11:00:03+09:00",
     "created_at": "2023-08-08T18:10:50+09:00"
   },
@@ -23339,9 +23493,8 @@
       50352402071744
     ],
     "available": false,
-    "published_at": "2026-10-02T11:00:13+09:00",
-    "created_at": "2026-09-28T12:14:19+09:00",
-    "restock_date": "2026/11/13"
+    "published_at": "2026-11-13T11:00:19+09:00",
+    "created_at": "2026-09-28T12:14:19+09:00"
   },
   {
     "id": 10257933107392,
@@ -23593,7 +23746,7 @@
       48618834067648,
       48618834100416
     ],
-    "available": true,
+    "available": false,
     "published_at": "2026-07-17T11:00:12+09:00",
     "created_at": "2026-07-15T15:55:04+09:00"
   },
@@ -23665,7 +23818,7 @@
       46632937980096,
       46632938012864
     ],
-    "available": true,
+    "available": false,
     "published_at": "2025-08-08T11:00:30+09:00",
     "created_at": "2025-08-04T11:25:04+09:00"
   },
@@ -25148,7 +25301,7 @@
     "variant_ids": [
       46026571710656
     ],
-    "available": true,
+    "available": false,
     "published_at": "2025-01-24T11:00:21+09:00",
     "created_at": "2025-01-20T16:59:35+09:00"
   },
@@ -26442,6 +26595,54 @@
     "created_at": "2026-02-06T16:46:53+09:00"
   },
   {
+    "id": 10304257786048,
+    "title": "ナガノキャラクターズ ニット くま ベージュ",
+    "price": "7150",
+    "url": "https://nagano-market.jp/collections/all/products/4570189213745",
+    "image": {
+      "id": 60673039990976,
+      "created_at": "2026-10-30T18:52:56+09:00",
+      "position": 1,
+      "updated_at": "2026-10-30T18:52:58+09:00",
+      "product_id": 10304257786048,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0585/2836/6784/files/4570189213745_03.jpg?v=1793353978",
+      "width": 1600,
+      "height": 1600
+    },
+    "variant_ids": [
+      50645910126784,
+      50645910159552
+    ],
+    "available": false,
+    "published_at": "2026-11-13T11:00:11+09:00",
+    "created_at": "2026-10-30T16:37:29+09:00"
+  },
+  {
+    "id": 10304257851584,
+    "title": "ナガノキャラクターズ ニット カニット ライトブルー",
+    "price": "7150",
+    "url": "https://nagano-market.jp/collections/all/products/4570189213769",
+    "image": {
+      "id": 60673051951296,
+      "created_at": "2026-10-30T18:53:39+09:00",
+      "position": 1,
+      "updated_at": "2026-10-30T18:53:41+09:00",
+      "product_id": 10304257851584,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0585/2836/6784/files/4570189213769_08.jpg?v=1793354021",
+      "width": 1600,
+      "height": 1600
+    },
+    "variant_ids": [
+      50645910225088,
+      50645910257856
+    ],
+    "available": false,
+    "published_at": "2026-11-13T11:00:10+09:00",
+    "created_at": "2026-10-30T16:37:31+09:00"
+  },
+  {
     "id": 10257933402304,
     "title": "ナガノキャラクターズ ニットカーディガン カレッジなくま ナチュラル",
     "price": "7150",
@@ -26782,7 +26983,7 @@
     "variant_ids": [
       45628123349184
     ],
-    "available": true,
+    "available": false,
     "published_at": "2024-10-11T11:00:11+09:00",
     "created_at": "2024-10-02T13:23:16+09:00"
   },
@@ -27454,6 +27655,52 @@
     "created_at": "2025-12-15T15:16:33+09:00"
   },
   {
+    "id": 10304257917120,
+    "title": "ナガノキャラクターズ ファーバッグ Fluffy Time（くまともぐらコロッケ） ブラウン",
+    "price": "5500",
+    "url": "https://nagano-market.jp/collections/all/products/4570189214063",
+    "image": {
+      "id": 60673306951872,
+      "created_at": "2026-10-30T19:02:07+09:00",
+      "position": 1,
+      "updated_at": "2026-10-30T19:02:09+09:00",
+      "product_id": 10304257917120,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0585/2836/6784/files/4570189214063_03.jpg?v=1793354529",
+      "width": 1600,
+      "height": 1600
+    },
+    "variant_ids": [
+      50645910323392
+    ],
+    "available": false,
+    "published_at": "2026-11-13T11:00:08+09:00",
+    "created_at": "2026-10-30T16:37:33+09:00"
+  },
+  {
+    "id": 10304257982656,
+    "title": "ナガノキャラクターズ ファーバッグ Fluffy Time（じいさんとアザラシ） ホワイト",
+    "price": "5500",
+    "url": "https://nagano-market.jp/collections/all/products/4570189214070",
+    "image": {
+      "id": 60673773174976,
+      "created_at": "2026-10-30T19:16:41+09:00",
+      "position": 1,
+      "updated_at": "2026-10-30T19:16:42+09:00",
+      "product_id": 10304257982656,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0585/2836/6784/files/4570189214070_03_f3ab0050-8954-4fe3-9940-068f9335f4df.jpg?v=1793355402",
+      "width": 1600,
+      "height": 1600
+    },
+    "variant_ids": [
+      50645910388928
+    ],
+    "available": false,
+    "published_at": "2026-11-13T11:00:08+09:00",
+    "created_at": "2026-10-30T16:37:34+09:00"
+  },
+  {
     "id": 8405669216448,
     "title": "ナガノキャラクターズ ファーマフラー くまフェイス ブラック",
     "price": "3080",
@@ -27613,6 +27860,29 @@
     "available": false,
     "published_at": "2025-09-12T11:00:18+09:00",
     "created_at": "2025-09-09T14:19:43+09:00"
+  },
+  {
+    "id": 10304257491136,
+    "title": "ナガノキャラクターズ ブラックサンタなくまマスコット",
+    "price": "1870",
+    "url": "https://nagano-market.jp/collections/all/products/4571609413868",
+    "image": {
+      "id": 60670395056320,
+      "created_at": "2026-10-30T17:34:36+09:00",
+      "position": 1,
+      "updated_at": "2026-10-30T17:34:38+09:00",
+      "product_id": 10304257491136,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0585/2836/6784/files/4571609413868_1.jpg?v=1793349278",
+      "width": 1500,
+      "height": 1500
+    },
+    "variant_ids": [
+      50645909799104
+    ],
+    "available": false,
+    "published_at": "2026-11-13T11:00:16+09:00",
+    "created_at": "2026-10-30T16:37:22+09:00"
   },
   {
     "id": 8045721321664,
@@ -28006,6 +28276,29 @@
     "created_at": "2024-09-17T13:12:51+09:00"
   },
   {
+    "id": 10304257458368,
+    "title": "ナガノキャラクターズ ホリデーリースなくまぬいぐるみ",
+    "price": "3520",
+    "url": "https://nagano-market.jp/collections/all/products/4571609414926",
+    "image": {
+      "id": 60670389158080,
+      "created_at": "2026-10-30T17:34:05+09:00",
+      "position": 1,
+      "updated_at": "2026-10-30T17:34:07+09:00",
+      "product_id": 10304257458368,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0585/2836/6784/files/4571609414926_1.jpg?v=1793349247",
+      "width": 1500,
+      "height": 1500
+    },
+    "variant_ids": [
+      50645909733568
+    ],
+    "available": false,
+    "published_at": "2026-11-13T11:00:15+09:00",
+    "created_at": "2026-10-30T16:37:20+09:00"
+  },
+  {
     "id": 8277042266304,
     "title": "ナガノキャラクターズ ホログラム大きめステッカー（ALOHA）",
     "price": "440",
@@ -28047,7 +28340,7 @@
     "variant_ids": [
       46546161434816
     ],
-    "available": true,
+    "available": false,
     "published_at": "2025-07-11T11:00:07+09:00",
     "created_at": "2025-07-07T12:18:32+09:00"
   },
@@ -28305,6 +28598,29 @@
     "created_at": "2024-11-05T20:55:45+09:00"
   },
   {
+    "id": 10304257884352,
+    "title": "ナガノキャラクターズ ボアブルゾン なごり惜しい アイボリー",
+    "price": "8250",
+    "url": "https://nagano-market.jp/collections/all/products/4570189213783",
+    "image": {
+      "id": 60673265041600,
+      "created_at": "2026-10-30T19:01:02+09:00",
+      "position": 1,
+      "updated_at": "2026-10-30T19:01:04+09:00",
+      "product_id": 10304257884352,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0585/2836/6784/files/4570189213783_04.jpg?v=1793354464",
+      "width": 1600,
+      "height": 1600
+    },
+    "variant_ids": [
+      50645910290624
+    ],
+    "available": false,
+    "published_at": "2026-11-13T11:00:09+09:00",
+    "created_at": "2026-10-30T16:37:32+09:00"
+  },
+  {
     "id": 8646252560576,
     "title": "ナガノキャラクターズ ボディーバッグ DANCE オフホワイト",
     "price": "4620",
@@ -28346,7 +28662,7 @@
     "variant_ids": [
       48618834755776
     ],
-    "available": true,
+    "available": false,
     "published_at": "2026-09-18T11:00:08+09:00",
     "created_at": "2026-07-15T15:55:24+09:00"
   },
@@ -28392,7 +28708,7 @@
     "variant_ids": [
       48485158584512
     ],
-    "available": true,
+    "available": false,
     "published_at": "2026-09-25T18:00:04+09:00",
     "created_at": "2026-06-22T10:48:46+09:00"
   },
@@ -28737,7 +29053,7 @@
     "variant_ids": [
       50352402366656
     ],
-    "available": true,
+    "available": false,
     "published_at": "2026-10-02T11:00:09+09:00",
     "created_at": "2026-09-28T12:14:28+09:00"
   },
@@ -29197,7 +29513,7 @@
     "variant_ids": [
       50352402202816
     ],
-    "available": true,
+    "available": false,
     "published_at": "2026-10-02T11:00:10+09:00",
     "created_at": "2026-09-28T12:14:23+09:00"
   },
@@ -29542,7 +29858,7 @@
     "variant_ids": [
       44288371294400
     ],
-    "available": true,
+    "available": false,
     "published_at": "2026-08-07T11:00:09+09:00",
     "created_at": "2023-12-11T20:06:49+09:00"
   },
@@ -29658,9 +29974,8 @@
       44288371327168
     ],
     "available": false,
-    "published_at": "2026-04-23T18:30:13+09:00",
-    "created_at": "2023-12-11T20:06:50+09:00",
-    "restock_date": "2026/11/13"
+    "published_at": "2026-11-13T11:00:25+09:00",
+    "created_at": "2023-12-11T20:06:50+09:00"
   },
   {
     "id": 8079186854080,
@@ -30417,7 +30732,7 @@
     "variant_ids": [
       44324856856768
     ],
-    "available": true,
+    "available": false,
     "published_at": "2025-10-31T11:00:21+09:00",
     "created_at": "2023-12-27T10:38:18+09:00"
   },
@@ -30785,7 +31100,7 @@
     "variant_ids": [
       46026571317440
     ],
-    "available": true,
+    "available": false,
     "published_at": "2025-01-24T11:00:38+09:00",
     "created_at": "2025-01-20T16:59:31+09:00"
   },
@@ -31617,7 +31932,7 @@
     "variant_ids": [
       46632938897600
     ],
-    "available": true,
+    "available": false,
     "published_at": "2025-08-08T11:00:20+09:00",
     "created_at": "2025-08-04T11:25:57+09:00"
   },
@@ -31755,7 +32070,7 @@
     "variant_ids": [
       46632938930368
     ],
-    "available": true,
+    "available": false,
     "published_at": "2025-08-08T11:00:18+09:00",
     "created_at": "2025-08-04T11:26:00+09:00"
   },
@@ -31849,7 +32164,7 @@
       50352402956480,
       50352402989248
     ],
-    "available": true,
+    "available": false,
     "published_at": "2026-10-23T11:00:11+09:00",
     "created_at": "2026-09-28T12:14:46+09:00"
   },
@@ -31943,7 +32258,7 @@
     "variant_ids": [
       48976982114496
     ],
-    "available": true,
+    "available": false,
     "published_at": "2026-10-23T11:00:12+09:00",
     "created_at": "2026-09-08T19:37:16+09:00"
   },
@@ -34624,6 +34939,30 @@
     "created_at": "2023-12-11T20:06:44+09:00"
   },
   {
+    "id": 10304257720512,
+    "title": "ナガノキャラクターズ 長袖Tシャツ Fluffy KUMA クリーム",
+    "price": "5280",
+    "url": "https://nagano-market.jp/collections/all/products/4570189213721",
+    "image": {
+      "id": 60671022596288,
+      "created_at": "2026-10-30T17:57:45+09:00",
+      "position": 1,
+      "updated_at": "2026-10-30T17:57:47+09:00",
+      "product_id": 10304257720512,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0585/2836/6784/files/4570189213721_06.jpg?v=1793350667",
+      "width": 1600,
+      "height": 1600
+    },
+    "variant_ids": [
+      50645909995712,
+      50645910028480
+    ],
+    "available": false,
+    "published_at": "2026-11-13T11:00:13+09:00",
+    "created_at": "2026-10-30T16:37:26+09:00"
+  },
+  {
     "id": 8428123488448,
     "title": "ナガノキャラクターズ 長袖Tシャツ I LOVE KUMA スミ",
     "price": "4180",
@@ -34722,6 +35061,30 @@
     "available": true,
     "published_at": "2025-10-31T11:00:09+09:00",
     "created_at": "2025-10-28T12:35:45+09:00"
+  },
+  {
+    "id": 10304257753280,
+    "title": "ナガノキャラクターズ 長袖Tシャツ 秋が来た ベージュ",
+    "price": "4950",
+    "url": "https://nagano-market.jp/collections/all/products/4570189213738",
+    "image": {
+      "id": 60671061524672,
+      "created_at": "2026-10-30T17:58:37+09:00",
+      "position": 1,
+      "updated_at": "2026-10-30T17:58:39+09:00",
+      "product_id": 10304257753280,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0585/2836/6784/files/4570189213738_06.jpg?v=1793350719",
+      "width": 1600,
+      "height": 1600
+    },
+    "variant_ids": [
+      50645910061248,
+      50645910094016
+    ],
+    "available": false,
+    "published_at": "2026-11-13T11:00:12+09:00",
+    "created_at": "2026-10-30T16:37:28+09:00"
   },
   {
     "id": 8453080285376,
@@ -39753,7 +40116,7 @@
     "variant_ids": [
       43185385996480
     ],
-    "available": true,
+    "available": false,
     "published_at": "2022-10-06T21:06:16+09:00",
     "created_at": "2022-09-29T15:07:14+09:00"
   },
@@ -40191,7 +40554,7 @@
     "variant_ids": [
       43601276993728
     ],
-    "available": true,
+    "available": false,
     "published_at": "2023-04-19T11:00:01+09:00",
     "created_at": "2023-04-17T10:19:14+09:00"
   },
@@ -46712,10 +47075,9 @@
     "variant_ids": [
       43601278697664
     ],
-    "available": false,
-    "published_at": "2026-08-07T11:00:12+09:00",
-    "created_at": "2023-04-17T10:19:38+09:00",
-    "restock_date": "2026/11/13"
+    "available": true,
+    "published_at": "2026-11-13T11:00:27+09:00",
+    "created_at": "2023-04-17T10:19:38+09:00"
   },
   {
     "id": 7475350339776,
@@ -46737,9 +47099,8 @@
       43601278632128
     ],
     "available": false,
-    "published_at": "2026-08-07T11:00:11+09:00",
-    "created_at": "2023-04-17T10:19:36+09:00",
-    "restock_date": "2026/11/13"
+    "published_at": "2026-11-13T11:00:25+09:00",
+    "created_at": "2023-04-17T10:19:36+09:00"
   },
   {
     "id": 7475350372544,
@@ -46760,10 +47121,9 @@
     "variant_ids": [
       43601278664896
     ],
-    "available": false,
-    "published_at": "2026-08-07T11:00:12+09:00",
-    "created_at": "2023-04-17T10:19:37+09:00",
-    "restock_date": "2026/11/13"
+    "available": true,
+    "published_at": "2026-11-13T11:00:26+09:00",
+    "created_at": "2023-04-17T10:19:37+09:00"
   },
   {
     "id": 7431191167168,

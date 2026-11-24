@@ -6938,6 +6938,52 @@
     "created_at": "2025-08-04T11:24:52+09:00"
   },
   {
+    "id": 10330859274432,
+    "title": "ナガノキャラクターズ 2WAYピックリルスタンド ①脱出",
+    "price": "1100",
+    "url": "https://nagano-market.jp/collections/all/products/4970381932244",
+    "image": {
+      "id": 61145709609152,
+      "created_at": "2026-11-12T20:28:50+09:00",
+      "position": 1,
+      "updated_at": "2026-11-12T20:28:51+09:00",
+      "product_id": 10330859274432,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0585/2836/6784/files/4970381932244-01_7775737c-19d5-444f-be38-2baacf0a3cb0.jpg?v=1794482931",
+      "width": 2838,
+      "height": 2838
+    },
+    "variant_ids": [
+      50783193825472
+    ],
+    "available": false,
+    "published_at": "2026-11-24T11:00:01+09:00",
+    "created_at": "2026-11-12T19:19:08+09:00"
+  },
+  {
+    "id": 10330851082432,
+    "title": "ナガノキャラクターズ 2WAYピックリルスタンド ②もぐらコロッケ(さかな)",
+    "price": "1100",
+    "url": "https://nagano-market.jp/collections/all/products/4970381932251",
+    "image": {
+      "id": 61145695682752,
+      "created_at": "2026-11-12T20:28:06+09:00",
+      "position": 1,
+      "updated_at": "2026-11-12T20:28:07+09:00",
+      "product_id": 10330851082432,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0585/2836/6784/files/4970381932251-01.jpg?v=1794482887",
+      "width": 2838,
+      "height": 2838
+    },
+    "variant_ids": [
+      50783165972672
+    ],
+    "available": false,
+    "published_at": "2026-11-24T11:00:02+09:00",
+    "created_at": "2026-11-12T19:16:16+09:00"
+  },
+  {
     "id": 7915326931136,
     "title": "ナガノキャラクターズ 2WAYポケットハンディファン（もぐらコロッケ）",
     "price": "2200",
@@ -8270,6 +8316,30 @@
     "available": true,
     "published_at": "2026-03-13T11:00:19+09:00",
     "created_at": "2023-09-15T12:23:59+09:00"
+  },
+  {
+    "id": 10330850984128,
+    "title": "ナガノキャラクターズ Kiramekko Kuma Color Collection（全8種）",
+    "price": "2090",
+    "url": "https://nagano-market.jp/collections/all/products/4571609402794",
+    "image": {
+      "id": 61185667301568,
+      "created_at": "2026-11-13T12:36:06+09:00",
+      "position": 1,
+      "updated_at": "2026-11-13T12:36:08+09:00",
+      "product_id": 10330850984128,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0585/2836/6784/files/Kiramekko.png?v=1794540968",
+      "width": 1200,
+      "height": 1200
+    },
+    "variant_ids": [
+      50783165644992,
+      50783165677760
+    ],
+    "available": true,
+    "published_at": "2026-11-24T11:00:03+09:00",
+    "created_at": "2026-11-12T19:16:15+09:00"
   },
   {
     "id": 8293568839872,
@@ -10298,7 +10368,7 @@
     "variant_ids": [
       47233756496064
     ],
-    "available": true,
+    "available": false,
     "published_at": "2026-01-16T11:00:05+09:00",
     "created_at": "2026-01-13T22:25:06+09:00"
   },
@@ -17965,7 +18035,7 @@
       50551756587200,
       50551756619968
     ],
-    "available": true,
+    "available": false,
     "published_at": "2026-10-23T11:00:07+09:00",
     "created_at": "2026-10-21T13:49:15+09:00"
   },
@@ -17989,7 +18059,7 @@
       50551756652736,
       50551756685504
     ],
-    "available": true,
+    "available": false,
     "published_at": "2026-10-23T11:00:08+09:00",
     "created_at": "2026-10-21T13:49:17+09:00"
   },
@@ -21399,7 +21469,7 @@
     "variant_ids": [
       48129924399296
     ],
-    "available": true,
+    "available": false,
     "published_at": "2026-04-10T11:00:15+09:00",
     "created_at": "2026-04-07T11:27:09+09:00"
   },
@@ -21583,7 +21653,7 @@
     "variant_ids": [
       48129924661440
     ],
-    "available": true,
+    "available": false,
     "published_at": "2026-04-10T11:00:11+09:00",
     "created_at": "2026-04-07T11:27:24+09:00"
   },
@@ -21652,7 +21722,7 @@
     "variant_ids": [
       48129924628672
     ],
-    "available": true,
+    "available": false,
     "published_at": "2026-04-10T11:00:13+09:00",
     "created_at": "2026-04-07T11:27:22+09:00"
   },
@@ -23676,7 +23746,7 @@
     "variant_ids": [
       44324860428480
     ],
-    "available": true,
+    "available": false,
     "published_at": "2024-01-03T11:00:29+09:00",
     "created_at": "2023-12-27T10:39:20+09:00"
   },
@@ -25138,7 +25208,7 @@
     "variant_ids": [
       46026569515200
     ],
-    "available": true,
+    "available": false,
     "published_at": "2025-01-24T11:00:19+09:00",
     "created_at": "2025-01-20T16:59:04+09:00"
   },
@@ -28276,6 +28346,191 @@
     "created_at": "2024-09-17T13:12:51+09:00"
   },
   {
+    "id": 10330850590912,
+    "title": "ナガノキャラクターズ ホリデーなくまの ふわふわタオル（Happy holidays）",
+    "price": "990",
+    "url": "https://nagano-market.jp/collections/all/products/4571609420170",
+    "image": {
+      "id": 61145020661952,
+      "created_at": "2026-11-12T20:01:57+09:00",
+      "position": 1,
+      "updated_at": "2026-11-12T20:02:00+09:00",
+      "product_id": 10330850590912,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0585/2836/6784/files/4571609420170.jpg?v=1794481320",
+      "width": 1500,
+      "height": 1500
+    },
+    "variant_ids": [
+      50783164104896
+    ],
+    "available": true,
+    "published_at": "2026-11-24T11:00:08+09:00",
+    "created_at": "2026-11-12T19:16:05+09:00"
+  },
+  {
+    "id": 10330850754752,
+    "title": "ナガノキャラクターズ ホリデーなくまの カトラリーセット",
+    "price": "3300",
+    "url": "https://nagano-market.jp/collections/all/products/4571609420163",
+    "image": {
+      "id": 61145562382528,
+      "created_at": "2026-11-12T20:23:07+09:00",
+      "position": 1,
+      "updated_at": "2026-11-12T20:23:08+09:00",
+      "product_id": 10330850754752,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0585/2836/6784/files/c5204a5a966561794c05bad26e1f4176.jpg?v=1794482588",
+      "width": 1200,
+      "height": 1200
+    },
+    "variant_ids": [
+      50783164727488
+    ],
+    "available": true,
+    "published_at": "2026-11-24T11:00:06+09:00",
+    "created_at": "2026-11-12T19:16:09+09:00"
+  },
+  {
+    "id": 10330850656448,
+    "title": "ナガノキャラクターズ ホリデーなくまの ギフトステッカーセット",
+    "price": "880",
+    "url": "https://nagano-market.jp/collections/all/products/4571609420200",
+    "image": {
+      "id": 61145197478080,
+      "created_at": "2026-11-12T20:08:51+09:00",
+      "position": 1,
+      "updated_at": "2026-11-12T20:08:52+09:00",
+      "product_id": 10330850656448,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0585/2836/6784/files/90c60162bdd7ff98f9ffff43ab64bb95.png?v=1794481732",
+      "width": 1200,
+      "height": 1200
+    },
+    "variant_ids": [
+      50783164399808
+    ],
+    "available": true,
+    "published_at": "2026-11-24T11:00:07+09:00",
+    "created_at": "2026-11-12T19:16:06+09:00"
+  },
+  {
+    "id": 10330850721984,
+    "title": "ナガノキャラクターズ ホリデーなくまの ギフトバッグ",
+    "price": "990",
+    "url": "https://nagano-market.jp/collections/all/products/4571609420194",
+    "image": {
+      "id": 61145262162112,
+      "created_at": "2026-11-12T20:11:47+09:00",
+      "position": 1,
+      "updated_at": "2026-11-12T20:11:49+09:00",
+      "product_id": 10330850721984,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0585/2836/6784/files/4571609420194_1.jpg?v=1794481909",
+      "width": 1500,
+      "height": 1500
+    },
+    "variant_ids": [
+      50783164694720
+    ],
+    "available": true,
+    "published_at": "2026-11-24T11:00:04+09:00",
+    "created_at": "2026-11-12T19:16:08+09:00"
+  },
+  {
+    "id": 10330850885824,
+    "title": "ナガノキャラクターズ ホリデーなくまの シャンパングラス",
+    "price": "2530",
+    "url": "https://nagano-market.jp/collections/all/products/4571609420149",
+    "image": {
+      "id": 61145665274048,
+      "created_at": "2026-11-12T20:26:38+09:00",
+      "position": 1,
+      "updated_at": "2026-11-12T20:26:40+09:00",
+      "product_id": 10330850885824,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0585/2836/6784/files/4571609420149_1.jpg?v=1794482800",
+      "width": 1500,
+      "height": 1500
+    },
+    "variant_ids": [
+      50783165317312
+    ],
+    "available": true,
+    "published_at": "2026-11-24T11:00:06+09:00",
+    "created_at": "2026-11-12T19:16:12+09:00"
+  },
+  {
+    "id": 10330850820288,
+    "title": "ナガノキャラクターズ ホリデーなくまの スープカップ",
+    "price": "2640",
+    "url": "https://nagano-market.jp/collections/all/products/4571609420156",
+    "image": {
+      "id": 61145648201920,
+      "created_at": "2026-11-12T20:25:53+09:00",
+      "position": 1,
+      "updated_at": "2026-11-12T20:25:55+09:00",
+      "product_id": 10330850820288,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0585/2836/6784/files/4571609420156_1.jpg?v=1794482755",
+      "width": 1500,
+      "height": 1500
+    },
+    "variant_ids": [
+      50783165022400
+    ],
+    "available": true,
+    "published_at": "2026-11-24T11:00:05+09:00",
+    "created_at": "2026-11-12T19:16:11+09:00"
+  },
+  {
+    "id": 10330850951360,
+    "title": "ナガノキャラクターズ ホリデーなくまの ディナープレート",
+    "price": "3080",
+    "url": "https://nagano-market.jp/collections/all/products/4571609420132",
+    "image": {
+      "id": 61145677201600,
+      "created_at": "2026-11-12T20:27:12+09:00",
+      "position": 1,
+      "updated_at": "2026-11-12T20:27:14+09:00",
+      "product_id": 10330850951360,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0585/2836/6784/files/4571609420132.jpg?v=1794482834",
+      "width": 1500,
+      "height": 1500
+    },
+    "variant_ids": [
+      50783165612224
+    ],
+    "available": true,
+    "published_at": "2026-11-24T11:00:02+09:00",
+    "created_at": "2026-11-12T19:16:13+09:00"
+  },
+  {
+    "id": 10330850525376,
+    "title": "ナガノキャラクターズ ホリデーなくまの トレーディングオーナメントにもなるキラキラアクリルチャーム （全10種）",
+    "price": "440",
+    "url": "https://nagano-market.jp/collections/all/products/4571609420118",
+    "image": {
+      "id": 61144907186368,
+      "created_at": "2026-11-12T19:57:59+09:00",
+      "position": 1,
+      "updated_at": "2026-11-12T19:58:01+09:00",
+      "product_id": 10330850525376,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0585/2836/6784/files/6b2bbb3f594ce0dbf4d5670f7b69e3ad.png?v=1794481081",
+      "width": 1200,
+      "height": 1200
+    },
+    "variant_ids": [
+      50783164006592,
+      50783164039360
+    ],
+    "available": true,
+    "published_at": "2026-11-24T11:00:09+09:00",
+    "created_at": "2026-11-12T19:16:03+09:00"
+  },
+  {
     "id": 10304257458368,
     "title": "ナガノキャラクターズ ホリデーリースなくまぬいぐるみ",
     "price": "3520",
@@ -30042,7 +30297,7 @@
     "variant_ids": [
       44324856299712
     ],
-    "available": true,
+    "available": false,
     "published_at": "2024-01-03T11:00:35+09:00",
     "created_at": "2023-12-27T10:38:08+09:00"
   },
@@ -30249,7 +30504,7 @@
     "variant_ids": [
       47661730726080
     ],
-    "available": true,
+    "available": false,
     "published_at": "2026-05-22T11:00:05+09:00",
     "created_at": "2026-03-09T15:19:42+09:00"
   },
@@ -30341,7 +30596,7 @@
     "variant_ids": [
       44324856955072
     ],
-    "available": true,
+    "available": false,
     "published_at": "2024-01-03T11:00:36+09:00",
     "created_at": "2023-12-27T10:38:20+09:00"
   },
@@ -31031,7 +31286,7 @@
     "variant_ids": [
       46026570465472
     ],
-    "available": true,
+    "available": false,
     "published_at": "2025-01-24T11:00:37+09:00",
     "created_at": "2025-01-20T16:59:20+09:00"
   },
@@ -31123,7 +31378,7 @@
     "variant_ids": [
       46026571284672
     ],
-    "available": true,
+    "available": false,
     "published_at": "2025-01-24T11:00:38+09:00",
     "created_at": "2025-01-20T16:59:31+09:00"
   },
@@ -32140,7 +32395,7 @@
       50352403022016,
       50352403054784
     ],
-    "available": true,
+    "available": false,
     "published_at": "2026-10-02T11:00:05+09:00",
     "created_at": "2026-09-28T12:14:47+09:00"
   },
@@ -32400,7 +32655,7 @@
       50352402858176,
       50352402890944
     ],
-    "available": true,
+    "available": false,
     "published_at": "2026-10-02T11:00:06+09:00",
     "created_at": "2026-09-28T12:14:44+09:00"
   },
@@ -33458,7 +33713,7 @@
     "variant_ids": [
       46875811774656
     ],
-    "available": true,
+    "available": false,
     "published_at": "2025-10-10T11:00:14+09:00",
     "created_at": "2025-10-04T09:29:23+09:00"
   },
@@ -47075,7 +47330,7 @@
     "variant_ids": [
       43601278697664
     ],
-    "available": true,
+    "available": false,
     "published_at": "2026-11-13T11:00:27+09:00",
     "created_at": "2023-04-17T10:19:38+09:00"
   },

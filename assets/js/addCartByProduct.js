@@ -22,10 +22,17 @@ if (!document.querySelector('script[src="https://r8023.github.io/chiikawa/assets
 
 async function start() {
 	const productData = [
-		{ id: "51540729332033", quantity: 1, name: "和装なハチワレ" },
-		{ id: "51839993217345", quantity: 1, name: "師傅" },
+		{ id: "4571609408710", quantity: 1, name: "護士兔兔" },
+		{ id: "4571609408758", quantity: 1, name: "護士師傅" },
+		{ id: "4571609408772", quantity: 1, name: "護士甲蟲" },
+		{ id: "4571609408819", quantity: 1, name: "醫生兔兔" },
+		{ id: "4571609408826", quantity: 1, name: "醫生師傅" },
+		{ id: "4571609416135", quantity: 4, name: "藥盒盲盒*4" },
 
-		/*{ id: "43117814907121", quantity: 1, name: "大耳狗吉伊" },
+
+		/*{ id: "51540729332033", quantity: 1, name: "和装なハチワレ" },
+		{ id: "51839993217345", quantity: 1, name: "師傅" },
+		{ id: "43117814907121", quantity: 1, name: "大耳狗吉伊" },
 		{ id: "43117814939889", quantity: 1, name: "帕恰狗小八" },
 		{ id: "43117814284529", quantity: 1, name: "布丁狗兔兔" },
 		{ id: "43117814481137", quantity: 1, name: "漢頓栗子" },

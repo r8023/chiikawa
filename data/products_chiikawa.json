@@ -17469,7 +17469,7 @@
     "variant_ids": [
       48741872271601
     ],
-    "available": true,
+    "available": false,
     "published_at": "2026-11-26T18:00:11+09:00",
     "created_at": "2026-09-14T17:00:38+09:00"
   },
@@ -19959,7 +19959,7 @@
       48218050756849,
       48218050789617
     ],
-    "available": true,
+    "available": false,
     "published_at": "2026-11-26T18:00:24+09:00",
     "created_at": "2026-05-26T10:48:28+09:00"
   },
@@ -30211,7 +30211,7 @@
     "variant_ids": [
       47882364125425
     ],
-    "available": true,
+    "available": false,
     "published_at": "2026-03-13T11:00:20+09:00",
     "created_at": "2026-03-09T17:20:13+09:00"
   },
@@ -39696,7 +39696,7 @@
     "variant_ids": [
       67475343311089
     ],
-    "available": true,
+    "available": false,
     "published_at": "2026-11-27T11:01:55+09:00",
     "created_at": "2026-11-09T15:40:32+09:00"
   },
@@ -39926,7 +39926,7 @@
     "variant_ids": [
       67475368050929
     ],
-    "available": true,
+    "available": false,
     "published_at": "2026-11-27T11:01:30+09:00",
     "created_at": "2026-11-09T15:42:19+09:00"
   },
@@ -41352,7 +41352,7 @@
     "variant_ids": [
       67475377094897
     ],
-    "available": true,
+    "available": false,
     "published_at": "2026-11-27T11:00:58+09:00",
     "created_at": "2026-11-09T15:43:58+09:00"
   },
@@ -42926,6 +42926,54 @@
     "available": false,
     "published_at": "2026-11-27T11:01:27+09:00",
     "created_at": "2026-11-09T15:42:25+09:00"
+  },
+  {
+    "id": 15335014826225,
+    "title": "ちいかわ ちいかわクリニック 血行促進リラクシングウェア おだいじにね。 ピンク",
+    "price": "8800",
+    "url": "https://chiikawamarket.jp/collections/all/products/4570189213653",
+    "image": {
+      "id": 51651018359025,
+      "created_at": "2026-11-25T10:52:56+09:00",
+      "position": 1,
+      "updated_at": "2026-11-25T10:52:57+09:00",
+      "product_id": 15335014826225,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0626/7142/1681/files/4570189213653_1.jpg?v=1795571577",
+      "width": 1200,
+      "height": 1200
+    },
+    "variant_ids": [
+      67615695569137,
+      67615695601905
+    ],
+    "available": false,
+    "published_at": "2026-11-27T18:29:10+09:00",
+    "created_at": "2026-11-24T15:19:05+09:00"
+  },
+  {
+    "id": 15335014891761,
+    "title": "ちいかわ ちいかわクリニック 血行促進リラクシングウェア もしかして・・・食べ過ぎ？ グレー",
+    "price": "8800",
+    "url": "https://chiikawamarket.jp/collections/all/products/4570189213677",
+    "image": {
+      "id": 51651019800817,
+      "created_at": "2026-11-25T10:53:38+09:00",
+      "position": 1,
+      "updated_at": "2026-11-25T10:53:39+09:00",
+      "product_id": 15335014891761,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0626/7142/1681/files/4570189213677_1.jpg?v=1795571619",
+      "width": 1200,
+      "height": 1200
+    },
+    "variant_ids": [
+      67615695634673,
+      67615695667441
+    ],
+    "available": false,
+    "published_at": "2026-11-27T18:29:11+09:00",
+    "created_at": "2026-11-24T15:19:07+09:00"
   },
   {
     "id": 15300891902193,
@@ -73115,7 +73163,7 @@
     "variant_ids": [
       67475376275697
     ],
-    "available": true,
+    "available": false,
     "published_at": "2026-11-27T11:01:08+09:00",
     "created_at": "2026-11-09T15:43:34+09:00"
   },
@@ -85647,7 +85695,7 @@
     "variant_ids": [
       45524203176177
     ],
-    "available": true,
+    "available": false,
     "published_at": "2025-07-31T18:00:14+09:00",
     "created_at": "2024-09-17T12:06:03+09:00"
   },
@@ -87257,7 +87305,7 @@
     "variant_ids": [
       46669857718513
     ],
-    "available": true,
+    "available": false,
     "published_at": "2026-11-26T18:00:40+09:00",
     "created_at": "2025-07-11T20:14:41+09:00"
   },
@@ -91107,7 +91155,7 @@
     "variant_ids": [
       67614866407665
     ],
-    "available": true,
+    "available": false,
     "published_at": "2026-11-27T11:00:07+09:00",
     "created_at": "2026-11-24T12:02:59+09:00"
   },
@@ -92051,7 +92099,7 @@
     "variant_ids": [
       67614865359089
     ],
-    "available": true,
+    "available": false,
     "published_at": "2026-11-27T11:00:11+09:00",
     "created_at": "2026-11-24T12:02:43+09:00"
   },
@@ -93041,7 +93089,7 @@
     "variant_ids": [
       67614860411121
     ],
-    "available": true,
+    "available": false,
     "published_at": "2026-11-27T11:00:25+09:00",
     "created_at": "2026-11-24T12:01:42+09:00"
   },
@@ -93459,7 +93507,7 @@
     "variant_ids": [
       67614860378353
     ],
-    "available": true,
+    "available": false,
     "published_at": "2026-11-27T11:00:27+09:00",
     "created_at": "2026-11-24T12:01:39+09:00"
   },
@@ -94036,7 +94084,7 @@
     "variant_ids": [
       67614860673265
     ],
-    "available": true,
+    "available": false,
     "published_at": "2026-11-27T11:00:24+09:00",
     "created_at": "2026-11-24T12:01:46+09:00"
   },
@@ -98769,7 +98817,7 @@
     "variant_ids": [
       46149760221425
     ],
-    "available": true,
+    "available": false,
     "published_at": "2025-10-30T18:00:39+09:00",
     "created_at": "2025-05-20T12:31:13+09:00"
   },
@@ -103821,7 +103869,7 @@
     "variant_ids": [
       44149302624497
     ],
-    "available": true,
+    "available": false,
     "published_at": "2025-04-10T18:00:17+09:00",
     "created_at": "2023-12-19T16:28:09+09:00"
   },
@@ -140398,7 +140446,7 @@
     "variant_ids": [
       46999696933105
     ],
-    "available": true,
+    "available": false,
     "published_at": "2026-11-12T18:00:46+09:00",
     "created_at": "2025-10-07T16:42:09+09:00"
   },
@@ -158143,7 +158191,7 @@
     "variant_ids": [
       48478797398257
     ],
-    "available": true,
+    "available": false,
     "published_at": "2026-11-12T18:00:10+09:00",
     "created_at": "2026-08-05T12:48:22+09:00"
   },
@@ -178510,7 +178558,7 @@
     "variant_ids": [
       48741872009457
     ],
-    "available": true,
+    "available": false,
     "published_at": "2026-11-26T18:00:12+09:00",
     "created_at": "2026-09-14T17:00:33+09:00"
   },
@@ -182857,7 +182905,7 @@
     "variant_ids": [
       67098586972401
     ],
-    "available": true,
+    "available": false,
     "published_at": "2026-11-19T18:00:05+09:00",
     "created_at": "2026-09-29T12:07:55+09:00"
   },
@@ -182880,7 +182928,7 @@
     "variant_ids": [
       67098587037937
     ],
-    "available": true,
+    "available": false,
     "published_at": "2026-11-19T18:00:05+09:00",
     "created_at": "2026-09-29T12:07:57+09:00"
   },
@@ -198870,7 +198918,7 @@
     "variant_ids": [
       67254681567473
     ],
-    "available": true,
+    "available": false,
     "published_at": "2026-11-26T18:00:02+09:00",
     "created_at": "2026-10-19T13:25:37+09:00"
   },
@@ -200342,7 +200390,7 @@
     "variant_ids": [
       46669857652977
     ],
-    "available": true,
+    "available": false,
     "published_at": "2025-09-18T18:00:13+09:00",
     "created_at": "2025-07-11T20:14:39+09:00"
   },
@@ -203681,7 +203729,7 @@
     "variant_ids": [
       45909852553457
     ],
-    "available": true,
+    "available": false,
     "published_at": "2026-09-17T18:01:25+09:00",
     "created_at": "2025-02-03T21:02:16+09:00"
   },
@@ -203934,7 +203982,7 @@
     "variant_ids": [
       44029629923569
     ],
-    "available": true,
+    "available": false,
     "published_at": "2026-11-26T18:00:57+09:00",
     "created_at": "2023-10-31T12:22:11+09:00"
   },

@@ -22701,7 +22701,7 @@
     "variant_ids": [
       48063907004657
     ],
-    "available": true,
+    "available": false,
     "published_at": "2026-04-24T11:01:09+09:00",
     "created_at": "2026-04-21T14:41:47+09:00"
   },
@@ -39440,32 +39440,6 @@
     "available": false,
     "published_at": "2026-11-27T11:01:04+09:00",
     "created_at": "2026-11-09T15:43:44+09:00"
-  },
-  {
-    "id": 15300896620785,
-    "title": "ちいかわ ちいかわクリニック Tシャツ ナースたち ホワイト",
-    "price": "4180",
-    "url": "https://chiikawamarket.jp/collections/all/products/4570189213295",
-    "image": {
-      "id": 51473852662001,
-      "created_at": "2026-11-11T10:50:46+09:00",
-      "position": 1,
-      "updated_at": "2026-11-11T10:50:48+09:00",
-      "product_id": 15300896620785,
-      "variant_ids": [],
-      "src": "https://cdn.shopify.com/s/files/1/0626/7142/1681/files/4570189213295_1.jpg?v=1794361848",
-      "width": 1200,
-      "height": 1200
-    },
-    "variant_ids": [
-      67475376341233,
-      67475376374001,
-      67475376406769,
-      67475376439537
-    ],
-    "available": true,
-    "published_at": "2026-11-27T11:01:04+09:00",
-    "created_at": "2026-11-09T15:43:37+09:00"
   },
   {
     "id": 15300896653553,
@@ -93599,7 +93573,7 @@
     "variant_ids": [
       67254680682737
     ],
-    "available": true,
+    "available": false,
     "published_at": "2026-10-23T10:00:52+09:00",
     "created_at": "2026-10-19T13:25:17+09:00"
   },
@@ -118554,7 +118528,7 @@
     "variant_ids": [
       48377625313521
     ],
-    "available": true,
+    "available": false,
     "published_at": "2026-07-10T11:02:06+09:00",
     "created_at": "2026-07-06T15:00:26+09:00"
   },
@@ -192981,7 +192955,7 @@
       67254679830769,
       67254679863537
     ],
-    "available": true,
+    "available": false,
     "published_at": "2026-11-26T18:00:08+09:00",
     "created_at": "2026-10-19T13:25:02+09:00"
   },
